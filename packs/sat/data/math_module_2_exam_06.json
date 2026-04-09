@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH6-M2-001",
+    "prompt": "For what value of k does the line y = −x + k intersect the parabola y = x² − 4x + 1 at exactly one point?",
+    "choices": {
+      "A": "−9/4",
+      "B": "−5/4",
+      "C": "5/4",
+      "D": "9/4"
+    },
+    "correct": "B",
+    "explanation": "Set the equations equal: x² − 4x + 1 = −x + k, so x² − 3x + (1 − k) = 0. For exactly one intersection, the discriminant must be 0: 9 − 4(1 − k) = 0. This gives 5 + 4k = 0, so k = −5/4."
+  },
+  {
+    "id": "MATH6-M2-002",
+    "prompt": "What is the larger solution to the equation 3/(x − 2) = x/(x + 1) ?",
+    "choices": {
+      "A": "(5 + √37)/2",
+      "B": "(5 − √37)/2",
+      "C": "(−5 + √37)/2",
+      "D": "(−5 − √37)/2"
+    },
+    "correct": "A",
+    "explanation": "Cross-multiply: 3(x + 1) = x(x − 2). Then x² − 5x − 3 = 0. Using the quadratic formula gives x = (5 ± √37)/2, so the larger solution is (5 + √37)/2."
+  },
+  {
+    "id": "MATH6-M2-003",
+    "prompt": "A function is modeled by f(x) = abˣ, where a and b are positive constants. If f(1) = 18 and f(3) = 162, what is the value of a ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "6",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Since f(x) = abˣ, divide f(3) by f(1): 162/18 = b² = 9, so b = 3. Then 18 = a(3), so a = 6."
+  },
+  {
+    "id": "MATH6-M2-004",
+    "prompt": "One solution of the equation 6x² − x − 2 = 0 is 2/3. What is the other solution?",
+    "choices": {
+      "A": "−2",
+      "B": "−1/2",
+      "C": "1/2",
+      "D": "2/3"
+    },
+    "correct": "B",
+    "explanation": "For 6x² − x − 2 = 0, the product of the roots is c/a = −2/6 = −1/3. If one root is 2/3, the other root is (−1/3) ÷ (2/3) = −1/2."
+  },
+  {
+    "id": "MATH6-M2-005",
+    "prompt": "A rectangle is inscribed in a circle of radius 10. One side of the rectangle has length 12. What is the area of the rectangle?",
+    "choices": {
+      "A": "160",
+      "B": "180",
+      "C": "192",
+      "D": "200"
+    },
+    "correct": "C",
+    "explanation": "The rectangle’s diagonal is the circle’s diameter, so the diagonal is 20. If one side is 12, the other side is √(20² − 12²) = √256 = 16. The area is 12 × 16 = 192."
+  },
+  {
+    "id": "MATH6-M2-006",
+    "prompt": "A data set of 9 values has a mean of 14. When one value is removed, the mean of the remaining 8 values is 13. What value was removed?",
+    "choices": {
+      "A": "13",
+      "B": "14",
+      "C": "18",
+      "D": "22"
+    },
+    "correct": "D",
+    "explanation": "The original total is 9 × 14 = 126. The new total is 8 × 13 = 104. The removed value is 126 − 104 = 22."
+  },
+  {
+    "id": "MATH6-M2-007",
+    "prompt": "What is the larger solution to the equation |2x − 1| + |x + 2| = 10 ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "10/3",
+      "D": "11/3"
+    },
+    "correct": "B",
+    "explanation": "Solve by cases. If x ≥ 1/2, then (2x − 1) + (x + 2) = 10, so 3x + 1 = 10 and x = 3. If x < −2, then −(2x − 1) − (x + 2) = 10, giving x = −11/3. The larger solution is 3."
+  },
+  {
+    "id": "MATH6-M2-008",
+    "prompt": "A sector of a circle has radius 12 and area 30π. What is the arc length of the sector?",
+    "choices": {
+      "A": "5π",
+      "B": "6π",
+      "C": "10π",
+      "D": "15π"
+    },
+    "correct": "A",
+    "explanation": "The area of a sector can be written as A = (1/2)rs, where r is the radius and s is the arc length. So 30π = (1/2)(12)s = 6s, giving s = 5π."
+  },
+  {
+    "id": "MATH6-M2-009",
+    "prompt": "If g(x) = (x − 3)/4 and f(g(x)) = x + 1, what is f(x) ?",
+    "choices": {
+      "A": "4x + 1",
+      "B": "4x + 4",
+      "C": "x + 4",
+      "D": "x/4 + 4"
+    },
+    "correct": "B",
+    "explanation": "Let u = g(x) = (x − 3)/4. Then x = 4u + 3, so x + 1 = 4u + 4. Since f(g(x)) = x + 1, it follows that f(u) = 4u + 4, so f(x) = 4x + 4."
+  },
+  {
+    "id": "MATH6-M2-010",
+    "prompt": "The table summarizes survey results.\n             Has a job   Does not have a job\nOwns a car 12 8\nDoes not own a car 5 15\nIf one person who owns a car is selected at random, what is the probability that the person has a job?",
+    "choices": {
+      "A": "3/5",
+      "B": "12/17",
+      "C": "17/20",
+      "D": "12/40"
+    },
+    "correct": "A",
+    "explanation": "Among the people who own a car, there are 12 + 8 = 20 people total. Of those, 12 have a job, so the probability is 12/20 = 3/5."
+  },
+  {
+    "id": "MATH6-M2-011",
+    "prompt": "If x + y = 12 and x² + y² = 74, what is the value of xy ?",
+    "choices": {
+      "A": "29",
+      "B": "32",
+      "C": "35",
+      "D": "37"
+    },
+    "correct": "C",
+    "explanation": "Use (x + y)² = x² + 2xy + y². Then 12² = 74 + 2xy, so 144 = 74 + 2xy. Thus 2xy = 70 and xy = 35."
+  },
+  {
+    "id": "MATH6-M2-012",
+    "prompt": "How many liters of 50% acid solution must be mixed with 30% acid solution to make 18 liters of 35% acid solution?",
+    "choices": {
+      "A": "4",
+      "B": "4.5",
+      "C": "6",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Let x be the liters of 50% solution. Then 18 − x liters are 30% solution. Solve 0.50x + 0.30(18 − x) = 0.35(18). This gives 0.20x = 0.90, so x = 4.5."
+  },
+  {
+    "id": "MATH6-M2-013",
+    "prompt": "If x − 1/x = 3, what is the value of x² + 1/x² ?",
+    "choices": {
+      "A": "7",
+      "B": "9",
+      "C": "11",
+      "D": "13"
+    },
+    "correct": "C",
+    "explanation": "Square both sides of x − 1/x = 3: x² − 2 + 1/x² = 9. Therefore x² + 1/x² = 11."
+  },
+  {
+    "id": "MATH6-M2-014",
+    "prompt": "For the polynomial p(x) = x³ + ax² − 4x + 1, it is known that p(2) = 9. What is the value of p(−1) ?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "Use p(2) = 9: 2³ + a(2²) − 4(2) + 1 = 9, so 8 + 4a − 8 + 1 = 9. Then 4a = 8 and a = 2. Now p(−1) = −1 + 2 + 4 + 1 = 6."
+  },
+  {
+    "id": "MATH6-M2-015",
+    "prompt": "In a right triangle, sec θ = 13/12, and the side adjacent to angle θ has length 24. What is the perimeter of the triangle?",
+    "choices": {
+      "A": "52",
+      "B": "56",
+      "C": "60",
+      "D": "62"
+    },
+    "correct": "C",
+    "explanation": "Since sec θ = 13/12, the ratio hypotenuse:adjacent is 13:12. If the adjacent side is 24, the scale factor is 2, so the hypotenuse is 26. The opposite side is √(26² − 24²) = 10. The perimeter is 24 + 10 + 26 = 60."
+  },
+  {
+    "id": "MATH6-M2-016",
+    "prompt": "If x − 3 and x + 2 are factors of the monic polynomial p(x) = x³ + ax² + bx − 12, what is the value of p(1) ?",
+    "choices": {
+      "A": "−18",
+      "B": "−12",
+      "C": "0",
+      "D": "18"
+    },
+    "correct": "A",
+    "explanation": "The polynomial is monic and has factors x − 3 and x + 2, so its roots include 3 and −2. Since the constant term is −12, the product of the three roots is 12. Thus 3(−2)r = 12, so r = −2. Therefore p(1) = (1 − 3)(1 + 2)(1 + 2) = (−2)(3)(3) = −18."
+  },
+  {
+    "id": "MATH6-M2-017",
+    "prompt": "In a survey, 60% of the people originally surveyed preferred tea. Then 25 more people who preferred coffee were added to the survey, and 48% of the people surveyed preferred tea. How many people were in the original survey?",
+    "choices": {
+      "A": "75",
+      "B": "100",
+      "C": "125",
+      "D": "150"
+    },
+    "correct": "B",
+    "explanation": "Let n be the original number of people. Then 0.60n preferred tea. After 25 coffee-preferring people are added, tea still has 0.60n people and this is 48% of the new total: 0.60n = 0.48(n + 25). Solving gives n = 100."
+  },
+  {
+    "id": "MATH6-M2-018",
+    "prompt": "What is the value of x in the equation √(x + 4) + √x = 6 ?",
+    "choices": {
+      "A": "16/9",
+      "B": "25/4",
+      "C": "64/9",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Write √(x + 4) = 6 − √x and square both sides: x + 4 = 36 − 12√x + x. Then 12√x = 32, so √x = 8/3 and x = 64/9."
+  },
+  {
+    "id": "MATH6-M2-019",
+    "prompt": "The endpoints of a diameter of a circle are (−4, 1) and (6, 5). What is the area of the circle?",
+    "choices": {
+      "A": "29π",
+      "B": "58π",
+      "C": "116π",
+      "D": "√29π"
+    },
+    "correct": "A",
+    "explanation": "The diameter length is √[(6 − (−4))² + (5 − 1)²] = √(10² + 4²) = √116 = 2√29. So the radius is √29, and the area is π(√29)² = 29π."
+  },
+  {
+    "id": "MATH6-M2-020",
+    "prompt": "What is the value of x in the equation 5^(x + 1) = 125^(2x − 1) ?",
+    "choices": {
+      "A": "2/5",
+      "B": "3/5",
+      "C": "4/5",
+      "D": "1"
+    },
+    "correct": "C",
+    "explanation": "Rewrite 125 as 5³. Then 5^(x + 1) = 5^(6x − 3), so x + 1 = 6x − 3. This gives 5x = 4 and x = 4/5."
+  },
+  {
+    "id": "MATH6-M2-021",
+    "prompt": "Two similar cones have heights in the ratio 2:5. If the volume of the smaller cone is 24, what is the volume of the larger cone?",
+    "choices": {
+      "A": "150",
+      "B": "300",
+      "C": "375",
+      "D": "625"
+    },
+    "correct": "C",
+    "explanation": "Similar solids scale volume by the cube of the linear scale factor. The height ratio is 2:5, so the volume ratio is 8:125. Therefore the larger volume is 24 × (125/8) = 375."
+  },
+  {
+    "id": "MATH6-M2-022",
+    "prompt": "For x ≠ 3 and x ≠ −4, which expression is equivalent to (x² − 9)/(x² + x − 12) ?",
+    "choices": {
+      "A": "(x − 3)/(x − 4)",
+      "B": "(x + 3)/(x + 4)",
+      "C": "(x − 3)/(x + 4)",
+      "D": "(x + 3)/(x − 4)"
+    },
+    "correct": "B",
+    "explanation": "Factor both numerator and denominator: x² − 9 = (x − 3)(x + 3) and x² + x − 12 = (x + 4)(x − 3). Cancel x − 3 to get (x + 3)/(x + 4)."
+  }
+]

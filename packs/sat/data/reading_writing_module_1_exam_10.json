@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW10-M1-001",
+    "prompt": "In a review of a memoir, a critic says that the author’s style is “plainspoken,” avoiding elaborate metaphors even in emotionally difficult scenes.\nAs used in the text, what does “plainspoken” most nearly mean?",
+    "choices": {
+      "A": "highly emotional",
+      "B": "direct",
+      "C": "scholarly",
+      "D": "tentative"
+    },
+    "correct": "B",
+    "explanation": "“Plainspoken” means straightforward and direct, not elaborate or highly emotional."
+  },
+  {
+    "id": "RW10-M1-002",
+    "prompt": "Some cities now place solar canopies over large parking lots. In addition to generating electricity, the canopies can shade parked cars and reduce heat absorbed by the paved surface below. For that reason, planners sometimes view solar canopies as a way to combine energy production with improvements to public space.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Solar canopies can provide both electricity and practical benefits for paved urban areas.",
+      "B": "Parking lots are the best possible location for all solar panels.",
+      "C": "Shaded parking lots eliminate the need for air-conditioning in nearby buildings.",
+      "D": "Electricity generation is less important than public-space design."
+    },
+    "correct": "A",
+    "explanation": "The passage says they generate electricity while also shading cars and reducing heat absorbed by pavement."
+  },
+  {
+    "id": "RW10-M1-003",
+    "prompt": "Before inexpensive rolled aluminum became widely available, cookware makers often relied on heavier copper or cast iron despite the higher material cost or weight. As aluminum processing improved, lighter pots and pans became cheaper to manufacture and easier for ordinary households to buy.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Changes in manufacturing helped make lightweight cookware more affordable.",
+      "B": "Copper cookware was always cheaper than aluminum cookware.",
+      "C": "Ordinary households preferred cast iron because it was lighter.",
+      "D": "Aluminum processing became less efficient over time."
+    },
+    "correct": "A",
+    "explanation": "Improved aluminum processing made lighter cookware cheaper to produce and easier for households to buy."
+  },
+  {
+    "id": "RW10-M1-004",
+    "prompt": "A historian notes that tax rolls from several villages are written in the same distinctive hand. The historian suggests that one regional office likely copied the records for multiple communities.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It presents evidence that the second sentence interprets.",
+      "B": "It offers a counterexample to the claim in the second sentence.",
+      "C": "It explains why village tax rolls were rarely preserved.",
+      "D": "It shows that each village used a different office."
+    },
+    "correct": "A",
+    "explanation": "The shared handwriting is the evidence used to suggest a regional office copied the records."
+  },
+  {
+    "id": "RW10-M1-005",
+    "prompt": "A student is writing about school rain barrels and has taken these notes:\n• Some schools place rain barrels beneath gutter downspouts.\n• The collected water can be used in school gardens.\n• Storing runoff may reduce strain on storm drains during heavy rain.\n• Students can monitor water levels and learn about local water use.\nThe student wants to emphasize both a practical benefit and an educational benefit of school rain barrels. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Some schools place rain barrels beneath gutter downspouts.",
+      "B": "Rain barrels can store water from school roofs.",
+      "C": "School rain barrels can help manage runoff while also giving students a way to learn about water use by monitoring the collected water.",
+      "D": "Students often enjoy working in school gardens."
+    },
+    "correct": "C",
+    "explanation": "This choice includes both the practical stormwater benefit and the educational use described in the notes."
+  },
+  {
+    "id": "RW10-M1-006",
+    "prompt": "The research team replaced its handwritten logbooks with a shared digital form. ______, mistakes caused by incomplete entries became much less common.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Similarly,",
+      "B": "Consequently,",
+      "C": "For example,",
+      "D": "Instead,"
+    },
+    "correct": "B",
+    "explanation": "The drop in mistakes is the result of switching from handwritten logbooks to a shared digital form."
+  },
+  {
+    "id": "RW10-M1-007",
+    "prompt": "The festival’s oldest event<u>, a dawn boat parade,</u> draws thousands to the waterfront each year.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ": a dawn boat parade,",
+      "C": "; a dawn boat parade;",
+      "D": "—a dawn boat parade:"
+    },
+    "correct": "A",
+    "explanation": "The phrase “a dawn boat parade” is a nonessential appositive and is correctly set off with commas."
+  },
+  {
+    "id": "RW10-M1-008",
+    "prompt": "The survey reached more than four hundred households, <u>it excluded renters in temporary housing.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "it excluded renters in temporary housing.",
+      "B": "but it excluded renters in temporary housing.",
+      "C": "excluding renters in temporary housing.",
+      "D": "and, it excluded renters in temporary housing."
+    },
+    "correct": "B",
+    "explanation": "“But” correctly joins the two independent clauses and shows contrast."
+  },
+  {
+    "id": "RW10-M1-009",
+    "prompt": "The committee sent copies of the agreement to Nora and <u>he</u> before the meeting.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "he",
+      "B": "him",
+      "C": "his",
+      "D": "himself"
+    },
+    "correct": "B",
+    "explanation": "The pronoun is part of the compound object of “sent copies to,” so the objective form is needed."
+  },
+  {
+    "id": "RW10-M1-010",
+    "prompt": "Since 2019, the neighborhood shuttle <u>serves</u> three retirement communities and the public library.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "serves",
+      "B": "served",
+      "C": "has served",
+      "D": "will serve"
+    },
+    "correct": "C",
+    "explanation": "“Since 2019” requires the present perfect to show an action continuing from the past to the present."
+  },
+  {
+    "id": "RW10-M1-011",
+    "prompt": "After reading three draft endings, <u>the shortest version seemed strongest to Maria.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the shortest version seemed strongest to Maria.",
+      "B": "Maria thought the shortest version was the strongest.",
+      "C": "the three draft endings were judged shortest by Maria.",
+      "D": "the strongest version seemed shortest to Maria."
+    },
+    "correct": "B",
+    "explanation": "The revision correctly places Maria as the person who read the draft endings."
+  },
+  {
+    "id": "RW10-M1-012",
+    "prompt": "[1] Some schools maintain clothing closets where students can borrow formalwear for concerts, interviews, or ceremonies. [2] These closets can help families avoid one-time purchases. [3] They may also ensure that more students can participate comfortably in school events. [4] As a result, clothing closets often serve both practical and social purposes.\nWhich choice best describes the most logical placement for the following sentence?\n“A shared collection can therefore support inclusion while reducing expense.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence summarizes the benefits named in sentences 2 and 3 before the concluding statement in sentence 4."
+  },
+  {
+    "id": "RW10-M1-013",
+    "prompt": "A teacher recorded the average number of minutes four groups spent preparing a lab setup.\nGroup A: 11\nGroup B: 14\nGroup C: 9\nGroup D: 13\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Group C spent more time preparing the setup, on average, than Group A.",
+      "B": "Group B spent the most time preparing the setup, on average.",
+      "C": "Group D and Group A spent the same average amount of time preparing the setup.",
+      "D": "The average preparation time increased steadily from Group A through Group D."
+    },
+    "correct": "B",
+    "explanation": "Group B’s average of 14 minutes is the highest of the four groups."
+  },
+  {
+    "id": "RW10-M1-014",
+    "prompt": "The reviewer praised the report for being especially <u>coherent</u>, noting that each section followed logically from the one before it.\nAs used in the text, what does “coherent” most nearly mean?",
+    "choices": {
+      "A": "original",
+      "B": "logical",
+      "C": "technical",
+      "D": "brief"
+    },
+    "correct": "B",
+    "explanation": "“Coherent” means logically connected and easy to follow."
+  },
+  {
+    "id": "RW10-M1-015",
+    "prompt": "In a memoir, a writer recalls neighbors repainting the gate of a closed footbridge every spring: “No one expected the town to reopen it soon, but each new coat of paint made the rust look temporary, as if waiting itself could be repaired.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The neighbors resent having to maintain the bridge.",
+      "B": "The repeated repainting expresses a form of shared hope.",
+      "C": "The town plans to replace the footbridge with a road.",
+      "D": "The writer thinks painting is a poor use of time."
+    },
+    "correct": "B",
+    "explanation": "The neighbors’ continued maintenance suggests hope that the bridge may someday matter again."
+  },
+  {
+    "id": "RW10-M1-016",
+    "prompt": "In a study, seedlings exposed each day to a light breeze from a small fan developed thicker stems than identical seedlings grown in still air. The researchers suggest that mild movement may trigger sturdier growth.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Mild movement may help seedlings develop thicker stems.",
+      "B": "Still air always prevents seedlings from growing.",
+      "C": "The study proved that fans are necessary for all plants.",
+      "D": "Thicker stems always lead to faster flowering."
+    },
+    "correct": "A",
+    "explanation": "The study found thicker stems in seedlings exposed to a light breeze."
+  },
+  {
+    "id": "RW10-M1-017",
+    "prompt": "Transport historian Irene Moss writes, “Once ferries began allowing bicycles on board, clerks and machinists could live beyond walking distance from the shipyards without depending entirely on train schedules.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To show one historian’s view of how ferry policies expanded commuting options",
+      "B": "To prove that ferries replaced trains for all workers",
+      "C": "To explain why shipyards were built far from towns",
+      "D": "To describe how bicycles were manufactured"
+    },
+    "correct": "A",
+    "explanation": "The quotation explains how allowing bicycles on ferries broadened where workers could live."
+  },
+  {
+    "id": "RW10-M1-018",
+    "prompt": "A student is writing about public chess tables and has taken these notes:\n• Some cities install chess tables in parks or plazas.\n• The tables allow people to play without reservations or staff supervision.\n• Players of different ages often gather around matches.\n• These spaces can encourage repeated social interaction in public areas.\nWhich choice most effectively uses relevant information from the notes to make a general claim about public chess tables?",
+    "choices": {
+      "A": "Public chess tables can support accessible recreation while encouraging repeated social interaction in shared spaces.",
+      "B": "Chess tables are useful only for tournaments.",
+      "C": "Parks and plazas are usually empty during the day.",
+      "D": "Staff supervision is necessary for all public recreation."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the notes about easy access to play and regular social gathering."
+  },
+  {
+    "id": "RW10-M1-019",
+    "prompt": "The introduction explains how silk was woven by hand in small workshops. ______, the final section describes how mechanized looms transformed production in the next century.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Finally,",
+      "B": "Similarly,",
+      "C": "Otherwise,",
+      "D": "For example,"
+    },
+    "correct": "A",
+    "explanation": "The sentence refers to the final section of the article, so a sequence transition is most appropriate."
+  },
+  {
+    "id": "RW10-M1-020",
+    "prompt": "The job required Sam to answer customer emails, update shipment logs, and <u>preparing invoices for the finance office.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "preparing invoices for the finance office.",
+      "B": "prepare invoices for the finance office.",
+      "C": "prepared invoices for the finance office.",
+      "D": "to preparing invoices for the finance office."
+    },
+    "correct": "B",
+    "explanation": "“Prepare” matches the parallel verbs “answer” and “update.”"
+  },
+  {
+    "id": "RW10-M1-021",
+    "prompt": "The teachers’ lounge was moved closer to the science wing last summer.\nWhich choice best explains the use of the apostrophe in the underlined word?",
+    "choices": {
+      "A": "It shows that the lounge belongs to or is used by more than one teacher.",
+      "B": "It shows that the science wing belongs to the lounge.",
+      "C": "It marks the plural form of a noncount noun.",
+      "D": "It is used incorrectly because no possession is shown."
+    },
+    "correct": "A",
+    "explanation": "The apostrophe after the plural noun “teachers” marks plural possession or association."
+  },
+  {
+    "id": "RW10-M1-022",
+    "prompt": "A basket of shells and sea glass <u>were</u> displayed near the entrance.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "were",
+      "B": "was",
+      "C": "be",
+      "D": "being"
+    },
+    "correct": "B",
+    "explanation": "The subject is “A basket,” which is singular, so the singular verb is needed."
+  },
+  {
+    "id": "RW10-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“Unlike the revised website, customers said the original ordering system was confusing.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because it contains too many commas.",
+      "B": "The sentence should be revised because it illogically compares the revised website with customers.",
+      "C": "The sentence should be revised because it should use the future tense.",
+      "D": "The sentence should be revised because “said” should be replaced with “wrote.”"
+    },
+    "correct": "B",
+    "explanation": "The phrase after “Unlike” should be parallel to “the original ordering system,” not to “customers.”"
+  },
+  {
+    "id": "RW10-M1-024",
+    "prompt": "[1] Some cities plant vines on trellises attached to blank exterior walls. [2] The vegetation can shade brick or concrete surfaces during hot months. [3] It can also soften the appearance of long walls along busy streets. [4] Property owners sometimes partner with neighborhood groups to maintain the plantings.\nWhich choice best describes the most logical placement for the following sentence?\n“These projects can therefore provide both environmental and visual benefits.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence summarizes the environmental and visual benefits described in sentences 2 and 3."
+  },
+  {
+    "id": "RW10-M1-025",
+    "prompt": "To make the sentence more concise, the editor replaced “subsequent to” with <u>after</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It changes the meaning by adding uncertainty.",
+      "B": "It shortens the sentence without changing its meaning.",
+      "C": "It makes the sentence less grammatical.",
+      "D": "It introduces a more formal tone."
+    },
+    "correct": "B",
+    "explanation": "“After” is a more concise equivalent of “subsequent to.”"
+  },
+  {
+    "id": "RW10-M1-026",
+    "prompt": "In an experiment, warehouse workers sorting parcels made fewer errors when shelf labels used both icons and words than when the same labels used words alone.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Icons alone are better than words alone for all sorting tasks.",
+      "B": "Workers sorted parcels more quickly than they read the labels.",
+      "C": "Combining icons with words may help reduce sorting errors.",
+      "D": "The workers in the experiment had never seen shelf labels before."
+    },
+    "correct": "C",
+    "explanation": "Workers made fewer sorting mistakes when labels included both icons and words."
+  },
+  {
+    "id": "RW10-M1-027",
+    "prompt": "An article about reusable stage sets explains that scenery from one production can sometimes be repainted, resized, or reassembled for another. The article then notes that several regional theaters now share warehouse space to store pieces that can be adapted later.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It shows how collaboration can help support the reuse of stage materials.",
+      "B": "It argues that theaters should stop building new scenery entirely.",
+      "C": "It shifts the discussion away from theater production to real estate.",
+      "D": "It denies that stage sets can be reused effectively."
+    },
+    "correct": "A",
+    "explanation": "The final sentence explains that theaters share storage to keep reusable set pieces available.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH2-M2-001",
+    "prompt": "What is the solution to the equation √(x + 12) = x ?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "Square both sides: x + 12 = x². Rearranging gives x² − x − 12 = 0, or (x − 4)(x + 3) = 0. Check the solutions in the original equation; only x = 4 works."
+  },
+  {
+    "id": "MATH2-M2-002",
+    "prompt": "Which equation has roots 1/2 and 6 ?",
+    "choices": {
+      "A": "2x² − 13x + 6 = 0",
+      "B": "2x² + 13x − 6 = 0",
+      "C": "x² − 13x + 6 = 0",
+      "D": "x² − 6x + 1 = 0"
+    },
+    "correct": "A",
+    "explanation": "A quadratic with roots 1/2 and 6 can be written as (2x − 1)(x − 6) = 0. Expanding gives 2x² − 13x + 6 = 0."
+  },
+  {
+    "id": "MATH2-M2-003",
+    "prompt": "How many solutions does the system below have?\ny = x² − 4\ny = 2x",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "4"
+    },
+    "correct": "C",
+    "explanation": "Set the equations equal: x² − 4 = 2x. Then x² − 2x − 4 = 0, which has discriminant (−2)² − 4(1)(−4) = 20, a positive number, so there are 2 real solutions."
+  },
+  {
+    "id": "MATH2-M2-004",
+    "prompt": "A bacteria culture doubles every 4 hours. If the culture contains 160 bacteria after 8 hours, how many bacteria were present at the start?",
+    "choices": {
+      "A": "20",
+      "B": "40",
+      "C": "80",
+      "D": "640"
+    },
+    "correct": "B",
+    "explanation": "Doubling every 4 hours means after 8 hours the number has doubled twice, so it has been multiplied by 4. The starting number is 160 ÷ 4 = 40."
+  },
+  {
+    "id": "MATH2-M2-005",
+    "prompt": "For the polynomial p(x) = x² + ax + 5, the remainder when p(x) is divided by x − 2 is 13. What is the value of a ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": "By the Remainder Theorem, p(2) = 13. So 2² + 2a + 5 = 13, which gives 4 + 2a + 5 = 13, so 2a = 4 and a = 2."
+  },
+  {
+    "id": "MATH2-M2-006",
+    "prompt": "For what value of k does the equation x² − 8x + k = 0 have exactly one real solution?",
+    "choices": {
+      "A": "8",
+      "B": "16",
+      "C": "32",
+      "D": "64"
+    },
+    "correct": "B",
+    "explanation": "A quadratic has exactly one real solution when the discriminant is 0. For x² − 8x + k = 0, the discriminant is 64 − 4k. Set it equal to 0: 64 − 4k = 0, so k = 16."
+  },
+  {
+    "id": "MATH2-M2-007",
+    "prompt": "A team of 8 players had a mean score of 14 points each. After 2 more players joined, the mean score of all 10 players was 15 points each. What was the mean score of the 2 new players?",
+    "choices": {
+      "A": "15",
+      "B": "17",
+      "C": "19",
+      "D": "21"
+    },
+    "correct": "C",
+    "explanation": "The original total score is 8 × 14 = 112. The new total is 10 × 15 = 150. So the 2 new players scored 150 − 112 = 38 total, and their mean is 38/2 = 19."
+  },
+  {
+    "id": "MATH2-M2-008",
+    "prompt": "A circle has radius 12. What is the length of an arc subtended by a central angle of 60° ?",
+    "choices": {
+      "A": "2π",
+      "B": "4π",
+      "C": "6π",
+      "D": "12π"
+    },
+    "correct": "B",
+    "explanation": "Arc length is (60/360) × 2π(12) = (1/6) × 24π = 4π."
+  },
+  {
+    "id": "MATH2-M2-009",
+    "prompt": "A building casts a shadow 24 feet long. If the building is 18 feet tall, what is the tangent of the angle of elevation from the tip of the shadow to the top of the building?",
+    "choices": {
+      "A": "3/4",
+      "B": "4/3",
+      "C": "18/42",
+      "D": "24/18"
+    },
+    "correct": "A",
+    "explanation": "Tangent is opposite/adjacent. The opposite side is the building height, 18, and the adjacent side is the shadow length, 24, so tan θ = 18/24 = 3/4."
+  },
+  {
+    "id": "MATH2-M2-010",
+    "prompt": "Which expression is equivalent to x² − 8x + 5 ?",
+    "choices": {
+      "A": "(x − 4)² − 11",
+      "B": "(x + 4)² − 11",
+      "C": "(x − 8)² + 5",
+      "D": "(x + 4)² + 21"
+    },
+    "correct": "A",
+    "explanation": "Complete the square: x² − 8x + 5 = (x² − 8x + 16) − 16 + 5 = (x − 4)² − 11."
+  },
+  {
+    "id": "MATH2-M2-011",
+    "prompt": "A linear model predicts y = 2.5x + 3 for a data set. One point in the data set is (5, 16). What is the residual for this point?",
+    "choices": {
+      "A": "−0.5",
+      "B": "0",
+      "C": "0.5",
+      "D": "1.0"
+    },
+    "correct": "C",
+    "explanation": "The predicted value when x = 5 is 2.5(5) + 3 = 15.5. Residual = actual − predicted = 16 − 15.5 = 0.5."
+  },
+  {
+    "id": "MATH2-M2-012",
+    "prompt": "A bag contains 3 red chips and 5 blue chips. Two chips are chosen at random without replacement. What is the probability that exactly one of the two chips is red?",
+    "choices": {
+      "A": "3/8",
+      "B": "5/14",
+      "C": "15/28",
+      "D": "5/8"
+    },
+    "correct": "C",
+    "explanation": "Exactly one red can happen as red then blue or blue then red: (3/8)(5/7) + (5/8)(3/7) = 15/56 + 15/56 = 30/56 = 15/28."
+  },
+  {
+    "id": "MATH2-M2-013",
+    "prompt": "What is the value of x in the equation 9ˣ⁺¹ = 27ˣ ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": "Rewrite with base 3: 9ˣ⁺¹ = (3²)ˣ⁺¹ = 3²ˣ⁺² and 27ˣ = (3³)ˣ = 3³ˣ. So 2x + 2 = 3x, which gives x = 2."
+  },
+  {
+    "id": "MATH2-M2-014",
+    "prompt": "If f(x) = 2x − 3 and g(x) = x² + 1, what is the value of g(f(4)) ?",
+    "choices": {
+      "A": "17",
+      "B": "23",
+      "C": "26",
+      "D": "49"
+    },
+    "correct": "C",
+    "explanation": "First find f(4) = 2(4) − 3 = 5. Then g(5) = 5² + 1 = 26."
+  },
+  {
+    "id": "MATH2-M2-015",
+    "prompt": "If x + y = 7 and xy = 10, what is the value of x² + y² ?",
+    "choices": {
+      "A": "19",
+      "B": "29",
+      "C": "39",
+      "D": "49"
+    },
+    "correct": "B",
+    "explanation": "Use the identity x² + y² = (x + y)² − 2xy. So x² + y² = 7² − 2(10) = 49 − 20 = 29."
+  },
+  {
+    "id": "MATH2-M2-016",
+    "prompt": "Two similar triangles have a side-length ratio of 3:5. If the area of the smaller triangle is 27, what is the area of the larger triangle?",
+    "choices": {
+      "A": "45",
+      "B": "60",
+      "C": "75",
+      "D": "90"
+    },
+    "correct": "C",
+    "explanation": "If the side-length ratio is 3:5, then the area ratio is 9:25. So the larger area is 27 × (25/9) = 75."
+  },
+  {
+    "id": "MATH2-M2-017",
+    "prompt": "If every value in a data set is multiplied by 4, which statement must be true?",
+    "choices": {
+      "A": "The mean stays the same, and the standard deviation stays the same.",
+      "B": "The mean is multiplied by 4, and the standard deviation stays the same.",
+      "C": "The mean stays the same, and the standard deviation is multiplied by 4.",
+      "D": "The mean is multiplied by 4, and the standard deviation is multiplied by 4."
+    },
+    "correct": "D",
+    "explanation": "Multiplying every data value by a constant multiplies both the center and the spread by that constant."
+  },
+  {
+    "id": "MATH2-M2-018",
+    "prompt": "Which equation represents the line that is perpendicular to 2x + y = 7 and passes through the point (3, 1) ?",
+    "choices": {
+      "A": "y = (1/2)x − 1/2",
+      "B": "y = −(1/2)x + 5/2",
+      "C": "y = 2x − 5",
+      "D": "y = (1/2)x + 1"
+    },
+    "correct": "A",
+    "explanation": "Rewrite 2x + y = 7 as y = −2x + 7, so the perpendicular slope is 1/2. Using point-slope form through (3, 1): y − 1 = (1/2)(x − 3), which simplifies to y = (1/2)x − 1/2."
+  },
+  {
+    "id": "MATH2-M2-019",
+    "prompt": "What is the value of x in the equation 1/x + 1/3 = 1/2 ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "6",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Subtract 1/3 from both sides: 1/x = 1/2 − 1/3 = 1/6. Therefore x = 6."
+  },
+  {
+    "id": "MATH2-M2-020",
+    "prompt": "If x⁴ − 13x² + 36 = 0, what is the sum of the positive real solutions for x ?",
+    "choices": {
+      "A": "3",
+      "B": "5",
+      "C": "6",
+      "D": "13"
+    },
+    "correct": "B",
+    "explanation": "Let u = x². Then the equation becomes u² − 13u + 36 = 0, which factors as (u − 4)(u − 9) = 0. So x² = 4 or x² = 9, giving positive solutions x = 2 and x = 3. Their sum is 5."
+  },
+  {
+    "id": "MATH2-M2-021",
+    "prompt": "If f(x) = (x − 2)/5, what is the value of f⁻¹(7) ?",
+    "choices": {
+      "A": "27",
+      "B": "33",
+      "C": "35",
+      "D": "37"
+    },
+    "correct": "D",
+    "explanation": "To find f⁻¹(7), solve (x − 2)/5 = 7. Then x − 2 = 35, so x = 37."
+  },
+  {
+    "id": "MATH2-M2-022",
+    "prompt": "A rectangle has perimeter 30 and area 56. What is the length of its diagonal?",
+    "choices": {
+      "A": "√105",
+      "B": "√113",
+      "C": "13",
+      "D": "15"
+    },
+    "correct": "B",
+    "explanation": "If the perimeter is 30, then l + w = 15. If the area is 56, the side lengths are 7 and 8. The diagonal is √(7² + 8²) = √113."
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH7-M2-001",
+    "prompt": "The roots of the equation x² − 8x + 12 = 0 are r and s. What is the value of 1/r + 1/s ?",
+    "choices": {
+      "A": "1/3",
+      "B": "1/2",
+      "C": "2/3",
+      "D": "3/4"
+    },
+    "correct": "C",
+    "explanation": "Since r and s are roots, 1/r + 1/s = (r + s)/rs. For x² − 8x + 12 = 0, r + s = 8 and rs = 12, so the value is 8/12 = 2/3."
+  },
+  {
+    "id": "MATH7-M2-002",
+    "prompt": "What is the larger solution to the equation 1/(x − 1) + 2/(x + 3) = 1 ?",
+    "choices": {
+      "A": "(1 − √17)/2",
+      "B": "(1 + √17)/2",
+      "C": "(3 + √17)/2",
+      "D": "(4 + √17)/2"
+    },
+    "correct": "B",
+    "explanation": "Multiply both sides by (x − 1)(x + 3): (x + 3) + 2(x − 1) = (x − 1)(x + 3). This simplifies to x² − x − 4 = 0, so x = (1 ± √17)/2. The larger solution is (1 + √17)/2."
+  },
+  {
+    "id": "MATH7-M2-003",
+    "prompt": "A function is modeled by f(x) = abˣ, where a and b are positive constants. If f(0) = 12 and f(4) = 192, what is the value of b ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "correct": "A",
+    "explanation": "Since f(0) = a, we have a = 12. Then 192 = 12b⁴, so b⁴ = 16 and b = 2 because b is positive."
+  },
+  {
+    "id": "MATH7-M2-004",
+    "prompt": "The monic cubic polynomial p(x) = x³ + ax² + bx − 6 has factors x − 1 and x − 2. What is the value of p(3) ?",
+    "choices": {
+      "A": "−6",
+      "B": "0",
+      "C": "6",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "A monic cubic with factors x − 1 and x − 2 and constant term −6 must also have factor x − 3, since 1·2·3 = 6. Therefore p(3) = 0."
+  },
+  {
+    "id": "MATH7-M2-005",
+    "prompt": "A rectangular prism has length 3, width 4, and space diagonal 13. What is the volume of the prism?",
+    "choices": {
+      "A": "96",
+      "B": "120",
+      "C": "144",
+      "D": "156"
+    },
+    "correct": "C",
+    "explanation": "Let the height be h. Then 3² + 4² + h² = 13², so 9 + 16 + h² = 169. Thus h² = 144 and h = 12. The volume is 3·4·12 = 144."
+  },
+  {
+    "id": "MATH7-M2-006",
+    "prompt": "A data set of 7 values has a mean of 18. When one new value is added, the mean of the 8 values becomes 19. What is the new value?",
+    "choices": {
+      "A": "24",
+      "B": "25",
+      "C": "26",
+      "D": "27"
+    },
+    "correct": "C",
+    "explanation": "The original total is 7(18) = 126. The new total is 8(19) = 152. The new value is 152 − 126 = 26."
+  },
+  {
+    "id": "MATH7-M2-007",
+    "prompt": "The equation |x − 4| = (x/2) + 1 has two solutions. What is the sum of the solutions?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "C",
+    "explanation": "If x ≥ 4, then x − 4 = x/2 + 1, so x = 10. If x < 4, then 4 − x = x/2 + 1, so x = 2. Their sum is 12."
+  },
+  {
+    "id": "MATH7-M2-008",
+    "prompt": "A sector of a circle has radius 15 and arc length 10π. What is the area of the sector?",
+    "choices": {
+      "A": "45π",
+      "B": "60π",
+      "C": "75π",
+      "D": "150π"
+    },
+    "correct": "C",
+    "explanation": "The area of a sector can be found with A = (1/2)rs, where r is the radius and s is the arc length. So A = (1/2)(15)(10π) = 75π."
+  },
+  {
+    "id": "MATH7-M2-009",
+    "prompt": "If g(x) = 5x − 1 and g(f(x)) = 15x + 9, what is f(x) ?",
+    "choices": {
+      "A": "3x + 1",
+      "B": "3x + 2",
+      "C": "5x + 2",
+      "D": "15x + 10"
+    },
+    "correct": "B",
+    "explanation": "Since g(f(x)) = 5f(x) − 1 = 15x + 9, add 1 to get 5f(x) = 15x + 10. Then divide by 5 to get f(x) = 3x + 2."
+  },
+  {
+    "id": "MATH7-M2-010",
+    "prompt": "The table summarizes survey results.\n             Prefers cats   Prefers dogs\nGrade 9 14 10\nGrade 10 6 20\nIf one student who prefers cats is selected at random, what is the probability that the student is in Grade 10?",
+    "choices": {
+      "A": "3/10",
+      "B": "3/5",
+      "C": "7/10",
+      "D": "10/21"
+    },
+    "correct": "A",
+    "explanation": "Among students who prefer cats, there are 14 + 6 = 20 total. Of those, 6 are in Grade 10, so the probability is 6/20 = 3/10."
+  },
+  {
+    "id": "MATH7-M2-011",
+    "prompt": "If x + y = 10 and xy = 21, what is the value of x² + y² ?",
+    "choices": {
+      "A": "42",
+      "B": "50",
+      "C": "58",
+      "D": "79"
+    },
+    "correct": "C",
+    "explanation": "Use x² + y² = (x + y)² − 2xy. Then x² + y² = 10² − 2(21) = 100 − 42 = 58."
+  },
+  {
+    "id": "MATH7-M2-012",
+    "prompt": "How many liters of 40% acid solution must be mixed with 10% acid solution to make 12 liters of 25% acid solution?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "Let x be the liters of 40% solution. Then 12 − x liters are 10% solution. Solve 0.40x + 0.10(12 − x) = 0.25(12). This gives 0.30x = 1.8, so x = 6."
+  },
+  {
+    "id": "MATH7-M2-013",
+    "prompt": "If a and b are the roots of x² − 5x + 1 = 0, what is the value of a² + b² ?",
+    "choices": {
+      "A": "21",
+      "B": "23",
+      "C": "25",
+      "D": "27"
+    },
+    "correct": "B",
+    "explanation": "Since a and b are roots of x² − 5x + 1 = 0, we have a + b = 5 and ab = 1. Then a² + b² = (a + b)² − 2ab = 25 − 2 = 23."
+  },
+  {
+    "id": "MATH7-M2-014",
+    "prompt": "Let p(x) = 2x³ − x² + cx + 5. If p(−2) = −9, what is the value of p(1) ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "C",
+    "explanation": "First use p(−2) = −9: 2(−8) − (−2)² − 2c + 5 = −9. This gives −16 − 4 − 2c + 5 = −9, so −15 − 2c = −9 and c = −3. Then p(1) = 2(1) − 1 + (−3) + 5 = 3."
+  },
+  {
+    "id": "MATH7-M2-015",
+    "prompt": "In a right triangle, cos θ = 8/17, and the hypotenuse has length 34. What is the perimeter of the triangle?",
+    "choices": {
+      "A": "64",
+      "B": "70",
+      "C": "80",
+      "D": "84"
+    },
+    "correct": "C",
+    "explanation": "Since cos θ = 8/17 and the hypotenuse is 34, the scale factor is 2. So the adjacent side is 16 and the opposite side is √(34² − 16²) = √900 = 30. The perimeter is 16 + 30 + 34 = 80."
+  },
+  {
+    "id": "MATH7-M2-016",
+    "prompt": "The monic cubic polynomial p(x) = x³ + ax² + bx − 20 has factors x − 2 and x − 5. What is the value of a ?",
+    "choices": {
+      "A": "−12",
+      "B": "−9",
+      "C": "−7",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Let the third root be r. Since the polynomial is monic and has constant term −20, the product of the roots is 20. So 2·5·r = 20, giving r = 2. The sum of the roots is 2 + 5 + 2 = 9, so a = −9."
+  },
+  {
+    "id": "MATH7-M2-017",
+    "prompt": "In a survey, 35% of the people originally surveyed preferred jazz. Then 20 more people who did not prefer jazz were added to the survey, and 28% of the people surveyed preferred jazz. How many people were in the original survey?",
+    "choices": {
+      "A": "60",
+      "B": "80",
+      "C": "100",
+      "D": "120"
+    },
+    "correct": "B",
+    "explanation": "Let n be the original number surveyed. Then 0.35n preferred jazz. After 20 more people who did not prefer jazz are added, 0.35n = 0.28(n + 20). Solving gives 0.07n = 5.6, so n = 80."
+  },
+  {
+    "id": "MATH7-M2-018",
+    "prompt": "What is the value of x in the equation √(x + 5) − √x = 1 ?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Rewrite the equation as √(x + 5) = √x + 1. Square both sides: x + 5 = x + 2√x + 1. Then 4 = 2√x, so √x = 2 and x = 4."
+  },
+  {
+    "id": "MATH7-M2-019",
+    "prompt": "The endpoints of a diameter of a circle are (2, −3) and (10, 3). What is the area of the circle?",
+    "choices": {
+      "A": "20π",
+      "B": "25π",
+      "C": "29π",
+      "D": "50π"
+    },
+    "correct": "B",
+    "explanation": "The diameter length is √[(10 − 2)² + (3 − (−3))²] = √(8² + 6²) = √100 = 10. The radius is 5, so the area is π(5²) = 25π."
+  },
+  {
+    "id": "MATH7-M2-020",
+    "prompt": "What is the value of x in the equation 16^(x − 1) = 8ˣ ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "C",
+    "explanation": "Rewrite 16 as 2⁴ and 8 as 2³. Then 2^(4x − 4) = 2^(3x), so 4x − 4 = 3x. Therefore x = 4."
+  },
+  {
+    "id": "MATH7-M2-021",
+    "prompt": "Two similar pyramids have heights in the ratio 1:2. If the volume of the smaller pyramid is 35, what is the volume of the larger pyramid?",
+    "choices": {
+      "A": "140",
+      "B": "210",
+      "C": "280",
+      "D": "560"
+    },
+    "correct": "C",
+    "explanation": "Similar solids scale volume by the cube of the linear scale factor. The height ratio is 1:2, so the volume ratio is 1:8. The larger volume is 35·8 = 280."
+  },
+  {
+    "id": "MATH7-M2-022",
+    "prompt": "For x ≠ 2 and x ≠ −2, which expression is equivalent to (x² + 5x + 6)/(x² − 4) ?",
+    "choices": {
+      "A": "(x + 3)/(x − 2)",
+      "B": "(x + 2)/(x − 2)",
+      "C": "(x + 3)/(x + 2)",
+      "D": "(x − 3)/(x − 2)"
+    },
+    "correct": "A",
+    "explanation": "Factor the numerator and denominator: x² + 5x + 6 = (x + 2)(x + 3) and x² − 4 = (x + 2)(x − 2). Cancel x + 2 to get (x + 3)/(x − 2)."
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW3-M1-001",
+    "prompt": "A reviewer describes the actor’s memoir as “unexpectedly candid,” noting that the author admits to professional mistakes as readily as to successes.\nAs used in the text, what does “candid” most nearly mean?",
+    "choices": {
+      "A": "cautious",
+      "B": "humorous",
+      "C": "honest",
+      "D": "complex"
+    },
+    "correct": "C",
+    "explanation": "In context, “candid” means frank or honest about mistakes and successes."
+  },
+  {
+    "id": "RW3-M1-002",
+    "prompt": "Along some coastlines, conservation groups are rebuilding oyster reefs that were damaged by overharvesting and pollution. These reefs provide habitat for marine life, and they can also reduce the force of incoming waves. As a result, some communities view reef restoration as a way to support both ecosystems and shoreline protection.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Oyster reefs are rebuilt mainly to increase seafood sales.",
+      "B": "Restoring oyster reefs can benefit marine ecosystems while also helping protect coastlines.",
+      "C": "Pollution has made all coastline restoration projects impossible.",
+      "D": "Shoreline protection is more important than marine habitat."
+    },
+    "correct": "B",
+    "explanation": "The text emphasizes both habitat support and reduced wave force."
+  },
+  {
+    "id": "RW3-M1-003",
+    "prompt": "A historian explains that many early subway posters used oversized lettering and high-contrast colors. Since passengers often saw the posters only briefly and in dim stations, designers needed messages that could be read quickly from a distance.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Early subway posters were designed with viewing conditions in mind.",
+      "B": "Subway passengers preferred colorful art to written information.",
+      "C": "Designers in dim stations avoided using written text.",
+      "D": "Most subway posters were created by railroad engineers."
+    },
+    "correct": "A",
+    "explanation": "The text explains that dim stations and brief viewing times influenced poster design."
+  },
+  {
+    "id": "RW3-M1-004",
+    "prompt": "Geologist Maren Iqbal notes that a set of stones on a valley floor are scratched in parallel lines. She argues that the lines were likely carved when a glacier dragged the stones across the ground thousands of years ago.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It presents physical evidence that supports the interpretation in the second sentence.",
+      "B": "It offers an alternative explanation that the second sentence rejects.",
+      "C": "It explains why glaciers no longer form in the valley.",
+      "D": "It describes how the stones were moved by human activity."
+    },
+    "correct": "A",
+    "explanation": "The scratched stones are the evidence used to support the glacier explanation."
+  },
+  {
+    "id": "RW3-M1-005",
+    "prompt": "A student is writing about bookmobiles and has taken these notes:\n• In the early twentieth century, some rural counties introduced bookmobiles.\n• Bookmobiles brought books and magazines to people living far from town libraries.\n• The vehicles helped expand access to reading materials.\n• Bookmobiles often stopped at schools, crossroads, and general stores.\nThe student wants to emphasize how bookmobiles served readers who could not easily reach a library building. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Bookmobiles often stopped at schools, crossroads, and general stores.",
+      "B": "In the early twentieth century, some rural counties introduced bookmobiles.",
+      "C": "By carrying books and magazines to communities far from town libraries, bookmobiles expanded access to reading materials.",
+      "D": "Rural counties used many different kinds of vehicles."
+    },
+    "correct": "C",
+    "explanation": "This choice directly emphasizes service to people who could not easily reach library buildings."
+  },
+  {
+    "id": "RW3-M1-006",
+    "prompt": "The archive recently digitized a large collection of local newspapers. ______, historians in other states can now study the material without traveling to the archive in person.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "Likewise,",
+      "C": "As a result,",
+      "D": "In contrast,"
+    },
+    "correct": "C",
+    "explanation": "The second sentence describes a consequence of digitizing the newspapers."
+  },
+  {
+    "id": "RW3-M1-007",
+    "prompt": "The committee reached one conclusion<u>: the riverfront needed stronger flood barriers.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; the riverfront needed stronger flood barriers.",
+      "C": ", the riverfront needed stronger flood barriers.",
+      "D": "the riverfront needed stronger flood barriers,"
+    },
+    "correct": "A",
+    "explanation": "A colon correctly introduces an explanation of the committee’s conclusion."
+  },
+  {
+    "id": "RW3-M1-008",
+    "prompt": "The mayor acknowledged the delay, <u>nevertheless, residents remained frustrated by the lack of updates.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "nevertheless, residents remained frustrated by the lack of updates.",
+      "B": "and nevertheless residents remained frustrated by the lack of updates.",
+      "C": "but residents nevertheless remained frustrated by the lack of updates.",
+      "D": "residents, nevertheless remaining frustrated by the lack of updates."
+    },
+    "correct": "C",
+    "explanation": "The conjunction “but” correctly links the clauses and preserves the contrast."
+  },
+  {
+    "id": "RW3-M1-009",
+    "prompt": "The novelist, <u>who</u> critics had once dismissed as unoriginal, later won several major awards.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "who",
+      "B": "whom",
+      "C": "whose",
+      "D": "which"
+    },
+    "correct": "B",
+    "explanation": "The pronoun is the object of “had once dismissed,” so “whom” is correct."
+  },
+  {
+    "id": "RW3-M1-010",
+    "prompt": "By next June, the translators <u>complete</u> the final volume of the encyclopedia.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "complete",
+      "B": "completed",
+      "C": "will have completed",
+      "D": "had completed"
+    },
+    "correct": "C",
+    "explanation": "“By next June” calls for the future perfect to show completion before a future point."
+  },
+  {
+    "id": "RW3-M1-011",
+    "prompt": "After sorting the fossils by size, <u>the labels were rewritten by the interns.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the labels were rewritten by the interns.",
+      "B": "the interns rewrote the labels.",
+      "C": "the labels had been rewriting the interns.",
+      "D": "the fossils were labeled by the interns."
+    },
+    "correct": "B",
+    "explanation": "The revision correctly places “the interns” after the introductory phrase."
+  },
+  {
+    "id": "RW3-M1-012",
+    "prompt": "[1] Tidal turbines generate electricity from the movement of ocean water. [2] Because tides are regular and predictable, engineers can estimate when these turbines will produce power. [3] Installing such systems, however, can be technically challenging and expensive. [4] Even so, some researchers see tidal energy as a useful part of a broader renewable-energy strategy.\nWhich choice best describes the most logical placement for the following sentence?\n“This predictability is one reason the technology has attracted attention.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence refers to the predictability described in sentence 2."
+  },
+  {
+    "id": "RW3-M1-013",
+    "prompt": "A school tracked the percentage of students who arrived on time to first period over four months.\nSeptember: 88%\nOctober: 91%\nNovember: 87%\nDecember: 93%\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "October had a higher on-time rate than September.",
+      "B": "November had the highest on-time rate.",
+      "C": "The on-time rate decreased every month.",
+      "D": "December and September had the same on-time rate."
+    },
+    "correct": "A",
+    "explanation": "October is 91% and September is 88%."
+  },
+  {
+    "id": "RW3-M1-014",
+    "prompt": "After several weeks of negotiation, the talks finally <u>yielded</u> an agreement that both sides accepted.\nAs used in the text, what does “yielded” most nearly mean?",
+    "choices": {
+      "A": "postponed",
+      "B": "produced",
+      "C": "measured",
+      "D": "rejected"
+    },
+    "correct": "B",
+    "explanation": "In context, “yielded” means produced or resulted in."
+  },
+  {
+    "id": "RW3-M1-015",
+    "prompt": "In a memoir, a writer recalls hearing her aunt read aloud: “She never rushed a sentence. Even the suspense in the story seemed to gather quietly, as though the words trusted us to keep listening.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The writer remembers her aunt’s reading voice as quiet but deeply engaging.",
+      "B": "The writer disliked the stories her aunt chose.",
+      "C": "The aunt read quickly to make the stories more exciting.",
+      "D": "The writer could not understand why others enjoyed being read to."
+    },
+    "correct": "A",
+    "explanation": "The passage emphasizes calm reading that still builds suspense and attention."
+  },
+  {
+    "id": "RW3-M1-016",
+    "prompt": "Archaeologists excavating an ancient settlement found large quantities of charred grain seeds in several hearths. The researchers argue that the seeds were probably cooked as food rather than stored only for planting.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "The settlement’s residents never planted grain.",
+      "B": "The researchers think the grain seeds were likely used in cooking.",
+      "C": "The hearths were built only for ceremonial purposes.",
+      "D": "The excavated seeds could not be identified."
+    },
+    "correct": "B",
+    "explanation": "The charred seeds found in hearths support the idea that they were cooked as food."
+  },
+  {
+    "id": "RW3-M1-017",
+    "prompt": "A dance critic writes, “In the final section, the choreographer inserts several seconds of stillness, making the audience suddenly aware of every movement that follows.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To illustrate one critic’s view of how the choreography shapes audience attention",
+      "B": "To prove that the dancers forgot part of the performance",
+      "C": "To argue that stillness should replace movement in most dances",
+      "D": "To describe the size of the stage on which the work was performed"
+    },
+    "correct": "A",
+    "explanation": "The quotation explains how stillness affects what the audience notices."
+  },
+  {
+    "id": "RW3-M1-018",
+    "prompt": "A student is writing about community air-quality projects and has taken these notes:\n• Some neighborhoods use low-cost sensors to track pollution levels.\n• Residents can compare readings from different streets or times of day.\n• The data may help communities identify patterns in local air quality.\n• Community-collected data can support conversations about environmental conditions.\nWhich choice most effectively uses relevant information from the notes to make a general claim about these projects?",
+    "choices": {
+      "A": "Low-cost sensors are always more accurate than government equipment.",
+      "B": "By collecting pollution data across places and times, community air-quality projects can help residents identify local patterns and discuss environmental conditions.",
+      "C": "Air-quality projects focus only on traffic near schools.",
+      "D": "Residents usually collect air-quality data for entertainment."
+    },
+    "correct": "B",
+    "explanation": "This choice accurately synthesizes the notes into a general claim."
+  },
+  {
+    "id": "RW3-M1-019",
+    "prompt": "The essay draws heavily on the author’s childhood diaries. ______, several passages in the published version closely echo phrases from those notebooks.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Indeed,",
+      "B": "Otherwise,",
+      "C": "Instead,",
+      "D": "By contrast,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence reinforces the first by giving confirming evidence from the published version."
+  },
+  {
+    "id": "RW3-M1-020",
+    "prompt": "The internship required students to interview residents, summarize responses, and <u>the creation of neighborhood maps.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the creation of neighborhood maps.",
+      "B": "creating neighborhood maps.",
+      "C": "create neighborhood maps.",
+      "D": "to creating neighborhood maps."
+    },
+    "correct": "C",
+    "explanation": "“Create” matches the parallel verbs “interview” and “summarize.”"
+  },
+  {
+    "id": "RW3-M1-021",
+    "prompt": "The essay by <u>historian Maya Chen</u> examines trade routes across the Arctic.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "historian, Maya Chen,",
+      "C": "historian Maya, Chen",
+      "D": "historian, Maya Chen"
+    },
+    "correct": "A",
+    "explanation": "No commas are needed because “historian Maya Chen” is an essential identifying phrase."
+  },
+  {
+    "id": "RW3-M1-022",
+    "prompt": "Neither the mayor nor the council members <u>was</u> prepared to postpone the vote again.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "was",
+      "B": "were",
+      "C": "be",
+      "D": "being"
+    },
+    "correct": "B",
+    "explanation": "With “neither...nor,” the verb agrees with the nearer plural subject “council members.”"
+  },
+  {
+    "id": "RW3-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“Unlike the original edition, readers found the revised atlas easier to use.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because it uses too many descriptive words.",
+      "B": "The sentence should be revised because it illogically compares the original edition with readers.",
+      "C": "The sentence should be revised because it should include a semicolon after “edition.”",
+      "D": "The sentence should be revised because it repeats the same idea twice."
+    },
+    "correct": "B",
+    "explanation": "The phrase after “Unlike” should be parallel to “the revised atlas,” not to “readers.”"
+  },
+  {
+    "id": "RW3-M1-024",
+    "prompt": "[1] Rain gardens are planted depressions designed to absorb runoff from roofs, sidewalks, and driveways. [2] By slowing the flow of water, they can reduce pressure on storm-drain systems. [3] Rain gardens can also filter some pollutants before the water enters nearby streams. [4] Homeowners and cities alike have shown growing interest in installing them.\nWhich choice best describes the most logical placement for the following sentence?\n“These benefits help explain why rain gardens have become more popular.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence refers to the benefits in sentences 2 and 3 and sets up the popularity mentioned in sentence 4."
+  },
+  {
+    "id": "RW3-M1-025",
+    "prompt": "To make the sentence more precise, the editor replaced “machine” with <u>portable weather sensor</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the sentence less formal by using conversational language.",
+      "B": "It makes the sentence more precise by naming the device more specifically.",
+      "C": "It changes the meaning by suggesting the device is no longer portable.",
+      "D": "It introduces unnecessary repetition."
+    },
+    "correct": "B",
+    "explanation": "“Portable weather sensor” is more exact than “machine.”"
+  },
+  {
+    "id": "RW3-M1-026",
+    "prompt": "In an experiment, juvenile sea turtles were exposed to altered magnetic fields while swimming in a test tank. The turtles changed direction in response, suggesting that they use magnetic information when navigating.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Sea turtles rely only on visual landmarks when navigating.",
+      "B": "Magnetic cues may play a role in how juvenile sea turtles orient themselves.",
+      "C": "All turtles react the same way to every magnetic field.",
+      "D": "The test tank prevented the turtles from changing direction."
+    },
+    "correct": "B",
+    "explanation": "The turtles changed direction when the magnetic field changed, supporting that inference."
+  },
+  {
+    "id": "RW3-M1-027",
+    "prompt": "An article on recycled steel explains that making steel from scrap metal generally requires less energy than producing it from newly mined ore. The article concludes by noting that demand for recycled steel may grow as more industries seek lower-emission materials.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It provides a future implication of the earlier information.",
+      "B": "It contradicts the article’s description of steel production.",
+      "C": "It shifts the discussion to a topic unrelated to manufacturing.",
+      "D": "It argues that recycled steel is more expensive than newly mined ore."
+    },
+    "correct": "A",
+    "explanation": "The final sentence projects how demand may change based on the benefits just described.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW2-M1-001",
+    "prompt": "In a profile of a young chef, a magazine writer notes that her menu is “spare but confident,” relying on a few carefully chosen ingredients rather than long lists of seasonings.\nAs used in the text, what does “spare” most nearly mean?",
+    "choices": {
+      "A": "incomplete",
+      "B": "economical",
+      "C": "generous",
+      "D": "accidental"
+    },
+    "correct": "B",
+    "explanation": "In context, “spare” means simple and economical, using only a few carefully chosen ingredients."
+  },
+  {
+    "id": "RW2-M1-002",
+    "prompt": "Some wetlands that were once drained for construction are now being restored. In addition to providing habitat for birds and fish, restored wetlands can absorb stormwater, reducing flooding in nearby communities. For that reason, urban planners increasingly view wetland restoration as both an environmental and an infrastructural project.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Wetland restoration can provide ecological benefits while also helping protect communities from flooding.",
+      "B": "Urban planners generally prefer construction projects to environmental projects.",
+      "C": "Wetlands are valuable mainly because they attract birds and fish.",
+      "D": "Restored wetlands eliminate all flooding in nearby communities."
+    },
+    "correct": "A",
+    "explanation": "The text emphasizes both habitat benefits and stormwater absorption."
+  },
+  {
+    "id": "RW2-M1-003",
+    "prompt": "A historian of broadcasting explains that early radio stations often aired live music because recordings were expensive and technically difficult to reproduce clearly over the air. As recording technology improved, stations gradually increased the amount of prerecorded programming they used.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Early radio audiences disliked recorded music.",
+      "B": "Technical limitations influenced the kinds of programs early radio stations broadcast.",
+      "C": "Live music disappeared from radio as soon as recordings became available.",
+      "D": "Radio stations were legally required to broadcast live performances at first."
+    },
+    "correct": "B",
+    "explanation": "The text links the use of live music to the cost and difficulty of reproducing recordings."
+  },
+  {
+    "id": "RW2-M1-004",
+    "prompt": "Marine biologist Sora Lin writes, “The crab’s shell is mottled with greens and browns; against the seagrass, it nearly vanishes.” Lin then argues that this coloration likely helps the crab avoid predators.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It provides a visual detail that supports the explanation that follows.",
+      "B": "It introduces a counterargument to Lin’s main claim.",
+      "C": "It explains why the crab lives only in deep water.",
+      "D": "It dismisses the importance of the crab’s appearance."
+    },
+    "correct": "A",
+    "explanation": "The description of the shell blending into seagrass supports the idea that the coloration helps the crab avoid predators."
+  },
+  {
+    "id": "RW2-M1-005",
+    "prompt": "A student is writing about the history of public libraries and has taken these notes:\n• In 1854, the Boston Public Library opened to the public.\n• It was one of the first large free municipal libraries in the United States.\n• Its founders argued that broad access to books could support education and civic life.\n• The library later expanded its collections and branches.\nThe student wants to emphasize why the library’s founders considered the institution important. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "The Boston Public Library later expanded its collections and branches.",
+      "B": "Opened in 1854, the Boston Public Library was one of the first large free municipal libraries in the United States.",
+      "C": "The founders of the Boston Public Library believed that making books widely available could strengthen both education and civic life.",
+      "D": "Public libraries in the United States have long collected books."
+    },
+    "correct": "C",
+    "explanation": "This choice directly answers why the founders thought the library mattered."
+  },
+  {
+    "id": "RW2-M1-006",
+    "prompt": "The lab’s first experiment produced inconsistent results. ______, the second experiment, which used a revised procedure, yielded data that were much easier to interpret.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In contrast,",
+      "B": "For example,",
+      "C": "Meanwhile,",
+      "D": "Therefore,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts the first experiment’s inconsistent results with the clearer results of the second."
+  },
+  {
+    "id": "RW2-M1-007",
+    "prompt": "The poet revised the final stanza repeatedly; <u>she wanted its closing image to feel surprising, not confusing.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "she wanted its closing image to feel surprising not confusing.",
+      "C": "she wanted its closing image to feel surprising, not confusing:",
+      "D": "she wanted, its closing image to feel surprising, not confusing."
+    },
+    "correct": "A",
+    "explanation": "A semicolon correctly joins two independent clauses, and the phrase “surprising, not confusing” is punctuated correctly."
+  },
+  {
+    "id": "RW2-M1-008",
+    "prompt": "The essay describes how neighborhood murals preserve local history, <u>it also explains how the murals can inspire current residents.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "it also explains how the murals can inspire current residents.",
+      "B": "and also explaining how the murals can inspire current residents.",
+      "C": "and also explains how the murals can inspire current residents.",
+      "D": "also, it explains how the murals can inspire current residents."
+    },
+    "correct": "C",
+    "explanation": "Adding “and also explains” correctly links two verbs to the subject “The essay.”"
+  },
+  {
+    "id": "RW2-M1-009",
+    "prompt": "When the company introduced the new bicycles, customers praised <u>them</u> for their lightweight frames and smooth handling.\nWhich choice best maintains the intended meaning of the sentence?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "it",
+      "C": "him",
+      "D": "us"
+    },
+    "correct": "A",
+    "explanation": "The plural pronoun “them” correctly refers to the plural noun “bicycles.”"
+  },
+  {
+    "id": "RW2-M1-010",
+    "prompt": "By the time the audience arrived at the theater, the stage crew <u>finish</u> adjusting the lights and testing the microphones.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "finish",
+      "B": "finished",
+      "C": "had finished",
+      "D": "will finish"
+    },
+    "correct": "C",
+    "explanation": "The crew’s work was completed before the audience arrived, so past perfect is needed."
+  },
+  {
+    "id": "RW2-M1-011",
+    "prompt": "Hiking along the ridge at sunrise, <u>the valley appeared silver and blue to Nora.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the valley appeared silver and blue to Nora.",
+      "B": "Nora saw the valley as silver and blue.",
+      "C": "the sunrise made the valley appear silver and blue.",
+      "D": "silver and blue colors filled the valley for Nora."
+    },
+    "correct": "B",
+    "explanation": "The revision correctly makes Nora the one hiking along the ridge."
+  },
+  {
+    "id": "RW2-M1-012",
+    "prompt": "[1] Glassmaking requires heating raw materials to extremely high temperatures. [2] Once molten glass cools, it can be shaped into containers, windows, and works of art. [3] Different mineral additives can change the glass’s color or strength. [4] Because of these properties, glass has been useful in both everyday and specialized applications.\nWhich choice best describes the most logical placement for the following sentence?\n“Manufacturers can also alter the material to suit different purposes.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence follows the discussion of additives and leads naturally into the broader statement about different applications."
+  },
+  {
+    "id": "RW2-M1-013",
+    "prompt": "A teacher surveyed four classes about the average number of minutes students read for pleasure each day.\nClass A: 18\nClass B: 24\nClass C: 21\nClass D: 30\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Class C read for pleasure longer, on average, than Class D.",
+      "B": "Class B read for pleasure longer, on average, than Class A.",
+      "C": "Class A had the highest average number of reading minutes.",
+      "D": "The average number of reading minutes decreased from Class A to Class D."
+    },
+    "correct": "B",
+    "explanation": "Class B averaged 24 minutes and Class A averaged 18 minutes."
+  },
+  {
+    "id": "RW2-M1-014",
+    "prompt": "In discussing a startup company, an article says that its founder was careful not to <u>inflate</u> early sales figures when speaking to investors.\nAs used in the text, what does “inflate” most nearly mean?",
+    "choices": {
+      "A": "decorate",
+      "B": "increase",
+      "C": "compare",
+      "D": "divide"
+    },
+    "correct": "B",
+    "explanation": "In context, “inflate” means to exaggerate or increase the figures."
+  },
+  {
+    "id": "RW2-M1-015",
+    "prompt": "In a memoir, a writer recalls learning to sew from her grandfather: “He never hurried the work. If a seam puckered, he would pull the thread free and begin again, as calmly as if patience were part of the cloth itself.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The writer remembers her grandfather as someone who approached sewing with patience and care.",
+      "B": "The writer disliked sewing because it required too much time.",
+      "C": "The grandfather preferred buying clothes to making them.",
+      "D": "The grandfather rushed through difficult tasks."
+    },
+    "correct": "A",
+    "explanation": "The passage emphasizes calm repetition and patience."
+  },
+  {
+    "id": "RW2-M1-016",
+    "prompt": "A study of office plants found that employees working near greenery reported slightly higher satisfaction with their workspace than employees in similar offices without plants. The researchers note, however, that the study did not measure whether the plants increased productivity.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Office plants were proven to increase productivity.",
+      "B": "Employees always prefer offices filled with many plants.",
+      "C": "Plants may be associated with greater workplace satisfaction, though their effect on productivity remains unclear.",
+      "D": "The researchers found no difference at all between the offices."
+    },
+    "correct": "C",
+    "explanation": "The text reports higher satisfaction but says productivity was not measured."
+  },
+  {
+    "id": "RW2-M1-017",
+    "prompt": "A literature professor writes, “The novel’s short chapters end abruptly, forcing readers to pause and imagine what happens in the silence between scenes.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To show one interpretation of how the novel’s structure affects readers",
+      "B": "To prove that the novel was originally published in separate volumes",
+      "C": "To explain why the novel contains factual errors",
+      "D": "To describe the appearance of the book’s cover"
+    },
+    "correct": "A",
+    "explanation": "The professor’s quotation explains the effect of abrupt chapter endings."
+  },
+  {
+    "id": "RW2-M1-018",
+    "prompt": "A student is writing about efforts to reduce food waste and has taken these notes:\n• Some grocery stores discount produce with minor cosmetic flaws.\n• Restaurants may donate unsold meals to local organizations.\n• Food waste contributes to unnecessary use of land, water, and energy.\n• Reducing food waste can conserve resources.\nWhich choice most effectively uses relevant information from the notes to make a general claim about reducing food waste?",
+    "choices": {
+      "A": "Reducing food waste can conserve resources, and businesses may do so through practices such as discounting imperfect produce or donating unsold meals.",
+      "B": "Grocery stores and restaurants are the only sources of food waste.",
+      "C": "Cosmetic flaws always make produce unsafe to eat.",
+      "D": "Unsold meals should never be donated."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the general claim with two supporting examples from the notes."
+  },
+  {
+    "id": "RW2-M1-019",
+    "prompt": "The first draft of the article focused on a single athlete’s career. ______, the final version broadened its scope to examine changes in the sport over several decades.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Specifically,",
+      "B": "By contrast,",
+      "C": "Otherwise,",
+      "D": "Likewise,"
+    },
+    "correct": "B",
+    "explanation": "The final version differs from the first draft by expanding its focus."
+  },
+  {
+    "id": "RW2-M1-020",
+    "prompt": "The internship allowed Priya to observe client meetings, draft summaries, and <u>researching local housing policies.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "researching local housing policies.",
+      "B": "to research local housing policies.",
+      "C": "research local housing policies.",
+      "D": "researched local housing policies."
+    },
+    "correct": "C",
+    "explanation": "“Research” correctly matches the parallel verbs “observe” and “draft.”"
+  },
+  {
+    "id": "RW2-M1-021",
+    "prompt": "The observatory, <u>which stands on a hill above the town,</u> has welcomed visitors since 1912.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a restrictive clause and should not be set off with commas.",
+      "B": "It is a nonessential clause that is correctly set off with commas.",
+      "C": "It should be removed because it creates a run-on sentence.",
+      "D": "It is a fragment rather than a clause."
+    },
+    "correct": "B",
+    "explanation": "The clause adds extra information about the observatory and is properly punctuated."
+  },
+  {
+    "id": "RW2-M1-022",
+    "prompt": "A bundle of letters from the expedition <u>shows</u> how uncertain the travelers felt during the first winter.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "shows",
+      "B": "show",
+      "C": "have showns",
+      "D": "showing"
+    },
+    "correct": "A",
+    "explanation": "The singular subject “A bundle” takes the singular verb “shows.”"
+  },
+  {
+    "id": "RW2-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“The documentary became popular because it includes interviews with several historians.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because it mixes a past outcome with a present-tense explanation in a way that creates an awkward shift in time.",
+      "B": "The sentence should be revised because it contains too much factual information.",
+      "C": "The sentence should be revised because it lacks a semicolon.",
+      "D": "The sentence should be revised because it does not mention the filmmaker’s age."
+    },
+    "correct": "A",
+    "explanation": "“Became” is past tense, but “includes” is present tense; the shift is awkward in context."
+  },
+  {
+    "id": "RW2-M1-024",
+    "prompt": "[1] Some cities close selected streets to car traffic on weekends. [2] During those hours, people can walk, cycle, and gather in spaces normally reserved for vehicles. [3] Businesses along the route may benefit from increased foot traffic. [4] Such programs can also encourage residents to imagine different uses for public space.\nWhich choice best describes the most logical placement for the following sentence?\n“These temporary street closures can have social as well as economic effects.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence bridges the economic benefit in sentence 3 and the social effect in sentence 4."
+  },
+  {
+    "id": "RW2-M1-025",
+    "prompt": "To make the handbook easier to read, the editor replaced “prior to” with <u>before</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the sentence more concise without changing its meaning.",
+      "B": "It makes the sentence less precise by removing a technical phrase.",
+      "C": "It changes the meaning from future time to past time.",
+      "D": "It introduces a grammatical error."
+    },
+    "correct": "A",
+    "explanation": "“Before” is shorter than “prior to” but keeps the same meaning."
+  },
+  {
+    "id": "RW2-M1-026",
+    "prompt": "Researchers studying cliff swallows found that birds nesting near highways tended to have shorter wings than birds nesting farther away. The researchers suggest that shorter wings may help the birds turn more quickly and avoid passing vehicles.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Cliff swallows with shorter wings may be better able to maneuver near traffic.",
+      "B": "Highways cause all bird species to develop shorter wings immediately.",
+      "C": "Birds with longer wings are always slower than birds with shorter wings.",
+      "D": "The researchers proved that highways improve bird habitats."
+    },
+    "correct": "A",
+    "explanation": "The text says shorter wings may help the birds turn more quickly and avoid vehicles."
+  },
+  {
+    "id": "RW2-M1-027",
+    "prompt": "An article about composting explains how food scraps break down into nutrient-rich material. It then notes that compost can improve soil structure and help gardens retain moisture.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It explains one limitation of composting.",
+      "B": "It provides examples of benefits that result from composting.",
+      "C": "It argues that compost should replace all fertilizers.",
+      "D": "It introduces a new topic unrelated to the article’s focus."
+    },
+    "correct": "B",
+    "explanation": "The final sentence names two ways compost can help soil and gardens.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

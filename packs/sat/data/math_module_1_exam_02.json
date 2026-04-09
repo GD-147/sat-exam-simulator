@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH2-M1-001",
+    "prompt": "What is the value of x in the equation 2 − (x + 1)/4 = −3 ?",
+    "choices": {
+      "A": "15",
+      "B": "19",
+      "C": "21",
+      "D": "23"
+    },
+    "correct": "B",
+    "explanation": "Subtract 2 from both sides to get −(x + 1)/4 = −5. Multiply by −4: x + 1 = 20, so x = 19."
+  },
+  {
+    "id": "MATH2-M1-002",
+    "prompt": "A printer produces 84 pages in 6 minutes at a constant rate. At this rate, how many pages will it produce in 15 minutes?",
+    "choices": {
+      "A": "126",
+      "B": "180",
+      "C": "210",
+      "D": "225"
+    },
+    "correct": "C",
+    "explanation": "The rate is 84/6 = 14 pages per minute. In 15 minutes, the printer produces 14 × 15 = 210 pages."
+  },
+  {
+    "id": "MATH2-M1-003",
+    "prompt": "The equation C = 150 + 45w models the total cost C, in dollars, for w weeks of storage. What does the number 150 represent in this context?",
+    "choices": {
+      "A": "The cost for each additional week of storage",
+      "B": "The total cost after 150 weeks",
+      "C": "The initial fixed fee charged before any weekly cost",
+      "D": "The number of weeks included at no charge"
+    },
+    "correct": "C",
+    "explanation": "In C = 150 + 45w, the constant term 150 is the cost when w = 0, so it represents the fixed starting fee."
+  },
+  {
+    "id": "MATH2-M1-004",
+    "prompt": "What is the solution to the system below?\n2x + y = 11\nx − y = 1",
+    "choices": {
+      "A": "(3, 4)",
+      "B": "(4, 3)",
+      "C": "(5, 1)",
+      "D": "(6, −1)"
+    },
+    "correct": "B",
+    "explanation": "Add the equations: (2x + y) + (x − y) = 11 + 1, so 3x = 12 and x = 4. Substitute into x − y = 1 to get y = 3."
+  },
+  {
+    "id": "MATH2-M1-005",
+    "prompt": "What is the positive solution to the equation x² − 3x − 10 = 0 ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "Factor the quadratic: x² − 3x − 10 = (x − 5)(x + 2). The positive solution is x = 5."
+  },
+  {
+    "id": "MATH2-M1-006",
+    "prompt": "Which expression is equivalent to 3√18 − √8 ?",
+    "choices": {
+      "A": "5√2",
+      "B": "6√2",
+      "C": "7√2",
+      "D": "8√2"
+    },
+    "correct": "C",
+    "explanation": "√18 = 3√2 and √8 = 2√2. So 3√18 − √8 = 3(3√2) − 2√2 = 9√2 − 2√2 = 7√2."
+  },
+  {
+    "id": "MATH2-M1-007",
+    "prompt": "The table shows the values in a data set.\nValue: 2 4 7 9\nFrequency: 3 2 4 1\nWhat is the median of the data set?",
+    "choices": {
+      "A": "4",
+      "B": "5.5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "B",
+    "explanation": "There are 10 values total. The 5th value is 4 and the 6th value is 7, so the median is (4 + 7)/2 = 5.5."
+  },
+  {
+    "id": "MATH2-M1-008",
+    "prompt": "A spinner has 8 equal sections: 3 red, 2 blue, and 3 green. If the spinner is spun once, what is the probability that it lands on a section that is not blue?",
+    "choices": {
+      "A": "1/4",
+      "B": "3/8",
+      "C": "5/8",
+      "D": "3/4"
+    },
+    "correct": "D",
+    "explanation": "There are 8 sections total, and 2 are blue. So the probability of not blue is 6/8 = 3/4."
+  },
+  {
+    "id": "MATH2-M1-009",
+    "prompt": "A right triangle has side lengths 8, 15, and 17. What is the cosine of the acute angle formed by the side of length 15 and the hypotenuse?",
+    "choices": {
+      "A": "8/17",
+      "B": "15/17",
+      "C": "15/8",
+      "D": "17/15"
+    },
+    "correct": "B",
+    "explanation": "Cosine is adjacent/hypotenuse. For the angle described, the adjacent side is 15 and the hypotenuse is 17."
+  },
+  {
+    "id": "MATH2-M1-010",
+    "prompt": "A rectangle has a diagonal of length 13 and one side of length 5. What is the area of the rectangle?",
+    "choices": {
+      "A": "18",
+      "B": "30",
+      "C": "60",
+      "D": "65"
+    },
+    "correct": "C",
+    "explanation": "Use the Pythagorean theorem: the missing side is √(13² − 5²) = √144 = 12. The area is 5 × 12 = 60."
+  },
+  {
+    "id": "MATH2-M1-011",
+    "prompt": "Which inequality is equivalent to 5 − 2x > 11 ?",
+    "choices": {
+      "A": "x < −3",
+      "B": "x > −3",
+      "C": "x < 3",
+      "D": "x > 3"
+    },
+    "correct": "A",
+    "explanation": "Subtract 5 from both sides: −2x > 6. Divide by −2 and reverse the inequality to get x < −3."
+  },
+  {
+    "id": "MATH2-M1-012",
+    "prompt": "If f(x) = 3x² − 2x, what is the value of f(−2) ?",
+    "choices": {
+      "A": "8",
+      "B": "12",
+      "C": "16",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "f(−2) = 3(−2)² − 2(−2) = 3(4) + 4 = 16."
+  },
+  {
+    "id": "MATH2-M1-013",
+    "prompt": "Which equation represents the line that passes through the points (0, −3) and (4, 5) ?",
+    "choices": {
+      "A": "y = 2x − 3",
+      "B": "y = 2x + 3",
+      "C": "y = −2x − 3",
+      "D": "y = −2x + 5"
+    },
+    "correct": "A",
+    "explanation": "The slope is (5 − (−3))/(4 − 0) = 8/4 = 2, and the y-intercept is −3 because the line passes through (0, −3)."
+  },
+  {
+    "id": "MATH2-M1-014",
+    "prompt": "In a survey, 40% of households said they own a dog. Of those households, 25% said they own more than one dog. What percent of all households surveyed said they own more than one dog?",
+    "choices": {
+      "A": "10%",
+      "B": "15%",
+      "C": "25%",
+      "D": "65%"
+    },
+    "correct": "A",
+    "explanation": "Find 25% of 40%: 0.25 × 0.40 = 0.10, which is 10%."
+  },
+  {
+    "id": "MATH2-M1-015",
+    "prompt": "Two similar triangles have corresponding side lengths 6 and 9. Another side of the smaller triangle has length x, and the corresponding side of the larger triangle has length 15. What is the value of x ?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "The scale factor from the smaller triangle to the larger is 9/6 = 3/2. So x(3/2) = 15, which gives x = 10."
+  },
+  {
+    "id": "MATH2-M1-016",
+    "prompt": "A line of best fit for a set of data is given by y = 1.2x + 4. According to this model, what is the predicted value of y when x = 10 ?",
+    "choices": {
+      "A": "12",
+      "B": "14",
+      "C": "16",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "Substitute x = 10 into y = 1.2x + 4: y = 1.2(10) + 4 = 12 + 4 = 16."
+  },
+  {
+    "id": "MATH2-M1-017",
+    "prompt": "What is the value of 2³ × 2⁵ ÷ 2⁴ ?",
+    "choices": {
+      "A": "4",
+      "B": "8",
+      "C": "16",
+      "D": "32"
+    },
+    "correct": "C",
+    "explanation": "When multiplying powers with the same base, add exponents, and when dividing, subtract exponents: 2³ × 2⁵ ÷ 2⁴ = 2⁽³⁺⁵⁻⁴⁾ = 2⁴ = 16."
+  },
+  {
+    "id": "MATH2-M1-018",
+    "prompt": "Which expression gives w in terms of P and l if P = 2l + 2w ?",
+    "choices": {
+      "A": "(P/2) − l",
+      "B": "P − 2l",
+      "C": "2P − l",
+      "D": "l − (P/2)"
+    },
+    "correct": "A",
+    "explanation": "From P = 2l + 2w, subtract 2l to get P − 2l = 2w. Then divide by 2: w = (P/2) − l."
+  },
+  {
+    "id": "MATH2-M1-019",
+    "prompt": "Two supplementary angles have measures x° and (3x + 20)°. What is the value of x ?",
+    "choices": {
+      "A": "35",
+      "B": "40",
+      "C": "45",
+      "D": "50"
+    },
+    "correct": "B",
+    "explanation": "Supplementary angles sum to 180°. So x + (3x + 20) = 180, which gives 4x = 160 and x = 40."
+  },
+  {
+    "id": "MATH2-M1-020",
+    "prompt": "Consider the data set 1, 4, 6, 8, 10, 12, 14, 17. What is the interquartile range of the data set?",
+    "choices": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "13"
+    },
+    "correct": "B",
+    "explanation": "The lower half is 1, 4, 6, 8, so Q1 = (4 + 6)/2 = 5. The upper half is 10, 12, 14, 17, so Q3 = (12 + 14)/2 = 13. The interquartile range is 13 − 5 = 8."
+  },
+  {
+    "id": "MATH2-M1-021",
+    "prompt": "What is the distance between the points (−1, 2) and (2, 6) in the xy-plane?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "√13",
+      "D": "7"
+    },
+    "correct": "B",
+    "explanation": "Use the distance formula: √[(2 − (−1))² + (6 − 2)²] = √(3² + 4²) = √25 = 5."
+  },
+  {
+    "id": "MATH2-M1-022",
+    "prompt": "The table shows values of a function.\nx y\n0 2\n1 6\n2 18\n3 54\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = 2 · 3ˣ",
+      "B": "y = 3 · 2ˣ",
+      "C": "y = 2x + 2",
+      "D": "y = x² + 2"
+    },
+    "correct": "A",
+    "explanation": "Each time x increases by 1, y is multiplied by 3, and when x = 0, y = 2. That matches y = 2 · 3ˣ.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

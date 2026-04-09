@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW5-M2-001",
+    "prompt": "A scholar describes the essay’s conclusion as “tentative rather than definitive,” explaining that the author presents the evidence as suggestive but not final.\nAs used in the text, what does “tentative” most nearly mean?",
+    "choices": {
+      "A": "uncertain",
+      "B": "detailed",
+      "C": "conventional",
+      "D": "immediate"
+    },
+    "correct": "A",
+    "explanation": "“Tentative” means not fully certain or final."
+  },
+  {
+    "id": "RW5-M2-002",
+    "prompt": "A historian argues that official census categories do more than record population changes. Because such categories determine how people are counted and grouped, they can also shape later debates about identity, citizenship, and representation. In that way, a census can influence political life long after the counting itself is complete.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Census categories can affect future political debates, not merely record population data.",
+      "B": "Population counts matter only during the year in which they are conducted.",
+      "C": "Historians prefer census records to all other kinds of evidence.",
+      "D": "Identity and citizenship are unaffected by official categories."
+    },
+    "correct": "A",
+    "explanation": "The passage argues that categories shape later debates about identity, citizenship, and representation."
+  },
+  {
+    "id": "RW5-M2-003",
+    "prompt": "Researchers studying fish populations in a large lake often estimate numbers by sampling only certain coves and depths. However, because temperature, vegetation, and oxygen levels vary across the lake, fish may cluster unevenly in places the sample does not include.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Fish populations in large lakes are impossible to study accurately.",
+      "B": "Limited sampling may overlook areas where fish are concentrated.",
+      "C": "Fish never live in coves with high vegetation.",
+      "D": "Oxygen levels are the only factor that affects where fish gather."
+    },
+    "correct": "B",
+    "explanation": "Because fish cluster unevenly, sampling only some locations may miss important concentrations."
+  },
+  {
+    "id": "RW5-M2-004",
+    "prompt": "A literary critic notes that a novelist often ends chapters in the middle of conversations. The critic argues that this pattern shifts readers’ attention away from what is being said and toward what remains unresolved between the speakers.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It identifies a structural pattern that the second sentence interprets.",
+      "B": "It introduces a plot summary that the second sentence rejects.",
+      "C": "It explains why the novel has unusually short chapters.",
+      "D": "It describes the readers most likely to enjoy the novel."
+    },
+    "correct": "A",
+    "explanation": "The first sentence names the chapter-ending pattern, and the second explains its effect on readers."
+  },
+  {
+    "id": "RW5-M2-005",
+    "prompt": "A student is writing about transparent wood and has taken these notes:\n• Transparent wood is made by removing certain compounds from wood and adding materials that let light pass through.\n• It may be stronger and less shatter-prone than glass in some applications.\n• It could be useful in energy-efficient building design.\n• Producing it at large scale remains technically difficult.\nThe student wants to emphasize both a possible advantage of transparent wood and a challenge facing its wider use. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Transparent wood may offer a durable alternative to glass in some energy-efficient designs, but manufacturing it at large scale is still difficult.",
+      "B": "Glass is used in many building designs today.",
+      "C": "Transparent wood is already cheaper and easier to produce than ordinary glass.",
+      "D": "Building materials should always allow light to pass through them."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both a possible advantage and the stated production challenge."
+  },
+  {
+    "id": "RW5-M2-006",
+    "prompt": "The archaeologist expected the pottery fragments to confirm that the site had been occupied continuously for centuries. ______, differences in clay composition suggested that settlement may have been interrupted and later resumed.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Instead,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "B",
+    "explanation": "The pottery fragments did not confirm continuous occupation; they suggested interruption and resettlement instead."
+  },
+  {
+    "id": "RW5-M2-007",
+    "prompt": "The report reaches a troubling conclusion<u>: several of the city’s oldest drainage tunnels are structurally unstable.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; several of the city’s oldest drainage tunnels are structurally unstable.",
+      "C": ", several of the city’s oldest drainage tunnels are structurally unstable.",
+      "D": "several of the city’s oldest drainage tunnels are structurally unstable;"
+    },
+    "correct": "A",
+    "explanation": "A colon correctly introduces the specific troubling conclusion."
+  },
+  {
+    "id": "RW5-M2-008",
+    "prompt": "Although usually discussed as a convenience for consumers, same-day delivery also depends on invisible systems of routing, warehousing, and labor coordination.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It contrasts a familiar view of same-day delivery with a broader explanation of how it works.",
+      "B": "It describes how same-day delivery was invented.",
+      "C": "It provides evidence that consumers dislike fast shipping.",
+      "D": "It summarizes the results of a transportation survey."
+    },
+    "correct": "A",
+    "explanation": "The introductory phrase sets up a contrast between convenience and the underlying systems that make it possible."
+  },
+  {
+    "id": "RW5-M2-009",
+    "prompt": "After Lila discussed Marcus’s draft with Renata, <u>she</u> suggested moving the statistical example to the introduction.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "she",
+      "B": "Lila",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “she” with “Lila” removes the ambiguity."
+  },
+  {
+    "id": "RW5-M2-010",
+    "prompt": "If the auditors <u>had reviewed</u> the invoices more carefully, the discrepancy might be discovered before the annual report was published.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "had reviewed",
+      "B": "reviewed",
+      "C": "have reviewed",
+      "D": "would review"
+    },
+    "correct": "A",
+    "explanation": "The sentence needs the past perfect in the if-clause to express an unreal past condition."
+  },
+  {
+    "id": "RW5-M2-011",
+    "prompt": "The editor meant to say that the museum displayed paintings chiefly in the east wing, but the sentence as drafted says that the museum <u>chiefly displayed paintings in the east wing and sculptures elsewhere.</u>\nWhich choice best revises the text so that “chiefly” is placed as precisely as possible?",
+    "choices": {
+      "A": "chiefly displayed paintings in the east wing and sculptures elsewhere.",
+      "B": "displayed chiefly paintings in the east wing and sculptures elsewhere.",
+      "C": "displayed paintings chiefly in the east wing and sculptures elsewhere.",
+      "D": "displayed paintings in the chiefly east wing and sculptures elsewhere."
+    },
+    "correct": "C",
+    "explanation": "This placement makes clear that “chiefly” refers to where the paintings were displayed."
+  },
+  {
+    "id": "RW5-M2-012",
+    "prompt": "[1] In estuaries, fresh river water mixes with salty ocean water. [2] Because the two kinds of water differ in density, tides and river flow can create shifting layers and channels within the estuary. [3] These changing conditions influence where organisms feed, spawn, and shelter. [4] For that reason, estuaries are often studied as environments shaped by constant movement and variation.\nWhich choice best describes the most logical placement for the following sentence?\n“Even slight changes in depth or flow can therefore alter the habitat available to different species.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The new sentence logically follows the description of shifting layers and explains how habitat can change for species."
+  },
+  {
+    "id": "RW5-M2-013",
+    "prompt": "A researcher compared the average amount of time four groups spent revising an essay after receiving feedback.\nGroup A: 12 minutes\nGroup B: 15 minutes\nGroup C: 11 minutes\nGroup D: 14 minutes\nA student claims that Group B spent longer revising, on average, than Group D.\nWhich choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is unsupported because Group D also spent more than 12 minutes revising.",
+      "B": "The claim is supported because Group B’s average revision time is greater than Group D’s.",
+      "C": "The claim is unsupported because Group A and Group C together spent longer than Group B.",
+      "D": "The claim is supported because Group B revised for the longest time of all four groups."
+    },
+    "correct": "B",
+    "explanation": "Group B averaged 15 minutes, which is greater than Group D’s 14 minutes."
+  },
+  {
+    "id": "RW5-M2-014",
+    "prompt": "In a discussion of public speaking, a coach says that a speaker’s pauses should sound <u>intentional</u>, giving the impression of control rather than hesitation.\nAs used in the text, what does “intentional” most nearly mean?",
+    "choices": {
+      "A": "deliberate",
+      "B": "accidental",
+      "C": "nervous",
+      "D": "repeated"
+    },
+    "correct": "A",
+    "explanation": "In context, “intentional” means purposeful or deliberate."
+  },
+  {
+    "id": "RW5-M2-015",
+    "prompt": "In a novel, the narrator describes an unfinished letter found in a desk drawer: “The first lines were calm, almost formal. Then the sentences grew shorter, as if the writer had begun to run out of patience or certainty before running out of paper.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The narrator views the unfinished letter as evidence of a change in the writer’s state of mind.",
+      "B": "The narrator believes the letter was written by a child.",
+      "C": "The narrator thinks the desk drawer had been searched before.",
+      "D": "The narrator cannot understand the first lines of the letter."
+    },
+    "correct": "A",
+    "explanation": "The shift from calm, formal lines to shorter sentences suggests changing patience or certainty."
+  },
+  {
+    "id": "RW5-M2-016",
+    "prompt": "A study found that students who generated their own headings for sections of a science text later recalled the text’s organization more accurately than students who read headings supplied by the textbook. The researchers caution, however, that the study did not measure whether student-generated headings improved recall of exact terminology.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Creating headings may help students remember a text’s structure even if its effect on memorizing exact terms remains unclear.",
+      "B": "Supplied headings always reduce understanding of science texts.",
+      "C": "Students remember terminology best when headings are omitted entirely.",
+      "D": "The study proved that textbook headings are ineffective for every purpose."
+    },
+    "correct": "A",
+    "explanation": "The study found an advantage for recalling organization, but not necessarily terminology."
+  },
+  {
+    "id": "RW5-M2-017",
+    "prompt": "A historian argues that early public health posters gained authority partly by echoing the visual style of government proclamations. To support this claim, the historian notes that even skeptical readers described the posters as looking “official” and “hard to ignore.”\nWhy does the author most likely include the example of skeptical readers describing the posters as “official”?",
+    "choices": {
+      "A": "To show that the posters’ design influenced how readers perceived their authority",
+      "B": "To prove that the posters were legally binding government orders",
+      "C": "To argue that visual design matters less than written content",
+      "D": "To suggest that skeptical readers eventually ignored the posters"
+    },
+    "correct": "A",
+    "explanation": "Even skeptical readers described the posters as “official,” supporting the claim about visual authority."
+  },
+  {
+    "id": "RW5-M2-018",
+    "prompt": "A student is writing about thermal batteries and has taken these notes:\n• Thermal batteries store energy as heat or cold for later use.\n• In some buildings, they can reduce electricity demand during peak hours.\n• Their usefulness depends on matching storage design to how and when a building uses energy.\n• Installing such systems can require significant upfront investment.\nThe student wants to explain a potential benefit of thermal batteries while acknowledging a practical limitation. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Thermal batteries can help some buildings lower electricity demand during peak periods, but they may require significant upfront investment and careful design.",
+      "B": "Buildings use energy in many different ways.",
+      "C": "Thermal batteries eliminate the need for all other energy systems.",
+      "D": "Upfront investment is never a concern in building design."
+    },
+    "correct": "A",
+    "explanation": "This choice states both the benefit and the practical limitation from the notes."
+  },
+  {
+    "id": "RW5-M2-019",
+    "prompt": "The committee agreed that the museum’s storage system needed improvement. ______, members disagreed about whether the collection should be reorganized by material, by period, or by place of origin.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "Similarly,",
+      "C": "Nevertheless,",
+      "D": "Consequently,"
+    },
+    "correct": "C",
+    "explanation": "The second sentence contrasts agreement about the need for improvement with disagreement about how to reorganize the collection."
+  },
+  {
+    "id": "RW5-M2-020",
+    "prompt": "The seminar asks students to summarize sources, compare interpretations, and <u>the evaluation of the evidence used by each author.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the evaluation of the evidence used by each author.",
+      "B": "evaluating the evidence used by each author.",
+      "C": "evaluate the evidence used by each author.",
+      "D": "to evaluating the evidence used by each author."
+    },
+    "correct": "C",
+    "explanation": "“Evaluate” matches the parallel verbs “summarize” and “compare.”"
+  },
+  {
+    "id": "RW5-M2-021",
+    "prompt": "The article “Signals in Stone” by <u>historian Leila Hart</u> appears in the journal’s spring issue.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "historian, Leila Hart,",
+      "C": "historian Leila, Hart",
+      "D": "historian, Leila Hart"
+    },
+    "correct": "A",
+    "explanation": "No commas are needed because “historian Leila Hart” is an essential identifying phrase."
+  },
+  {
+    "id": "RW5-M2-022",
+    "prompt": "The pattern of storms and unusually high tides <u>has</u> complicated the harbor repair schedule.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "are"
+    },
+    "correct": "B",
+    "explanation": "The subject “pattern” is singular, so the singular verb “has” is correct."
+  },
+  {
+    "id": "RW5-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The update improved the app.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The update improved the app.",
+      "B": "The update made the app better in several important ways.",
+      "C": "The update reduced loading time, added offline access to saved files, and simplified the menu used to share documents.",
+      "D": "The update was useful to many people."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces vague wording with specific improvements."
+  },
+  {
+    "id": "RW5-M2-024",
+    "prompt": "[1] In alpine environments, snow can linger in shaded hollows long after exposed ground has thawed. [2] As a result, nearby plants may begin growing at different times even within a small area. [3] These differences affect when insects emerge and when pollinators find flowers. [4] Researchers study such timing shifts to understand how mountain ecosystems respond to variation in temperature and snow cover.\nWhich choice best describes the most logical placement for the following sentence?\n“Small changes in elevation or sunlight can therefore create distinct seasonal schedules across a landscape.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The new sentence follows the description of timing differences and leads naturally to the broader ecosystem discussion in sentence 4."
+  },
+  {
+    "id": "RW5-M2-025",
+    "prompt": "The report originally described the new archives portal as “useful,” but that wording failed to show that the portal especially helped researchers working from other cities while offering only minor advantages to people already using the archive in person. The editor suggests replacing “useful” with <u>especially beneficial for remote researchers</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the statement more precise by specifying who benefited most from the portal.",
+      "B": "It makes the statement less formal by using vague language.",
+      "C": "It changes the meaning by suggesting that the portal helped no one on site.",
+      "D": "It introduces a personal opinion that the original avoided."
+    },
+    "correct": "A",
+    "explanation": "The revision clarifies that the portal especially helped remote researchers."
+  },
+  {
+    "id": "RW5-M2-026",
+    "prompt": "In an experiment, researchers found that ants reached food more quickly when the path included a low side wall than when the path was completely open. The researchers suggest that the wall may have helped guide the ants’ movement along the route.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "A low side wall may influence how efficiently ants travel toward food.",
+      "B": "Ants can find food only when barriers are present.",
+      "C": "Open paths always prevent ants from moving in a straight line.",
+      "D": "The researchers proved that ants prefer walls to food."
+    },
+    "correct": "A",
+    "explanation": "The ants reached food more quickly when the path included a low wall."
+  },
+  {
+    "id": "RW5-M2-027",
+    "prompt": "An essay on translation ends by noting that a translated poem carries not just the meaning of the original words but also a record of the translator’s choices about rhythm, tone, and emphasis. Those choices, the essay argues, shape how new readers encounter the poem.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It reframes translation as an interpretive act that affects readers’ experience.",
+      "B": "It narrows the discussion to the history of one translator.",
+      "C": "It argues that translated poems should imitate every sound of the original.",
+      "D": "It repeats the earlier claim without adding any new idea."
+    },
+    "correct": "A",
+    "explanation": "The final sentence explains that the translator’s choices shape how new readers encounter the poem."
+  }
+]

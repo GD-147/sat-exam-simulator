@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH5-M1-001",
+    "prompt": "A canoe rental company charges a flat fee of $14 plus $9 for each half-hour of use. If a customer pays $68 before tax, how many half-hours did the customer rent the canoe?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "Let h be the number of half-hours. Then 14 + 9h = 68, so 9h = 54 and h = 6."
+  },
+  {
+    "id": "MATH5-M1-002",
+    "prompt": "Which inequality is equivalent to 4 − 3(2x − 1) < 10 ?",
+    "choices": {
+      "A": "x < −1/2",
+      "B": "x > −1/2",
+      "C": "x < 1/2",
+      "D": "x > 1/2"
+    },
+    "correct": "B",
+    "explanation": "Simplify: 4 − 6x + 3 < 10, so 7 − 6x < 10. Then −6x < 3, and dividing by −6 reverses the inequality, giving x > −1/2."
+  },
+  {
+    "id": "MATH5-M1-003",
+    "prompt": "Which expression is equivalent to (x + 2)(x − 7) + 14 ?",
+    "choices": {
+      "A": "x² − 5x",
+      "B": "x² − 5x − 14",
+      "C": "x² − 9x",
+      "D": "x² + 9x − 14"
+    },
+    "correct": "A",
+    "explanation": "Expand first: (x + 2)(x − 7) = x² − 5x − 14. Adding 14 gives x² − 5x."
+  },
+  {
+    "id": "MATH5-M1-004",
+    "prompt": "A line passes through the points (−3, 12) and (1, 4). What is the x-coordinate of the x-intercept of the line?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "The slope is (4 − 12)/(1 − (−3)) = −8/4 = −2. Using point-slope form gives y = −2x + 6. Set y = 0 to find the x-intercept: 0 = −2x + 6, so x = 3."
+  },
+  {
+    "id": "MATH5-M1-005",
+    "prompt": "The point (4, 1) lies on the line y = 2x + k. What is the value of k ?",
+    "choices": {
+      "A": "−9",
+      "B": "−7",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Substitute (4, 1) into y = 2x + k: 1 = 2(4) + k = 8 + k. So k = −7."
+  },
+  {
+    "id": "MATH5-M1-006",
+    "prompt": "One letter is selected at random from the word MISSISSIPPI. What is the probability that the selected letter is P?",
+    "choices": {
+      "A": "1/11",
+      "B": "2/11",
+      "C": "2/9",
+      "D": "4/11"
+    },
+    "correct": "B",
+    "explanation": "MISSISSIPPI has 11 letters total, and 2 of them are P. So the probability is 2/11."
+  },
+  {
+    "id": "MATH5-M1-007",
+    "prompt": "A circle has area 49π. What is the circumference of the circle?",
+    "choices": {
+      "A": "7π",
+      "B": "14π",
+      "C": "28π",
+      "D": "49π"
+    },
+    "correct": "B",
+    "explanation": "Since the area is 49π, the radius is 7. The circumference is 2πr = 14π."
+  },
+  {
+    "id": "MATH5-M1-008",
+    "prompt": "The table shows a data set.\nValue 2 4 6 8\nFrequency 1 2 3 4\nWhat is the mean of the data set?",
+    "choices": {
+      "A": "5",
+      "B": "5.5",
+      "C": "6",
+      "D": "6.5"
+    },
+    "correct": "C",
+    "explanation": "Compute the weighted mean: (2·1 + 4·2 + 6·3 + 8·4) / (1 + 2 + 3 + 4) = 60/10 = 6."
+  },
+  {
+    "id": "MATH5-M1-009",
+    "prompt": "Which expression is equivalent to √45 + 2√20 ?",
+    "choices": {
+      "A": "5√5",
+      "B": "6√5",
+      "C": "7√5",
+      "D": "9√5"
+    },
+    "correct": "C",
+    "explanation": "Simplify each radical: √45 = 3√5 and √20 = 2√5. Then √45 + 2√20 = 3√5 + 4√5 = 7√5."
+  },
+  {
+    "id": "MATH5-M1-010",
+    "prompt": "If f(x) = 2x² − x + 1, what is the value of f(3) − f(1) ?",
+    "choices": {
+      "A": "12",
+      "B": "14",
+      "C": "16",
+      "D": "18"
+    },
+    "correct": "B",
+    "explanation": "f(3) = 2(3²) − 3 + 1 = 16, and f(1) = 2(1²) − 1 + 1 = 2. Their difference is 16 − 2 = 14."
+  },
+  {
+    "id": "MATH5-M1-011",
+    "prompt": "If x − 2 is a factor of x² + kx − 8, what is the value of k ?",
+    "choices": {
+      "A": "−2",
+      "B": "2",
+      "C": "4",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "If x − 2 is a factor, then substituting x = 2 makes the polynomial 0. So 2² + 2k − 8 = 0, which gives 4 + 2k − 8 = 0, so 2k = 4 and k = 2."
+  },
+  {
+    "id": "MATH5-M1-012",
+    "prompt": "A circle has circumference 18π. What is the area of the circle?",
+    "choices": {
+      "A": "18π",
+      "B": "36π",
+      "C": "72π",
+      "D": "81π"
+    },
+    "correct": "D",
+    "explanation": "If the circumference is 18π, then 2πr = 18π, so r = 9. The area is πr² = 81π."
+  },
+  {
+    "id": "MATH5-M1-013",
+    "prompt": "A jar contains only pennies and nickels. There are 19 coins total, and their total value is 55 cents. How many of the coins are nickels?",
+    "choices": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "Let n be the number of nickels and p the number of pennies. Then p + n = 19 and p + 5n = 55. Subtracting the first equation from the second gives 4n = 36, so n = 9."
+  },
+  {
+    "id": "MATH5-M1-014",
+    "prompt": "The angles of a triangle have measures x°, (x + 20)°, and 2x°. What is the measure of the largest angle?",
+    "choices": {
+      "A": "40°",
+      "B": "60°",
+      "C": "80°",
+      "D": "100°"
+    },
+    "correct": "C",
+    "explanation": "The angles sum to 180°, so x + (x + 20) + 2x = 180. Then 4x + 20 = 180, so x = 40. The largest angle is 2x = 80°."
+  },
+  {
+    "id": "MATH5-M1-015",
+    "prompt": "What is the value of 32^(3/5) ?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "Since 32 = 2⁵, 32^(3/5) = (2⁵)^(3/5) = 2³ = 8."
+  },
+  {
+    "id": "MATH5-M1-016",
+    "prompt": "The ratio of yellow beads to purple beads in a bracelet is 3:8. If the bracelet contains 66 beads in total, how many of the beads are purple?",
+    "choices": {
+      "A": "18",
+      "B": "24",
+      "C": "42",
+      "D": "48"
+    },
+    "correct": "D",
+    "explanation": "The total ratio parts are 3 + 8 = 11. Each part is 66/11 = 6 beads, so the number of purple beads is 8·6 = 48."
+  },
+  {
+    "id": "MATH5-M1-017",
+    "prompt": "The equation d = 1.5t + 24 models the distance d, in miles, of a train from a station t hours after noon. What does the number 24 represent in this context?",
+    "choices": {
+      "A": "The train travels 24 miles each hour.",
+      "B": "The train is 24 miles from the station at noon.",
+      "C": "The train reaches the station after 24 hours.",
+      "D": "The train is 24 miles from the station after 1.5 hours."
+    },
+    "correct": "B",
+    "explanation": "In d = 1.5t + 24, the constant term is the value of d when t = 0. That means the train is 24 miles from the station at noon."
+  },
+  {
+    "id": "MATH5-M1-018",
+    "prompt": "A rectangular prism has dimensions 3, 4, and 5. What is the total surface area of the prism?",
+    "choices": {
+      "A": "47",
+      "B": "60",
+      "C": "94",
+      "D": "120"
+    },
+    "correct": "C",
+    "explanation": "Surface area of a rectangular prism is 2(lw + lh + wh). Here that is 2(3·4 + 3·5 + 4·5) = 2(12 + 15 + 20) = 94."
+  },
+  {
+    "id": "MATH5-M1-019",
+    "prompt": "A triangle with side lengths 9, 12, and 15 is similar to a larger triangle whose shortest side has length 15. What is the perimeter of the larger triangle?",
+    "choices": {
+      "A": "45",
+      "B": "54",
+      "C": "60",
+      "D": "72"
+    },
+    "correct": "C",
+    "explanation": "The scale factor from the smaller triangle to the larger is 15/9 = 5/3. The smaller perimeter is 9 + 12 + 15 = 36, so the larger perimeter is 36·(5/3) = 60."
+  },
+  {
+    "id": "MATH5-M1-020",
+    "prompt": "The table shows values of a function.\nx y\n−1 6\n0 3\n1 2\n2 3\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = x² − 2x + 3",
+      "B": "y = x² + 2x + 3",
+      "C": "y = 2x² + 3",
+      "D": "y = x² − 3"
+    },
+    "correct": "A",
+    "explanation": "Substitute the x-values. For x = −1, 0, 1, 2, the expression x² − 2x + 3 gives 6, 3, 2, 3, matching the table."
+  },
+  {
+    "id": "MATH5-M1-021",
+    "prompt": "An isosceles triangle has side lengths 13, 13, and 10. What is the height of the triangle drawn to the side of length 10?",
+    "choices": {
+      "A": "5",
+      "B": "10",
+      "C": "12",
+      "D": "13"
+    },
+    "correct": "C",
+    "explanation": "The height to the base of length 10 splits the base into two segments of length 5. Using the Pythagorean theorem on one half gives h² + 5² = 13², so h² = 144 and h = 12."
+  },
+  {
+    "id": "MATH5-M1-022",
+    "prompt": "What is the positive solution to the equation |3x − 4| = 11 ?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "11/3",
+      "D": "15/4"
+    },
+    "correct": "B",
+    "explanation": "Solve |3x − 4| = 11 by cases. Then 3x − 4 = 11 or 3x − 4 = −11. The solutions are x = 5 and x = −7/3. The positive solution is 5.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

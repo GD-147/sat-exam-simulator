@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW4-M2-001",
+    "prompt": "A critic remarks that the philosopher’s style is “deliberately spare,” suggesting that the author omits ornament in order to keep readers’ attention on the argument itself.\nAs used in the text, what does “spare” most nearly mean?",
+    "choices": {
+      "A": "severe",
+      "B": "excessive",
+      "C": "decorative",
+      "D": "unfinished"
+    },
+    "correct": "A",
+    "explanation": "Here “spare” means plain and severe in style, without ornament."
+  },
+  {
+    "id": "RW4-M2-002",
+    "prompt": "A historian argues that museum labels do more than identify objects. By deciding which dates, places, and terms to include, labels can shape what visitors treat as central and what they regard as secondary. In that sense, even brief descriptions participate in the interpretation of history.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Museum labels are too short to influence visitors’ interpretations.",
+      "B": "Museum labels can influence how visitors understand historical objects.",
+      "C": "Visitors pay more attention to labels than to objects.",
+      "D": "Dates and places are the least useful parts of museum labels."
+    },
+    "correct": "B",
+    "explanation": "The passage says labels shape what visitors see as central or secondary."
+  },
+  {
+    "id": "RW4-M2-003",
+    "prompt": "Researchers studying groundwater in farming regions often estimate nitrate levels by sampling wells at selected sites. However, because soil composition and water flow can vary sharply over small distances, measurements from one well may not represent conditions a short distance away.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Nitrate levels in groundwater may vary locally enough that limited sampling can miss important differences.",
+      "B": "All wells in farming regions contain the same nitrate levels.",
+      "C": "Soil composition has no effect on groundwater measurements.",
+      "D": "Researchers should stop using wells to study groundwater entirely."
+    },
+    "correct": "A",
+    "explanation": "The text says nearby wells may show different conditions because of local variation."
+  },
+  {
+    "id": "RW4-M2-004",
+    "prompt": "A literary scholar notes that a playwright repeatedly interrupts courtroom scenes with songs sung offstage. The scholar argues that these interruptions prevent the audience from treating the legal proceedings as entirely self-contained or authoritative.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It provides a pattern that the second sentence interprets.",
+      "B": "It contradicts the explanation in the second sentence.",
+      "C": "It describes how audiences reacted to the songs when the play premiered.",
+      "D": "It explains why the playwright preferred music to dialogue."
+    },
+    "correct": "A",
+    "explanation": "The first sentence identifies the interruptions; the second explains their significance."
+  },
+  {
+    "id": "RW4-M2-005",
+    "prompt": "A student is writing about microbial fuel cells and has taken these notes:\n• Microbial fuel cells use certain bacteria to help generate electricity.\n• These systems can sometimes be powered by organic waste materials.\n• Their electrical output is relatively low compared with that of large conventional power sources.\n• Researchers are exploring ways to improve efficiency.\nThe student wants to emphasize both a potential advantage and a current limitation of microbial fuel cells. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Microbial fuel cells use bacteria and can draw on organic waste, but their output is still relatively low, so researchers are trying to improve their efficiency.",
+      "B": "Conventional power sources do not use bacteria.",
+      "C": "Organic waste is the only useful material for producing electricity.",
+      "D": "Researchers have already solved the efficiency problems of microbial fuel cells."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the potential advantage and the stated limitation."
+  },
+  {
+    "id": "RW4-M2-006",
+    "prompt": "The historian expected the newly discovered maps to confirm the accepted boundary line. ______, several markings suggested that the border had been interpreted differently at the time.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Instead,",
+      "C": "For instance,",
+      "D": "In addition,"
+    },
+    "correct": "B",
+    "explanation": "The maps did not confirm the accepted line; they suggested a different interpretation."
+  },
+  {
+    "id": "RW4-M2-007",
+    "prompt": "The committee agreed on one point<u>: the old bridge could no longer carry heavy trucks safely.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; the old bridge could no longer carry heavy trucks safely.",
+      "C": ", the old bridge could no longer carry heavy trucks safely.",
+      "D": "the old bridge could no longer carry heavy trucks safely;"
+    },
+    "correct": "A",
+    "explanation": "A colon correctly introduces the specific point on which the committee agreed."
+  },
+  {
+    "id": "RW4-M2-008",
+    "prompt": "While often described as a storage system, a seed bank also reflects countless decisions about which varieties are considered worth preserving.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It identifies the inventor of the seed bank.",
+      "B": "It contrasts a common description with a more complex interpretation.",
+      "C": "It explains how seeds are physically stored.",
+      "D": "It summarizes the results of a scientific experiment."
+    },
+    "correct": "B",
+    "explanation": "The introductory phrase sets up a contrast between a simple view of seed banks and a broader one."
+  },
+  {
+    "id": "RW4-M2-009",
+    "prompt": "After Naomi consulted Victor about Elena’s article, <u>she</u> proposed adding a paragraph on regional trade.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "she",
+      "B": "Naomi",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “she” with “Naomi” removes the ambiguity."
+  },
+  {
+    "id": "RW4-M2-010",
+    "prompt": "Had the museum installed climate controls earlier, the paintings <u>suffer</u> less damage during the unusually humid summer.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "suffer",
+      "B": "suffered",
+      "C": "would suffer",
+      "D": "would have suffered"
+    },
+    "correct": "D",
+    "explanation": "The sentence describes an unreal past condition and its unreal past result, requiring “would have suffered.”"
+  },
+  {
+    "id": "RW4-M2-011",
+    "prompt": "The editor meant to say that the study relied on interviews mainly during the first phase, but the sentence as drafted says that the study <u>mainly relied on interviews during the first phase and surveys later.</u>\nWhich choice best revises the text so that “mainly” is placed as precisely as possible?",
+    "choices": {
+      "A": "mainly relied on interviews during the first phase and surveys later.",
+      "B": "relied mainly on interviews during the first phase and surveys later.",
+      "C": "relied on interviews mainly during the first phase and surveys later.",
+      "D": "relied on interviews during the mainly first phase and surveys later."
+    },
+    "correct": "C",
+    "explanation": "This placement makes clear that “mainly” modifies the timing of the interviews."
+  },
+  {
+    "id": "RW4-M2-012",
+    "prompt": "[1] In some volcanic regions, layers of ash settle over the landscape after an eruption. [2] Over time, weathering can release minerals from the ash into the soil. [3] For that reason, areas near volcanoes sometimes become highly productive for agriculture. [4] This productivity, however, may come only after communities have faced the immediate dangers of eruption.\nWhich choice best describes the most logical placement for the following sentence?\n“The same material that causes destruction in the short term can therefore contribute to fertility in the long term.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence connects the ash in sentence 1 and the mineral release in sentence 2 to the fertility discussed later."
+  },
+  {
+    "id": "RW4-M2-013",
+    "prompt": "A researcher tracked the average amount of time four groups spent reviewing feedback on a writing task.\nGroup 1: 6.5 minutes\nGroup 2: 8.0 minutes\nGroup 3: 7.5 minutes\nGroup 4: 5.5 minutes\nA student claims that Group 2 spent the most time reviewing feedback.\nWhich choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is unsupported because Group 3 spent nearly as much time as Group 2.",
+      "B": "The claim is supported because Group 2’s average review time is the highest of the four groups.",
+      "C": "The claim is unsupported because Group 1 and Group 4 together spent more time than Group 2.",
+      "D": "The claim is supported because Group 2 spent more than 7 minutes reviewing feedback."
+    },
+    "correct": "B",
+    "explanation": "Group 2’s 8.0 minutes is greater than the averages of the other groups."
+  },
+  {
+    "id": "RW4-M2-014",
+    "prompt": "In a discussion of economic policy, an analyst says that a tax incentive can be politically <u>palatable</u> even when experts disagree about its effectiveness.\nAs used in the text, what does “palatable” most nearly mean?",
+    "choices": {
+      "A": "edible",
+      "B": "measurable",
+      "C": "acceptable",
+      "D": "predictable"
+    },
+    "correct": "C",
+    "explanation": "In context, “palatable” means politically acceptable."
+  },
+  {
+    "id": "RW4-M2-015",
+    "prompt": "In a novel, the narrator recalls a teacher who never answered questions immediately: “She would look out the window first, as if letting the room’s impatience settle. Only then would she speak, and by then the question often sounded different from how it had sounded a moment before.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The narrator’s teacher used delay to change how questions were considered.",
+      "B": "The narrator’s teacher disliked speaking to students.",
+      "C": "The narrator could rarely hear the teacher’s answers.",
+      "D": "The teacher answered questions quickly to keep class moving."
+    },
+    "correct": "A",
+    "explanation": "The teacher’s pause made the question seem different by the time she responded."
+  },
+  {
+    "id": "RW4-M2-016",
+    "prompt": "A study found that people navigating a virtual city remembered locations more accurately when they first explored the city by making their own route choices rather than by following a prescribed path. The researchers note, however, that the study did not determine whether the same effect would occur in unfamiliar real-world cities.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Choosing one’s own route may improve spatial memory in a virtual environment, though the finding may not automatically apply to real cities.",
+      "B": "Prescribed paths always prevent people from learning a place.",
+      "C": "Virtual environments are identical to real-world cities for navigation research.",
+      "D": "The study proved that all route choices are equally effective."
+    },
+    "correct": "A",
+    "explanation": "The study found an effect in a virtual city but did not show the same effect in real ones."
+  },
+  {
+    "id": "RW4-M2-017",
+    "prompt": "A historian argues that early labor newspapers gained credibility by printing detailed wage tables alongside opinion essays. To support this claim, the historian notes that critics who rejected the papers’ politics still cited their numerical data in later debates.\nWhy does the author most likely include the example of critics citing the wage tables?",
+    "choices": {
+      "A": "To show that the newspapers’ factual data were taken seriously even by opponents",
+      "B": "To prove that the newspapers were written by factory owners",
+      "C": "To argue that opinion essays are more persuasive than data tables",
+      "D": "To suggest that critics agreed with the newspapers’ politics"
+    },
+    "correct": "A",
+    "explanation": "Critics rejected the politics but still used the wage tables, supporting the claim about credibility."
+  },
+  {
+    "id": "RW4-M2-018",
+    "prompt": "A student is writing about direct-air-capture systems and has taken these notes:\n• Direct-air-capture systems remove carbon dioxide from the atmosphere.\n• Some systems store the captured carbon underground.\n• The technology could help reduce atmospheric carbon dioxide levels.\n• At present, direct air capture is energy-intensive and expensive.\nThe student wants to explain the potential purpose of direct-air-capture systems while acknowledging a major obstacle to their wider use. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Direct-air-capture systems remove carbon dioxide from the air and can store it underground, but the technology is currently costly and energy-intensive.",
+      "B": "Carbon dioxide is present in the atmosphere.",
+      "C": "Underground storage is simple and inexpensive in every location.",
+      "D": "Direct air capture has already replaced all other climate technologies."
+    },
+    "correct": "A",
+    "explanation": "This choice states the systems’ purpose and the major obstacle from the notes."
+  },
+  {
+    "id": "RW4-M2-019",
+    "prompt": "The panel agreed that the region’s water policy needed revision. ______, the speakers disagreed about whether conservation targets should be voluntary or mandatory.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Similarly,",
+      "B": "Consequently,",
+      "C": "Nevertheless,",
+      "D": "For example,"
+    },
+    "correct": "C",
+    "explanation": "The second sentence contrasts agreement on revision with disagreement about the form it should take."
+  },
+  {
+    "id": "RW4-M2-020",
+    "prompt": "The fellowship is intended not only to support archival research but also <u>to connect scholars across institutions and building new collaborations.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "to connect scholars across institutions and building new collaborations.",
+      "B": "connect scholars across institutions and build new collaborations.",
+      "C": "to connect scholars across institutions and build new collaborations.",
+      "D": "connecting scholars across institutions and to build new collaborations."
+    },
+    "correct": "C",
+    "explanation": "This choice preserves parallel structure after “not only ... but also.”"
+  },
+  {
+    "id": "RW4-M2-021",
+    "prompt": "The essay “Cloud Patterns” by <u>poet Dana Alvarez</u> opens the collection.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "poet, Dana Alvarez,",
+      "C": "poet Dana, Alvarez",
+      "D": "poet, Dana Alvarez"
+    },
+    "correct": "A",
+    "explanation": "No commas are needed because “poet Dana Alvarez” is an essential identifying phrase."
+  },
+  {
+    "id": "RW4-M2-022",
+    "prompt": "The sequence of interviews and site visits <u>reveals</u> how much planning went into the restoration.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "reveal",
+      "B": "reveals",
+      "C": "have revealed",
+      "D": "revealing"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “sequence” takes the singular verb “reveals.”"
+  },
+  {
+    "id": "RW4-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The redesign changed the website a lot.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The redesign changed the website a lot.",
+      "B": "The redesign changed many aspects of the website.",
+      "C": "The redesign shortened the checkout process, improved the site’s performance on phones, and made product information easier to compare across pages.",
+      "D": "The redesign had several major effects that were important."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces vague wording with specific improvements."
+  },
+  {
+    "id": "RW4-M2-024",
+    "prompt": "[1] Many freshwater mussels live partly buried in riverbeds and streambeds. [2] By filtering water as they feed, they can influence local water quality. [3] Different species vary in where they thrive and how sensitive they are to pollution. [4] Because of these differences, biologists sometimes use mussel communities to assess the condition of freshwater ecosystems.\nWhich choice best describes the most logical placement for the following sentence?\n“No single species can represent the health of every river system.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence follows the statement about species differences and leads naturally to sentence 4."
+  },
+  {
+    "id": "RW4-M2-025",
+    "prompt": "The report originally described the new crossing signal as “helpful,” but that wording did not show that the signal reduced pedestrian wait times at crowded intersections while making little difference at quiet ones. The editor suggests replacing “helpful” with <u>effective mainly at crowded intersections</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the report less formal by using vague conversational language.",
+      "B": "It makes the report more precise by clarifying where the signal had the strongest effect.",
+      "C": "It changes the meaning by implying that the signal failed everywhere.",
+      "D": "It introduces a subjective opinion that the original avoided."
+    },
+    "correct": "B",
+    "explanation": "The revision specifies that the signal worked mainly at crowded intersections."
+  },
+  {
+    "id": "RW4-M2-026",
+    "prompt": "In an experiment, researchers found that seedlings exposed to a gentle brushing motion each day grew shorter stems than identical seedlings left untouched. The researchers suggest that repeated mechanical stimulation may alter how the plants allocate growth.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Physical contact may influence stem growth in developing plants.",
+      "B": "All touched plants grow more quickly than untouched plants.",
+      "C": "Seedlings can grow only when handled by humans.",
+      "D": "Shorter stems always mean unhealthy plants."
+    },
+    "correct": "A",
+    "explanation": "The seedlings that were brushed developed shorter stems, suggesting contact affected growth."
+  },
+  {
+    "id": "RW4-M2-027",
+    "prompt": "An essay on place-names concludes by observing that maps do more than identify locations. They also record choices about which names are preserved, translated, or omitted, and those choices can reflect power, memory, and identity.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It narrows the discussion to printing techniques used in mapmaking.",
+      "B": "It reframes maps as records of cultural and political decisions, not just geographic tools.",
+      "C": "It argues that all place-names should remain unchanged forever.",
+      "D": "It repeats the earlier claim without expanding it."
+    },
+    "correct": "B",
+    "explanation": "The final sentence shifts the focus from location-marking to choices about naming and power."
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW9-M1-001",
+    "prompt": "In a review of a memoir, a critic notes that the author’s tone is “unsentimental,” describing layoffs, illnesses, and moves without asking the reader for pity.\nAs used in the text, what does “unsentimental” most nearly mean?",
+    "choices": {
+      "A": "not overly emotional",
+      "B": "richly detailed",
+      "C": "unexpectedly humorous",
+      "D": "morally uncertain"
+    },
+    "correct": "A",
+    "explanation": "In context, “unsentimental” means the writer avoids emotional appeal or pity."
+  },
+  {
+    "id": "RW9-M1-002",
+    "prompt": "Small farms that cannot afford their own cold rooms sometimes join cooperatives that share refrigerated storage. Access to cooling can reduce spoilage after harvest and give growers more time to transport produce to distant markets. For that reason, shared cold storage can strengthen the economic position of smaller farms.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Shared refrigerated storage can help small farms reduce spoilage and reach wider markets.",
+      "B": "Cold rooms are useful only for farms that sell in nearby towns.",
+      "C": "Produce spoils more quickly in refrigerated storage than in open air.",
+      "D": "Distant markets are replacing local markets for most farmers."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that cooling prevents spoilage and gives growers more time to ship produce farther."
+  },
+  {
+    "id": "RW9-M1-003",
+    "prompt": "In many early animation studios, lead artists planned key poses for characters, while teams of assistants inked outlines, painted cels, and photographed completed frames. This division of labor allowed studios to release cartoons on demanding schedules.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Early animation studios depended on specialized tasks to produce cartoons efficiently.",
+      "B": "Lead artists usually photographed each frame themselves.",
+      "C": "Assistants in animation studios were responsible only for writing dialogue.",
+      "D": "Releasing cartoons on tight schedules made audiences less interested in them."
+    },
+    "correct": "A",
+    "explanation": "The text describes distinct roles for lead artists and assistants and links that division of labor to demanding production schedules."
+  },
+  {
+    "id": "RW9-M1-004",
+    "prompt": "A geographer notes that a cluster of towns developed where a river narrows before entering a wide plain. The geographer suggests that the narrowing may have made the river easier to cross, helping trade routes converge there.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a geographic detail that the second sentence explains the significance of.",
+      "B": "It presents a theory that the second sentence rejects.",
+      "C": "It describes how the plain was formed by volcanic activity.",
+      "D": "It argues that trade routes avoided rivers whenever possible."
+    },
+    "correct": "A",
+    "explanation": "The river’s narrowing is the physical feature, and the second sentence explains why it may have mattered for trade."
+  },
+  {
+    "id": "RW9-M1-005",
+    "prompt": "A student is writing about public bathhouses in industrial cities and has taken these notes:\n• In some industrial cities, public bathhouses opened in neighborhoods where many homes lacked indoor plumbing.\n• The bathhouses gave residents access to washing facilities.\n• Reformers argued that the bathhouses could improve public health.\n• Some bathhouses also included reading rooms or meeting spaces.\nThe student wants to emphasize why reformers supported public bathhouses. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Public bathhouses opened in some industrial neighborhoods.",
+      "B": "Reformers supported public bathhouses because they provided washing facilities in areas without indoor plumbing and were seen as a way to improve public health.",
+      "C": "Some bathhouses also included reading rooms or meeting spaces.",
+      "D": "Many homes in industrial cities lacked indoor plumbing."
+    },
+    "correct": "B",
+    "explanation": "This choice directly combines the two main reasons given in the notes."
+  },
+  {
+    "id": "RW9-M1-006",
+    "prompt": "The foundation shortened its fellowship application from twelve pages to four. ______, many more artists completed it before the deadline.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Likewise,",
+      "C": "For instance,",
+      "D": "Meanwhile,"
+    },
+    "correct": "A",
+    "explanation": "The shorter application led to more artists completing it, so a cause-and-effect transition is needed."
+  },
+  {
+    "id": "RW9-M1-007",
+    "prompt": "The smallest bell in the tower <u>—cast in 1812—</u> rings only on ceremonial days.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ", cast in 1812,",
+      "C": "; cast in 1812;",
+      "D": ": cast in 1812:"
+    },
+    "correct": "A",
+    "explanation": "The dashes correctly set off the nonessential phrase “cast in 1812.”"
+  },
+  {
+    "id": "RW9-M1-008",
+    "prompt": "The report documents three decades of shoreline change, <u>it says almost nothing about how residents adapted to repeated flooding.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "it says almost nothing about how residents adapted to repeated flooding.",
+      "B": "but it says almost nothing about how residents adapted to repeated flooding.",
+      "C": "saying almost nothing about how residents adapted to repeated flooding.",
+      "D": "and, it says almost nothing about how residents adapted to repeated flooding."
+    },
+    "correct": "B",
+    "explanation": "“But” correctly joins the independent clauses and signals contrast."
+  },
+  {
+    "id": "RW9-M1-009",
+    "prompt": "During the interview, the editor asked Luis and <u>I</u> to describe our research methods.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "I",
+      "B": "me",
+      "C": "my",
+      "D": "myself"
+    },
+    "correct": "B",
+    "explanation": "The pronoun is part of the compound object of “asked,” so the objective form is required."
+  },
+  {
+    "id": "RW9-M1-010",
+    "prompt": "Since 2021, volunteers <u>catalog</u> the artifacts recovered from the harbor.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "catalog",
+      "B": "cataloged",
+      "C": "have cataloged",
+      "D": "will catalog"
+    },
+    "correct": "C",
+    "explanation": "“Since 2021” calls for the present perfect to describe an action continuing from the past into the present."
+  },
+  {
+    "id": "RW9-M1-011",
+    "prompt": "After turning the final page, <u>the ending stayed with Jordan for days.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the ending stayed with Jordan for days.",
+      "B": "Jordan could not stop thinking about the ending for days.",
+      "C": "the final page made the ending stay with Jordan for days.",
+      "D": "the days after finishing the book felt different to Jordan."
+    },
+    "correct": "B",
+    "explanation": "The revision correctly places Jordan as the person who turned the final page."
+  },
+  {
+    "id": "RW9-M1-012",
+    "prompt": "[1] Some ceramics studios hold open hours when neighbors can watch demonstrations or try basic techniques. [2] For visitors, these sessions can introduce unfamiliar tools and processes. [3] For studios, they can attract future students, customers, or members. [4] As a result, open hours often function as both outreach and practical promotion.\nWhich choice best describes the most logical placement for the following sentence?\n“A few hours of access can therefore benefit both the public and the studio itself.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The new sentence summarizes the benefits to visitors and studios described in sentences 2 and 3 before the concluding sentence."
+  },
+  {
+    "id": "RW9-M1-013",
+    "prompt": "A class recorded the average number of minutes four groups spent rehearsing a presentation.\nGroup A: 18\nGroup B: 22\nGroup C: 17\nGroup D: 20\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Group C rehearsed longer, on average, than Group A.",
+      "B": "Group D rehearsed the longest, on average.",
+      "C": "Group B rehearsed the longest, on average.",
+      "D": "The average rehearsal time fell steadily from Group A through Group D."
+    },
+    "correct": "C",
+    "explanation": "Group B’s average of 22 minutes is the highest of the four groups."
+  },
+  {
+    "id": "RW9-M1-014",
+    "prompt": "The reviewer describes the essay as especially <u>incisive</u>, praising how quickly it identifies the weakness in each counterargument.\nAs used in the text, what does “incisive” most nearly mean?",
+    "choices": {
+      "A": "lengthy",
+      "B": "perceptive",
+      "C": "decorative",
+      "D": "cautious"
+    },
+    "correct": "B",
+    "explanation": "“Incisive” means sharp and perceptive in analysis."
+  },
+  {
+    "id": "RW9-M1-015",
+    "prompt": "In a short story, the narrator says, “My cousin never announced that she was angry. She simply began washing dishes that were already clean, one plate after another, until the rest of us found reasons to leave the kitchen.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The narrator sees the cousin’s anger as indirect but unmistakable.",
+      "B": "The narrator thinks the cousin enjoys washing dishes.",
+      "C": "The cousin expresses anger by speaking loudly to the family.",
+      "D": "The narrator wishes the cousin would leave the kitchen more often."
+    },
+    "correct": "A",
+    "explanation": "The cousin does not announce anger directly, but her behavior clearly communicates it."
+  },
+  {
+    "id": "RW9-M1-016",
+    "prompt": "In a study, office workers found more typographical errors when proofreading on printed pages than when proofreading the same text on a screen. Researchers suggest that small changes in spacing and glare may affect attention to detail.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Paper proofreading may help people notice typographical errors more effectively.",
+      "B": "Screen proofreading always causes workers to overlook major factual mistakes.",
+      "C": "Printed pages are useful only when the text is very short.",
+      "D": "The study proved that spacing and glare do not affect attention."
+    },
+    "correct": "A",
+    "explanation": "Workers found more typographical errors on printed pages than on screens."
+  },
+  {
+    "id": "RW9-M1-017",
+    "prompt": "Urban historian Leena Patel writes, “The market square was not only a place to buy goods; it was also where proclamations were read aloud and news traveled fastest.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To present one historian’s interpretation of the market square as a social and informational hub",
+      "B": "To prove that all announcements in the city were made in the square",
+      "C": "To explain how merchants priced goods in the market",
+      "D": "To describe the exact size of the square"
+    },
+    "correct": "A",
+    "explanation": "The quotation explains that the square served not just commerce but also communication and public announcement."
+  },
+  {
+    "id": "RW9-M1-018",
+    "prompt": "A student is writing about public astronomy nights and has taken these notes:\n• Parks and observatories sometimes host public telescope nights.\n• Participants can view the Moon, planets, or bright star clusters.\n• Volunteers answer questions and explain what viewers are seeing.\n• These events can make astronomy feel more accessible to local communities.\nWhich choice most effectively uses relevant information from the notes to make a general claim about public astronomy nights?",
+    "choices": {
+      "A": "Public telescope nights make astronomy more accessible by letting community members view celestial objects and ask questions.",
+      "B": "Only professional astronomers are able to identify bright objects in the sky.",
+      "C": "Parks and observatories usually restrict telescope use to advanced students.",
+      "D": "Volunteers at astronomy events focus mainly on distributing printed maps."
+    },
+    "correct": "A",
+    "explanation": "This choice accurately combines the viewing and explanation aspects of the notes into a general claim."
+  },
+  {
+    "id": "RW9-M1-019",
+    "prompt": "The original map shows only elevation. ______, the revised edition includes rivers, roads, and town boundaries.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "However,",
+      "C": "For example,",
+      "D": "As a result,"
+    },
+    "correct": "A",
+    "explanation": "The revised edition adds more kinds of information to the map, so an additive transition fits."
+  },
+  {
+    "id": "RW9-M1-020",
+    "prompt": "The internship allowed Priya to sort invoices, schedule interviews, and <u>drafting summaries for weekly meetings.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "drafting summaries for weekly meetings.",
+      "B": "draft summaries for weekly meetings.",
+      "C": "drafted summaries for weekly meetings.",
+      "D": "to drafting summaries for weekly meetings."
+    },
+    "correct": "B",
+    "explanation": "“Draft” matches the parallel verbs “sort” and “schedule.”"
+  },
+  {
+    "id": "RW9-M1-021",
+    "prompt": "The final speaker, <u>a marine ecologist from Chile,</u> described how kelp forests recover after storms.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a nonessential phrase correctly set off with commas.",
+      "B": "It is a restrictive phrase that should not be set off with commas.",
+      "C": "It causes a comma splice.",
+      "D": "It should be moved after “storms.”"
+    },
+    "correct": "A",
+    "explanation": "“A marine ecologist from Chile” adds extra identifying information about the speaker and is correctly punctuated."
+  },
+  {
+    "id": "RW9-M1-022",
+    "prompt": "The appeal of the hiking trails and the lakeside campground <u>draw</u> visitors to the park every summer.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "draw",
+      "B": "draws",
+      "C": "have drawn",
+      "D": "drawing"
+    },
+    "correct": "B",
+    "explanation": "The subject is the singular noun “appeal,” so the singular verb “draws” is required."
+  },
+  {
+    "id": "RW9-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“The library loaned cameras, microphones, and helped students print posters.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because it shifts from items in a series to an action, creating faulty parallelism.",
+      "B": "The sentence should be revised because it should use future tense.",
+      "C": "The sentence should be revised because libraries should not lend cameras.",
+      "D": "The sentence should be revised because “and” should be replaced with “but.”"
+    },
+    "correct": "A",
+    "explanation": "The sentence begins a series of nouns but ends with a verb phrase, which breaks parallel structure."
+  },
+  {
+    "id": "RW9-M1-024",
+    "prompt": "[1] In some towns, former railway depots have been converted into markets or food halls. [2] Renovating the depots preserves historic buildings that might otherwise stand empty. [3] The converted spaces can also attract shoppers and small businesses to older downtown areas. [4] As a result, reuse projects sometimes combine historic preservation with economic activity.\nWhich choice best describes the most logical placement for the following sentence?\n“These projects can therefore connect a town’s past with its current commercial life.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence sums up both the preservation benefit and the downtown economic benefit before the concluding statement."
+  },
+  {
+    "id": "RW9-M1-025",
+    "prompt": "To simplify the sentence, the editor replaced “has the ability to” with <u>can</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It changes the meaning by narrowing the claim too much.",
+      "B": "It makes the sentence shorter without changing its meaning.",
+      "C": "It makes the sentence less grammatical.",
+      "D": "It introduces an unnecessarily informal phrase."
+    },
+    "correct": "B",
+    "explanation": "“Can” is a more concise equivalent of “has the ability to.”"
+  },
+  {
+    "id": "RW9-M1-026",
+    "prompt": "In a training study, cyclists riding stationary bikes kept a more even pace when a quiet metronome played in the background than when they rode in silence. The researchers suggest that a steady external beat may help riders regulate effort.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "A steady beat may help cyclists maintain a more consistent pace.",
+      "B": "Silence always causes cyclists to slow down.",
+      "C": "The researchers proved that metronomes make cyclists stronger.",
+      "D": "Only experienced cyclists can follow an external beat."
+    },
+    "correct": "A",
+    "explanation": "Cyclists kept a more even pace when a metronome played."
+  },
+  {
+    "id": "RW9-M1-027",
+    "prompt": "An article about abandoned rail corridors explains that many have been converted into trails for walking and cycling. The article then notes that nearby cafés and repair shops in some towns have extended weekend hours to serve the increased number of trail users.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It shows one economic effect the trail conversion can have on nearby businesses.",
+      "B": "It argues that all abandoned rail corridors should become commercial districts.",
+      "C": "It introduces a topic unrelated to transportation or recreation.",
+      "D": "It contradicts the article’s claim that trails attract visitors."
+    },
+    "correct": "A",
+    "explanation": "The final sentence gives a concrete example of businesses responding to increased trail use.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

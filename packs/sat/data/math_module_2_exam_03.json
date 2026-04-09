@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH3-M2-001",
+    "prompt": "For what value of k will the system below have infinitely many solutions?\nkx − 3y = 12\n6x − 9y = 36",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "For infinitely many solutions, the two equations must represent the same line. Multiplying the first equation by 3 gives 3kx − 9y = 36, so 3k must equal 6. Thus k = 2."
+  },
+  {
+    "id": "MATH3-M2-002",
+    "prompt": "The equation 1/(x − 3) + 1/(x + 3) = 1/4 has two solutions. What is the sum of those solutions?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "Combine the fractions: 1/(x − 3) + 1/(x + 3) = 2x/(x² − 9). Set equal to 1/4: 8x = x² − 9, so x² − 8x − 9 = 0. The solutions are 9 and −1, and their sum is 8."
+  },
+  {
+    "id": "MATH3-M2-003",
+    "prompt": "The graph of y = a(x − 1)² − 8 passes through the point (3, 4). What is the value of a ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Substitute (3, 4) into y = a(x − 1)² − 8: 4 = a(2²) − 8. So 4 = 4a − 8, which gives 12 = 4a and a = 3."
+  },
+  {
+    "id": "MATH3-M2-004",
+    "prompt": "At 2:00 PM, a bacteria culture contained 640 cells. At 5:00 PM, it contained 80 cells. If the number of cells decreased by the same percent each hour, what was the hourly percent decrease?",
+    "choices": {
+      "A": "20%",
+      "B": "25%",
+      "C": "50%",
+      "D": "75%"
+    },
+    "correct": "C",
+    "explanation": "The culture changed from 640 to 80 in 3 hours, so the total factor is 80/640 = 1/8. Since (1/2)³ = 1/8, the hourly factor is 1/2, which means a 50% decrease each hour."
+  },
+  {
+    "id": "MATH3-M2-005",
+    "prompt": "For the polynomial p(x) = 2x³ − 5x² + cx + 7, the remainder when p(x) is divided by x + 1 is 4. What is the value of c ?",
+    "choices": {
+      "A": "−6",
+      "B": "−4",
+      "C": "4",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "By the Remainder Theorem, p(−1) = 4. So 2(−1)³ − 5(−1)² + c(−1) + 7 = 4, which simplifies to −2 − 5 − c + 7 = 4, so −c = 4 and c = −4."
+  },
+  {
+    "id": "MATH3-M2-006",
+    "prompt": "What is the minimum value of c such that the line y = c intersects the parabola y = x² + 2x + 5 at exactly one point?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "The line y = c will intersect the parabola exactly once when it is tangent to the parabola at its vertex. The vertex of y = x² + 2x + 5 is at x = −1, and the minimum y-value is 4."
+  },
+  {
+    "id": "MATH3-M2-007",
+    "prompt": "A set of 20 scores had a mean of 81, but one score of 27 was mistakenly entered as 72. What is the correct mean of the 20 scores?",
+    "choices": {
+      "A": "78.25",
+      "B": "78.75",
+      "C": "80.25",
+      "D": "83.25"
+    },
+    "correct": "B",
+    "explanation": "The incorrect total was 20 × 81 = 1620. Replace 72 with 27 by subtracting 45: 1620 − 45 = 1575. Then 1575/20 = 78.75."
+  },
+  {
+    "id": "MATH3-M2-008",
+    "prompt": "A chord of length 12 is in a circle of radius 10. What is the distance from the center of the circle to the chord?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "9",
+      "D": "16"
+    },
+    "correct": "B",
+    "explanation": "The radius to the midpoint of the chord forms a right triangle with half the chord. Half the chord is 6, so the distance is √(10² − 6²) = √64 = 8."
+  },
+  {
+    "id": "MATH3-M2-009",
+    "prompt": "In a right triangle, tan θ = 3/4. What is the value of sec θ ?",
+    "choices": {
+      "A": "3/5",
+      "B": "4/5",
+      "C": "5/4",
+      "D": "7/4"
+    },
+    "correct": "C",
+    "explanation": "If tan θ = 3/4, the triangle can be viewed as having opposite 3 and adjacent 4, so the hypotenuse is 5. Then sec θ = hypotenuse/adjacent = 5/4."
+  },
+  {
+    "id": "MATH3-M2-010",
+    "prompt": "If x² + 6x + m can be written in the form (x + 3)² + n, what is n in terms of m ?",
+    "choices": {
+      "A": "m + 9",
+      "B": "m − 9",
+      "C": "9 − m",
+      "D": "6m − 9"
+    },
+    "correct": "B",
+    "explanation": "Since (x + 3)² = x² + 6x + 9, matching x² + 6x + m requires adding n = m − 9."
+  },
+  {
+    "id": "MATH3-M2-011",
+    "prompt": "A least-squares regression line for a data set is y = −1.5x + 12. Which point would have a positive residual?",
+    "choices": {
+      "A": "(2, 10)",
+      "B": "(4, 5)",
+      "C": "(6, 1)",
+      "D": "(8, −1)"
+    },
+    "correct": "A",
+    "explanation": "For x = 2, the predicted y-value is −1.5(2) + 12 = 9. The actual y-value is 10, so the residual is 10 − 9 = 1, which is positive."
+  },
+  {
+    "id": "MATH3-M2-012",
+    "prompt": "In a class of 30 students, 18 play a sport, 12 play a musical instrument, and 5 do both. If one student is selected at random, what is the probability that the student plays a sport or a musical instrument?",
+    "choices": {
+      "A": "1/2",
+      "B": "5/6",
+      "C": "25/42",
+      "D": "7/10"
+    },
+    "correct": "B",
+    "explanation": "Use inclusion-exclusion: 18 + 12 − 5 = 25 students play a sport or an instrument. The probability is 25/30 = 5/6."
+  },
+  {
+    "id": "MATH3-M2-013",
+    "prompt": "If √x + √(x + 9) = 9, what is the value of x ?",
+    "choices": {
+      "A": "12",
+      "B": "16",
+      "C": "20",
+      "D": "25"
+    },
+    "correct": "B",
+    "explanation": "Rewrite as √(x + 9) = 9 − √x and square both sides: x + 9 = 81 − 18√x + x. Then 18√x = 72, so √x = 4 and x = 16."
+  },
+  {
+    "id": "MATH3-M2-014",
+    "prompt": "If h(x) = f(g(x)), where f(x) = x² − 1 and g(x) = 2x + 1, what is the coefficient of x in h(x) ?",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "h(x) = f(g(x)) = (2x + 1)² − 1 = 4x² + 4x + 1 − 1 = 4x² + 4x. The coefficient of x is 4."
+  },
+  {
+    "id": "MATH3-M2-015",
+    "prompt": "If a + b = 11 and 1/a + 1/b = 11/30, what is the value of ab ?",
+    "choices": {
+      "A": "20",
+      "B": "24",
+      "C": "30",
+      "D": "33"
+    },
+    "correct": "C",
+    "explanation": "Since 1/a + 1/b = (a + b)/ab, we have 11/ab = 11/30. Therefore ab = 30."
+  },
+  {
+    "id": "MATH3-M2-016",
+    "prompt": "A model sculpture is made so that every linear dimension is half the corresponding dimension of the original sculpture. What fraction of the original volume is the model’s volume?",
+    "choices": {
+      "A": "1/2",
+      "B": "1/4",
+      "C": "1/8",
+      "D": "1/16"
+    },
+    "correct": "C",
+    "explanation": "Volume scales by the cube of the linear scale factor. Since the scale factor is 1/2, the volume factor is (1/2)³ = 1/8."
+  },
+  {
+    "id": "MATH3-M2-017",
+    "prompt": "If 6 is subtracted from every value in a data set, which statement must be true?",
+    "choices": {
+      "A": "The median and the interquartile range both decrease by 6.",
+      "B": "The median decreases by 6, and the interquartile range stays the same.",
+      "C": "The median stays the same, and the interquartile range decreases by 6.",
+      "D": "The median and the interquartile range both stay the same."
+    },
+    "correct": "B",
+    "explanation": "Subtracting the same constant from every value shifts the center but does not change the spread between quartiles."
+  },
+  {
+    "id": "MATH3-M2-018",
+    "prompt": "A line passes through the point (2, −1) and is parallel to the line 3x − 2y = 8. What is the y-intercept of the line?",
+    "choices": {
+      "A": "−4",
+      "B": "−3",
+      "C": "−1",
+      "D": "2"
+    },
+    "correct": "A",
+    "explanation": "Rewrite 3x − 2y = 8 as y = (3/2)x − 4, so the slope is 3/2. A parallel line through (2, −1) has equation y + 1 = (3/2)(x − 2), which simplifies to y = (3/2)x − 4."
+  },
+  {
+    "id": "MATH3-M2-019",
+    "prompt": "The length of a rectangle is 3 more than its width. If the area of the rectangle is 70, what is the perimeter of the rectangle?",
+    "choices": {
+      "A": "30",
+      "B": "32",
+      "C": "34",
+      "D": "36"
+    },
+    "correct": "C",
+    "explanation": "Let the width be w, so the length is w + 3. Then w(w + 3) = 70, giving w² + 3w − 70 = 0, so w = 7 and the length is 10. The perimeter is 2(7 + 10) = 34."
+  },
+  {
+    "id": "MATH3-M2-020",
+    "prompt": "Which polynomial has zeros −2 and 3 and leading coefficient 2 ?",
+    "choices": {
+      "A": "2x² − 2x − 12",
+      "B": "2x² + 2x − 12",
+      "C": "x² − x − 6",
+      "D": "2x² − x − 6"
+    },
+    "correct": "A",
+    "explanation": "A polynomial with zeros −2 and 3 and leading coefficient 2 is 2(x + 2)(x − 3). Expanding gives 2x² − 2x − 12."
+  },
+  {
+    "id": "MATH3-M2-021",
+    "prompt": "How many solutions does the equation |x − 5| + 2 = 6 have?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "4"
+    },
+    "correct": "C",
+    "explanation": "Solve |x − 5| + 2 = 6 to get |x − 5| = 4. Then x − 5 = 4 or x − 5 = −4, so x = 9 or x = 1. There are 2 solutions."
+  },
+  {
+    "id": "MATH3-M2-022",
+    "prompt": "What is the area of the triangle with vertices (1, 1), (5, 3), and (2, 7) ?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "Use the coordinate area formula: Area = (1/2)|1(3 − 7) + 5(7 − 1) + 2(1 − 3)| = (1/2)|−4 + 30 − 4| = (1/2)(22) = 11."
+  }
+]

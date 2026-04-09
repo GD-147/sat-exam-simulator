@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW4-M1-001",
+    "prompt": "A critic writes that the composer’s later works are “more intricate than ornate,” relying on subtle shifts in rhythm rather than obvious flourishes.\nAs used in the text, what does “intricate” most nearly mean?",
+    "choices": {
+      "A": "inexpensive",
+      "B": "complex",
+      "C": "familiar",
+      "D": "playful"
+    },
+    "correct": "B",
+    "explanation": "In context, “intricate” means detailed or complex, not playful or inexpensive."
+  },
+  {
+    "id": "RW4-M1-002",
+    "prompt": "To reduce glare and lower cooling costs, some cities have encouraged the use of reflective roofing materials on large buildings. These roofs bounce more sunlight back into the atmosphere than darker roofs do, which can help keep indoor temperatures lower during hot weather. For that reason, reflective roofs are sometimes discussed as a practical tool for urban heat management.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Reflective roofs can help cities manage heat by reducing the amount of sunlight absorbed by buildings.",
+      "B": "Dark roofs are usually less expensive than reflective roofs.",
+      "C": "Cities install reflective roofs mainly to make buildings more visible from the air.",
+      "D": "Reflective roofs eliminate the need for air-conditioning systems."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that reflective roofs bounce sunlight away and help lower building temperatures."
+  },
+  {
+    "id": "RW4-M1-003",
+    "prompt": "A historian explains that many early botanical gardens served not only as public attractions but also as sites where physicians and naturalists studied medicinal plants. Labels and catalogs helped visitors identify species, but the gardens’ layouts were often designed with research and teaching in mind.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Early botanical gardens were intended solely for entertainment.",
+      "B": "The design of early botanical gardens was influenced by educational and scientific purposes.",
+      "C": "Physicians rarely visited botanical gardens.",
+      "D": "Most visitors could not read the labels in botanical gardens."
+    },
+    "correct": "B",
+    "explanation": "The text says the gardens were laid out with research and teaching in mind."
+  },
+  {
+    "id": "RW4-M1-004",
+    "prompt": "In a report on migration, a biologist notes that one species of songbird begins its spring journey only after a particular shrub starts producing berries. The report suggests that the timing may help the birds refuel during the first stage of migration.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a specific observation that the second sentence explains.",
+      "B": "It presents a theory that the second sentence disproves.",
+      "C": "It describes the final stage of the birds’ migration.",
+      "D": "It argues that shrubs determine all animal behavior."
+    },
+    "correct": "A",
+    "explanation": "The first sentence gives the timing observation; the second interprets it as helping the birds refuel."
+  },
+  {
+    "id": "RW4-M1-005",
+    "prompt": "A student is writing about early apartment buildings with elevators and has taken these notes:\n• In some nineteenth-century cities, upper-floor apartments were once considered less desirable because climbing stairs was inconvenient.\n• The spread of elevators changed that pattern.\n• In some buildings, upper floors became more desirable because they offered better views and less street noise.\n• Elevators helped reshape how space in tall residential buildings was valued.\nThe student wants to emphasize how elevators changed residents’ views of upper-floor apartments. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Elevators were installed in some apartment buildings in the nineteenth century.",
+      "B": "Because elevators made upper floors easier to reach, apartments there often became more desirable for their views and relative quiet.",
+      "C": "Street noise was common in many nineteenth-century cities.",
+      "D": "Some buildings had more than one elevator."
+    },
+    "correct": "B",
+    "explanation": "This choice directly explains how elevators changed perceptions of upper-floor apartments."
+  },
+  {
+    "id": "RW4-M1-006",
+    "prompt": "The field guide explains how to identify the region’s most common mushrooms. ______, it includes a section on which species should never be collected because they are toxic.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "Instead,",
+      "C": "As a result,",
+      "D": "Likewise,"
+    },
+    "correct": "A",
+    "explanation": "The sentence adds another feature of the field guide."
+  },
+  {
+    "id": "RW4-M1-007",
+    "prompt": "The exhibit was small <u>but meticulously arranged, each artifact was lit from a slightly different angle.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "but meticulously arranged, each artifact was lit from a slightly different angle.",
+      "B": "but meticulously arranged; each artifact was lit from a slightly different angle.",
+      "C": "but meticulously arranged each artifact was lit from a slightly different angle.",
+      "D": "but meticulously arranged: and each artifact was lit from a slightly different angle."
+    },
+    "correct": "B",
+    "explanation": "A semicolon correctly joins two independent clauses."
+  },
+  {
+    "id": "RW4-M1-008",
+    "prompt": "The essay argues that local radio remains influential <u>because it provides immediate updates during storms, and neighbors often call in to share conditions on different roads.</u>\nWhich choice best describes the underlined portion of the text?",
+    "choices": {
+      "A": "It presents two supporting details that help explain the essay’s claim.",
+      "B": "It introduces an unrelated example that distracts from the argument.",
+      "C": "It contradicts the essay’s main claim.",
+      "D": "It repeats the argument without adding any new information."
+    },
+    "correct": "A",
+    "explanation": "Immediate storm updates and neighbors’ reports both support the claim that local radio remains influential."
+  },
+  {
+    "id": "RW4-M1-009",
+    "prompt": "The curator asked Amira and me to examine the painting before <u>she</u> made a final decision about its placement.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "she",
+      "B": "her",
+      "C": "hers",
+      "D": "herself"
+    },
+    "correct": "A",
+    "explanation": "“She” is the subject of “made,” so the nominative pronoun is correct."
+  },
+  {
+    "id": "RW4-M1-010",
+    "prompt": "By the time the backup generator switched on, the computers <u>shut down</u> automatically to protect their data.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "shut down",
+      "B": "had shut down",
+      "C": "will shut down",
+      "D": "are shutting down"
+    },
+    "correct": "B",
+    "explanation": "The shutdown happened before the generator switched on, so past perfect is needed."
+  },
+  {
+    "id": "RW4-M1-011",
+    "prompt": "While reviewing the manuscript late at night, <u>the margins seemed narrower to Elena than they had earlier in the day.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the margins seemed narrower to Elena than they had earlier in the day.",
+      "B": "Elena thought the margins seemed narrower than they had earlier in the day.",
+      "C": "the manuscript’s margins were narrowing for Elena late at night.",
+      "D": "narrower margins appeared in the manuscript to Elena."
+    },
+    "correct": "B",
+    "explanation": "The revision correctly places Elena as the person reviewing the manuscript."
+  },
+  {
+    "id": "RW4-M1-012",
+    "prompt": "[1] Some libraries now lend not only books but also tools, musical instruments, and kitchen equipment. [2] These lending programs can help people try new activities without purchasing expensive items. [3] They may also support community events, repairs, and shared projects. [4] For many libraries, such programs extend the idea of public access beyond reading materials alone.\nWhich choice best describes the most logical placement for the following sentence?\n“In this way, libraries can provide access to resources that many people need only occasionally.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "“This way” refers to the occasional need described in sentence 2 and helps bridge to sentence 3."
+  },
+  {
+    "id": "RW4-M1-013",
+    "prompt": "A student recorded the average number of minutes it took four groups to complete a puzzle.\nGroup A: 14\nGroup B: 11\nGroup C: 17\nGroup D: 13\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Group C completed the puzzle faster, on average, than Group B.",
+      "B": "Group B completed the puzzle faster, on average, than Group D.",
+      "C": "Group A and Group C had the same average time.",
+      "D": "Group D took longer, on average, than Group C."
+    },
+    "correct": "B",
+    "explanation": "A lower time is faster, and Group B’s 11 minutes is less than Group D’s 13 minutes."
+  },
+  {
+    "id": "RW4-M1-014",
+    "prompt": "In describing the mayor’s public statement, a journalist writes that it was carefully <u>measured</u>, avoiding sweeping promises.\nAs used in the text, what does “measured” most nearly mean?",
+    "choices": {
+      "A": "restrained",
+      "B": "counted",
+      "C": "lengthy",
+      "D": "uncertain"
+    },
+    "correct": "A",
+    "explanation": "In context, “measured” means careful and restrained, not counted."
+  },
+  {
+    "id": "RW4-M1-015",
+    "prompt": "In a short story, a narrator describes her neighbor’s workshop: “Nothing matched. Jars of screws sat beside a violin bridge, and a chipped teacup held paintbrushes. Yet he could reach for any object as if the room had arranged itself around his memory.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The workshop appears cluttered, but the neighbor knows it intimately.",
+      "B": "The narrator plans to reorganize the workshop.",
+      "C": "The neighbor refuses to use labeled containers.",
+      "D": "The workshop is too small to be useful."
+    },
+    "correct": "A",
+    "explanation": "The passage contrasts disorder with the neighbor’s effortless familiarity."
+  },
+  {
+    "id": "RW4-M1-016",
+    "prompt": "Researchers studying urban foxes found that the animals were most active in residential areas during the quietest hours of the night. The researchers suggest that the foxes may be adjusting their behavior to avoid times of greater human activity.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Urban foxes are active only in residential areas.",
+      "B": "Human activity may influence when urban foxes move through neighborhoods.",
+      "C": "The researchers proved that foxes prefer silence to darkness.",
+      "D": "Residential areas are safer for foxes than parks are."
+    },
+    "correct": "B",
+    "explanation": "The researchers suggest the foxes adjust their activity to avoid humans."
+  },
+  {
+    "id": "RW4-M1-017",
+    "prompt": "A film critic writes, “By withholding the main character’s reaction until the final shot, the director forces viewers to reconsider everything that came before.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To offer one interpretation of how the film’s ending shapes viewers’ understanding",
+      "B": "To prove that the director changed the script during filming",
+      "C": "To explain how the movie was marketed to audiences",
+      "D": "To describe the technical equipment used for the final shot"
+    },
+    "correct": "A",
+    "explanation": "The quotation explains how the delayed reaction changes the audience’s view of earlier events."
+  },
+  {
+    "id": "RW4-M1-018",
+    "prompt": "A student is writing about bike-sharing programs and has taken these notes:\n• Some cities have added bike-sharing stations near bus and train stops.\n• This placement can make it easier for people to combine cycling with public transit.\n• Bike sharing may offer a flexible option for short trips.\n• Such programs can expand the transportation choices available to residents.\nWhich choice most effectively uses relevant information from the notes to make a general claim about bike-sharing programs?",
+    "choices": {
+      "A": "Bike-sharing programs work only in cities with rail systems.",
+      "B": "By supporting short trips and connections to transit, bike-sharing programs can broaden residents’ transportation options.",
+      "C": "People use bike-sharing programs mainly for exercise.",
+      "D": "Bus and train riders never travel short distances on foot."
+    },
+    "correct": "B",
+    "explanation": "This choice synthesizes the notes into a general claim."
+  },
+  {
+    "id": "RW4-M1-019",
+    "prompt": "The first section of the lecture explains how coral forms. ______, the second section examines how warming oceans affect reef ecosystems.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Similarly,",
+      "B": "Next,",
+      "C": "Otherwise,",
+      "D": "Nevertheless,"
+    },
+    "correct": "B",
+    "explanation": "The lecture moves from one topic in the first section to another topic in the second."
+  },
+  {
+    "id": "RW4-M1-020",
+    "prompt": "The internship required Miguel to catalog maps, answer visitor questions, and <u>writing short descriptions for the online database.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "writing short descriptions for the online database.",
+      "B": "wrote short descriptions for the online database.",
+      "C": "write short descriptions for the online database.",
+      "D": "to writing short descriptions for the online database."
+    },
+    "correct": "C",
+    "explanation": "“Write” matches the parallel verbs “catalog” and “answer.”"
+  },
+  {
+    "id": "RW4-M1-021",
+    "prompt": "The athlete ran <u>more quickly than any runner on the team.</u>\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is an illogical comparison because the athlete is included in the group being compared.",
+      "B": "It is correctly phrased because the athlete is being compared with the performances of the other runners on the team.",
+      "C": "It should be changed because “more quickly” cannot be used with “than.”",
+      "D": "It is redundant because “runner” and “team” mean the same thing."
+    },
+    "correct": "B",
+    "explanation": "The comparison is logical: the athlete’s speed is compared with that of any other runner on the team."
+  },
+  {
+    "id": "RW4-M1-022",
+    "prompt": "A collection of folk songs from the region <u>contains</u> lyrics in three languages.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "contain",
+      "B": "contains",
+      "C": "containing",
+      "D": "have contained"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “A collection” takes the singular verb “contains.”"
+  },
+  {
+    "id": "RW4-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“After reading the original report, the summary seemed misleading to Talia.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because it contains too many adjectives.",
+      "B": "The sentence should be revised because the introductory phrase illogically modifies “the summary.”",
+      "C": "The sentence should be revised because it uses the wrong tense.",
+      "D": "The sentence should be revised because it lacks a conjunction."
+    },
+    "correct": "B",
+    "explanation": "The summary did not read the original report; Talia did."
+  },
+  {
+    "id": "RW4-M1-024",
+    "prompt": "[1] Some orchards place bee hives near flowering trees during pollination season. [2] The bees help carry pollen from blossom to blossom. [3] Better pollination can increase fruit production. [4] Orchard managers therefore pay close attention to when trees bloom and when hives arrive.\nWhich choice best describes the most logical placement for the following sentence?\n“This timing matters because the hives are most useful when many blossoms are open.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence explains why the timing described in sentence 4 matters, based on the pollination benefits in sentences 2 and 3."
+  },
+  {
+    "id": "RW4-M1-025",
+    "prompt": "To simplify the sentence, the editor replaced “at this point in time” with <u>now</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the sentence more concise without changing its meaning.",
+      "B": "It makes the sentence more formal.",
+      "C": "It changes the meaning from present time to past time.",
+      "D": "It introduces an unnecessary colloquialism."
+    },
+    "correct": "A",
+    "explanation": "“Now” says the same thing more briefly than “at this point in time.”"
+  },
+  {
+    "id": "RW4-M1-026",
+    "prompt": "In an experiment, participants listened to short melodies and were then asked to identify the instrument playing each one. They were more accurate when the melodies included brief silent pauses between phrases than when the melodies were played continuously.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Participants preferred instruments that played more slowly.",
+      "B": "Brief pauses may have helped participants distinguish the instruments more accurately.",
+      "C": "Continuous melodies are always harder to remember than interrupted ones.",
+      "D": "The participants were all trained musicians."
+    },
+    "correct": "B",
+    "explanation": "Accuracy was higher when the melodies included pauses."
+  },
+  {
+    "id": "RW4-M1-027",
+    "prompt": "An article about drought-resistant crops describes how certain varieties of millet can continue growing with relatively little water. It then notes that interest in these crops has increased in regions facing hotter, drier conditions.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It offers a contemporary consequence of the earlier information.",
+      "B": "It disputes the claim that millet requires little water.",
+      "C": "It shifts the discussion to irrigation technology.",
+      "D": "It argues that millet should replace all other grains."
+    },
+    "correct": "A",
+    "explanation": "The last sentence explains a present-day result of the crops’ drought resistance.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

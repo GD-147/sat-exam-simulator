@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW3-M2-001",
+    "prompt": "A reviewer observes that the historian’s praise for the biography is “qualified,” noting that although the book is deeply researched, its conclusions sometimes rest on uncertain evidence.\nAs used in the text, what does “qualified” most nearly mean?",
+    "choices": {
+      "A": "specialized",
+      "B": "limited",
+      "C": "formal",
+      "D": "approved"
+    },
+    "correct": "B",
+    "explanation": "The praise is “qualified” because it is not absolute; it is limited by concerns about the evidence."
+  },
+  {
+    "id": "RW3-M2-002",
+    "prompt": "A sociologist argues that lines and waiting rooms are not merely places where people experience delay. They are also settings in which social expectations become visible: people decide how closely to stand, when to speak, and whether others are behaving fairly. In that sense, ordinary waiting can reveal the unwritten rules of public life.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Waiting in public spaces can reveal social norms that usually go unnoticed.",
+      "B": "Most people dislike waiting because it wastes time.",
+      "C": "Public spaces function best when everyone follows written instructions.",
+      "D": "Sociologists study waiting only to measure impatience."
+    },
+    "correct": "A",
+    "explanation": "The passage argues that ordinary waiting makes public expectations visible."
+  },
+  {
+    "id": "RW3-M2-003",
+    "prompt": "Historians studying port cities often rely on customs records to estimate trade volume. However, these records usually capture only officially taxed goods, not goods moved through informal exchanges or smuggling. As a result, the records may provide an incomplete picture of commercial activity.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Customs records likely understate the full amount of trade in some port cities.",
+      "B": "Smuggling was more common than taxed trade in every port city.",
+      "C": "Historians can measure trade accurately without using written records.",
+      "D": "Officially taxed goods were always less valuable than smuggled goods."
+    },
+    "correct": "A",
+    "explanation": "The records omit informal exchanges and smuggling, so they are incomplete."
+  },
+  {
+    "id": "RW3-M2-004",
+    "prompt": "A literary critic writes that a novel’s recurring references to winter are especially concentrated in scenes of family disagreement. The critic argues that these references matter less as descriptions of weather than as signals of emotional distance between characters.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a pattern that the second sentence interprets.",
+      "B": "It disputes the interpretation presented in the second sentence.",
+      "C": "It explains why the novel’s setting changes from season to season.",
+      "D": "It identifies a factual error in the novel."
+    },
+    "correct": "A",
+    "explanation": "The first sentence identifies the repeated winter imagery, and the second explains its significance."
+  },
+  {
+    "id": "RW3-M2-005",
+    "prompt": "A student is writing about algae-based construction materials and has taken these notes:\n• Some researchers are developing building panels that incorporate algae.\n• As algae grow, they can absorb carbon dioxide.\n• The panels may also provide shade for buildings.\n• Large-scale production and maintenance remain challenging.\nThe student wants to emphasize both a possible environmental benefit and a practical challenge of these materials. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Algae-based panels may help absorb carbon dioxide while shading buildings, but producing and maintaining them at large scale is still challenging.",
+      "B": "Construction materials are often difficult to produce.",
+      "C": "Researchers are developing many new kinds of panels.",
+      "D": "Algae-based panels have already replaced traditional building materials worldwide."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the possible benefit and the stated challenge."
+  },
+  {
+    "id": "RW3-M2-006",
+    "prompt": "The researcher expected the newly found letters to settle the dispute over authorship. ______, the letters suggested that several people may have collaborated on the text.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For instance,",
+      "B": "Likewise,",
+      "C": "Instead,",
+      "D": "Consequently,"
+    },
+    "correct": "C",
+    "explanation": "The letters did not settle the dispute as expected; they suggested collaboration instead."
+  },
+  {
+    "id": "RW3-M2-007",
+    "prompt": "The sculpture’s authenticity depended on one detail<u>: the pigment contained a compound not manufactured until decades after the sculptor’s death.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; the pigment contained a compound not manufactured until decades after the sculptor’s death.",
+      "C": ", the pigment contained a compound not manufactured until decades after the sculptor’s death.",
+      "D": "the pigment contained a compound, not manufactured until decades after the sculptor’s death."
+    },
+    "correct": "A",
+    "explanation": "A colon correctly introduces the specific detail on which authenticity depended."
+  },
+  {
+    "id": "RW3-M2-008",
+    "prompt": "Though separated by centuries, the two essays raise strikingly similar questions about who has the authority to preserve cultural memory.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It identifies the author of the two essays.",
+      "B": "It explains where the essays were first published.",
+      "C": "It highlights a contrast in time before emphasizing a similarity in subject.",
+      "D": "It presents the conclusion drawn from the essays."
+    },
+    "correct": "C",
+    "explanation": "“Though separated by centuries” contrasts the essays’ dates before noting their shared concern."
+  },
+  {
+    "id": "RW3-M2-009",
+    "prompt": "After Luis spoke with Priya about Jordan’s proposal, <u>he</u> recommended delaying the vote until more data were available.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "he",
+      "B": "Luis",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “he” with “Luis” removes the ambiguity among the named people."
+  },
+  {
+    "id": "RW3-M2-010",
+    "prompt": "Had the engineers tested the prototype during the winter, they <u>know</u> by now whether the outer seal fails in freezing temperatures.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "know",
+      "B": "knew",
+      "C": "would know",
+      "D": "had known"
+    },
+    "correct": "C",
+    "explanation": "The sentence describes a past unreal condition with a present result, requiring “would know.”"
+  },
+  {
+    "id": "RW3-M2-011",
+    "prompt": "The review was meant to suggest that the museum relied on volunteers for routine tasks, but the sentence as drafted says that the museum <u>primarily relied on volunteers for routine tasks and donations.</u>\nWhich choice best revises the text so that “primarily” is placed as precisely as possible?",
+    "choices": {
+      "A": "primarily relied on volunteers for routine tasks and donations.",
+      "B": "relied primarily on volunteers for routine tasks and donations.",
+      "C": "relied on volunteers primarily for routine tasks and donations.",
+      "D": "relied on volunteers for primarily routine tasks and donations."
+    },
+    "correct": "B",
+    "explanation": "This placement makes “primarily” modify “relied,” clarifying the intended meaning."
+  },
+  {
+    "id": "RW3-M2-012",
+    "prompt": "[1] Medieval scribes sometimes reused valuable parchment by scraping away earlier writing and composing a new text over it. [2] Such manuscripts are known as palimpsests. [3] With modern imaging techniques, scholars can often recover parts of the erased text beneath the visible one. [4] As a result, palimpsests have become important sources for recovering lost works and tracing how texts changed over time.\nWhich choice best describes the most logical placement for the following sentence?\n“What once seemed to be a damaged manuscript can therefore contain more than one historical layer.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence fits after the discussion of imaging and before the broader significance of palimpsests."
+  },
+  {
+    "id": "RW3-M2-013",
+    "prompt": "A researcher compared the average amount of dust collected by air filters in two rooms over three weeks.\nWeek 1: Room A 14 g, Room B 11 g\nWeek 2: Room A 13 g, Room B 12 g\nWeek 3: Room A 15 g, Room B 10 g\nA student claims that Room A consistently had higher dust collection than Room B.\nWhich choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is unsupported because Room B collected more dust in Week 2.",
+      "B": "The claim is supported because Room A collected more dust than Room B in all three weeks.",
+      "C": "The claim is unsupported because the amounts in Room A changed from week to week.",
+      "D": "The claim is supported because Room B’s lowest value occurred in Week 3."
+    },
+    "correct": "B",
+    "explanation": "In Weeks 1, 2, and 3, Room A’s value is higher than Room B’s."
+  },
+  {
+    "id": "RW3-M2-014",
+    "prompt": "In a discussion of journalism, an editor says that a reporter covering a labor dispute should remain <u>disinterested</u>, meaning committed to fairness rather than to either side’s desired outcome.\nAs used in the text, what does “disinterested” most nearly mean?",
+    "choices": {
+      "A": "uninformed",
+      "B": "impartial",
+      "C": "bored",
+      "D": "detached from all facts"
+    },
+    "correct": "B",
+    "explanation": "In this context, “disinterested” means unbiased or fair, not bored."
+  },
+  {
+    "id": "RW3-M2-015",
+    "prompt": "In a novel, the narrator describes an unfinished bridge at the edge of town: “Its pillars rose confidently from the river, but the roadway ended in open air. To me, it looked less like a failure than a promise someone had paused in the middle of making.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The narrator sees the unfinished bridge as a symbol of interrupted possibility.",
+      "B": "The narrator believes the bridge should be demolished immediately.",
+      "C": "The narrator cannot tell whether the bridge is old or new.",
+      "D": "The narrator dislikes all construction projects near the river."
+    },
+    "correct": "A",
+    "explanation": "The narrator interprets the bridge as a paused promise rather than a simple failure."
+  },
+  {
+    "id": "RW3-M2-016",
+    "prompt": "A study found that museum visitors spent more time examining paintings when wall labels included open-ended questions rather than only factual information. The researchers caution, however, that the study measured viewing time, not whether visitors developed a deeper understanding of the artworks.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Open-ended labels may increase the amount of time visitors spend looking at artworks without proving that understanding has increased.",
+      "B": "Factual labels always reduce visitors’ interest in paintings.",
+      "C": "Visitors understand art best when labels provide no information at all.",
+      "D": "The researchers demonstrated that longer viewing time guarantees deeper understanding."
+    },
+    "correct": "A",
+    "explanation": "The study measured viewing time, not depth of understanding."
+  },
+  {
+    "id": "RW3-M2-017",
+    "prompt": "A historian argues that reform pamphlets gained influence partly by borrowing the formal language of legal petitions. To illustrate this point, the historian notes that readers often described the pamphlets as sounding “official” even before lawmakers responded to them.\nWhy does the author most likely include the example of readers describing the pamphlets as “official”?",
+    "choices": {
+      "A": "To show how the pamphlets’ language affected how readers perceived them",
+      "B": "To prove that the pamphlets were written by judges",
+      "C": "To argue that lawmakers agreed with every pamphlet immediately",
+      "D": "To suggest that legal petitions and pamphlets had identical purposes"
+    },
+    "correct": "A",
+    "explanation": "The example demonstrates that formal language made the pamphlets seem official."
+  },
+  {
+    "id": "RW3-M2-018",
+    "prompt": "A student is writing about agrivoltaics and has taken these notes:\n• Agrivoltaics combines solar panels with crop production on the same land.\n• In some settings, the panels can reduce water loss from soil by providing partial shade.\n• The arrangement may allow land to produce both food and electricity.\n• The best design depends on crop type, climate, and panel placement.\nThe student wants to explain a potential advantage of agrivoltaics while acknowledging that it must be adapted to local conditions. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Agrivoltaics always improves every kind of farm by adding solar panels.",
+      "B": "By combining crop production with solar panels, agrivoltaics can produce food and electricity on the same land, though the most effective design depends on local conditions.",
+      "C": "Solar panels should never be placed near crops.",
+      "D": "Crop type does not affect how agrivoltaics systems are designed."
+    },
+    "correct": "B",
+    "explanation": "This choice states both the potential advantage and the need to adapt the system."
+  },
+  {
+    "id": "RW3-M2-019",
+    "prompt": "The committee agreed that the transit system needed modernization. ______, members disagreed sharply about whether the city should prioritize new rail lines or faster bus service.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Likewise,",
+      "C": "Nevertheless,",
+      "D": "For example,"
+    },
+    "correct": "C",
+    "explanation": "The second sentence contrasts agreement on modernization with disagreement about how to pursue it."
+  },
+  {
+    "id": "RW3-M2-020",
+    "prompt": "The workshop encourages participants to question assumptions, test alternatives, and <u>careful documentation of each revision.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "careful documentation of each revision.",
+      "B": "documenting each revision carefully.",
+      "C": "document each revision carefully.",
+      "D": "to documentation of each revision carefully."
+    },
+    "correct": "C",
+    "explanation": "“Document” matches the parallel verbs “question” and “test.”"
+  },
+  {
+    "id": "RW3-M2-021",
+    "prompt": "The poem “Harbor at Dawn” by <u>writer Elise Navarro</u> appears near the end of the anthology.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "writer, Elise Navarro,",
+      "C": "writer Elise, Navarro",
+      "D": "writer, Elise Navarro"
+    },
+    "correct": "A",
+    "explanation": "No commas are needed because “writer Elise Navarro” is an essential identifying phrase."
+  },
+  {
+    "id": "RW3-M2-022",
+    "prompt": "The combination of stricter inspections and public pressure <u>have</u> led several factories to revise their safety procedures.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "are"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “combination” takes the singular verb “has.”"
+  },
+  {
+    "id": "RW3-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The software made the process better.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The software made the process better.",
+      "B": "The software improved many things in several ways.",
+      "C": "The software reduced the time needed to sort the records, flagged duplicate entries automatically, and lowered the number of data-entry errors.",
+      "D": "The software was useful and efficient."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces vague language with specific effects."
+  },
+  {
+    "id": "RW3-M2-024",
+    "prompt": "[1] Some lichens can survive in environments with intense sunlight, extreme dryness, and large swings in temperature. [2] Their success depends partly on the partnership between fungi and photosynthetic partners such as algae. [3] Different species of lichen tolerate these stresses in different ways. [4] For that reason, scientists study lichens to better understand how organisms persist in harsh conditions.\nWhich choice best describes the most logical placement for the following sentence?\n“No single strategy explains their resilience in every environment.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence follows the mention of different tolerances and leads into the reason scientists study lichens."
+  },
+  {
+    "id": "RW3-M2-025",
+    "prompt": "The article originally stated that the new housing rule was “effective,” but that wording ignored the fact that the rule worked well in dense urban neighborhoods and produced little change in low-density suburbs. The editor suggests replacing “effective” with <u>effective mainly in dense urban neighborhoods</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It introduces a personal opinion that was absent from the original.",
+      "B": "It makes the statement more precise by specifying where the rule was most successful.",
+      "C": "It makes the statement less clear by adding unnecessary detail.",
+      "D": "It changes the meaning by suggesting that the rule failed everywhere."
+    },
+    "correct": "B",
+    "explanation": "The revision qualifies the claim instead of leaving it overly broad."
+  },
+  {
+    "id": "RW3-M2-026",
+    "prompt": "In an experiment, bees visited artificial flowers with faint stripe patterns more often than identical flowers without stripes. The researchers suggest that even subtle visual guides may help pollinators locate nectar more efficiently.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Stripe patterns may influence how readily bees visit flowers.",
+      "B": "Bees can detect nectar only when flowers are bright red.",
+      "C": "Artificial flowers always attract more bees than real flowers.",
+      "D": "Pollinators ignore visual cues when searching for nectar."
+    },
+    "correct": "A",
+    "explanation": "Bees visited the striped artificial flowers more often, supporting that inference."
+  },
+  {
+    "id": "RW3-M2-027",
+    "prompt": "An essay on timekeeping ends by observing that calendars do more than divide the year into units. They also reflect decisions about which events, seasons, or beliefs a society considers important enough to mark and repeat.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It narrows the discussion to the mechanics of clock repair.",
+      "B": "It reframes calendars as cultural choices rather than purely neutral measurements.",
+      "C": "It argues that all calendars should be standardized worldwide.",
+      "D": "It repeats the earlier claim without adding new meaning."
+    },
+    "correct": "B",
+    "explanation": "The final sentence broadens the idea of calendars from time division to social values and priorities."
+  }
+]

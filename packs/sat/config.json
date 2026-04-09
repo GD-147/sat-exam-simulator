@@ -19,8 +19,17 @@
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-  "reading_writing_module_1_exam_01.json"
-]
+        "reading_writing_module_1_exam_01.json",
+        "reading_writing_module_1_exam_02.json",
+        "reading_writing_module_1_exam_03.json",
+        "reading_writing_module_1_exam_04.json",
+        "reading_writing_module_1_exam_05.json",
+        "reading_writing_module_1_exam_06.json",
+        "reading_writing_module_1_exam_07.json",
+        "reading_writing_module_1_exam_08.json",
+        "reading_writing_module_1_exam_09.json",
+        "reading_writing_module_1_exam_10.json"
+      ]
     },
     {
       "id": "reading-writing-module-2",
@@ -30,8 +39,17 @@
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-  "reading_writing_module_2_exam_01.json"
-]
+        "reading_writing_module_2_exam_01.json",
+        "reading_writing_module_2_exam_02.json",
+        "reading_writing_module_2_exam_03.json",
+        "reading_writing_module_2_exam_04.json",
+        "reading_writing_module_2_exam_05.json",
+        "reading_writing_module_2_exam_06.json",
+        "reading_writing_module_2_exam_07.json",
+        "reading_writing_module_2_exam_08.json",
+        "reading_writing_module_2_exam_09.json",
+        "reading_writing_module_2_exam_10.json"
+      ]
     },
     {
       "id": "math-module-1",
@@ -41,8 +59,17 @@
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-  "math_module_1_exam_01.json"
-]
+        "math_module_1_exam_01.json",
+        "math_module_1_exam_02.json",
+        "math_module_1_exam_03.json",
+        "math_module_1_exam_04.json",
+        "math_module_1_exam_05.json",
+        "math_module_1_exam_06.json",
+        "math_module_1_exam_07.json",
+        "math_module_1_exam_08.json",
+        "math_module_1_exam_09.json",
+        "math_module_1_exam_10.json"
+      ]
     },
     {
       "id": "math-module-2",
@@ -52,9 +79,99 @@
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-  "math_module_2_exam_01.json"
-]
+        "math_module_2_exam_01.json",
+        "math_module_2_exam_02.json",
+        "math_module_2_exam_03.json",
+        "math_module_2_exam_04.json",
+        "math_module_2_exam_05.json",
+        "math_module_2_exam_06.json",
+        "math_module_2_exam_07.json",
+        "math_module_2_exam_08.json",
+        "math_module_2_exam_09.json",
+        "math_module_2_exam_10.json"
+      ]
     }
   ],
-  "printables": []
+  "printables": [
+    {
+      "label": "Reading and Writing Practice Exam 1",
+      "file": "r&w_exam_01.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 2",
+      "file": "r&w_exam_02.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 3",
+      "file": "r&w_exam_03.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 4",
+      "file": "r&w_exam_04.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 5",
+      "file": "r&w_exam_05.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 6",
+      "file": "r&w_exam_06.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 7",
+      "file": "r&w_exam_07.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 8",
+      "file": "r&w_exam_08.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 9",
+      "file": "r&w_exam_09.pdf"
+    },
+    {
+      "label": "Reading and Writing Practice Exam 10",
+      "file": "r&w_exam_10.pdf"
+    },
+    {
+      "label": "Math Practice Exam 1",
+      "file": "math_exam_01.pdf"
+    },
+    {
+      "label": "Math Practice Exam 2",
+      "file": "math_exam_02.pdf"
+    },
+    {
+      "label": "Math Practice Exam 3",
+      "file": "math_exam_03.pdf"
+    },
+    {
+      "label": "Math Practice Exam 4",
+      "file": "math_exam_04.pdf"
+    },
+    {
+      "label": "Math Practice Exam 5",
+      "file": "math_exam_05.pdf"
+    },
+    {
+      "label": "Math Practice Exam 6",
+      "file": "math_exam_06.pdf"
+    },
+    {
+      "label": "Math Practice Exam 7",
+      "file": "math_exam_07.pdf"
+    },
+    {
+      "label": "Math Practice Exam 8",
+      "file": "math_exam_08.pdf"
+    },
+    {
+      "label": "Math Practice Exam 9",
+      "file": "math_exam_09.pdf"
+    },
+    {
+      "label": "Math Practice Exam 10",
+      "file": "math_exam_10.pdf"
+    }
+  ]
 }

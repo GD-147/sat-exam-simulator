@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH4-M1-001",
+    "prompt": "What is the value of x in the equation (x + 4)/5 = (x − 2)/3 ?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "correct": "D",
+    "explanation": "Cross-multiply: 3(x + 4) = 5(x − 2). Then 3x + 12 = 5x − 10, so 22 = 2x and x = 11."
+  },
+  {
+    "id": "MATH4-M1-002",
+    "prompt": "If y varies inversely with x and y = 12 when x = 4, what is the value of y when x = 6 ?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "9",
+      "D": "18"
+    },
+    "correct": "B",
+    "explanation": "Inverse variation means y = k/x. Since 12 = k/4, k = 48. Then y = 48/6 = 8."
+  },
+  {
+    "id": "MATH4-M1-003",
+    "prompt": "Which expression is equivalent to 4(2x − 1) − 3(x + 5) ?",
+    "choices": {
+      "A": "5x − 19",
+      "B": "5x + 11",
+      "C": "8x − 16",
+      "D": "11x − 19"
+    },
+    "correct": "A",
+    "explanation": "Distribute and combine like terms: 4(2x − 1) − 3(x + 5) = 8x − 4 − 3x − 15 = 5x − 19."
+  },
+  {
+    "id": "MATH4-M1-004",
+    "prompt": "For the function y = 3x² − 18x + 7, what is the x-coordinate of the vertex?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "6",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "For y = ax² + bx + c, the x-coordinate of the vertex is −b/(2a). Here that is −(−18)/(2·3) = 18/6 = 3."
+  },
+  {
+    "id": "MATH4-M1-005",
+    "prompt": "The table shows the results of a club survey.\n             Has a pet   Does not have a pet\nReads daily 14 6\nDoes not read 5 15\nIf one club member is selected at random, what is the probability that the member reads daily and has a pet?",
+    "choices": {
+      "A": "7/20",
+      "B": "1/2",
+      "C": "14/25",
+      "D": "7/10"
+    },
+    "correct": "A",
+    "explanation": "The total number of members is 14 + 6 + 5 + 15 = 40. The number who read daily and have a pet is 14, so the probability is 14/40 = 7/20."
+  },
+  {
+    "id": "MATH4-M1-006",
+    "prompt": "A trapezoid has bases of length 10 and 16 and a height of 7. What is the area of the trapezoid?",
+    "choices": {
+      "A": "78",
+      "B": "84",
+      "C": "91",
+      "D": "182"
+    },
+    "correct": "C",
+    "explanation": "Area of a trapezoid is (1/2)(b1 + b2)h. So the area is (1/2)(10 + 16)(7) = 13·7 = 91."
+  },
+  {
+    "id": "MATH4-M1-007",
+    "prompt": "A cone has radius 4 and height 9. What is the volume of the cone?",
+    "choices": {
+      "A": "12π",
+      "B": "36π",
+      "C": "48π",
+      "D": "144π"
+    },
+    "correct": "C",
+    "explanation": "Volume of a cone is (1/3)πr²h. Substituting r = 4 and h = 9 gives (1/3)π(16)(9) = 48π."
+  },
+  {
+    "id": "MATH4-M1-008",
+    "prompt": "What is the value of 81^(3/4) ?",
+    "choices": {
+      "A": "9",
+      "B": "18",
+      "C": "27",
+      "D": "64"
+    },
+    "correct": "C",
+    "explanation": "81 = 3⁴, so 81^(3/4) = (3⁴)^(3/4) = 3³ = 27."
+  },
+  {
+    "id": "MATH4-M1-009",
+    "prompt": "If 5m − 3n = 14, which expression gives n in terms of m ?",
+    "choices": {
+      "A": "(14 − 5m)/3",
+      "B": "(5m − 14)/3",
+      "C": "(5m + 14)/3",
+      "D": "5m − 42"
+    },
+    "correct": "B",
+    "explanation": "From 5m − 3n = 14, subtract 5m to get −3n = 14 − 5m. Multiply by −1: 3n = 5m − 14, so n = (5m − 14)/3."
+  },
+  {
+    "id": "MATH4-M1-010",
+    "prompt": "The mean of 5 numbers is 14. Four of the numbers are 9, 12, 15, and 18. What is the fifth number?",
+    "choices": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17"
+    },
+    "correct": "C",
+    "explanation": "If the mean of 5 numbers is 14, their total is 70. The four known numbers sum to 54, so the fifth number is 70 − 54 = 16."
+  },
+  {
+    "id": "MATH4-M1-011",
+    "prompt": "A cyclist travels 18 miles in 24 minutes at a constant speed. What is the cyclist’s speed, in miles per hour?",
+    "choices": {
+      "A": "36",
+      "B": "40",
+      "C": "45",
+      "D": "48"
+    },
+    "correct": "C",
+    "explanation": "The cyclist’s rate is 18 miles in 24 minutes, or 18/24 = 3/4 mile per minute. Multiply by 60 minutes per hour: (3/4)·60 = 45."
+  },
+  {
+    "id": "MATH4-M1-012",
+    "prompt": "In a right triangle, for angle θ, the side opposite θ has length 7 and the side adjacent to θ has length 24. What is tan θ ?",
+    "choices": {
+      "A": "7/25",
+      "B": "7/24",
+      "C": "24/25",
+      "D": "24/7"
+    },
+    "correct": "B",
+    "explanation": "Tangent is opposite/adjacent. Here tan θ = 7/24."
+  },
+  {
+    "id": "MATH4-M1-013",
+    "prompt": "Which inequality is equivalent to |x − 2| < 5 ?",
+    "choices": {
+      "A": "x < −3 or x > 7",
+      "B": "−5 < x < 5",
+      "C": "−3 < x < 7",
+      "D": "2 < x < 5"
+    },
+    "correct": "C",
+    "explanation": "|x − 2| < 5 means −5 < x − 2 < 5. Add 2 to all three parts to get −3 < x < 7."
+  },
+  {
+    "id": "MATH4-M1-014",
+    "prompt": "A function f has f(2) = 5 and f(6) = 17. What is the average rate of change of f from x = 2 to x = 6 ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "Average rate of change is (17 − 5)/(6 − 2) = 12/4 = 3."
+  },
+  {
+    "id": "MATH4-M1-015",
+    "prompt": "A circle has a diameter with endpoints (−1, 4) and (5, 4). What is the radius of the circle?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "The diameter is the distance between the endpoints, which is 6. The radius is half the diameter, so the radius is 3."
+  },
+  {
+    "id": "MATH4-M1-016",
+    "prompt": "If f(x) = ax − 4 and f(7) = 17, what is the value of a ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "Since f(7) = 17, substitute into f(x) = ax − 4: 7a − 4 = 17. Then 7a = 21 and a = 3."
+  },
+  {
+    "id": "MATH4-M1-017",
+    "prompt": "The graph of y = f(x) is shifted 2 units to the right and 5 units up to form the graph of y = g(x). Which equation relates g and f ?",
+    "choices": {
+      "A": "g(x) = f(x + 2) + 5",
+      "B": "g(x) = f(x − 2) − 5",
+      "C": "g(x) = f(x − 2) + 5",
+      "D": "g(x) = f(x + 5) − 2"
+    },
+    "correct": "C",
+    "explanation": "Shifting right by 2 replaces x with x − 2. Shifting up by 5 adds 5 outside the function."
+  },
+  {
+    "id": "MATH4-M1-018",
+    "prompt": "Eight identical machines produce 360 parts in 3 hours, working at constant rates. At the same rates, how many parts will 5 of these machines produce in 4 hours?",
+    "choices": {
+      "A": "240",
+      "B": "300",
+      "C": "320",
+      "D": "400"
+    },
+    "correct": "B",
+    "explanation": "Eight machines working 3 hours give 24 machine-hours for 360 parts, so the rate is 15 parts per machine-hour. Then 5 machines for 4 hours give 20 machine-hours, producing 20·15 = 300 parts."
+  },
+  {
+    "id": "MATH4-M1-019",
+    "prompt": "Two complementary angles have measures x° and 2x°. What is the measure of the smaller angle?",
+    "choices": {
+      "A": "15°",
+      "B": "30°",
+      "C": "45°",
+      "D": "60°"
+    },
+    "correct": "B",
+    "explanation": "Complementary angles sum to 90°, so x + 2x = 90. Then 3x = 90 and x = 30. The smaller angle is 30°."
+  },
+  {
+    "id": "MATH4-M1-020",
+    "prompt": "The numbers 4, 7, k, 11, and 15 are arranged in increasing order. If the median of the five numbers is 9, what is the value of k ?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "correct": "B",
+    "explanation": "In an ordered list of 5 numbers, the median is the third number. Since the median is 9, k = 9."
+  },
+  {
+    "id": "MATH4-M1-021",
+    "prompt": "A square has a diagonal of length 10. What is the area of the square?",
+    "choices": {
+      "A": "25",
+      "B": "40",
+      "C": "50",
+      "D": "100"
+    },
+    "correct": "C",
+    "explanation": "For a square, area = d²/2, where d is the diagonal. So the area is 10²/2 = 100/2 = 50."
+  },
+  {
+    "id": "MATH4-M1-022",
+    "prompt": "If (x − 2)(x + k) = x² + 3x − 10 for all values of x, what is the value of k ?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "Expand the left side: (x − 2)(x + k) = x² + (k − 2)x − 2k. Match coefficients with x² + 3x − 10. Then k − 2 = 3, so k = 5.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

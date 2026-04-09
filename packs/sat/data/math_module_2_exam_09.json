@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH9-M2-001",
+    "prompt": "What is the value of x in the equation √(x + 1) + √(x − 3) = 4 ?",
+    "choices": {
+      "A": "4",
+      "B": "21/4",
+      "C": "6",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Square both sides: x + 1 + x − 3 + 2√((x + 1)(x − 3)) = 16. This gives 2x − 2 + 2√((x + 1)(x − 3)) = 16, so √((x + 1)(x − 3)) = 9 − x. Squaring again yields x = 21/4, which checks in the original equation."
+  },
+  {
+    "id": "MATH9-M2-002",
+    "prompt": "What is the larger solution to the equation 5/(x − 1) = x/(x + 2) ?",
+    "choices": {
+      "A": "3 − √19",
+      "B": "3 + √19",
+      "C": "6 + √19",
+      "D": "5 + √19"
+    },
+    "correct": "B",
+    "explanation": "Cross-multiply: 5(x + 2) = x(x − 1). So x² − 6x − 10 = 0. Using the quadratic formula gives x = (6 ± √76)/2 = 3 ± √19, and the larger solution is 3 + √19."
+  },
+  {
+    "id": "MATH9-M2-003",
+    "prompt": "A function is modeled by f(x) = abˣ, where a and b are positive constants. If f(2) = 72 and f(5) = 1,944, what is the value of a ?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "9",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "Divide the function values: 1,944/72 = b³ = 27, so b = 3. Then 72 = a(3²) = 9a, so a = 8."
+  },
+  {
+    "id": "MATH9-M2-004",
+    "prompt": "The monic cubic polynomial p(x) = x³ + ax² + bx − 24 has factors x + 1 and x − 4. What is the value of a ?",
+    "choices": {
+      "A": "−3",
+      "B": "3",
+      "C": "7",
+      "D": "11"
+    },
+    "correct": "B",
+    "explanation": "The constant term −24 means the product of the roots is 24. Since two roots are −1 and 4, the third root r satisfies (−1)(4)r = 24, so r = −6. The sum of the roots is −1 + 4 − 6 = −3, and for a monic cubic that sum equals −a. Thus a = 3."
+  },
+  {
+    "id": "MATH9-M2-005",
+    "prompt": "A sphere has surface area 144π. What is the volume of the sphere?",
+    "choices": {
+      "A": "144π",
+      "B": "216π",
+      "C": "288π",
+      "D": "432π"
+    },
+    "correct": "C",
+    "explanation": "Surface area of a sphere is 4πr². So 4πr² = 144π gives r² = 36 and r = 6. The volume is (4/3)πr³ = (4/3)π(216) = 288π."
+  },
+  {
+    "id": "MATH9-M2-006",
+    "prompt": "The ordered data set is 4, 6, 9, 11, 12, 15, 18, 20, k, where k > 20. If the mean of the data set is 14, what is the value of k ?",
+    "choices": {
+      "A": "29",
+      "B": "30",
+      "C": "31",
+      "D": "32"
+    },
+    "correct": "C",
+    "explanation": "A mean of 14 for 9 values means the total is 126. The known 8 values sum to 95, so k = 126 − 95 = 31."
+  },
+  {
+    "id": "MATH9-M2-007",
+    "prompt": "How many real solutions does the equation |x − 3| = x² − 7x + 9 have?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "C",
+    "explanation": "For x ≥ 3, solve x − 3 = x² − 7x + 9, which gives x² − 8x + 12 = 0, so x = 2 or 6. Only x = 6 satisfies x ≥ 3. For x < 3, solve 3 − x = x² − 7x + 9, which gives x² − 6x + 6 = 0, with solutions 3 ± √3. Only 3 − √3 is less than 3. So there are 2 real solutions."
+  },
+  {
+    "id": "MATH9-M2-008",
+    "prompt": "A circle has radius 9 and an arc of length 6π. What is the measure of the central angle that intercepts the arc?",
+    "choices": {
+      "A": "90°",
+      "B": "120°",
+      "C": "135°",
+      "D": "150°"
+    },
+    "correct": "B",
+    "explanation": "Arc length s = rθ, where θ is in radians. So θ = s/r = 6π/9 = 2π/3. Converting to degrees gives 120°."
+  },
+  {
+    "id": "MATH9-M2-009",
+    "prompt": "If g(x) = 2x + 3 and f(g(x)) = 5x − 1, what is f(x) ?",
+    "choices": {
+      "A": "(5x − 17)/2",
+      "B": "(5x − 11)/2",
+      "C": "2x − 3",
+      "D": "5x + 1"
+    },
+    "correct": "A",
+    "explanation": "Let u = g(x) = 2x + 3. Then x = (u − 3)/2. Since f(g(x)) = 5x − 1, we have f(u) = 5((u − 3)/2) − 1 = (5u − 15)/2 − 1 = (5u − 17)/2. So f(x) = (5x − 17)/2."
+  },
+  {
+    "id": "MATH9-M2-010",
+    "prompt": "The table summarizes survey results.\n             Submitted late   Submitted on time\nBus 4 11\nWalk 6 9\nIf one student who submitted on time is selected at random, what is the probability that the student takes the bus?",
+    "choices": {
+      "A": "2/5",
+      "B": "11/20",
+      "C": "11/30",
+      "D": "4/15"
+    },
+    "correct": "B",
+    "explanation": "There are 11 + 9 = 20 students who submitted on time. Of those, 11 take the bus, so the probability is 11/20."
+  },
+  {
+    "id": "MATH9-M2-011",
+    "prompt": "The equation x² − 6x + k = 0 has two real solutions that differ by 2. What is the value of k ?",
+    "choices": {
+      "A": "5",
+      "B": "8",
+      "C": "9",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "If the two real solutions differ by 2, then they are 3 − 1 and 3 + 1 because the axis of symmetry is x = 3. Their product is 2 × 4 = 8, so k = 8."
+  },
+  {
+    "id": "MATH9-M2-012",
+    "prompt": "One pipe can fill a tank in 6 hours, and a second pipe can fill the same tank in 9 hours. If both pipes work together at constant rates, how many hours will it take to fill the tank?",
+    "choices": {
+      "A": "3",
+      "B": "18/5",
+      "C": "9/2",
+      "D": "15/2"
+    },
+    "correct": "B",
+    "explanation": "The combined filling rate is 1/6 + 1/9 = 5/18 tank per hour. The time to fill one tank is the reciprocal, 18/5 hours."
+  },
+  {
+    "id": "MATH9-M2-013",
+    "prompt": "If a and b are the roots of x² − 7x + 10 = 0, what is the value of a²b + ab² ?",
+    "choices": {
+      "A": "17",
+      "B": "35",
+      "C": "49",
+      "D": "70"
+    },
+    "correct": "D",
+    "explanation": "Since a and b are roots of x² − 7x + 10 = 0, we have a + b = 7 and ab = 10. Then a²b + ab² = ab(a + b) = 10 × 7 = 70."
+  },
+  {
+    "id": "MATH9-M2-014",
+    "prompt": "Let p(x) = x³ − 2x² + cx − 5. If p(−1) = 1, what is the value of p(2) ?",
+    "choices": {
+      "A": "−23",
+      "B": "−18",
+      "C": "3",
+      "D": "13"
+    },
+    "correct": "A",
+    "explanation": "Use p(−1) = 1: (−1)³ − 2(−1)² − c − 5 = 1. This gives −1 − 2 − c − 5 = 1, so −8 − c = 1 and c = −9. Then p(2) = 8 − 8 + 2(−9) − 5 = −23."
+  },
+  {
+    "id": "MATH9-M2-015",
+    "prompt": "In a right triangle, tan θ = 12/5, and the side adjacent to angle θ has length 15. What is the perimeter of the triangle?",
+    "choices": {
+      "A": "78",
+      "B": "84",
+      "C": "90",
+      "D": "96"
+    },
+    "correct": "C",
+    "explanation": "If tan θ = 12/5, then the triangle sides are in the ratio 12:5:13. Since the adjacent side is 15, the scale factor is 3. So the sides are 36, 15, and 39, and the perimeter is 90."
+  },
+  {
+    "id": "MATH9-M2-016",
+    "prompt": "The monic cubic polynomial p(x) = x³ + ax² + bx + 8 has factors x − 1 and x + 4. What is the value of b ?",
+    "choices": {
+      "A": "−12",
+      "B": "−10",
+      "C": "10",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "The constant term 8 means the product of the roots is −8. Since two roots are 1 and −4, the third root r satisfies 1(−4)r = −8, so r = 2. Then b is the sum of pairwise products: 1(−4) + 1(2) + (−4)(2) = −4 + 2 − 8 = −10."
+  },
+  {
+    "id": "MATH9-M2-017",
+    "prompt": "In a survey, 40% of the people originally surveyed preferred science fiction. Then 30 more people who did not prefer science fiction were added to the survey, and 25% of the people surveyed preferred science fiction. How many people were in the original survey?",
+    "choices": {
+      "A": "40",
+      "B": "50",
+      "C": "60",
+      "D": "75"
+    },
+    "correct": "B",
+    "explanation": "Let n be the original number of people. Then 0.40n preferred science fiction. After 30 non-preferring people are added, 0.40n = 0.25(n + 30). Solving gives 0.15n = 7.5, so n = 50."
+  },
+  {
+    "id": "MATH9-M2-018",
+    "prompt": "What is the value of x in the equation √(x + 7) = √x + 1 ?",
+    "choices": {
+      "A": "4",
+      "B": "7",
+      "C": "9",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "Square both sides: x + 7 = x + 2√x + 1. Then 6 = 2√x, so √x = 3 and x = 9."
+  },
+  {
+    "id": "MATH9-M2-019",
+    "prompt": "The point (5, k) lies on the circle x² + y² = 169, and k > 0. What is the value of k ?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "13"
+    },
+    "correct": "C",
+    "explanation": "Since (5, k) lies on x² + y² = 169, we have 5² + k² = 169. So 25 + k² = 169, giving k² = 144 and k = 12 because k > 0."
+  },
+  {
+    "id": "MATH9-M2-020",
+    "prompt": "What is the value of x in the equation 32^(x − 1) = 8^(x + 1) ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "C",
+    "explanation": "Rewrite with base 2: 32^(x − 1) = 2^(5x − 5) and 8^(x + 1) = 2^(3x + 3). Set exponents equal: 5x − 5 = 3x + 3. Then 2x = 8, so x = 4."
+  },
+  {
+    "id": "MATH9-M2-021",
+    "prompt": "Two similar cubes have edge lengths in the ratio 2:5. If the surface area of the smaller cube is 24, what is the surface area of the larger cube?",
+    "choices": {
+      "A": "120",
+      "B": "150",
+      "C": "180",
+      "D": "225"
+    },
+    "correct": "B",
+    "explanation": "Surface area scales with the square of the linear scale factor. The edge-length ratio is 2:5, so the surface-area ratio is 4:25. Thus the larger surface area is 24 × (25/4) = 150."
+  },
+  {
+    "id": "MATH9-M2-022",
+    "prompt": "For x ≠ −5 and x ≠ 2, which expression is equivalent to (x² + 7x + 10)/(x² + 3x − 10) ?",
+    "choices": {
+      "A": "(x + 2)/(x − 2)",
+      "B": "(x − 2)/(x + 2)",
+      "C": "(x + 5)/(x − 2)",
+      "D": "(x + 2)/(x + 5)"
+    },
+    "correct": "A",
+    "explanation": "Factor numerator and denominator: x² + 7x + 10 = (x + 5)(x + 2) and x² + 3x − 10 = (x + 5)(x − 2). Cancel x + 5 to get (x + 2)/(x − 2)."
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH6-M1-001",
+    "prompt": "What is the value of x in the equation 7 − 2(3 − x) = 5x − 8 ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "C",
+    "explanation": "Simplify the left side: 7 − 6 + 2x = 1 + 2x. Then 1 + 2x = 5x − 8, so 9 = 3x and x = 3."
+  },
+  {
+    "id": "MATH6-M1-002",
+    "prompt": "If A = πr², which expression gives r in terms of A ?",
+    "choices": {
+      "A": "√(A/π)",
+      "B": "A/π",
+      "C": "π/A",
+      "D": "√(π/A)"
+    },
+    "correct": "A",
+    "explanation": "From A = πr², divide by π to get r² = A/π. Then take the square root: r = √(A/π)."
+  },
+  {
+    "id": "MATH6-M1-003",
+    "prompt": "The table shows values of a linear function.\nx y\n−2 11\n1 5\n4 −1\nWhat is the slope of the function?",
+    "choices": {
+      "A": "−4",
+      "B": "−3",
+      "C": "−2",
+      "D": "2"
+    },
+    "correct": "C",
+    "explanation": "Using two points, slope = (5 − 11)/(1 − (−2)) = −6/3 = −2."
+  },
+  {
+    "id": "MATH6-M1-004",
+    "prompt": "Which ordered pair is a solution to the system below?\ny > 2x − 1\ny < x + 3",
+    "choices": {
+      "A": "(1, 3)",
+      "B": "(2, 5)",
+      "C": "(0, −1)",
+      "D": "(3, 4)"
+    },
+    "correct": "A",
+    "explanation": "Test each point. For (1, 3), 3 > 2(1) − 1 = 1 and 3 < 1 + 3 = 4, so it satisfies both inequalities."
+  },
+  {
+    "id": "MATH6-M1-005",
+    "prompt": "The graph of y = x² + 2x − 24 crosses the x-axis at x = a and x = b. What is the value of a + b ?",
+    "choices": {
+      "A": "−2",
+      "B": "−1",
+      "C": "2",
+      "D": "24"
+    },
+    "correct": "A",
+    "explanation": "For y = x² + 2x − 24, the sum of the x-intercepts equals the sum of the roots, which is −b/a = −2/1 = −2."
+  },
+  {
+    "id": "MATH6-M1-006",
+    "prompt": "For y > 0, which expression is equivalent to ∛(216y³) ?",
+    "choices": {
+      "A": "3y",
+      "B": "6y",
+      "C": "6y²",
+      "D": "18y"
+    },
+    "correct": "B",
+    "explanation": "∛216 = 6 and ∛(y³) = y for y > 0, so ∛(216y³) = 6y."
+  },
+  {
+    "id": "MATH6-M1-007",
+    "prompt": "A student wants an average quiz score of 82 on 5 quizzes. The first 4 quiz scores are 76, 88, 91, and 79. What score is needed on the fifth quiz?",
+    "choices": {
+      "A": "74",
+      "B": "76",
+      "C": "78",
+      "D": "80"
+    },
+    "correct": "B",
+    "explanation": "A mean of 82 on 5 quizzes requires a total of 410. The first 4 scores sum to 334, so the fifth score must be 410 − 334 = 76."
+  },
+  {
+    "id": "MATH6-M1-008",
+    "prompt": "A 3-digit locker code is formed using the digits 1, 2, 3, and 4 without repetition. How many different codes are possible?",
+    "choices": {
+      "A": "12",
+      "B": "16",
+      "C": "24",
+      "D": "64"
+    },
+    "correct": "C",
+    "explanation": "There are 4 choices for the first digit, 3 for the second, and 2 for the third. So the total is 4 × 3 × 2 = 24."
+  },
+  {
+    "id": "MATH6-M1-009",
+    "prompt": "An inscribed angle intercepts an arc that measures 84°. What is the measure of the inscribed angle?",
+    "choices": {
+      "A": "21°",
+      "B": "42°",
+      "C": "84°",
+      "D": "168°"
+    },
+    "correct": "B",
+    "explanation": "An inscribed angle measures half the intercepted arc. Half of 84° is 42°."
+  },
+  {
+    "id": "MATH6-M1-010",
+    "prompt": "In a right triangle with side lengths 6, 8, and 10, what is the cosine of the angle opposite the side of length 6 ?",
+    "choices": {
+      "A": "3/5",
+      "B": "4/5",
+      "C": "5/6",
+      "D": "4/3"
+    },
+    "correct": "B",
+    "explanation": "The angle opposite the side of length 6 has adjacent side 8 and hypotenuse 10, so cosine = 8/10 = 4/5."
+  },
+  {
+    "id": "MATH6-M1-011",
+    "prompt": "If g(x) = |x − 4|, what is the value of g(1) + g(7) ?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "g(1) = |1 − 4| = 3 and g(7) = |7 − 4| = 3. Their sum is 6."
+  },
+  {
+    "id": "MATH6-M1-012",
+    "prompt": "A bacteria sample starts with 96 bacteria and is cut in half every 3 hours. Which expression represents the number of bacteria after t hours?",
+    "choices": {
+      "A": "96(1/2)ᵗ",
+      "B": "96(1/2)^(t/3)",
+      "C": "96(2)^(t/3)",
+      "D": "48(1/2)^(t/3)"
+    },
+    "correct": "B",
+    "explanation": "Halving every 3 hours means the exponent counts how many 3-hour periods have passed, so the model is 96(1/2)^(t/3)."
+  },
+  {
+    "id": "MATH6-M1-013",
+    "prompt": "Which inequality is equivalent to 2x + 7 ≤ 5 − (x − 1) ?",
+    "choices": {
+      "A": "x ≤ −1/3",
+      "B": "x ≥ −1/3",
+      "C": "x ≤ 1/3",
+      "D": "x ≥ 1/3"
+    },
+    "correct": "A",
+    "explanation": "Expand the right side: 5 − (x − 1) = 6 − x. Then 2x + 7 ≤ 6 − x, so 3x ≤ −1 and x ≤ −1/3."
+  },
+  {
+    "id": "MATH6-M1-014",
+    "prompt": "Two similar figures have an area ratio of 9:16. If the perimeter of the smaller figure is 27, what is the perimeter of the larger figure?",
+    "choices": {
+      "A": "33",
+      "B": "36",
+      "C": "42",
+      "D": "48"
+    },
+    "correct": "B",
+    "explanation": "If the area ratio is 9:16, the linear scale factor is 3:4. Perimeter scales linearly, so the larger perimeter is 27 × (4/3) = 36."
+  },
+  {
+    "id": "MATH6-M1-015",
+    "prompt": "Which expression is equivalent to (2x + 1)² − (2x + 1) ?",
+    "choices": {
+      "A": "2x(2x + 1)",
+      "B": "(2x + 1)(2x − 1)",
+      "C": "4x² + 1",
+      "D": "2x² + x"
+    },
+    "correct": "A",
+    "explanation": "Factor out the common term (2x + 1): (2x + 1)[(2x + 1) − 1] = (2x + 1)(2x)."
+  },
+  {
+    "id": "MATH6-M1-016",
+    "prompt": "A right rectangular pyramid has a base that is 8 units by 6 units and a height of 9 units. What is the volume of the pyramid?",
+    "choices": {
+      "A": "96",
+      "B": "120",
+      "C": "144",
+      "D": "432"
+    },
+    "correct": "C",
+    "explanation": "Volume of a pyramid is (1/3)(base area)(height). The base area is 8 × 6 = 48, so the volume is (1/3)(48)(9) = 144."
+  },
+  {
+    "id": "MATH6-M1-017",
+    "prompt": "Which equation represents the line that passes through the points (0, 0) and (−4, 10) ?",
+    "choices": {
+      "A": "y = (5/2)x",
+      "B": "y = −(5/2)x",
+      "C": "y = −(2/5)x",
+      "D": "y = 10x − 4"
+    },
+    "correct": "B",
+    "explanation": "The slope is (10 − 0)/(−4 − 0) = 10/(−4) = −5/2. Since the line passes through the origin, its equation is y = −(5/2)x."
+  },
+  {
+    "id": "MATH6-M1-018",
+    "prompt": "A line of best fit for a scatterplot has slope 5 and passes through the point (4, 70). Which equation could represent this line?",
+    "choices": {
+      "A": "y = 5x + 45",
+      "B": "y = 5x + 50",
+      "C": "y = 4x + 50",
+      "D": "y = 70x + 5"
+    },
+    "correct": "B",
+    "explanation": "Substitute the point (4, 70) into y = 5x + b: 70 = 20 + b, so b = 50."
+  },
+  {
+    "id": "MATH6-M1-019",
+    "prompt": "What is the value of x in the proportion 4/x = 10/15 ?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "Cross-multiply: 4 × 15 = 10x, so 60 = 10x and x = 6."
+  },
+  {
+    "id": "MATH6-M1-020",
+    "prompt": "If p(x) = x² + bx + c, and p(2) = 0 and p(−5) = 0, what is the value of b ?",
+    "choices": {
+      "A": "−10",
+      "B": "−3",
+      "C": "3",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "Since p(2) = 0 and p(−5) = 0, the roots are 2 and −5. For a monic quadratic, the sum of the roots is −b, so 2 + (−5) = −3 = −b, giving b = 3."
+  },
+  {
+    "id": "MATH6-M1-021",
+    "prompt": "A circle is centered at (2, −1) and has radius 4. Which point lies on the circle?",
+    "choices": {
+      "A": "(6, −1)",
+      "B": "(2, 4)",
+      "C": "(−1, 2)",
+      "D": "(4, 2)"
+    },
+    "correct": "A",
+    "explanation": "The point is 4 units to the right of the center (2, −1), so its distance from the center is exactly the radius."
+  },
+  {
+    "id": "MATH6-M1-022",
+    "prompt": "The table shows values of a quadratic function.\nx y\n0 2\n1 0\n2 0\n3 2\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = (x − 1)(x − 2)",
+      "B": "y = (x + 1)(x − 2)",
+      "C": "y = x² − 2",
+      "D": "y = (x − 2)²"
+    },
+    "correct": "A",
+    "explanation": "This equation has zeros at x = 1 and x = 2, and substituting x = 0 and x = 3 gives y = 2 in both cases, matching the table.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

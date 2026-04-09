@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW8-M2-001",
+    "prompt": "A reviewer describes the committee’s response as “equivocal,” noting that it acknowledged the proposal’s strengths without clearly endorsing or rejecting it.\nAs used in the text, what does “equivocal” most nearly mean?",
+    "choices": {
+      "A": "expensive",
+      "B": "ambiguous",
+      "C": "optimistic",
+      "D": "forceful"
+    },
+    "correct": "B",
+    "explanation": "“Equivocal” means unclear or ambiguous because the response neither clearly endorsed nor rejected the proposal."
+  },
+  {
+    "id": "RW8-M2-002",
+    "prompt": "A historian argues that the spread of printed train timetables did more than help passengers catch departures. Because timetables presented distant places within a single coordinated schedule, they encouraged travelers to imagine regions as parts of one connected system governed by shared clock time. In that sense, the timetable reshaped people’s sense of distance and simultaneity as much as their travel plans.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Printed timetables influenced how people understood regional connection and shared time, not just how they planned travel.",
+      "B": "Passengers relied on timetables only when trains were delayed.",
+      "C": "Shared clock time became less important as rail networks expanded.",
+      "D": "Distant places were rarely included in early train timetables."
+    },
+    "correct": "A",
+    "explanation": "The passage says timetables reshaped perceptions of distance and simultaneity as well as travel behavior."
+  },
+  {
+    "id": "RW8-M2-003",
+    "prompt": "Researchers estimating storm damage sometimes use insurance claims as a source of evidence. However, such claims usually exclude losses suffered by people without relevant coverage or by communities where filing procedures are inaccessible or delayed. As a result, insurance data may underrepresent the total social and economic impact of a storm.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Insurance claims may provide an incomplete picture of storm damage.",
+      "B": "Communities without insurance never experience storm damage.",
+      "C": "Filing procedures are equally accessible in all communities.",
+      "D": "Insurance data always exaggerate the total cost of storms."
+    },
+    "correct": "A",
+    "explanation": "The text explains that uninsured and inaccessible losses may be excluded from claim data."
+  },
+  {
+    "id": "RW8-M2-004",
+    "prompt": "A literary critic notes that a novel repeatedly describes memory using images of folded paper, sealed envelopes, and locked drawers. The critic argues that these images suggest the narrator experiences the past not as absent but as stored—accessible only through careful acts of opening.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a pattern of imagery that the second sentence interprets.",
+      "B": "It summarizes the novel’s plot in chronological order.",
+      "C": "It challenges the symbolic claim made in the second sentence.",
+      "D": "It explains how letters were delivered in the novel’s setting."
+    },
+    "correct": "A",
+    "explanation": "The first sentence identifies the repeated images, and the second explains what they imply about memory."
+  },
+  {
+    "id": "RW8-M2-005",
+    "prompt": "A student is writing about perovskite solar cells and has taken these notes:\n• Perovskite solar cells can be highly efficient at converting sunlight into electricity.\n• They may be less expensive to manufacture than some traditional solar technologies.\n• However, some perovskite materials degrade relatively quickly when exposed to moisture or heat.\n• Researchers are working to improve the cells’ durability.\nThe student wants to emphasize both a potential advantage of perovskite solar cells and a challenge that limits their wider use. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Perovskite solar cells may combine high efficiency and lower manufacturing costs, but their durability remains a challenge because some materials degrade under heat or moisture.",
+      "B": "Traditional solar technologies are never efficient enough for large-scale use.",
+      "C": "Perovskite solar cells are already fully durable in all conditions.",
+      "D": "Heat and moisture affect every manufactured product in exactly the same way."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the potential advantage and the durability problem from the notes."
+  },
+  {
+    "id": "RW8-M2-006",
+    "prompt": "The biologist expected the migration data to show that the birds followed the same coastal route every spring. ______, tracking results revealed that many birds crossed inland mountains during years with stronger offshore winds.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Instead,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "B",
+    "explanation": "The tracking data did not confirm the expected coastal route; they revealed a different pattern."
+  },
+  {
+    "id": "RW8-M2-007",
+    "prompt": "The clay tablets appeared ancient at first; <u>however, a chemical analysis revealed traces of a modern binding agent.</u>\nWhich choice best describes the punctuation of the underlined portion of the text?",
+    "choices": {
+      "A": "It is correct because “however” introduces an independent clause following a semicolon.",
+      "B": "It is incorrect because “however” can never appear after a semicolon.",
+      "C": "It is incorrect because the semicolon should be replaced with a comma.",
+      "D": "It is correct only if the second clause is changed into a fragment."
+    },
+    "correct": "A",
+    "explanation": "The semicolon properly links two independent clauses, and “however” is correctly used to signal contrast."
+  },
+  {
+    "id": "RW8-M2-008",
+    "prompt": "Though often described as a neutral technical tool, the property map also helped governments define parcels, assign value, and turn land into something that could be taxed, sold, or disputed.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It contrasts a common description of the map with a broader account of its social and political role.",
+      "B": "It identifies the cartographer who first used property maps.",
+      "C": "It explains how surveyors physically measured parcels.",
+      "D": "It presents the findings of a modern real-estate study."
+    },
+    "correct": "A",
+    "explanation": "The phrase “Though often described as a neutral technical tool” sets up the contrast."
+  },
+  {
+    "id": "RW8-M2-009",
+    "prompt": "After Priya spoke with Daniel about Mei’s proposal, <u>she</u> suggested delaying the public announcement.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "she",
+      "B": "Priya",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “she” with “Priya” removes the ambiguity among the named people."
+  },
+  {
+    "id": "RW8-M2-010",
+    "prompt": "Had the laboratory insulated the sample chamber more effectively, the sensors <u>would detect</u> smaller temperature changes during the test.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "would detect",
+      "B": "detected",
+      "C": "had detected",
+      "D": "would have detected"
+    },
+    "correct": "D",
+    "explanation": "The sentence describes an unreal past condition with an unreal past result, requiring “would have detected.”"
+  },
+  {
+    "id": "RW8-M2-011",
+    "prompt": "The editor meant to say that the curator discussed the paintings mainly in relation to trade, but the sentence as drafted says that the curator <u>mainly discussed the paintings in relation to trade and religion.</u>\nWhich choice best revises the text so that “mainly” is placed as precisely as possible?",
+    "choices": {
+      "A": "mainly discussed the paintings in relation to trade and religion.",
+      "B": "discussed mainly the paintings in relation to trade and religion.",
+      "C": "discussed the paintings mainly in relation to trade and religion.",
+      "D": "discussed the paintings in relation to mainly trade and religion."
+    },
+    "correct": "C",
+    "explanation": "This placement makes clear that “mainly” modifies the relation in which the paintings were discussed."
+  },
+  {
+    "id": "RW8-M2-012",
+    "prompt": "[1] In polar regions, sea ice forms a platform on which algae can grow and animals can rest, hunt, or travel. [2] When sea ice breaks up earlier in the year, the timing and location of those activities can change. [3] Species that depend on the ice therefore respond not only to how much ice exists but also to when and where it persists. [4] For that reason, researchers study sea ice as both a physical structure and a seasonal habitat.\nWhich choice best describes the most logical placement for the following sentence?\n“An earlier thaw can reshape the ecosystem even before the total area of ice is measured.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence fits after the description of earlier breakup and before the broader conclusion about species responses."
+  },
+  {
+    "id": "RW8-M2-013",
+    "prompt": "A researcher tracked the average number of minutes four groups spent solving a logic puzzle.\nGroup A: 13\nGroup B: 18\nGroup C: 15\nGroup D: 12\nA student claims that Group B spent more time solving the puzzle, on average, than Group C.\nWhich choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is supported because Group B’s average is greater than Group C’s.",
+      "B": "The claim is unsupported because Group A and Group D together total more minutes than Group B.",
+      "C": "The claim is unsupported because Group C’s time is closer to Group B’s than Group D’s is.",
+      "D": "The claim is supported because Group B spent the most time of all four groups."
+    },
+    "correct": "A",
+    "explanation": "Group B spent 18 minutes on average, while Group C spent 15."
+  },
+  {
+    "id": "RW8-M2-014",
+    "prompt": "In a discussion of rhetoric, a professor says that a seemingly minor detail can become <u>salient</u> once a writer arranges the surrounding sentences to draw attention to it.\nAs used in the text, what does “salient” most nearly mean?",
+    "choices": {
+      "A": "memorable",
+      "B": "prominent",
+      "C": "familiar",
+      "D": "doubtful"
+    },
+    "correct": "B",
+    "explanation": "In context, “salient” means prominent or especially noticeable."
+  },
+  {
+    "id": "RW8-M2-015",
+    "prompt": "In a novel, the narrator describes an aunt who never corrected anyone directly: “She would straighten the crooked frame, refill the empty glass, or close the window someone had forgotten. By the time she sat down again, the room had somehow absorbed her opinion without hearing a word of it.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The narrator sees the aunt as someone who influences others indirectly through actions rather than speech.",
+      "B": "The narrator believes the aunt avoided conversation because she was shy.",
+      "C": "The aunt was mainly concerned with cleaning the room.",
+      "D": "The room remained disorderly despite the aunt’s efforts."
+    },
+    "correct": "A",
+    "explanation": "Her silent adjustments communicate her opinion without direct correction."
+  },
+  {
+    "id": "RW8-M2-016",
+    "prompt": "A study found that students who paused while reading a scientific article to predict the next paragraph’s main idea later remembered the article’s structure more accurately than students who simply reread earlier sections. The researchers note, however, that the study did not test whether prediction improved memory for exact terminology.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Predicting a text’s next main idea may help students remember its structure even if its effect on exact terms is uncertain.",
+      "B": "Rereading earlier sections is never useful for learning science.",
+      "C": "Exact terminology is easier to remember than structure in every case.",
+      "D": "The study proved that prediction is the best strategy for all reading tasks."
+    },
+    "correct": "A",
+    "explanation": "The study found better recall of structure but did not test memory for terminology."
+  },
+  {
+    "id": "RW8-M2-017",
+    "prompt": "A historian argues that civic reform posters gained authority partly by imitating the layout of engineering diagrams, using measured arrows, labeled parts, and explanatory captions. To support this claim, the historian notes that even critics described the posters as looking “precise” and “difficult to dismiss.”\nWhy does the author most likely include the example of critics describing the posters as “precise”?",
+    "choices": {
+      "A": "To show that the posters’ technical appearance affected how viewers judged their credibility",
+      "B": "To prove that engineers designed every reform poster",
+      "C": "To argue that captions matter more than images",
+      "D": "To suggest that critics later adopted the reform agenda"
+    },
+    "correct": "A",
+    "explanation": "Even critics called the posters “precise,” supporting the claim that their design influenced credibility."
+  },
+  {
+    "id": "RW8-M2-018",
+    "prompt": "A student is writing about mass-timber buildings and has taken these notes:\n• Mass timber uses engineered wood products in large structural components.\n• In some cases, mass timber can reduce the amount of steel or concrete required in a building.\n• Wood stores carbon that trees absorbed while growing.\n• However, building codes, supply chains, and project design can affect where mass timber is practical to use.\nThe student wants to explain a potential benefit of mass timber while acknowledging a factor that may limit its use. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Mass timber can reduce reliance on some more carbon-intensive materials, but whether it is practical depends on building codes, supply chains, and design needs.",
+      "B": "Steel and concrete are never useful in modern construction.",
+      "C": "All wooden buildings store the same amount of carbon.",
+      "D": "Building codes no longer influence construction decisions."
+    },
+    "correct": "A",
+    "explanation": "This choice states both the potential benefit and the practical limitation from the notes."
+  },
+  {
+    "id": "RW8-M2-019",
+    "prompt": "The panel agreed that the archive’s catalog was incomplete. ______, members disagreed about whether the missing entries should be reconstructed from letters, purchase records, or handwritten labels on the objects themselves.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Nevertheless,",
+      "C": "Similarly,",
+      "D": "For example,"
+    },
+    "correct": "B",
+    "explanation": "The second sentence contrasts agreement about the incomplete catalog with disagreement about how to reconstruct it."
+  },
+  {
+    "id": "RW8-M2-020",
+    "prompt": "The workshop asks participants to identify assumptions, trace consequences, and <u>the revision of weak claims.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the revision of weak claims.",
+      "B": "revising weak claims.",
+      "C": "revise weak claims.",
+      "D": "to revising weak claims."
+    },
+    "correct": "C",
+    "explanation": "“Revise” matches the parallel verbs “identify” and “trace.”"
+  },
+  {
+    "id": "RW8-M2-021",
+    "prompt": "The poem “Mouth of the River” by <u>writer Tessa Ibrahim</u> closes the volume.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "writer, Tessa Ibrahim,",
+      "C": "writer Tessa, Ibrahim",
+      "D": "writer, Tessa Ibrahim"
+    },
+    "correct": "A",
+    "explanation": "No commas are needed because “writer Tessa Ibrahim” is an essential identifying phrase."
+  },
+  {
+    "id": "RW8-M2-022",
+    "prompt": "The mix of careful observation and speculative argument <u>gives</u> the essay its distinctive tone.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "give",
+      "B": "gives",
+      "C": "have given",
+      "D": "giving"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “mix” takes the singular verb “gives.”"
+  },
+  {
+    "id": "RW8-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The new scheduling system improved the clinic.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The new scheduling system improved the clinic.",
+      "B": "The new scheduling system changed the clinic in several ways.",
+      "C": "The new scheduling system reduced patient wait times, lowered the number of missed appointments, and made it easier for nurses to track follow-up visits.",
+      "D": "The new scheduling system had many helpful effects."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces vague wording with specific effects."
+  },
+  {
+    "id": "RW8-M2-024",
+    "prompt": "[1] In grassland ecosystems, fire can remove built-up plant material and return nutrients to the soil. [2] The effects of a burn, however, depend on factors such as season, intensity, and how often fires occur. [3] Some species recover quickly after a burn, while others depend on longer intervals between fires. [4] Because of these differences, land managers often vary burn schedules across a landscape.\nWhich choice best describes the most logical placement for the following sentence?\n“No single fire regime benefits every species in the same way.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence follows the discussion of species differences and supports the management choice in sentence 4."
+  },
+  {
+    "id": "RW8-M2-025",
+    "prompt": "The report originally described the pilot bus route as “effective,” but that wording failed to show that ridership increased most sharply during weekday commuting hours, while midday use remained nearly unchanged. The editor suggests replacing “effective” with <u>most effective during weekday commuting hours</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the statement more precise by specifying when the route was most successful.",
+      "B": "It makes the statement less formal by adding conversational language.",
+      "C": "It changes the meaning by suggesting that the route failed on weekdays.",
+      "D": "It introduces a personal opinion that the original avoided."
+    },
+    "correct": "A",
+    "explanation": "The revision identifies weekday commuting hours as the period of strongest ridership growth."
+  },
+  {
+    "id": "RW8-M2-026",
+    "prompt": "In an experiment, plant roots growing in transparent containers curved more consistently downward when faint vibrations were applied from below than when the containers remained still. The researchers suggest that the vibrations may have served as a directional cue.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Faint vibrations from below may influence the direction in which roots grow.",
+      "B": "Plant roots grow downward only in transparent containers.",
+      "C": "Still containers prevent roots from growing normally.",
+      "D": "The researchers proved that all vibrations improve plant growth."
+    },
+    "correct": "A",
+    "explanation": "The roots curved more consistently downward when vibrations were applied from below."
+  },
+  {
+    "id": "RW8-M2-027",
+    "prompt": "An essay on field notebooks ends by noting that scientists’ notebooks preserve not just final observations but also crossed-out measurements, tentative sketches, and abandoned interpretations. For that reason, historians of science study notebooks not only for what researchers concluded but also for the possibilities they considered and set aside.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It applies the earlier idea to explain why a particular kind of document matters to historians.",
+      "B": "It narrows the discussion to the materials used to make notebooks.",
+      "C": "It argues that final published papers are never useful.",
+      "D": "It repeats the earlier claim without extending it."
+    },
+    "correct": "A",
+    "explanation": "The final sentence explains why historians value notebooks in light of the earlier point about preserving tentative and abandoned ideas."
+  }
+]

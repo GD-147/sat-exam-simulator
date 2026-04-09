@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW7-M1-001",
+    "prompt": "A reviewer writes that the sculptor’s newest work is “bold but restrained,” noting that it uses only a few shapes to create a strong visual effect.\nAs used in the text, what does “restrained” most nearly mean?",
+    "choices": {
+      "A": "limited",
+      "B": "polished",
+      "C": "borrowed",
+      "D": "unfinished"
+    },
+    "correct": "A",
+    "explanation": "In context, “restrained” means controlled or limited rather than excessive."
+  },
+  {
+    "id": "RW7-M1-002",
+    "prompt": "Some cities have begun restoring small urban streams that were once forced underground into pipes. When these streams are brought back to the surface, they can create habitat for wildlife, reduce pressure on storm drains, and provide public green space. For these reasons, stream restoration is increasingly seen as a way to address both environmental and civic needs.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Stream restoration is valued mainly because it makes cities look older.",
+      "B": "Restoring buried urban streams can provide ecological and public benefits at the same time.",
+      "C": "Storm drains are no longer necessary in cities that restore streams.",
+      "D": "Wildlife habitat is the only reason cities uncover old streams."
+    },
+    "correct": "B",
+    "explanation": "The text emphasizes wildlife habitat, storm-drain relief, and public green space."
+  },
+  {
+    "id": "RW7-M1-003",
+    "prompt": "Before inexpensive refrigeration became common, many dairies delivered milk early in the morning so that households could use it before the day grew warm. As cooling technologies improved, distributors gained more flexibility in when and how far they could transport milk.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Early milk deliveries were shaped partly by limits on keeping milk cool.",
+      "B": "Refrigeration caused households to stop buying milk.",
+      "C": "Dairies preferred late-afternoon deliveries before refrigeration.",
+      "D": "Improved cooling technologies reduced the distance milk could travel."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that deliveries happened early because milk was harder to keep cool before refrigeration."
+  },
+  {
+    "id": "RW7-M1-004",
+    "prompt": "A geographer notes that a cluster of towns developed where a river narrows before entering a wide plain. The geographer suggests that the narrowing may have made the river easier to cross, helping trade routes converge there.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a geographic detail that the second sentence explains the significance of.",
+      "B": "It presents a theory that the second sentence rejects.",
+      "C": "It describes how the plain was formed by volcanic activity.",
+      "D": "It argues that trade routes avoided rivers whenever possible."
+    },
+    "correct": "A",
+    "explanation": "The first sentence describes the river narrowing; the second explains how that may have mattered for trade."
+  },
+  {
+    "id": "RW7-M1-005",
+    "prompt": "A student is writing about reusable shipping crates and has taken these notes:\n• Some companies are replacing single-use cardboard boxes with reusable plastic shipping crates.\n• The crates can be folded and sent back for reuse.\n• Reusing the crates may reduce packaging waste.\n• Companies may also save money over time if the crates last through many shipping cycles.\nThe student wants to emphasize both an environmental benefit and a possible long-term financial benefit of reusable shipping crates. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Reusable shipping crates can reduce packaging waste and may also save companies money over time if the crates are used repeatedly.",
+      "B": "Some companies use cardboard boxes to ship products.",
+      "C": "Plastic shipping crates can usually be folded after use.",
+      "D": "Shipping cycles vary from company to company."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the environmental and long-term financial benefit from the notes."
+  },
+  {
+    "id": "RW7-M1-006",
+    "prompt": "The museum added an audio guide in five languages. ______, more visitors can now access detailed information about the collection.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In contrast,",
+      "B": "As a result,",
+      "C": "For example,",
+      "D": "Nevertheless,"
+    },
+    "correct": "B",
+    "explanation": "The second sentence gives the consequence of adding the multilingual audio guide."
+  },
+  {
+    "id": "RW7-M1-007",
+    "prompt": "The presentation focused on three inventions<u>: the telegraph, the phonograph, and the motion-picture camera.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "—the telegraph, the phonograph, and the motion-picture camera.",
+      "C": "; the telegraph, the phonograph, and the motion-picture camera.",
+      "D": ", the telegraph, the phonograph, and the motion-picture camera."
+    },
+    "correct": "A",
+    "explanation": "A colon correctly introduces the list of three inventions."
+  },
+  {
+    "id": "RW7-M1-008",
+    "prompt": "The essay offers a vivid description of the harbor at sunrise, <u>it gives little attention to the workers who actually unloaded the ships.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "it gives little attention to the workers who actually unloaded the ships.",
+      "B": "but it gives little attention to the workers who actually unloaded the ships.",
+      "C": "giving little attention to the workers who actually unloaded the ships.",
+      "D": "and, it gives little attention to the workers who actually unloaded the ships."
+    },
+    "correct": "B",
+    "explanation": "“But” correctly joins the two clauses and signals contrast."
+  },
+  {
+    "id": "RW7-M1-009",
+    "prompt": "The prize was awarded to Lucas and <u>she</u> after the judges reviewed the final designs.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "she",
+      "B": "her",
+      "C": "hers",
+      "D": "herself"
+    },
+    "correct": "B",
+    "explanation": "The pronoun is part of the compound object of the preposition “to,” so the objective form is needed."
+  },
+  {
+    "id": "RW7-M1-010",
+    "prompt": "By the time the hikers reached the shelter, the storm <u>passes</u> and the sky had already begun to clear.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "passes",
+      "B": "passed",
+      "C": "had passed",
+      "D": "will pass"
+    },
+    "correct": "C",
+    "explanation": "The storm passed before the hikers reached the shelter, so past perfect is needed."
+  },
+  {
+    "id": "RW7-M1-011",
+    "prompt": "To finish the mural before the festival, <u>extra paint was ordered by the organizers.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "extra paint was ordered by the organizers.",
+      "B": "the organizers ordered extra paint.",
+      "C": "the festival required extra paint to be ordered by the organizers.",
+      "D": "ordering extra paint, the mural was finished before the festival."
+    },
+    "correct": "B",
+    "explanation": "The revision correctly places the doer of the action after the introductory phrase."
+  },
+  {
+    "id": "RW7-M1-012",
+    "prompt": "[1] Some apartment buildings now set aside shelves in their lobbies where residents can leave books, puzzles, or board games for neighbors to borrow. [2] These exchange shelves can encourage casual sharing among residents. [3] They may also give useful items a longer life instead of letting them go unused. [4] In some buildings, the shelves have become informal gathering points where neighbors stop to chat.\nWhich choice best describes the most logical placement for the following sentence?\n“Such shelves can therefore support both reuse and community interaction.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "D",
+    "explanation": "The added sentence summarizes both the reuse benefit and the community interaction described in the paragraph."
+  },
+  {
+    "id": "RW7-M1-013",
+    "prompt": "A student recorded the average number of minutes four teams spent editing a video.\nTeam A: 22\nTeam B: 19\nTeam C: 25\nTeam D: 21\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Team B spent more time editing, on average, than Team D.",
+      "B": "Team C spent the most time editing, on average.",
+      "C": "Team A and Team D spent the same average amount of time editing.",
+      "D": "The average editing time decreased steadily from Team A to Team D."
+    },
+    "correct": "B",
+    "explanation": "Team C’s average of 25 minutes is the highest."
+  },
+  {
+    "id": "RW7-M1-014",
+    "prompt": "The reviewer called the historian’s argument especially <u>sound</u>, praising its careful logic and strong evidence.\nAs used in the text, what does “sound” most nearly mean?",
+    "choices": {
+      "A": "audible",
+      "B": "reliable",
+      "C": "stern",
+      "D": "brief"
+    },
+    "correct": "B",
+    "explanation": "In context, “sound” means solid or reliable because the argument is logical and well supported."
+  },
+  {
+    "id": "RW7-M1-015",
+    "prompt": "In a memoir, a writer describes her mother’s sewing basket: “Buttons of every color rolled together in one tin, and threads tangled around old measuring tapes. Yet whenever I needed a missing clasp or a loose hem repaired, she reached into that basket as if it were perfectly ordered.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The basket seems disorderly, but the mother knows how to use it effectively.",
+      "B": "The writer plans to organize the sewing basket differently.",
+      "C": "The mother refuses to repair clothing for anyone else.",
+      "D": "The basket contains only buttons and thread."
+    },
+    "correct": "A",
+    "explanation": "The passage contrasts apparent disorder with the mother’s ease and competence."
+  },
+  {
+    "id": "RW7-M1-016",
+    "prompt": "Researchers found that runners wearing shoes with slightly textured soles slipped less often on a wet test surface than runners wearing otherwise similar shoes with smooth soles. The researchers suggest that the added texture may improve grip.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Textured soles may help runners avoid slipping on wet surfaces.",
+      "B": "Smooth soles always cause runners to fall.",
+      "C": "The study proved that wet surfaces are safer than dry ones.",
+      "D": "Shoe texture matters only for professional athletes."
+    },
+    "correct": "A",
+    "explanation": "The researchers found fewer slips with textured soles and suggested that the texture improved grip."
+  },
+  {
+    "id": "RW7-M1-017",
+    "prompt": "A music historian writes, “When train schedules became more reliable, touring ensembles could plan longer, more complicated routes, allowing small-town audiences to hear performances that had once reached only major cities.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To present one historian’s explanation of how transportation changes affected musical touring",
+      "B": "To prove that small towns preferred ensembles to solo performers",
+      "C": "To show that train schedules were printed only in major cities",
+      "D": "To describe how musicians learned to read timetables"
+    },
+    "correct": "A",
+    "explanation": "The quotation explains how reliable train schedules expanded touring possibilities."
+  },
+  {
+    "id": "RW7-M1-018",
+    "prompt": "A student is writing about neighborhood compost drop-off sites and has taken these notes:\n• Some communities set up drop-off bins for food scraps.\n• Collected scraps can be turned into compost instead of being sent to landfills.\n• The finished compost may be used in community gardens.\n• These sites can make composting possible for people who do not have yards.\nWhich choice most effectively uses relevant information from the notes to make a general claim about compost drop-off sites?",
+    "choices": {
+      "A": "Neighborhood compost drop-off sites can expand access to composting while turning food scraps into material that can later be used in gardens.",
+      "B": "Food scraps should never be placed in landfills.",
+      "C": "Composting is useful only for people who grow vegetables.",
+      "D": "Community gardens usually produce all of their own compost."
+    },
+    "correct": "A",
+    "explanation": "This choice accurately combines the access and reuse benefits from the notes."
+  },
+  {
+    "id": "RW7-M1-019",
+    "prompt": "The first section of the documentary explains how the printing press was introduced to the region. ______, the next section examines how local writers adapted the technology to their own languages.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Similarly,",
+      "B": "Next,",
+      "C": "Otherwise,",
+      "D": "By contrast,"
+    },
+    "correct": "B",
+    "explanation": "The sentence describes the sequence of sections in the documentary."
+  },
+  {
+    "id": "RW7-M1-020",
+    "prompt": "The job required Malika to answer messages, track expenses, and <u>preparing monthly summaries.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "preparing monthly summaries.",
+      "B": "prepare monthly summaries.",
+      "C": "prepared monthly summaries.",
+      "D": "to preparing monthly summaries."
+    },
+    "correct": "B",
+    "explanation": "“Prepare” matches the parallel verbs “answer” and “track.”"
+  },
+  {
+    "id": "RW7-M1-021",
+    "prompt": "The gardeners’ market opens every Saturday morning beside the old train depot.\nWhich choice best explains the use of the apostrophe in the underlined word?",
+    "choices": {
+      "A": "It shows that the market belongs to more than one gardener.",
+      "B": "It shows that the depot belongs to the market.",
+      "C": "It marks the plural form of a noncount noun.",
+      "D": "It is used incorrectly because the word should not show possession."
+    },
+    "correct": "A",
+    "explanation": "The apostrophe after the plural noun “gardeners” marks shared possession."
+  },
+  {
+    "id": "RW7-M1-022",
+    "prompt": "Each of the sculptures in the courtyard <u>stand</u> on a base made from recycled brick.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "stand",
+      "B": "stands",
+      "C": "have stood",
+      "D": "standing"
+    },
+    "correct": "B",
+    "explanation": "The subject “Each” is singular, so the singular verb is needed."
+  },
+  {
+    "id": "RW7-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“When the report was finally published, this surprised many readers.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because “this” does not clearly refer to a specific idea.",
+      "B": "The sentence should be revised because it contains an incorrect verb tense.",
+      "C": "The sentence should be revised because “finally” should always be avoided.",
+      "D": "The sentence should be revised because all complex sentences are grammatically incorrect."
+    },
+    "correct": "A",
+    "explanation": "The pronoun “this” is too vague and could refer to more than one part of the sentence."
+  },
+  {
+    "id": "RW7-M1-024",
+    "prompt": "[1] Some schools have added refill stations where students can fill reusable water bottles. [2] These stations can reduce the use of disposable plastic bottles. [3] In some buildings, the stations also display how many single-use bottles have been avoided. [4] Teachers sometimes use that running total in lessons about waste and consumption.\nWhich choice best describes the most logical placement for the following sentence?\n“The stations can therefore influence both daily habits and classroom discussions.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "D",
+    "explanation": "The added sentence best follows the mention of both changed habits and classroom use, which it summarizes."
+  },
+  {
+    "id": "RW7-M1-025",
+    "prompt": "To make the statement more concise, the editor replaced “for the purpose of” with <u>for</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It changes the meaning by narrowing the purpose too much.",
+      "B": "It shortens the sentence without changing its meaning.",
+      "C": "It makes the sentence less grammatical.",
+      "D": "It makes the sentence much more formal."
+    },
+    "correct": "B",
+    "explanation": "“For” is a shorter equivalent of “for the purpose of.”"
+  },
+  {
+    "id": "RW7-M1-026",
+    "prompt": "In an experiment, participants trying to assemble a simple object finished more quickly when the instructions included small diagrams beside each step than when the instructions used words alone.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Small diagrams may help people follow assembly instructions more efficiently.",
+      "B": "Written instructions are never useful without diagrams.",
+      "C": "The participants had all built the object before the experiment.",
+      "D": "Faster assembly always means fewer mistakes were made."
+    },
+    "correct": "A",
+    "explanation": "Participants finished faster when diagrams accompanied each step."
+  },
+  {
+    "id": "RW7-M1-027",
+    "prompt": "An article about local seed exchanges explains that gardeners at these events trade seeds suited to nearby soil and weather conditions. The article then notes that several towns now sponsor seed exchanges through their public libraries.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It offers an example of institutions helping expand the practice described earlier.",
+      "B": "It argues that all gardening events should be run by libraries.",
+      "C": "It changes the topic from gardening to weather forecasting.",
+      "D": "It disputes the claim that local seed exchanges are useful."
+    },
+    "correct": "A",
+    "explanation": "The final sentence shows public libraries sponsoring seed exchanges.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

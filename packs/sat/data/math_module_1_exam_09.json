@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH9-M1-001",
+    "prompt": "What is the value of x in the equation 5 − 2(x + 1) = 3(4 − x) ?",
+    "choices": {
+      "A": "5",
+      "B": "7",
+      "C": "9",
+      "D": "11"
+    },
+    "correct": "C",
+    "explanation": "Simplify the left side: 5 − 2x − 2 = 3 − 2x. Then 3 − 2x = 12 − 3x, so x = 9."
+  },
+  {
+    "id": "MATH9-M1-002",
+    "prompt": "Which inequality is equivalent to 2(3x − 1) ≤ 5x + 7 ?",
+    "choices": {
+      "A": "x ≤ 5",
+      "B": "x ≤ 7",
+      "C": "x ≤ 9",
+      "D": "x ≥ 9"
+    },
+    "correct": "C",
+    "explanation": "Expand first: 6x − 2 ≤ 5x + 7. Subtract 5x and add 2 to get x ≤ 9."
+  },
+  {
+    "id": "MATH9-M1-003",
+    "prompt": "Which expression is equivalent to (x + 5)² − x(x + 10) ?",
+    "choices": {
+      "A": "10",
+      "B": "25",
+      "C": "x + 25",
+      "D": "x² + 25"
+    },
+    "correct": "B",
+    "explanation": "Expand (x + 5)² to get x² + 10x + 25. Subtract x² + 10x, leaving 25."
+  },
+  {
+    "id": "MATH9-M1-004",
+    "prompt": "What is the midpoint of the segment with endpoints (−7, 1) and (5, 9) ?",
+    "choices": {
+      "A": "(−1, 4)",
+      "B": "(−1, 5)",
+      "C": "(1, 5)",
+      "D": "(2, 4)"
+    },
+    "correct": "B",
+    "explanation": "The midpoint is ((−7 + 5)/2, (1 + 9)/2) = (−2/2, 10/2) = (−1, 5)."
+  },
+  {
+    "id": "MATH9-M1-005",
+    "prompt": "At an arcade, 2 ride tickets and 3 game tickets cost $19. Also, 4 ride tickets and 1 game ticket cost $13. What is the cost, in dollars, of 1 ride ticket?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "A",
+    "explanation": "Let r be the ride-ticket cost and g be the game-ticket cost. From 4r + g = 13, g = 13 − 4r. Substitute into 2r + 3g = 19: 2r + 3(13 − 4r) = 19. Then 2r + 39 − 12r = 19, so −10r = −20 and r = 2."
+  },
+  {
+    "id": "MATH9-M1-006",
+    "prompt": "For positive x and positive y, which expression is equivalent to √(18x²y⁴) ?",
+    "choices": {
+      "A": "3xy²√2",
+      "B": "9xy²",
+      "C": "3x²y√2",
+      "D": "18xy⁴"
+    },
+    "correct": "A",
+    "explanation": "√18 = 3√2, √(x²) = x, and √(y⁴) = y² for positive x and y."
+  },
+  {
+    "id": "MATH9-M1-007",
+    "prompt": "The table summarizes survey results.\n             Likes tea   Does not like tea\nMorning 9 6\nEvening 12 3\nIf one person who likes tea is selected at random, what is the probability that the person prefers morning?",
+    "choices": {
+      "A": "1/4",
+      "B": "3/7",
+      "C": "3/5",
+      "D": "9/30"
+    },
+    "correct": "B",
+    "explanation": "A total of 9 + 12 = 21 people like tea. Of those, 9 prefer morning, so the probability is 9/21 = 3/7."
+  },
+  {
+    "id": "MATH9-M1-008",
+    "prompt": "A parallelogram has a base of length 9 and a height of 7. What is the area of the parallelogram?",
+    "choices": {
+      "A": "16",
+      "B": "31.5",
+      "C": "63",
+      "D": "126"
+    },
+    "correct": "C",
+    "explanation": "Area of a parallelogram = base × height = 9 × 7 = 63."
+  },
+  {
+    "id": "MATH9-M1-009",
+    "prompt": "A right triangle has side lengths 9, 12, and 15. What is the sine of the angle opposite the side of length 12?",
+    "choices": {
+      "A": "3/5",
+      "B": "4/5",
+      "C": "5/4",
+      "D": "12/9"
+    },
+    "correct": "B",
+    "explanation": "Sine is opposite/hypotenuse. The side opposite the angle is 12, and the hypotenuse is 15, so sin θ = 12/15 = 4/5."
+  },
+  {
+    "id": "MATH9-M1-010",
+    "prompt": "A population starts at 80 and doubles every 5 years. Which expression represents the population after t years?",
+    "choices": {
+      "A": "80(2t/5)",
+      "B": "80(2)^(t/5)",
+      "C": "80(5)^(2t)",
+      "D": "160(2)^(t/5)"
+    },
+    "correct": "B",
+    "explanation": "Doubling every 5 years means the exponent counts the number of 5-year periods, so the model is 80(2)^(t/5)."
+  },
+  {
+    "id": "MATH9-M1-011",
+    "prompt": "A line passes through the points (−3, 8) and (1, −4). What is the y-intercept of the line?",
+    "choices": {
+      "A": "−3",
+      "B": "−1",
+      "C": "1",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "The slope is (−4 − 8)/(1 − (−3)) = −12/4 = −3. Using y = −3x + b and the point (1, −4), we get −4 = −3 + b, so b = −1."
+  },
+  {
+    "id": "MATH9-M1-012",
+    "prompt": "An item with original price p is decreased by 20% and then increased by 25%. Which expression represents the final price?",
+    "choices": {
+      "A": "0.95p",
+      "B": "p",
+      "C": "1.05p",
+      "D": "1.10p"
+    },
+    "correct": "B",
+    "explanation": "A 20% decrease multiplies by 0.8, and a 25% increase multiplies by 1.25. Since 0.8 × 1.25 = 1, the final price is p."
+  },
+  {
+    "id": "MATH9-M1-013",
+    "prompt": "Which equation represents the line that passes through the point (6, 2) and is perpendicular to the line y = (2/3)x − 1 ?",
+    "choices": {
+      "A": "y = −(3/2)x + 11",
+      "B": "y = −(2/3)x + 6",
+      "C": "y = (3/2)x − 7",
+      "D": "y = (2/3)x − 2"
+    },
+    "correct": "A",
+    "explanation": "A line perpendicular to y = (2/3)x − 1 has slope −3/2. Using point-slope form through (6, 2): y − 2 = −(3/2)(x − 6), which simplifies to y = −(3/2)x + 11."
+  },
+  {
+    "id": "MATH9-M1-014",
+    "prompt": "A cone has radius 3 and height 12. What is the volume of the cone?",
+    "choices": {
+      "A": "12π",
+      "B": "24π",
+      "C": "36π",
+      "D": "108π"
+    },
+    "correct": "C",
+    "explanation": "Volume of a cone is (1/3)πr²h. Substitute r = 3 and h = 12: (1/3)π(9)(12) = 36π."
+  },
+  {
+    "id": "MATH9-M1-015",
+    "prompt": "If f(x) = |x + 2|, what is the value of f(−7) + f(1) ?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "f(−7) = |−7 + 2| = 5 and f(1) = |1 + 2| = 3. Their sum is 8."
+  },
+  {
+    "id": "MATH9-M1-016",
+    "prompt": "A bag contains 3 black marbles, 5 white marbles, and 2 red marbles. Two marbles are drawn at random without replacement. What is the probability that both marbles are black?",
+    "choices": {
+      "A": "1/15",
+      "B": "1/10",
+      "C": "2/15",
+      "D": "1/5"
+    },
+    "correct": "A",
+    "explanation": "The probability is (3/10)(2/9) = 6/90 = 1/15."
+  },
+  {
+    "id": "MATH9-M1-017",
+    "prompt": "Which equation represents a circle with center (−3, 2) and radius 4 ?",
+    "choices": {
+      "A": "(x − 3)² + (y + 2)² = 16",
+      "B": "(x + 3)² + (y − 2)² = 16",
+      "C": "(x + 3)² + (y − 2)² = 4",
+      "D": "(x − 3)² + (y + 2)² = 4"
+    },
+    "correct": "B",
+    "explanation": "A circle with center (h, k) and radius r has equation (x − h)² + (y − k)² = r². Here h = −3, k = 2, and r = 4."
+  },
+  {
+    "id": "MATH9-M1-018",
+    "prompt": "What is the mean of the data set 2, 5, 5, 7, 9, 11 ?",
+    "choices": {
+      "A": "6",
+      "B": "6.5",
+      "C": "7",
+      "D": "7.5"
+    },
+    "correct": "B",
+    "explanation": "Add the values: 2 + 5 + 5 + 7 + 9 + 11 = 39. Then divide by 6 to get 6.5."
+  },
+  {
+    "id": "MATH9-M1-019",
+    "prompt": "If A = (1/2)bh, which expression gives h in terms of A and b ?",
+    "choices": {
+      "A": "h = A/(2b)",
+      "B": "h = 2A/b",
+      "C": "h = b/(2A)",
+      "D": "h = Ab/2"
+    },
+    "correct": "B",
+    "explanation": "Multiply both sides by 2: 2A = bh. Then divide by b to get h = 2A/b."
+  },
+  {
+    "id": "MATH9-M1-020",
+    "prompt": "What is the sum of the solutions to the equation x² − 9x + 14 = 0 ?",
+    "choices": {
+      "A": "7",
+      "B": "9",
+      "C": "14",
+      "D": "23"
+    },
+    "correct": "B",
+    "explanation": "For x² − 9x + 14 = 0, the sum of the solutions is −(−9)/1 = 9."
+  },
+  {
+    "id": "MATH9-M1-021",
+    "prompt": "The table shows values of a function.\nx y\n−1 1\n0 2\n1 4\n2 8\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = 2ˣ",
+      "B": "y = 2^(x + 1)",
+      "C": "y = 3 · 2ˣ",
+      "D": "y = x² + 2"
+    },
+    "correct": "B",
+    "explanation": "When x = −1, 0, 1, 2, the values of 2^(x + 1) are 1, 2, 4, 8, which match the table."
+  },
+  {
+    "id": "MATH9-M1-022",
+    "prompt": "What is the value of (1/27)^(-2/3) ?",
+    "choices": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "27"
+    },
+    "correct": "C",
+    "explanation": "(1/27)^(-2/3) = 27^(2/3) = (³√27)² = 3² = 9.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

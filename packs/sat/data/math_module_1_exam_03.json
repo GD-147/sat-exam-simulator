@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH3-M1-001",
+    "prompt": "At a theater, student tickets cost $7 each and adult tickets cost $12 each. If 40 adult tickets were sold and the total revenue was $746, how many student tickets were sold?",
+    "choices": {
+      "A": "36",
+      "B": "38",
+      "C": "40",
+      "D": "42"
+    },
+    "correct": "B",
+    "explanation": "The 40 adult tickets brought in 40 × 12 = 480 dollars. The remaining revenue is 746 − 480 = 266 dollars, and 266 ÷ 7 = 38 student tickets."
+  },
+  {
+    "id": "MATH3-M1-002",
+    "prompt": "Which inequality is equivalent to −5 < 2x + 1 ≤ 11 ?",
+    "choices": {
+      "A": "−3 ≤ x < 5",
+      "B": "−3 < x ≤ 5",
+      "C": "−2 < x ≤ 6",
+      "D": "−2 ≤ x < 6"
+    },
+    "correct": "B",
+    "explanation": "Subtract 1 from all parts to get −6 < 2x ≤ 10. Then divide by 2 to get −3 < x ≤ 5."
+  },
+  {
+    "id": "MATH3-M1-003",
+    "prompt": "The equation h = 62 − 3.5t models the number of gallons of water h remaining in a tank t minutes after draining begins. What does the number 3.5 represent in this context?",
+    "choices": {
+      "A": "The number of gallons in the tank at the start",
+      "B": "The number of minutes needed to empty the tank",
+      "C": "The number of gallons drained each minute",
+      "D": "The number of gallons remaining after 1 minute"
+    },
+    "correct": "C",
+    "explanation": "In h = 62 − 3.5t, the coefficient of t is the rate of change. Since h decreases by 3.5 for each increase of 1 in t, 3.5 gallons are drained each minute."
+  },
+  {
+    "id": "MATH3-M1-004",
+    "prompt": "Which equation represents the line with slope 4 that passes through the point (−2, 5) ?",
+    "choices": {
+      "A": "y = 4x + 13",
+      "B": "y = 4x − 3",
+      "C": "y = −4x − 3",
+      "D": "y = −4x + 13"
+    },
+    "correct": "A",
+    "explanation": "Use point-slope form: y − 5 = 4(x + 2). Simplifying gives y = 4x + 13."
+  },
+  {
+    "id": "MATH3-M1-005",
+    "prompt": "Which expression is equivalent to 2x² − 7x − 15 ?",
+    "choices": {
+      "A": "(2x − 3)(x + 5)",
+      "B": "(2x + 3)(x − 5)",
+      "C": "(x − 3)(2x + 5)",
+      "D": "(x + 3)(2x − 5)"
+    },
+    "correct": "B",
+    "explanation": "Expanding gives 2x² − 10x + 3x − 15 = 2x² − 7x − 15."
+  },
+  {
+    "id": "MATH3-M1-006",
+    "prompt": "If √50 − √8 = a√2, what is the value of a ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "correct": "B",
+    "explanation": "√50 = 5√2 and √8 = 2√2, so √50 − √8 = 3√2. Therefore a = 3."
+  },
+  {
+    "id": "MATH3-M1-007",
+    "prompt": "A teacher recorded the following quiz scores:\nScore Number of students\n70 3\n80 5\n90 2\nWhat is the mean quiz score?",
+    "choices": {
+      "A": "78",
+      "B": "79",
+      "C": "80",
+      "D": "81"
+    },
+    "correct": "B",
+    "explanation": "The weighted mean is (70·3 + 80·5 + 90·2) / (3 + 5 + 2) = 790/10 = 79."
+  },
+  {
+    "id": "MATH3-M1-008",
+    "prompt": "A fair coin is flipped once and a fair 6-sided die is rolled once. What is the probability of getting heads and an even number?",
+    "choices": {
+      "A": "1/12",
+      "B": "1/6",
+      "C": "1/4",
+      "D": "1/2"
+    },
+    "correct": "C",
+    "explanation": "The probability of heads is 1/2 and the probability of an even die roll is 3/6 = 1/2. Multiply: (1/2)(1/2) = 1/4."
+  },
+  {
+    "id": "MATH3-M1-009",
+    "prompt": "A sector of a circle has radius 9 and central angle 120°. What is the area of the sector?",
+    "choices": {
+      "A": "18π",
+      "B": "24π",
+      "C": "27π",
+      "D": "54π"
+    },
+    "correct": "C",
+    "explanation": "The area of the full circle is π(9²) = 81π. A 120° sector is 120/360 = 1/3 of the circle, so the area is 27π."
+  },
+  {
+    "id": "MATH3-M1-010",
+    "prompt": "The volume V of a sphere with radius r is given by V = (4/3)πr³. What is the volume of a sphere with radius 3 ?",
+    "choices": {
+      "A": "9π",
+      "B": "18π",
+      "C": "27π",
+      "D": "36π"
+    },
+    "correct": "D",
+    "explanation": "Substitute r = 3 into V = (4/3)πr³: V = (4/3)π(27) = 36π."
+  },
+  {
+    "id": "MATH3-M1-011",
+    "prompt": "If f(x) = x² − 4, which expression is equal to f(a + 1) ?",
+    "choices": {
+      "A": "a² + 2a − 3",
+      "B": "a² + 2a + 5",
+      "C": "a² − 2a − 3",
+      "D": "a² − 3"
+    },
+    "correct": "A",
+    "explanation": "f(a + 1) = (a + 1)² − 4 = a² + 2a + 1 − 4 = a² + 2a − 3."
+  },
+  {
+    "id": "MATH3-M1-012",
+    "prompt": "If y varies directly with x and y = 18 when x = 6, what is the value of y when x = 10 ?",
+    "choices": {
+      "A": "24",
+      "B": "28",
+      "C": "30",
+      "D": "36"
+    },
+    "correct": "C",
+    "explanation": "Direct variation means y = kx. Since 18 = 6k, k = 3. Then when x = 10, y = 3(10) = 30."
+  },
+  {
+    "id": "MATH3-M1-013",
+    "prompt": "Two parallel lines are cut by a transversal. One of the acute angles formed measures 68°. What is the measure of each obtuse angle formed?",
+    "choices": {
+      "A": "22°",
+      "B": "68°",
+      "C": "112°",
+      "D": "122°"
+    },
+    "correct": "C",
+    "explanation": "An obtuse angle formed with a transversal and parallel lines is supplementary to an acute angle. So 180 − 68 = 112."
+  },
+  {
+    "id": "MATH3-M1-014",
+    "prompt": "In a 45°-45°-90° triangle, the hypotenuse has length 10√2. What is the length of each leg?",
+    "choices": {
+      "A": "5",
+      "B": "10",
+      "C": "20",
+      "D": "25"
+    },
+    "correct": "B",
+    "explanation": "In a 45°-45°-90° triangle, hypotenuse = leg × √2. So the leg length is (10√2)/√2 = 10."
+  },
+  {
+    "id": "MATH3-M1-015",
+    "prompt": "A store increases the price of an item p by 15% and then applies an 8% sales tax to the increased price. Which expression represents the final price?",
+    "choices": {
+      "A": "1.23p",
+      "B": "1.242p",
+      "C": "1.15p + 0.08",
+      "D": "1.08p + 0.15p"
+    },
+    "correct": "B",
+    "explanation": "First multiply by 1.15 for the 15% increase, then by 1.08 for the 8% tax: 1.15 × 1.08 = 1.242."
+  },
+  {
+    "id": "MATH3-M1-016",
+    "prompt": "If C = 2πr + 2πh, which expression gives h in terms of C and r ?",
+    "choices": {
+      "A": "h = C/(2πr)",
+      "B": "h = C/(2π) − r",
+      "C": "h = (C − r)/(2π)",
+      "D": "h = C − 2πr"
+    },
+    "correct": "B",
+    "explanation": "From C = 2πr + 2πh, subtract 2πr to get C − 2πr = 2πh. Divide by 2π: h = C/(2π) − r."
+  },
+  {
+    "id": "MATH3-M1-017",
+    "prompt": "A linear model predicts that a plant will be 52 inches tall after 8 weeks. The plant’s actual height after 8 weeks is 49 inches. What is the residual for this data point?",
+    "choices": {
+      "A": "−3",
+      "B": "−1",
+      "C": "1",
+      "D": "3"
+    },
+    "correct": "A",
+    "explanation": "Residual = actual − predicted = 49 − 52 = −3."
+  },
+  {
+    "id": "MATH3-M1-018",
+    "prompt": "Each interior angle of a regular polygon measures 150°. How many sides does the polygon have?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "15"
+    },
+    "correct": "B",
+    "explanation": "For a regular n-gon, each interior angle is 180(n − 2)/n. Set 180(n − 2)/n = 150 and solve to get n = 12."
+  },
+  {
+    "id": "MATH3-M1-019",
+    "prompt": "What is the midpoint of the segment with endpoints (−4, 7) and (6, −1) ?",
+    "choices": {
+      "A": "(1, 3)",
+      "B": "(2, 3)",
+      "C": "(1, 4)",
+      "D": "(5, 6)"
+    },
+    "correct": "A",
+    "explanation": "The midpoint is ((−4 + 6)/2, (7 + (−1))/2) = (2/2, 6/2) = (1, 3)."
+  },
+  {
+    "id": "MATH3-M1-020",
+    "prompt": "Which value of x is a solution to the inequality x² − 5x < 0 ?",
+    "choices": {
+      "A": "−1",
+      "B": "0",
+      "C": "3",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "Factor x² − 5x as x(x − 5). The product is negative only when 0 < x < 5, so x = 3 is a solution."
+  },
+  {
+    "id": "MATH3-M1-021",
+    "prompt": "On a map, 1 inch represents 25 miles. If two towns are 3.6 inches apart on the map, how far apart are they in reality?",
+    "choices": {
+      "A": "75 miles",
+      "B": "80 miles",
+      "C": "90 miles",
+      "D": "100 miles"
+    },
+    "correct": "C",
+    "explanation": "Multiply 3.6 inches by 25 miles per inch: 3.6 × 25 = 90."
+  },
+  {
+    "id": "MATH3-M1-022",
+    "prompt": "The table shows values of a function.\nx y\n0 5\n1 8\n2 13\n3 20\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = x² + 2x + 5",
+      "B": "y = 2x² + 5",
+      "C": "y = 3x + 5",
+      "D": "y = 5 · 2ˣ"
+    },
+    "correct": "A",
+    "explanation": "Substituting x = 0, 1, 2, and 3 into y = x² + 2x + 5 gives 5, 8, 13, and 20, which matches the table.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

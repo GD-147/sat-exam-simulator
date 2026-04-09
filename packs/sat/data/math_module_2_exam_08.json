@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH8-M2-001",
+    "prompt": "What is the solution to the equation √(3x + 4) = x ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "C",
+    "explanation": "Square both sides: 3x + 4 = x². Rearranging gives x² − 3x − 4 = 0, which factors as (x − 4)(x + 1) = 0. Only x = 4 satisfies the original equation."
+  },
+  {
+    "id": "MATH8-M2-002",
+    "prompt": "How many real solutions does the equation x/(x − 2) = 3/(x + 1) have?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "Infinitely many"
+    },
+    "correct": "A",
+    "explanation": "Cross-multiply to get x(x + 1) = 3(x − 2). This simplifies to x² − 2x + 6 = 0. The discriminant is (−2)² − 4(1)(6) = −20, so there are no real solutions."
+  },
+  {
+    "id": "MATH8-M2-003",
+    "prompt": "A quadratic function has x-intercepts at −2 and 5 and passes through the point (0, 20). Which equation could represent the function?",
+    "choices": {
+      "A": "y = 2(x + 2)(x − 5)",
+      "B": "y = −2(x + 2)(x − 5)",
+      "C": "y = (x − 2)(x + 5)",
+      "D": "y = −(x − 2)(x + 5)"
+    },
+    "correct": "B",
+    "explanation": "A quadratic with x-intercepts −2 and 5 has the form y = a(x + 2)(x − 5). Using the point (0, 20): 20 = a(2)(−5) = −10a, so a = −2."
+  },
+  {
+    "id": "MATH8-M2-004",
+    "prompt": "The system below has two solutions.\nx² + y² = 41\ny = x − 5\nWhat is the larger x-coordinate of a solution?",
+    "choices": {
+      "A": "(5 − √57)/2",
+      "B": "(5 + √57)/2",
+      "C": "(−5 + √57)/2",
+      "D": "(−5 − √57)/2"
+    },
+    "correct": "B",
+    "explanation": "Substitute y = x − 5 into x² + y² = 41: x² + (x − 5)² = 41. This becomes x² − 5x − 8 = 0, so x = (5 ± √57)/2. The larger value is (5 + √57)/2."
+  },
+  {
+    "id": "MATH8-M2-005",
+    "prompt": "If f(x) = (3x + 2)/5, what is the value of f⁻¹(4) ?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "To find f⁻¹(4), solve (3x + 2)/5 = 4. Then 3x + 2 = 20, so 3x = 18 and x = 6."
+  },
+  {
+    "id": "MATH8-M2-006",
+    "prompt": "A quantity decreases from 162 to 48 in 3 hours at a constant percent rate per hour. By what percent does the quantity decrease each hour?",
+    "choices": {
+      "A": "25%",
+      "B": "30%",
+      "C": "33 1/3%",
+      "D": "40%"
+    },
+    "correct": "C",
+    "explanation": "The overall factor is 48/162 = 8/27 = (2/3)³. So the hourly factor is 2/3, meaning the quantity decreases by 1/3, or 33 1/3%, each hour."
+  },
+  {
+    "id": "MATH8-M2-007",
+    "prompt": "How many real solutions does the equation |x − 1| = x² − 5x + 7 have?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "C",
+    "explanation": "For x ≥ 1, solve x − 1 = x² − 5x + 7. This gives x² − 6x + 8 = 0, so x = 2 or x = 4. For x < 1, solve 1 − x = x² − 5x + 7, which gives x² − 4x + 6 = 0 with no real solutions. So there are 2 real solutions."
+  },
+  {
+    "id": "MATH8-M2-008",
+    "prompt": "An annulus has outer radius 10 and inner radius 7. What is the area of the annulus?",
+    "choices": {
+      "A": "17π",
+      "B": "30π",
+      "C": "51π",
+      "D": "100π"
+    },
+    "correct": "C",
+    "explanation": "Area of an annulus = π(R² − r²) = π(10² − 7²) = π(100 − 49) = 51π."
+  },
+  {
+    "id": "MATH8-M2-009",
+    "prompt": "What is the value of x in the equation 27^(x + 1) = 9^(2x − 1) ?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "Rewrite using base 3: 27^(x + 1) = 3^(3x + 3) and 9^(2x − 1) = 3^(4x − 2). Set exponents equal: 3x + 3 = 4x − 2, so x = 5."
+  },
+  {
+    "id": "MATH8-M2-010",
+    "prompt": "If x + 2 is a factor of the polynomial x³ + mx² − 4x + 8, what is the value of m ?",
+    "choices": {
+      "A": "−4",
+      "B": "−2",
+      "C": "0",
+      "D": "2"
+    },
+    "correct": "B",
+    "explanation": "If x + 2 is a factor, then substituting x = −2 makes the polynomial 0. So (−2)³ + m(−2)² − 4(−2) + 8 = 0, which becomes −8 + 4m + 8 + 8 = 0. Thus 4m = −8 and m = −2."
+  },
+  {
+    "id": "MATH8-M2-011",
+    "prompt": "Points A(1, 2), B(7, 2), and C(4, k) are vertices of a triangle with area 15 square units. What is the positive value of k ?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "Segment AB is horizontal with length 6. So the triangle’s area is (1/2)(6)|k − 2| = 15, which gives 3|k − 2| = 15 and |k − 2| = 5. The positive value of k is 7."
+  },
+  {
+    "id": "MATH8-M2-012",
+    "prompt": "How many liters of 50% acid solution must be mixed with 20% acid solution to make 18 liters of 30% acid solution?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "Let x be the liters of 50% solution. Then 18 − x liters are 20% solution. Solve 0.50x + 0.20(18 − x) = 0.30(18). This simplifies to 0.30x = 1.8, so x = 6."
+  },
+  {
+    "id": "MATH8-M2-013",
+    "prompt": "If x + 1/x = 4, what is the value of x³ + 1/x³ ?",
+    "choices": {
+      "A": "40",
+      "B": "48",
+      "C": "52",
+      "D": "64"
+    },
+    "correct": "C",
+    "explanation": "Use the identity x³ + 1/x³ = (x + 1/x)³ − 3(x + 1/x). Substituting 4 gives 4³ − 3·4 = 64 − 12 = 52."
+  },
+  {
+    "id": "MATH8-M2-014",
+    "prompt": "Let p(x) = x³ − 3x² + cx − 4. If p(2) = 6, what is the value of p(1) ?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "B",
+    "explanation": "Use p(2) = 6: 2³ − 3(2²) + 2c − 4 = 6. This gives 8 − 12 + 2c − 4 = 6, so 2c = 14 and c = 7. Then p(1) = 1 − 3 + 7 − 4 = 1."
+  },
+  {
+    "id": "MATH8-M2-015",
+    "prompt": "In a right triangle, sin θ = 5/13, and the side opposite angle θ has length 15. What is the perimeter of the triangle?",
+    "choices": {
+      "A": "84",
+      "B": "87",
+      "C": "90",
+      "D": "93"
+    },
+    "correct": "C",
+    "explanation": "If sin θ = 5/13, then opposite:hypotenuse = 5:13. Since the opposite side is 15, the scale factor is 3. So the hypotenuse is 39 and the adjacent side is 36. The perimeter is 15 + 36 + 39 = 90."
+  },
+  {
+    "id": "MATH8-M2-016",
+    "prompt": "The monic cubic polynomial p(x) = x³ + ax² + bx + 18 has factors x + 3 and x − 2. What is the value of p(−1) ?",
+    "choices": {
+      "A": "12",
+      "B": "18",
+      "C": "24",
+      "D": "30"
+    },
+    "correct": "C",
+    "explanation": "Since x + 3 and x − 2 are factors, two roots are −3 and 2. For a monic cubic with constant 18, the product of the roots is −18. So (−3)(2)r = −18, giving r = 3. Then p(−1) = (−1 + 3)(−1 − 2)(−1 − 3) = 2(−3)(−4) = 24."
+  },
+  {
+    "id": "MATH8-M2-017",
+    "prompt": "A data set has a median of 12. A new data set is created by multiplying every value in the original set by 3 and then subtracting 1. What is the median of the new data set?",
+    "choices": {
+      "A": "33",
+      "B": "35",
+      "C": "36",
+      "D": "37"
+    },
+    "correct": "B",
+    "explanation": "Multiplying every value by 3 multiplies the median by 3, and subtracting 1 then subtracts 1 from the median. So the new median is 3(12) − 1 = 35."
+  },
+  {
+    "id": "MATH8-M2-018",
+    "prompt": "What is the value of x in the equation √(x + 9) − √(x + 1) = 2 ?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "A",
+    "explanation": "Let √(x + 9) = √(x + 1) + 2 and square both sides. This leads to x = 0. Checking: √9 − √1 = 3 − 1 = 2, so x = 0 works."
+  },
+  {
+    "id": "MATH8-M2-019",
+    "prompt": "A circle is centered at (−2, 3) and passes through the point (4, 6). What is the area of the circle?",
+    "choices": {
+      "A": "15π",
+      "B": "36π",
+      "C": "45π",
+      "D": "54π"
+    },
+    "correct": "C",
+    "explanation": "The radius is the distance from (−2, 3) to (4, 6): √[(4 − (−2))² + (6 − 3)²] = √(36 + 9) = √45. The area is π(√45)² = 45π."
+  },
+  {
+    "id": "MATH8-M2-020",
+    "prompt": "What is the value of x in the equation 9^(x − 1) = 27^(x + 2) ?",
+    "choices": {
+      "A": "−8",
+      "B": "−2",
+      "C": "2",
+      "D": "8"
+    },
+    "correct": "A",
+    "explanation": "Rewrite in base 3: 9^(x − 1) = 3^(2x − 2) and 27^(x + 2) = 3^(3x + 6). Set exponents equal: 2x − 2 = 3x + 6, so x = −8."
+  },
+  {
+    "id": "MATH8-M2-021",
+    "prompt": "Two similar spheres have radii in the ratio 2:5. If the surface area of the smaller sphere is 64π, what is the surface area of the larger sphere?",
+    "choices": {
+      "A": "160π",
+      "B": "250π",
+      "C": "320π",
+      "D": "400π"
+    },
+    "correct": "D",
+    "explanation": "Surface area scales with the square of the linear scale factor. The radius ratio is 2:5, so the surface area ratio is 4:25. Therefore the larger surface area is 64π · (25/4) = 400π."
+  },
+  {
+    "id": "MATH8-M2-022",
+    "prompt": "For x ≠ 3 and x ≠ −3, which expression is equivalent to (x² − x − 6)/(x² − 9) ?",
+    "choices": {
+      "A": "(x + 2)/(x + 3)",
+      "B": "(x − 2)/(x + 3)",
+      "C": "(x + 3)/(x + 2)",
+      "D": "(x + 2)/(x − 3)"
+    },
+    "correct": "A",
+    "explanation": "Factor numerator and denominator: x² − x − 6 = (x − 3)(x + 2) and x² − 9 = (x − 3)(x + 3). Cancel x − 3 to get (x + 2)/(x + 3)."
+  }
+]

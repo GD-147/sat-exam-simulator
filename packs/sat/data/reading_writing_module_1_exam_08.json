@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW8-M1-001",
+    "prompt": "A critic writes that the biographer’s style is “compressed,” observing that long episodes are often reduced to a few sharply chosen sentences.\nAs used in the text, what does “compressed” most nearly mean?",
+    "choices": {
+      "A": "hidden",
+      "B": "concise",
+      "C": "emotional",
+      "D": "repetitive"
+    },
+    "correct": "B",
+    "explanation": "In context, “compressed” means reduced to a brief, concise form."
+  },
+  {
+    "id": "RW8-M1-002",
+    "prompt": "Some cities have begun capturing waste heat from factories, data centers, or subway systems and redirecting it into networks that warm nearby buildings. Because this heat would otherwise be released unused into the surrounding air, such systems can reduce overall energy demand. For that reason, waste-heat networks are increasingly seen as one way to make urban energy use more efficient.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Subway systems are the most effective source of urban heating in every city.",
+      "B": "Waste-heat networks can improve energy efficiency by reusing heat that would otherwise be lost.",
+      "C": "Data centers produce less heat than factories do.",
+      "D": "Buildings connected to waste-heat networks no longer require any other source of energy."
+    },
+    "correct": "B",
+    "explanation": "The text explains that otherwise unused heat can be redirected to warm buildings."
+  },
+  {
+    "id": "RW8-M1-003",
+    "prompt": "As newspapers in the late nineteenth century competed for readers, some publishers began serializing novels in weekly installments. The format helped keep readers returning from issue to issue, and it also allowed publishers to fill space without commissioning an entirely new piece for every edition.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Serial novels were used partly because they suited publishers’ economic and competitive needs.",
+      "B": "Readers preferred novels only when they were published all at once.",
+      "C": "Newspapers stopped printing local news once serialized fiction became popular.",
+      "D": "Weekly installments were longer than complete novels."
+    },
+    "correct": "A",
+    "explanation": "The passage says serialization brought readers back and helped fill newspaper space efficiently."
+  },
+  {
+    "id": "RW8-M1-004",
+    "prompt": "A paleontologist notes that microscopic scratches on a fossil tooth run mostly in one direction rather than crossing randomly. She then suggests that the animal probably fed on tough plant material that required repeated grinding.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It offers a visual detail that the second sentence interprets as evidence.",
+      "B": "It presents an objection to the conclusion in the second sentence.",
+      "C": "It explains why the fossil tooth was difficult to preserve.",
+      "D": "It compares the tooth with those of modern predators."
+    },
+    "correct": "A",
+    "explanation": "The scratches are the evidence used to suggest the animal’s diet."
+  },
+  {
+    "id": "RW8-M1-005",
+    "prompt": "A student is writing about public bathhouses in industrial cities and has taken these notes:\n• In some industrial cities, public bathhouses opened in neighborhoods where many homes lacked indoor plumbing.\n• The bathhouses gave residents access to washing facilities.\n• Reformers argued that the bathhouses could improve public health.\n• Some bathhouses also included reading rooms or meeting spaces.\nThe student wants to emphasize why reformers supported public bathhouses. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Public bathhouses opened in some industrial neighborhoods.",
+      "B": "Reformers supported public bathhouses because they provided washing facilities in areas without indoor plumbing and were seen as a way to improve public health.",
+      "C": "Some bathhouses also included reading rooms or meeting spaces.",
+      "D": "Many homes in industrial cities lacked indoor plumbing."
+    },
+    "correct": "B",
+    "explanation": "This choice directly states the reasons reformers supported the bathhouses."
+  },
+  {
+    "id": "RW8-M1-006",
+    "prompt": "The first survey of the estuary covered only a narrow stretch of shoreline. ______, a second survey expanded the project to include inlets on both sides of the bay.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Similarly,",
+      "B": "Later,",
+      "C": "Otherwise,",
+      "D": "For example,"
+    },
+    "correct": "B",
+    "explanation": "The second sentence describes what happened after the first, smaller survey."
+  },
+  {
+    "id": "RW8-M1-007",
+    "prompt": "Among the invited speakers were Elena Torres, a geologist; Ravi Shah, an architect; <u>and Mira Scott, a historian.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "and, Mira Scott, a historian.",
+      "C": "and Mira Scott; a historian.",
+      "D": "and Mira Scott a historian;"
+    },
+    "correct": "A",
+    "explanation": "The semicolons correctly separate items in a complex series that already contains commas."
+  },
+  {
+    "id": "RW8-M1-008",
+    "prompt": "The trail was reopened after the storm, <u>many hikers still chose the alternate route because fallen branches had not yet been cleared.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "many hikers still chose the alternate route because fallen branches had not yet been cleared.",
+      "B": "but many hikers still chose the alternate route because fallen branches had not yet been cleared.",
+      "C": "many hikers, still choosing the alternate route because fallen branches had not yet been cleared.",
+      "D": "and, many hikers still chose the alternate route because fallen branches had not yet been cleared."
+    },
+    "correct": "B",
+    "explanation": "“But” correctly joins the clauses and indicates contrast."
+  },
+  {
+    "id": "RW8-M1-009",
+    "prompt": "The wings of the hawk are broader than <u>the falcon.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the falcon.",
+      "B": "those of the falcon.",
+      "C": "that of the falcon.",
+      "D": "the falcon’s are."
+    },
+    "correct": "B",
+    "explanation": "The sentence compares the hawk’s wings with the falcon’s wings, so the pronoun phrase “those of” is needed."
+  },
+  {
+    "id": "RW8-M1-010",
+    "prompt": "Since joining the orchestra last autumn, cellist Mara Ortiz <u>performs</u> in every major concert of the season.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "performs",
+      "B": "performed",
+      "C": "has performed",
+      "D": "will perform"
+    },
+    "correct": "C",
+    "explanation": "“Since joining the orchestra last autumn” calls for the present perfect."
+  },
+  {
+    "id": "RW8-M1-011",
+    "prompt": "After climbing for nearly an hour, <u>the cabin finally appeared to Owen above the tree line.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the cabin finally appeared to Owen above the tree line.",
+      "B": "Owen finally saw the cabin above the tree line.",
+      "C": "the tree line revealed the cabin to Owen.",
+      "D": "above the tree line, the cabin finally appeared."
+    },
+    "correct": "B",
+    "explanation": "The revision correctly places Owen as the one who had been climbing."
+  },
+  {
+    "id": "RW8-M1-012",
+    "prompt": "[1] Some towns maintain bulletin boards in parks, cafés, or train stations where residents can post announcements. [2] Notices about concerts, volunteer projects, and lost pets may appear side by side. [3] In addition to sharing information, the boards can reveal what concerns or interests are most visible in a community at a given moment. [4] For that reason, some local historians photograph old bulletin boards before the postings are replaced.\nWhich choice best describes the most logical placement for the following sentence?\n“They can therefore serve as both practical tools and informal community records.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence summarizes the practical sharing function and the record-keeping function described in sentences 2 and 3."
+  },
+  {
+    "id": "RW8-M1-013",
+    "prompt": "A class recorded the average number of minutes four groups spent rehearsing a presentation.\nGroup A: 18\nGroup B: 22\nGroup C: 17\nGroup D: 20\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Group A rehearsed longer, on average, than Group D.",
+      "B": "Group B rehearsed the longest, on average.",
+      "C": "Group C and Group D rehearsed for the same average amount of time.",
+      "D": "The average rehearsal time increased from Group A through Group D."
+    },
+    "correct": "B",
+    "explanation": "Group B’s 22 minutes is the highest average."
+  },
+  {
+    "id": "RW8-M1-014",
+    "prompt": "A reviewer says that the engineer’s explanation is especially <u>lucid</u>, making a complex process easy for nonspecialists to follow.\nAs used in the text, what does “lucid” most nearly mean?",
+    "choices": {
+      "A": "precise",
+      "B": "vivid",
+      "C": "clear",
+      "D": "unusual"
+    },
+    "correct": "C",
+    "explanation": "“Lucid” means clear and easy to understand."
+  },
+  {
+    "id": "RW8-M1-015",
+    "prompt": "In a short story, a narrator describes her brother’s desk: “Bills, maps, and ticket stubs drifted across it in uneven piles, but he could put his hand on a needed address faster than anyone with labeled drawers.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The brother’s desk is neat and perfectly labeled.",
+      "B": "The desk looks disorderly, but the brother is highly familiar with it.",
+      "C": "The narrator plans to sort the brother’s papers by date.",
+      "D": "The brother often loses important addresses."
+    },
+    "correct": "B",
+    "explanation": "The narrator contrasts the cluttered appearance with the brother’s quick ability to find things."
+  },
+  {
+    "id": "RW8-M1-016",
+    "prompt": "In a study, museum visitors who received color-coded floor maps found their assigned galleries more quickly than visitors who received otherwise similar maps without color coding. The researchers suggest that the added visual distinction helped people plan routes through the building.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Color coding may help visitors navigate a museum more efficiently.",
+      "B": "Visitors always prefer maps with more written detail.",
+      "C": "The study proved that museums with fewer galleries are easier to navigate.",
+      "D": "Assigned galleries were impossible to find without staff assistance."
+    },
+    "correct": "A",
+    "explanation": "Visitors with color-coded maps found their galleries more quickly."
+  },
+  {
+    "id": "RW8-M1-017",
+    "prompt": "A historian writes, “When publishers began printing standardized page numbers in multi-volume reference works, scholars could cite and compare passages more easily across libraries.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To provide one historian’s explanation of how standardized pagination affected scholarly work",
+      "B": "To prove that all libraries arranged books in the same order",
+      "C": "To show that reference works replaced all other kinds of books",
+      "D": "To describe how publishers manufactured paper"
+    },
+    "correct": "A",
+    "explanation": "The quotation explains how page numbers made citation and comparison easier."
+  },
+  {
+    "id": "RW8-M1-018",
+    "prompt": "A student is writing about mobile vaccination clinics and has taken these notes:\n• Some health systems use mobile clinics to bring vaccines to neighborhoods, schools, or workplaces.\n• These clinics can make vaccination more convenient for people who live far from medical offices or have limited time.\n• Mobile clinics may also reach people during local events.\n• Bringing services directly to communities can expand access.\nWhich choice most effectively uses relevant information from the notes to make a general claim about mobile vaccination clinics?",
+    "choices": {
+      "A": "Mobile vaccination clinics can expand access by bringing services directly to neighborhoods, schools, workplaces, and community events.",
+      "B": "Vaccines are usually provided only in large hospitals.",
+      "C": "Schools and workplaces should replace all medical offices.",
+      "D": "Local events are the only useful places for mobile clinics."
+    },
+    "correct": "A",
+    "explanation": "This choice accurately synthesizes the notes into a general claim."
+  },
+  {
+    "id": "RW8-M1-019",
+    "prompt": "The article first describes how workers assembled the radio sets by hand in the 1930s. ______, it turns to the automated methods used in factories today.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Later,",
+      "B": "Similarly,",
+      "C": "Instead,",
+      "D": "Otherwise,"
+    },
+    "correct": "A",
+    "explanation": "The article moves from historical assembly methods to present-day automation."
+  },
+  {
+    "id": "RW8-M1-020",
+    "prompt": "The internship required Kim to interview volunteers, summarize responses, and <u>drafting recommendations for the final report.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "drafting recommendations for the final report.",
+      "B": "draft recommendations for the final report.",
+      "C": "drafted recommendations for the final report.",
+      "D": "to drafting recommendations for the final report."
+    },
+    "correct": "B",
+    "explanation": "“Draft” matches the parallel verbs “interview” and “summarize.”"
+  },
+  {
+    "id": "RW8-M1-021",
+    "prompt": "Among the museum’s new acquisitions are a carved mask, a set of trade beads, and a sailor’s journal.\nWhich choice best explains the use of the apostrophe in the underlined word?",
+    "choices": {
+      "A": "It shows that the journal belongs to the museum.",
+      "B": "It marks a plural possessive noun.",
+      "C": "It shows that the journal is associated with one sailor.",
+      "D": "It is used incorrectly because the noun is not possessive."
+    },
+    "correct": "C",
+    "explanation": "The singular possessive “sailor’s” shows that the journal belongs to or is associated with one sailor."
+  },
+  {
+    "id": "RW8-M1-022",
+    "prompt": "The cost of fuel and replacement parts <u>have</u> risen since the ferry service expanded.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "are"
+    },
+    "correct": "B",
+    "explanation": "The subject is “The cost,” which is singular despite the compound phrase that follows."
+  },
+  {
+    "id": "RW8-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“The report concludes that housing costs rose faster than wages, which worried many residents.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because the word “which” has an unclear antecedent.",
+      "B": "The sentence should be revised because it should use the future tense.",
+      "C": "The sentence should be revised because it contains too many adjectives.",
+      "D": "The sentence should be revised because all clauses beginning with “which” are incorrect."
+    },
+    "correct": "A",
+    "explanation": "It is unclear whether “which” refers to the conclusion, the rise in housing costs, or the fact that costs rose faster than wages."
+  },
+  {
+    "id": "RW8-M1-024",
+    "prompt": "[1] Some highways in snowy regions use rows of fencing beside the road to control drifting snow. [2] These fences slow the wind and cause snow to collect before it reaches the pavement. [3] By reducing the amount of snow that blows onto the road, the fences can improve visibility and make plowing easier. [4] Transportation agencies often place the fences at carefully measured distances from the roadside.\nWhich choice best describes the most logical placement for the following sentence?\n“Effective snow control depends not only on the fence itself but also on where it is installed.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence connects the functional benefits in sentence 3 with the placement decision described in sentence 4."
+  },
+  {
+    "id": "RW8-M1-025",
+    "prompt": "To make the sentence more concise, the editor replaced “a large number of” with <u>many</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It changes the meaning by making the quantity less precise.",
+      "B": "It shortens the sentence without changing its meaning.",
+      "C": "It makes the sentence less grammatical.",
+      "D": "It adds an unnecessarily informal tone."
+    },
+    "correct": "B",
+    "explanation": "“Many” is a more concise equivalent of “a large number of.”"
+  },
+  {
+    "id": "RW8-M1-026",
+    "prompt": "In an experiment, readers locating information in a manual found answers more quickly when the pages included colored tabs marking major sections than when the same manual lacked tabs.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Colored tabs may help readers find information in a manual more quickly.",
+      "B": "Manuals without colored tabs cannot be used effectively.",
+      "C": "Readers remembered more of the manual’s content when tabs were used.",
+      "D": "The experiment proved that shorter manuals are always easier to use."
+    },
+    "correct": "A",
+    "explanation": "Readers located answers faster when the tabs were present."
+  },
+  {
+    "id": "RW8-M1-027",
+    "prompt": "An article about salvaged brick explains that bricks recovered from older buildings can be cleaned and reused in new construction. The article then notes that some cities have recently updated building guidelines to make the reuse process easier.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It provides a current development related to the practice described earlier.",
+      "B": "It argues that all construction should use only salvaged brick.",
+      "C": "It shifts the discussion away from building materials to demolition safety.",
+      "D": "It denies that salvaged brick can be reused successfully."
+    },
+    "correct": "A",
+    "explanation": "The final sentence mentions updated building guidelines that support the reuse of salvaged brick.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

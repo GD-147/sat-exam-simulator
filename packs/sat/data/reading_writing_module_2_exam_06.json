@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW6-M2-001",
+    "prompt": "A reviewer calls the scientist’s claim “provisional,” noting that the evidence is intriguing but still too limited to support a firm conclusion.\nAs used in the text, what does “provisional” most nearly mean?",
+    "choices": {
+      "A": "temporary",
+      "B": "impressive",
+      "C": "hidden",
+      "D": "conventional"
+    },
+    "correct": "A",
+    "explanation": "In context, “provisional” means not final or permanent because the evidence is still limited."
+  },
+  {
+    "id": "RW6-M2-002",
+    "prompt": "A literary scholar argues that maps inserted into some novels do more than help readers picture where events occur. Because a map suggests routes, boundaries, and distances before the story even begins, it can shape how readers imagine movement, separation, and possibility within the fictional world. In that sense, a map can guide interpretation as well as orientation.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Maps in novels mainly help readers remember character names.",
+      "B": "Maps included in novels can influence how readers interpret the story’s world, not just where they picture events.",
+      "C": "Fictional maps are useful only when the plot is historically accurate.",
+      "D": "Novelists include maps because readers dislike descriptive writing."
+    },
+    "correct": "B",
+    "explanation": "The passage says maps shape ideas about routes, boundaries, and possibilities, guiding interpretation as well as orientation."
+  },
+  {
+    "id": "RW6-M2-003",
+    "prompt": "Economic historians often use payroll ledgers to study labor in early factories. However, such records usually capture only paid work that managers formally tracked, leaving unpaid household labor and informal assistance largely unrecorded. As a result, payroll ledgers can offer only a partial view of how production actually depended on workers’ efforts.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Payroll ledgers fully document all labor connected to early factories.",
+      "B": "Factory managers usually ignored paid work in their ledgers.",
+      "C": "Some forms of labor that contributed to production are likely missing from payroll records.",
+      "D": "Household labor was always more important than factory labor."
+    },
+    "correct": "C",
+    "explanation": "The text explains that unpaid and informal labor usually went unrecorded."
+  },
+  {
+    "id": "RW6-M2-004",
+    "prompt": "A critic notes that a playwright repeatedly places mirrors onstage at moments when characters make promises. The critic argues that these mirrors matter not as realistic props but as reminders that the characters are watching and judging themselves even while speaking to others.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a recurring detail that the second sentence interprets.",
+      "B": "It summarizes the plot of the entire play.",
+      "C": "It rejects the symbolism proposed in the second sentence.",
+      "D": "It explains how mirrors were constructed for the production."
+    },
+    "correct": "A",
+    "explanation": "The first sentence identifies the mirror pattern, and the second explains what it suggests."
+  },
+  {
+    "id": "RW6-M2-005",
+    "prompt": "A student is writing about phase-change materials in buildings and has taken these notes:\n• Phase-change materials absorb and release heat as they shift between physical states.\n• In some buildings, they can help stabilize indoor temperatures.\n• They may reduce the need for heating or cooling at certain times.\n• Choosing the right material for a specific climate remains a challenge.\nThe student wants to emphasize both a potential advantage of phase-change materials and a difficulty involved in using them. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Phase-change materials can help moderate indoor temperatures and reduce some heating or cooling demand, but selecting the right material for a given climate is still difficult.",
+      "B": "Buildings use many materials besides phase-change materials.",
+      "C": "The best phase-change material has already been identified for every climate.",
+      "D": "Heating and cooling systems are never needed in buildings that use phase-change materials."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the benefit and the challenge described in the notes."
+  },
+  {
+    "id": "RW6-M2-006",
+    "prompt": "The curator expected the newly uncovered ledger to confirm that the painting had always belonged to the same family. ______, the entries suggested that the work may have passed through several unrelated collections.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "Likewise,",
+      "C": "Instead,",
+      "D": "Therefore,"
+    },
+    "correct": "C",
+    "explanation": "The ledger did not confirm the expected ownership history; it suggested something different."
+  },
+  {
+    "id": "RW6-M2-007",
+    "prompt": "One fact unsettled the research team<u>: the river samples taken upstream contained more plastic particles than the samples taken downstream.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; the river samples taken upstream contained more plastic particles than the samples taken downstream.",
+      "C": ", the river samples taken upstream contained more plastic particles than the samples taken downstream.",
+      "D": "the river samples taken upstream contained more plastic particles than the samples taken downstream;"
+    },
+    "correct": "A",
+    "explanation": "A colon correctly introduces the specific fact that unsettled the team."
+  },
+  {
+    "id": "RW6-M2-008",
+    "prompt": "Rather than treating the archive as a passive storehouse, the historian describes it as a place where choices about preservation, arrangement, and access continue to shape what later readers can know.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It contrasts a simple view of the archive with a more dynamic interpretation.",
+      "B": "It lists the physical locations of several archives.",
+      "C": "It explains when the archive was founded.",
+      "D": "It presents the final conclusion of a statistical study."
+    },
+    "correct": "A",
+    "explanation": "The introductory phrase rejects the “passive storehouse” idea and replaces it with a more active one."
+  },
+  {
+    "id": "RW6-M2-009",
+    "prompt": "After Elena spoke with Marcus about Priya’s proposal, <u>she</u> recommended postponing the vote.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "she",
+      "B": "Elena",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “she” with “Elena” removes the ambiguity among the named people."
+  },
+  {
+    "id": "RW6-M2-010",
+    "prompt": "If the engineering report <u>included</u> maintenance costs, the council might have approved the bridge project last month.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "included",
+      "B": "had included",
+      "C": "includes",
+      "D": "would include"
+    },
+    "correct": "B",
+    "explanation": "The sentence describes an unreal past condition tied to a past result, so the if-clause needs the past perfect."
+  },
+  {
+    "id": "RW6-M2-011",
+    "prompt": "The editor meant to say that the storm nearly doubled the river’s flow rate, but the sentence as drafted says that the storm <u>doubled nearly the river’s flow rate overnight.</u>\nWhich choice best revises the text so that “nearly” is placed as precisely as possible?",
+    "choices": {
+      "A": "nearly doubled the river’s flow rate overnight.",
+      "B": "doubled nearly the river’s flow rate overnight.",
+      "C": "doubled the river nearly flow rate overnight.",
+      "D": "doubled the river’s flow rate nearly overnight."
+    },
+    "correct": "A",
+    "explanation": "This placement clearly shows that “nearly” modifies “doubled.”"
+  },
+  {
+    "id": "RW6-M2-012",
+    "prompt": "[1] Peatlands store large amounts of carbon in waterlogged soils. [2] When peatlands are drained or disturbed, some of that stored carbon can be released into the atmosphere. [3] For that reason, restoration projects often focus on rewetting dried peatlands. [4] Such projects aim not only to protect habitats but also to limit future emissions.\nWhich choice best describes the most logical placement for the following sentence?\n“Keeping the soils saturated helps slow the breakdown of carbon-rich organic matter.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence explains why rewetting helps and fits between the carbon release in sentence 2 and the restoration focus in sentence 3."
+  },
+  {
+    "id": "RW6-M2-013",
+    "prompt": "A museum tracked the average number of minutes visitors spent in four galleries during one afternoon.\nGallery A: 7\nGallery B: 11\nGallery C: 9\nGallery D: 8\nA student claims that visitors spent more time, on average, in Gallery B than in Gallery D.\nWhich choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is unsupported because Gallery A and Gallery C together total more minutes than Gallery B.",
+      "B": "The claim is supported because Gallery B’s average is greater than Gallery D’s.",
+      "C": "The claim is unsupported because Gallery C is closer to Gallery B than Gallery D is.",
+      "D": "The claim is supported because Gallery B has the highest average of all four galleries."
+    },
+    "correct": "B",
+    "explanation": "Gallery B averages 11 minutes, while Gallery D averages 8 minutes."
+  },
+  {
+    "id": "RW6-M2-014",
+    "prompt": "In a discussion of chemistry, a professor says that a solution becomes more <u>diffuse</u> as its particles spread more evenly through a larger volume of liquid.\nAs used in the text, what does “diffuse” most nearly mean?",
+    "choices": {
+      "A": "concentrated",
+      "B": "scattered",
+      "C": "colorful",
+      "D": "reactive"
+    },
+    "correct": "B",
+    "explanation": "“Diffuse” means spread out or scattered through the liquid."
+  },
+  {
+    "id": "RW6-M2-015",
+    "prompt": "In a novel, the narrator describes a row of houses after a storm: “No windows were broken, and yet the street looked altered. The curtains hung differently, flowerpots had shifted, and every porch seemed to be waiting for someone to step out and explain what had changed.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The narrator sees the storm’s effect as subtle but unsettling.",
+      "B": "The narrator believes the storm caused major structural damage.",
+      "C": "The narrator cannot tell whether a storm has occurred.",
+      "D": "The narrator is mainly interested in the flowerpots on the porches."
+    },
+    "correct": "A",
+    "explanation": "The passage emphasizes that nothing is obviously destroyed, yet the street feels strangely altered."
+  },
+  {
+    "id": "RW6-M2-016",
+    "prompt": "A study found that students who used interactive historical maps during a lesson later recalled more locations accurately than students who saw only static images. The researchers caution, however, that the study did not determine whether the interactive maps improved students’ understanding of the historical events themselves.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Interactive maps may improve memory for locations even if their effect on broader historical understanding is uncertain.",
+      "B": "Static images are always ineffective for teaching history.",
+      "C": "Students using interactive maps learned all aspects of the lesson better.",
+      "D": "The study showed that location memory and historical understanding are identical skills."
+    },
+    "correct": "A",
+    "explanation": "The study found better recall of locations but did not measure understanding of the events."
+  },
+  {
+    "id": "RW6-M2-017",
+    "prompt": "A historian argues that a reform petition gained legitimacy by adopting the visual format of bureaucratic documents, including numbered sections and official-looking headings. To support this claim, the historian notes that later commentators referred to the petition as “formal” even when they opposed its demands.\nWhy does the author most likely include the example of later commentators calling the petition “formal”?",
+    "choices": {
+      "A": "To show that the petition’s design affected how readers perceived its authority",
+      "B": "To prove that government officials wrote the petition",
+      "C": "To argue that numbered sections are clearer than headings",
+      "D": "To suggest that all readers supported the petition’s demands"
+    },
+    "correct": "A",
+    "explanation": "Calling it “formal” supports the claim that its visual format made it seem more legitimate."
+  },
+  {
+    "id": "RW6-M2-018",
+    "prompt": "A student is writing about green roofs and has taken these notes:\n• Green roofs are rooftops partially covered with vegetation.\n• They can absorb some rainfall and provide habitat for insects.\n• In some cases, they may help keep buildings cooler.\n• They can be heavy and may require added structural support.\nThe student wants to explain a potential benefit of green roofs while acknowledging a practical limitation. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Green roofs can help absorb rainfall and sometimes cool buildings, but their weight may require additional structural support.",
+      "B": "All roofs should be covered with vegetation.",
+      "C": "Insects live in many places besides rooftops.",
+      "D": "Green roofs are inexpensive to install on every building."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the potential benefits and the practical limitation from the notes."
+  },
+  {
+    "id": "RW6-M2-019",
+    "prompt": "The committee agreed that the school’s archives needed better cataloging. ______, members disagreed about whether the materials should be arranged by date, by subject, or by donor.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Similarly,",
+      "B": "Consequently,",
+      "C": "Nevertheless,",
+      "D": "For example,"
+    },
+    "correct": "C",
+    "explanation": "The second sentence contrasts agreement about the need for better cataloging with disagreement about how to arrange the materials."
+  },
+  {
+    "id": "RW6-M2-020",
+    "prompt": "The program asks participants to collect observations, compare patterns, and <u>carefully documenting changes over time.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "carefully documenting changes over time.",
+      "B": "careful documentation of changes over time.",
+      "C": "document changes over time carefully.",
+      "D": "to documenting changes over time carefully."
+    },
+    "correct": "C",
+    "explanation": "“Document” matches the parallel verbs “collect” and “compare.”"
+  },
+  {
+    "id": "RW6-M2-021",
+    "prompt": "The poem “Snowmelt Ledger” by <u>writer Kira Solano</u> closes the anthology.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "writer, Kira Solano,",
+      "C": "writer Kira, Solano",
+      "D": "writer, Kira Solano"
+    },
+    "correct": "A",
+    "explanation": "No commas are needed because “writer Kira Solano” is an essential identifying phrase."
+  },
+  {
+    "id": "RW6-M2-022",
+    "prompt": "The combination of low rainfall and unusually strong winds <u>has</u> increased the risk of wildfire.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "are"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “combination” takes the singular verb “has.”"
+  },
+  {
+    "id": "RW6-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The new process changed how the lab worked.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The new process changed how the lab worked.",
+      "B": "The new process affected many parts of the lab.",
+      "C": "The new process shortened sample-preparation time, reduced labeling errors, and allowed technicians to track each test stage electronically.",
+      "D": "The new process was different and more efficient."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces vague language with specific, concrete improvements."
+  },
+  {
+    "id": "RW6-M2-024",
+    "prompt": "[1] Biological soil crusts are thin communities of organisms that form on the surface of dryland soils. [2] These crusts can help reduce erosion by holding soil in place. [3] Different crust communities vary in how quickly they recover after disturbance. [4] Because of this variation, ecologists study them to understand the resilience of dryland ecosystems.\nWhich choice best describes the most logical placement for the following sentence?\n“No single crust type responds the same way in every desert environment.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence follows the statement about varying recovery and leads into the broader point about resilience in sentence 4."
+  },
+  {
+    "id": "RW6-M2-025",
+    "prompt": "The report originally described the pilot tutoring program as “successful,” but that wording failed to show that the strongest gains occurred among students who attended at least eight sessions, while occasional attendees showed little change. The editor suggests replacing “successful” with <u>most effective for students who attended regularly</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the statement more precise by specifying which students benefited most.",
+      "B": "It makes the statement less formal by using conversational language.",
+      "C": "It changes the meaning by suggesting that the tutoring program failed entirely.",
+      "D": "It introduces an unsupported personal opinion."
+    },
+    "correct": "A",
+    "explanation": "The revision identifies the regular attendees as the group with the strongest gains."
+  },
+  {
+    "id": "RW6-M2-026",
+    "prompt": "In an experiment, spiders crossed a surface more quickly when faint vibrations were present beneath it than when the surface was completely still. The researchers suggest that the vibrations may have provided orientation cues that helped the spiders maintain direction.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Faint vibrations may influence how efficiently spiders move across a surface.",
+      "B": "Spiders always avoid moving across still surfaces.",
+      "C": "The researchers proved that spiders prefer noisy environments.",
+      "D": "Vibrations prevented the spiders from changing direction."
+    },
+    "correct": "A",
+    "explanation": "The spiders moved faster when vibrations were present, suggesting those cues helped them orient."
+  },
+  {
+    "id": "RW6-M2-027",
+    "prompt": "An essay on handwriting concludes by noting that sketches and handwritten notes preserve traces of hesitation, emphasis, and revision that polished digital text may conceal. For that reason, the essay argues, many designers still begin with paper even when the final product will be created on a screen.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It applies the earlier idea to explain a current professional practice.",
+      "B": "It shifts the discussion away from writing and design entirely.",
+      "C": "It argues that digital tools should never be used by designers.",
+      "D": "It repeats the earlier claim without extending it."
+    },
+    "correct": "A",
+    "explanation": "The final sentence uses the argument about handwritten traces to explain why designers still start on paper."
+  }
+]

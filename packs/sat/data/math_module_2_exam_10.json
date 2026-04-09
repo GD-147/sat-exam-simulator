@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH10-M2-001",
+    "prompt": "What is the larger solution to the equation 2/(x + 3) + 3/(x − 1) = 1 ?",
+    "choices": {
+      "A": "−2",
+      "B": "2",
+      "C": "5",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "Multiply by (x + 3)(x − 1): 2(x − 1) + 3(x + 3) = (x + 3)(x − 1). This simplifies to x² − 3x − 10 = 0, or (x − 5)(x + 2) = 0. The larger solution is 5."
+  },
+  {
+    "id": "MATH10-M2-002",
+    "prompt": "A function is modeled by f(x) = abˣ, where a and b are positive constants. If f(1) = 12 and f(3) = 108, what is the value of a ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "Since f(x) = abˣ, dividing gives 108/12 = b² = 9, so b = 3. Then 12 = a · 3, so a = 4."
+  },
+  {
+    "id": "MATH10-M2-003",
+    "prompt": "The monic cubic polynomial p(x) = x³ + ax² + bx − 18 has factors x + 2 and x − 3. What is the value of p(1) ?",
+    "choices": {
+      "A": "−30",
+      "B": "−24",
+      "C": "−18",
+      "D": "24"
+    },
+    "correct": "B",
+    "explanation": "The constant term −18 means the product of the roots is 18. With roots −2 and 3, the third root is −3. Then p(1) = (1 + 2)(1 − 3)(1 + 3) = 3(−2)(4) = −24."
+  },
+  {
+    "id": "MATH10-M2-004",
+    "prompt": "A right cone has radius 5 and slant height 13. What is the height of the cone?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "13"
+    },
+    "correct": "C",
+    "explanation": "In a right cone, slant height² = radius² + height². So 13² = 5² + h², which gives h² = 144 and h = 12."
+  },
+  {
+    "id": "MATH10-M2-005",
+    "prompt": "A data set of 9 values has a mean of 24. When one value is removed, the mean of the remaining 8 values is 22. What value was removed?",
+    "choices": {
+      "A": "24",
+      "B": "32",
+      "C": "36",
+      "D": "40"
+    },
+    "correct": "D",
+    "explanation": "The original total is 9 · 24 = 216. The new total is 8 · 22 = 176. The removed value is 216 − 176 = 40."
+  },
+  {
+    "id": "MATH10-M2-006",
+    "prompt": "How many real solutions does the equation |x + 1| = x² − x − 2 have?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "C",
+    "explanation": "For x ≥ −1, solve x + 1 = x² − x − 2 to get x² − 2x − 3 = 0, so x = 3 or x = −1. For x < −1, solve −x − 1 = x² − x − 2 to get x² − 1 = 0, which gives x = ±1, but neither is less than −1. So there are 2 real solutions."
+  },
+  {
+    "id": "MATH10-M2-007",
+    "prompt": "A sector of a circle has radius 8 and central angle 135°. What is the area of the sector?",
+    "choices": {
+      "A": "16π",
+      "B": "20π",
+      "C": "24π",
+      "D": "27π"
+    },
+    "correct": "C",
+    "explanation": "Area of a sector = (135/360)π(8²) = (3/8)(64π) = 24π."
+  },
+  {
+    "id": "MATH10-M2-008",
+    "prompt": "If g(x) = 4x − 5 and f(g(x)) = 2x + 9, what is f(x) ?",
+    "choices": {
+      "A": "x/2 + 5",
+      "B": "x/2 + 23/2",
+      "C": "2x + 23/2",
+      "D": "4x − 5"
+    },
+    "correct": "B",
+    "explanation": "Let u = g(x) = 4x − 5, so x = (u + 5)/4. Then f(u) = 2((u + 5)/4) + 9 = u/2 + 23/2, so f(x) = x/2 + 23/2."
+  },
+  {
+    "id": "MATH10-M2-009",
+    "prompt": "The table summarizes survey results.\n                 Owns a laptop   Does not own a laptop\nTakes notes by hand 5 15\nUses a tablet 12 8\nIf one student who owns a laptop is selected at random, what is the probability that the student uses a tablet?",
+    "choices": {
+      "A": "5/17",
+      "B": "8/17",
+      "C": "12/17",
+      "D": "12/25"
+    },
+    "correct": "C",
+    "explanation": "Among students who own a laptop, there are 5 + 12 = 17 total. Of those, 12 use a tablet."
+  },
+  {
+    "id": "MATH10-M2-010",
+    "prompt": "If x + y = 13 and 1/x + 1/y = 13/30, what is the value of xy ?",
+    "choices": {
+      "A": "13",
+      "B": "26",
+      "C": "30",
+      "D": "39"
+    },
+    "correct": "C",
+    "explanation": "Since 1/x + 1/y = (x + y)/xy, we have 13/xy = 13/30. Therefore xy = 30."
+  },
+  {
+    "id": "MATH10-M2-011",
+    "prompt": "How many liters of 45% acid solution must be mixed with 15% acid solution to make 20 liters of 27% acid solution?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "Let x be the liters of 45% solution. Then 20 − x liters are 15% solution. Solve 0.45x + 0.15(20 − x) = 0.27(20), which gives x = 8."
+  },
+  {
+    "id": "MATH10-M2-012",
+    "prompt": "If x − 1/x = 4, what is the value of x² + 1/x² ?",
+    "choices": {
+      "A": "14",
+      "B": "16",
+      "C": "18",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "Square both sides of x − 1/x = 4: x² − 2 + 1/x² = 16. So x² + 1/x² = 18."
+  },
+  {
+    "id": "MATH10-M2-013",
+    "prompt": "Let p(x) = 2x³ + cx² − x + 4. If p(−1) = 7, what is the value of p(2) ?",
+    "choices": {
+      "A": "26",
+      "B": "30",
+      "C": "34",
+      "D": "38"
+    },
+    "correct": "C",
+    "explanation": "Use p(−1) = 7: 2(−1)³ + c(−1)² − (−1) + 4 = 7 gives −2 + c + 1 + 4 = 7, so c = 4. Then p(2) = 2(8) + 4(4) − 2 + 4 = 34."
+  },
+  {
+    "id": "MATH10-M2-014",
+    "prompt": "In a right triangle, tan θ = 3/4, and the side adjacent to angle θ has length 20. What is the perimeter of the triangle?",
+    "choices": {
+      "A": "55",
+      "B": "60",
+      "C": "65",
+      "D": "75"
+    },
+    "correct": "B",
+    "explanation": "If tan θ = 3/4 and the adjacent side is 20, the scale factor is 5, so the opposite side is 15 and the hypotenuse is 25. The perimeter is 20 + 15 + 25 = 60."
+  },
+  {
+    "id": "MATH10-M2-015",
+    "prompt": "Two similar cylinders have heights in the ratio 3:5. If the volume of the smaller cylinder is 54, what is the volume of the larger cylinder?",
+    "choices": {
+      "A": "150",
+      "B": "200",
+      "C": "250",
+      "D": "300"
+    },
+    "correct": "C",
+    "explanation": "Similar solids scale volume by the cube of the linear scale factor. The factor is 5/3, so the larger volume is 54 · (5/3)³ = 54 · 125/27 = 250."
+  },
+  {
+    "id": "MATH10-M2-016",
+    "prompt": "In a survey, 30% of the people originally surveyed preferred robotics. Then 14 more people who preferred robotics were added to the survey, and 40% of the people surveyed preferred robotics. How many people were in the original survey?",
+    "choices": {
+      "A": "56",
+      "B": "70",
+      "C": "84",
+      "D": "140"
+    },
+    "correct": "C",
+    "explanation": "Let n be the original number surveyed. Then 0.30n + 14 = 0.40(n + 14). Solving gives n = 84."
+  },
+  {
+    "id": "MATH10-M2-017",
+    "prompt": "What is the value of x in the equation √(x + 8) − √(x − 1) = 3 ?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": "Rewrite as √(x + 8) = 3 + √(x − 1). Squaring gives x + 8 = x + 8 + 6√(x − 1), so √(x − 1) = 0 and x = 1."
+  },
+  {
+    "id": "MATH10-M2-018",
+    "prompt": "What is the value of x in the equation 4^(x + 1) = 2^(3x − 1) ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "Rewrite 4^(x + 1) as 2^(2x + 2). Then 2^(2x + 2) = 2^(3x − 1), so 2x + 2 = 3x − 1 and x = 3."
+  },
+  {
+    "id": "MATH10-M2-019",
+    "prompt": "A sphere has volume 288π. What is the surface area of the sphere?",
+    "choices": {
+      "A": "96π",
+      "B": "108π",
+      "C": "144π",
+      "D": "216π"
+    },
+    "correct": "C",
+    "explanation": "From (4/3)πr³ = 288π, divide by π and multiply by 3/4 to get r³ = 216, so r = 6. Surface area = 4πr² = 4π(36) = 144π."
+  },
+  {
+    "id": "MATH10-M2-020",
+    "prompt": "For what value of c does the line y = x + c intersect the parabola y = x² + 4x + 7 at exactly one point?",
+    "choices": {
+      "A": "9/4",
+      "B": "15/4",
+      "C": "19/4",
+      "D": "23/4"
+    },
+    "correct": "C",
+    "explanation": "Set the equations equal: x² + 4x + 7 = x + c. Then x² + 3x + (7 − c) = 0. For exactly one intersection, the discriminant is 0: 3² − 4(7 − c) = 0, so 9 − 28 + 4c = 0 and c = 19/4."
+  },
+  {
+    "id": "MATH10-M2-021",
+    "prompt": "For x ≠ 5 and x ≠ −5, which expression is equivalent to (x² − x − 20)/(x² − 25) ?",
+    "choices": {
+      "A": "(x + 4)/(x + 5)",
+      "B": "(x − 4)/(x + 5)",
+      "C": "(x + 5)/(x + 4)",
+      "D": "(x + 4)/(x − 5)"
+    },
+    "correct": "A",
+    "explanation": "Factor numerator and denominator: x² − x − 20 = (x − 5)(x + 4) and x² − 25 = (x − 5)(x + 5). Cancel x − 5."
+  },
+  {
+    "id": "MATH10-M2-022",
+    "prompt": "A rectangular prism has dimensions x, x + 1, and x + 2. If its total surface area is 52, what is the value of x ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": "Surface area is 2[x(x + 1) + x(x + 2) + (x + 1)(x + 2)] = 52. This simplifies to 6x² + 12x + 4 = 52, or x² + 2x − 8 = 0. The positive solution is x = 2."
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH4-M2-001",
+    "prompt": "The graphs of y = x + 1 and y = x² − 5x + 7 intersect at two points. What is the larger x-coordinate of the intersection points?",
+    "choices": {
+      "A": "3 − √3",
+      "B": "3 + √2",
+      "C": "3 + √3",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "Set the equations equal: x + 1 = x² − 5x + 7. Then x² − 6x + 6 = 0. Using the quadratic formula gives x = (6 ± √12)/2 = 3 ± √3, so the larger value is 3 + √3."
+  },
+  {
+    "id": "MATH4-M2-002",
+    "prompt": "The polynomial x² + bx + 18 can be factored as (x + m)(x + n), where m and n are positive integers that differ by 3. What is the value of b ?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "9",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "Since x² + bx + 18 = (x + m)(x + n), we have mn = 18 and m + n = b. The positive factor pair of 18 that differs by 3 is 3 and 6, so b = 3 + 6 = 9."
+  },
+  {
+    "id": "MATH4-M2-003",
+    "prompt": "A function is modeled by f(x) = abˣ, where a and b are positive constants. If f(2) = 5 and f(5) = 40, what is the value of b ?",
+    "choices": {
+      "A": "√2",
+      "B": "2",
+      "C": "4",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "Divide the function values: f(5)/f(2) = (ab⁵)/(ab²) = b³ = 40/5 = 8. So b = 2."
+  },
+  {
+    "id": "MATH4-M2-004",
+    "prompt": "What is the positive solution to the equation 2/(x − 1) = 1/(x + 2) + 1 ?",
+    "choices": {
+      "A": "√5",
+      "B": "√6",
+      "C": "√7",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "Multiply both sides by (x − 1)(x + 2): 2(x + 2) = (x − 1) + (x − 1)(x + 2). Simplifying gives x² − 7 = 0, so x = ±√7. The positive solution is √7."
+  },
+  {
+    "id": "MATH4-M2-005",
+    "prompt": "A square with side length 8 is inscribed in a circle. What is the area of the circle?",
+    "choices": {
+      "A": "16π",
+      "B": "24π",
+      "C": "32π",
+      "D": "64π"
+    },
+    "correct": "C",
+    "explanation": "The diagonal of the inscribed square is the diameter of the circle. For side 8, the diagonal is 8√2, so the radius is 4√2. The area is π(4√2)² = π·32 = 32π."
+  },
+  {
+    "id": "MATH4-M2-006",
+    "prompt": "In a poll, 18 of 30 people chose option A. After x more people were added to the poll, all of whom also chose option A, 75% of the people in the poll chose option A. What is the value of x ?",
+    "choices": {
+      "A": "12",
+      "B": "15",
+      "C": "18",
+      "D": "24"
+    },
+    "correct": "C",
+    "explanation": "Set up the equation (18 + x)/(30 + x) = 3/4. Cross-multiply: 4(18 + x) = 3(30 + x). Then 72 + 4x = 90 + 3x, so x = 18."
+  },
+  {
+    "id": "MATH4-M2-007",
+    "prompt": "What is the solution to the equation √(2x + 3) = x − 1 ?",
+    "choices": {
+      "A": "2 − √6",
+      "B": "2 + √6",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "Square both sides: 2x + 3 = (x − 1)² = x² − 2x + 1. Then x² − 4x − 2 = 0, so x = 2 ± √6. Since x − 1 must be nonnegative, the valid solution is 2 + √6."
+  },
+  {
+    "id": "MATH4-M2-008",
+    "prompt": "In a right triangle, sin θ = 5/13. If the side opposite θ has length 10, what is the perimeter of the triangle?",
+    "choices": {
+      "A": "48",
+      "B": "52",
+      "C": "56",
+      "D": "60"
+    },
+    "correct": "D",
+    "explanation": "If sin θ = 5/13 and the opposite side is 10, the scale factor is 2. So the sides are 10, 24, and 26. The perimeter is 10 + 24 + 26 = 60."
+  },
+  {
+    "id": "MATH4-M2-009",
+    "prompt": "If g(x) = 3x − 2 and g(f(x)) = 9x + 10, what is f(x) ?",
+    "choices": {
+      "A": "3x + 2",
+      "B": "3x + 4",
+      "C": "9x + 4",
+      "D": "9x + 12"
+    },
+    "correct": "B",
+    "explanation": "Since g(x) = 3x − 2, then g(f(x)) = 3f(x) − 2. Set this equal to 9x + 10: 3f(x) − 2 = 9x + 10. Then 3f(x) = 9x + 12, so f(x) = 3x + 4."
+  },
+  {
+    "id": "MATH4-M2-010",
+    "prompt": "The equation |2x + 1| = |x − 5| has two solutions. What is the sum of the solutions?",
+    "choices": {
+      "A": "−14/3",
+      "B": "−2",
+      "C": "2",
+      "D": "14/3"
+    },
+    "correct": "A",
+    "explanation": "Solve by cases. If 2x + 1 = x − 5, then x = −6. If 2x + 1 = −(x − 5), then 3x = 4 and x = 4/3. Their sum is −6 + 4/3 = −14/3."
+  },
+  {
+    "id": "MATH4-M2-011",
+    "prompt": "Point P divides the segment from A(1, 4) to B(10, 1) in the ratio 1:2, where the shorter part is closer to A. What are the coordinates of P ?",
+    "choices": {
+      "A": "(3, 2)",
+      "B": "(4, 3)",
+      "C": "(7, 2)",
+      "D": "(7, 3)"
+    },
+    "correct": "B",
+    "explanation": "A 1:2 split from A to B means P is 1/3 of the way from A to B. So P = (1, 4) + (1/3)(9, −3) = (1 + 3, 4 − 1) = (4, 3)."
+  },
+  {
+    "id": "MATH4-M2-012",
+    "prompt": "The height of an object above the ground is modeled by h(t) = −5t² + 25t + 30, where h is in feet and t is in seconds. At what positive time does the object hit the ground?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "Set the height equal to 0: −5t² + 25t + 30 = 0. Divide by −5 to get t² − 5t − 6 = 0, which factors as (t − 6)(t + 1) = 0. The positive time is 6."
+  },
+  {
+    "id": "MATH4-M2-013",
+    "prompt": "A cube has total surface area 150. What is the volume of the cube?",
+    "choices": {
+      "A": "75",
+      "B": "100",
+      "C": "125",
+      "D": "150"
+    },
+    "correct": "C",
+    "explanation": "A cube with surface area 150 has 6s² = 150, so s² = 25 and s = 5. The volume is s³ = 125."
+  },
+  {
+    "id": "MATH4-M2-014",
+    "prompt": "How many liters of 25% saline solution must be mixed with 10% saline solution to make 20 liters of 19% saline solution?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "C",
+    "explanation": "Let x be the liters of 25% solution. Then 20 − x liters is 10% solution. Solve 0.25x + 0.10(20 − x) = 0.19(20). This simplifies to 0.15x = 1.8, so x = 12."
+  },
+  {
+    "id": "MATH4-M2-015",
+    "prompt": "If x + 1/x = 5, what is the value of x² + 1/x² ?",
+    "choices": {
+      "A": "21",
+      "B": "23",
+      "C": "25",
+      "D": "27"
+    },
+    "correct": "B",
+    "explanation": "Square both sides of x + 1/x = 5: x² + 2 + 1/x² = 25. Therefore x² + 1/x² = 23."
+  },
+  {
+    "id": "MATH4-M2-016",
+    "prompt": "What is the value of x in the equation 4ˣ = 8^(x − 1) ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Rewrite with base 2: 4ˣ = 2^(2x) and 8^(x − 1) = 2^(3x − 3). Set exponents equal: 2x = 3x − 3, so x = 3."
+  },
+  {
+    "id": "MATH4-M2-017",
+    "prompt": "A rectangular prism has dimensions x, x + 1, and x + 2. If its volume is 60, what is the value of x ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "Test consecutive dimensions. If x = 3, then the dimensions are 3, 4, and 5, and the volume is 3·4·5 = 60. So x = 3."
+  },
+  {
+    "id": "MATH4-M2-018",
+    "prompt": "Forty percent of a number is 18 less than 55% of the same number. What is the number?",
+    "choices": {
+      "A": "100",
+      "B": "110",
+      "C": "120",
+      "D": "180"
+    },
+    "correct": "C",
+    "explanation": "The difference between 55% and 40% is 15%. Since that difference is 18, we have 0.15n = 18. Solving gives n = 120."
+  },
+  {
+    "id": "MATH4-M2-019",
+    "prompt": "Which set of values of x satisfies x² − 2x − 8 ≥ 0 ?",
+    "choices": {
+      "A": "−2 ≤ x ≤ 4",
+      "B": "x ≤ −2 or x ≥ 4",
+      "C": "x < −4 or x > 2",
+      "D": "x ≤ −4 or x ≥ 2"
+    },
+    "correct": "B",
+    "explanation": "Factor the quadratic: x² − 2x − 8 = (x − 4)(x + 2). A product is nonnegative when both factors are nonnegative or both are nonpositive, so x ≤ −2 or x ≥ 4."
+  },
+  {
+    "id": "MATH4-M2-020",
+    "prompt": "A function is modeled by f(x) = a(1/3)ˣ, where a is a constant. If f(−1) = 18, what is the value of a ?",
+    "choices": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "54"
+    },
+    "correct": "B",
+    "explanation": "Since f(x) = a(1/3)ˣ, then f(−1) = a(1/3)^(−1) = 3a. Because f(−1) = 18, we have 3a = 18, so a = 6."
+  },
+  {
+    "id": "MATH4-M2-021",
+    "prompt": "The side lengths of a rectangle are in the ratio 3:4, and the area of the rectangle is 48. What is the length of the diagonal of the rectangle?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "B",
+    "explanation": "Let the sides be 3k and 4k. Then the area is 12k² = 48, so k² = 4 and k = 2. The sides are 6 and 8, so the diagonal is √(6² + 8²) = √100 = 10."
+  },
+  {
+    "id": "MATH4-M2-022",
+    "prompt": "For x ≠ 1, the function f is defined by f(x) = (x² − 1)/(x − 1). What is the value of f(5) ?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "24"
+    },
+    "correct": "C",
+    "explanation": "Factor the numerator: x² − 1 = (x − 1)(x + 1). For x ≠ 1, f(x) = x + 1. So f(5) = 6."
+  }
+]

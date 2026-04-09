@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH5-M2-001",
+    "prompt": "What is the solution to the equation √(x + 10) = 8 − x ?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Because √(x + 10) is nonnegative, 8 − x must also be nonnegative, so x ≤ 8. Square both sides: x + 10 = (8 − x)² = x² − 16x + 64. Rearranging gives x² − 17x + 54 = 0, so (x − 6)(x − 9) = 0. Only x = 6 satisfies x ≤ 8 and the original equation."
+  },
+  {
+    "id": "MATH5-M2-002",
+    "prompt": "If 3/2 is a solution to the equation 2x² − kx + 3 = 0, what is the value of k ?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "Substitute x = 3/2 into 2x² − kx + 3 = 0: 2(9/4) − (3k/2) + 3 = 0. That becomes 9/2 − 3k/2 + 3 = 0, or 15/2 = 3k/2. So k = 5."
+  },
+  {
+    "id": "MATH5-M2-003",
+    "prompt": "A population of cells triples every 2 days. If there are 1,458 cells after 6 days, how many cells were present at the start?",
+    "choices": {
+      "A": "18",
+      "B": "27",
+      "C": "54",
+      "D": "162"
+    },
+    "correct": "C",
+    "explanation": "Tripling every 2 days means after 6 days the population has been multiplied by 3³ = 27. So the initial population was 1,458/27 = 54."
+  },
+  {
+    "id": "MATH5-M2-004",
+    "prompt": "The system below has two solutions.\nx² + y² = 25\ny = x − 1\nWhat is the positive x-coordinate of a solution?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Substitute y = x − 1 into x² + y² = 25: x² + (x − 1)² = 25. This simplifies to 2x² − 2x − 24 = 0, or x² − x − 12 = 0. Factoring gives (x − 4)(x + 3) = 0, so the positive x-coordinate is 4."
+  },
+  {
+    "id": "MATH5-M2-005",
+    "prompt": "The data set 8, 11, 13, 17, k has a mean of 15. What is the median of the data set?",
+    "choices": {
+      "A": "11",
+      "B": "12",
+      "C": "13",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": "The mean is 15 for 5 numbers, so their total is 75. The known numbers sum to 49, so k = 26. The ordered data set is 8, 11, 13, 17, 26, and the median is 13."
+  },
+  {
+    "id": "MATH5-M2-006",
+    "prompt": "What is the larger solution to the equation 2/(x + 1) + 1/(x − 2) = 1 ?",
+    "choices": {
+      "A": "2 + √2",
+      "B": "2 + √3",
+      "C": "3 + √2",
+      "D": "3 + √3"
+    },
+    "correct": "B",
+    "explanation": "Multiply both sides by (x + 1)(x − 2): 2(x − 2) + (x + 1) = (x + 1)(x − 2). Simplifying gives 3x − 3 = x² − x − 2, so x² − 4x + 1 = 0. Using the quadratic formula gives x = 2 ± √3, and the larger solution is 2 + √3."
+  },
+  {
+    "id": "MATH5-M2-007",
+    "prompt": "A quadratic function has x-intercepts at −1 and 5 and passes through the point (0, −10). Which equation could represent the function?",
+    "choices": {
+      "A": "y = (x + 1)(x − 5)",
+      "B": "y = 2(x + 1)(x − 5)",
+      "C": "y = (x − 1)(x + 5)",
+      "D": "y = 2(x − 1)(x + 5)"
+    },
+    "correct": "B",
+    "explanation": "A quadratic with x-intercepts −1 and 5 has the form y = a(x + 1)(x − 5). Using the point (0, −10), we get −10 = a(1)(−5), so a = 2."
+  },
+  {
+    "id": "MATH5-M2-008",
+    "prompt": "A cylinder has radius 3 and total surface area 66π. What is the height of the cylinder?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Total surface area of a cylinder is 2πr² + 2πrh. With r = 3, this is 18π + 6πh. Set 18π + 6πh = 66π, so 6h = 48 and h = 8."
+  },
+  {
+    "id": "MATH5-M2-009",
+    "prompt": "If f(x) = 4x + 1, which expression is equal to f⁻¹(2x + 3) ?",
+    "choices": {
+      "A": "(x + 1)/2",
+      "B": "(x + 2)/2",
+      "C": "(2x + 1)/4",
+      "D": "(2x + 3)/4"
+    },
+    "correct": "A",
+    "explanation": "To find f⁻¹, solve y = 4x + 1 for x. Then x = (y − 1)/4, so f⁻¹(y) = (y − 1)/4. Substituting y = 2x + 3 gives (2x + 2)/4 = (x + 1)/2."
+  },
+  {
+    "id": "MATH5-M2-010",
+    "prompt": "One pump can fill a tank in 4 hours, and a second pump can fill the same tank in 6 hours. If both pumps work together at constant rates, how many hours will it take to fill the tank?",
+    "choices": {
+      "A": "2",
+      "B": "12/5",
+      "C": "3",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "The combined rate is 1/4 + 1/6 = 5/12 tank per hour. The time to fill one tank is the reciprocal, 12/5 hours."
+  },
+  {
+    "id": "MATH5-M2-011",
+    "prompt": "The table summarizes exam results.\n             Passed   Did not pass\nOnline 18 7\nIn person 12 13\nIf one student who passed is selected at random, what is the probability that the student took the exam in person?",
+    "choices": {
+      "A": "2/5",
+      "B": "12/25",
+      "C": "3/5",
+      "D": "5/6"
+    },
+    "correct": "A",
+    "explanation": "Among the students who passed, 18 + 12 = 30 passed total. Of those, 12 took the exam in person. So the probability is 12/30 = 2/5."
+  },
+  {
+    "id": "MATH5-M2-012",
+    "prompt": "Which value of k makes the equation x² + kx + 9 = 0 have no real solutions?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "A",
+    "explanation": "A quadratic has no real solutions when its discriminant is negative. For x² + kx + 9 = 0, the discriminant is k² − 36. This must be negative, so k² < 36. Among the choices, only 5 works."
+  },
+  {
+    "id": "MATH5-M2-013",
+    "prompt": "A rectangle has perimeter 28 and diagonal length 10. What is the area of the rectangle?",
+    "choices": {
+      "A": "24",
+      "B": "40",
+      "C": "48",
+      "D": "56"
+    },
+    "correct": "C",
+    "explanation": "Let the side lengths be l and w. Then l + w = 14 because the perimeter is 28, and l² + w² = 100 because the diagonal is 10. Using (l + w)² = l² + 2lw + w² gives 196 = 100 + 2lw, so 2lw = 96 and lw = 48."
+  },
+  {
+    "id": "MATH5-M2-014",
+    "prompt": "The width of a rectangular mural is increased by 30%, and its height is increased by 20%. By what percent does the area of the mural increase?",
+    "choices": {
+      "A": "50%",
+      "B": "52%",
+      "C": "56%",
+      "D": "60%"
+    },
+    "correct": "C",
+    "explanation": "The new area factor is 1.30 × 1.20 = 1.56. That means the area is 56% greater than before."
+  },
+  {
+    "id": "MATH5-M2-015",
+    "prompt": "A kite string is 80 feet long and makes a 60° angle with the ground. Assuming the string is straight and taut, what is the height of the kite above the ground?",
+    "choices": {
+      "A": "20√3 feet",
+      "B": "40 feet",
+      "C": "40√3 feet",
+      "D": "80√3 feet"
+    },
+    "correct": "C",
+    "explanation": "The height is opposite the 60° angle, so h = 80·sin 60° = 80·(√3/2) = 40√3 feet."
+  },
+  {
+    "id": "MATH5-M2-016",
+    "prompt": "Which binomial is a factor of x³ − 4x² + x + 6 ?",
+    "choices": {
+      "A": "x − 1",
+      "B": "x + 1",
+      "C": "x − 2",
+      "D": "x + 2"
+    },
+    "correct": "B",
+    "explanation": "Test possible roots from the answer choices. Substituting x = −1 into x³ − 4x² + x + 6 gives −1 − 4 − 1 + 6 = 0, so x + 1 is a factor."
+  },
+  {
+    "id": "MATH5-M2-017",
+    "prompt": "Group A has 12 values with mean 18. Group B has 8 values with mean 24. What is the mean of all 20 values combined?",
+    "choices": {
+      "A": "19.2",
+      "B": "20",
+      "C": "20.4",
+      "D": "21.6"
+    },
+    "correct": "C",
+    "explanation": "Group A has total 12·18 = 216, and Group B has total 8·24 = 192. The combined total is 408, and 408/20 = 20.4."
+  },
+  {
+    "id": "MATH5-M2-018",
+    "prompt": "What is the solution to the equation |x + 3| = 2x − 1 ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "Solve by cases. If x + 3 = 2x − 1, then x = 4. If −(x + 3) = 2x − 1, then x = −2/3, but this makes the right side negative, so it does not satisfy the original equation. The solution is 4."
+  },
+  {
+    "id": "MATH5-M2-019",
+    "prompt": "For x ≥ 5, the function f is defined by f(x) = (x − 5)². What is the value of f⁻¹(16) ?",
+    "choices": {
+      "A": "7",
+      "B": "9",
+      "C": "11",
+      "D": "21"
+    },
+    "correct": "B",
+    "explanation": "To find f⁻¹(16), solve (x − 5)² = 16 with x ≥ 5. Then x − 5 = 4, so x = 9."
+  },
+  {
+    "id": "MATH5-M2-020",
+    "prompt": "A bag contains 4 red marbles, 3 blue marbles, and 5 green marbles. Two marbles are drawn at random without replacement. What is the probability that one marble is red and the other is blue?",
+    "choices": {
+      "A": "1/11",
+      "B": "2/11",
+      "C": "7/22",
+      "D": "4/11"
+    },
+    "correct": "B",
+    "explanation": "The probability of drawing a red then a blue is (4/12)(3/11), and the probability of drawing a blue then a red is (3/12)(4/11). Add them: 12/132 + 12/132 = 24/132 = 2/11."
+  },
+  {
+    "id": "MATH5-M2-021",
+    "prompt": "A circle is centered at the origin and passes through the point (6, 8). Which equation represents the circle?",
+    "choices": {
+      "A": "x² + y² = 10",
+      "B": "x² + y² = 14",
+      "C": "x² + y² = 100",
+      "D": "x² + y² = 196"
+    },
+    "correct": "C",
+    "explanation": "The radius is the distance from the origin to (6, 8), which is √(6² + 8²) = √100 = 10. So the equation is x² + y² = 10² = 100."
+  },
+  {
+    "id": "MATH5-M2-022",
+    "prompt": "What is the value of x in the equation x + 2√x = 15 ?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "D",
+    "explanation": "Let t = √x. Then x = t², so the equation becomes t² + 2t = 15, or t² + 2t − 15 = 0. Factoring gives (t + 5)(t − 3) = 0, so t = 3 because t = √x ≥ 0. Therefore x = 9."
+  }
+]

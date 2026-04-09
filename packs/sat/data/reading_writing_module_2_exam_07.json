@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW7-M2-001",
+    "prompt": "A reviewer calls the policy paper’s conclusion “circumspect,” explaining that it raises important possibilities while avoiding claims the evidence cannot yet support.\nAs used in the text, what does “circumspect” most nearly mean?",
+    "choices": {
+      "A": "cautious",
+      "B": "enthusiastic",
+      "C": "repetitive",
+      "D": "abrupt"
+    },
+    "correct": "A",
+    "explanation": "“Circumspect” means careful and cautious, especially about making stronger claims than the evidence allows."
+  },
+  {
+    "id": "RW7-M2-002",
+    "prompt": "A scholar argues that footnotes in historical writing do more than identify sources. Because they can signal which debates matter, which authorities are trusted, and which interpretations are being challenged, footnotes help shape a reader’s sense of how knowledge in the field is organized. In that way, even material placed at the bottom of the page can influence how the main text is understood.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Footnotes affect interpretation by helping organize how readers understand scholarly debate and authority.",
+      "B": "Footnotes exist mainly to make pages appear more formal.",
+      "C": "Historical writing is persuasive only when it contains no footnotes.",
+      "D": "Readers usually ignore everything placed below the main text."
+    },
+    "correct": "A",
+    "explanation": "The passage says footnotes signal debates, trusted authorities, and challenged interpretations."
+  },
+  {
+    "id": "RW7-M2-003",
+    "prompt": "Climate historians often reconstruct past droughts by combining tree-ring data with records of crop yields and written accounts from local officials. Yet such sources do not always line up neatly: a narrow ring may suggest low rainfall, while a written report may focus more on taxation or conflict than on weather conditions. As a result, interpreting the severity of a drought can require careful comparison among sources that emphasize different things.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Written reports from local officials are more reliable than tree-ring data.",
+      "B": "Reconstructing past droughts can be difficult because different sources may highlight different aspects of the same period.",
+      "C": "Crop-yield records are useless unless tree rings are unavailable.",
+      "D": "Historians can determine drought severity from a single source if it is detailed enough."
+    },
+    "correct": "B",
+    "explanation": "The text explains that tree rings, crop records, and written reports do not always align neatly."
+  },
+  {
+    "id": "RW7-M2-004",
+    "prompt": "A literary critic notes that a novel’s narrator repeatedly describes city streets in terms borrowed from theater, calling alleys “backstages” and windows “balconies.” The critic argues that this language invites readers to see public life as a performance in which observation and display are constantly intertwined.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a stylistic pattern that the second sentence interprets.",
+      "B": "It summarizes the narrator’s career as an actor.",
+      "C": "It rejects the symbolic reading proposed in the second sentence.",
+      "D": "It explains why the novel is divided into short scenes."
+    },
+    "correct": "A",
+    "explanation": "The first sentence identifies the theatrical language; the second explains what it suggests about public life."
+  },
+  {
+    "id": "RW7-M2-005",
+    "prompt": "A student is writing about low-carbon cement and has taken these notes:\n• Some low-carbon cements use industrial by-products in place of part of the traditional clinker.\n• Producing them can lead to lower carbon emissions than producing conventional cement.\n• Their performance can vary depending on the materials used.\n• Engineers must test mixtures carefully for specific applications.\nThe student wants to emphasize both a potential environmental advantage of low-carbon cement and a reason it must be evaluated carefully. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Low-carbon cement can reduce emissions by replacing part of the traditional clinker, but engineers still need to test specific mixtures carefully because performance can vary.",
+      "B": "Conventional cement is used in many buildings and roads.",
+      "C": "All low-carbon cements perform exactly the same way.",
+      "D": "Industrial by-products should replace every traditional material immediately."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the emissions benefit and the need for careful testing."
+  },
+  {
+    "id": "RW7-M2-006",
+    "prompt": "The historian expected the shipping records to confirm that the port’s trade declined steadily after 1820. ______, the records showed that imports of certain goods increased sharply even as other categories fell.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Instead,",
+      "C": "For example,",
+      "D": "Consequently,"
+    },
+    "correct": "B",
+    "explanation": "The records did not confirm a steady decline; they showed a more mixed pattern."
+  },
+  {
+    "id": "RW7-M2-007",
+    "prompt": "The investigation turned on one unexpected detail<u>: the forged signatures appeared only on contracts dated after the company had changed its logo.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; the forged signatures appeared only on contracts dated after the company had changed its logo.",
+      "C": ", the forged signatures appeared only on contracts dated after the company had changed its logo.",
+      "D": "the forged signatures appeared only on contracts dated after the company had changed its logo;"
+    },
+    "correct": "A",
+    "explanation": "A colon correctly introduces the specific detail on which the investigation depended."
+  },
+  {
+    "id": "RW7-M2-008",
+    "prompt": "Rather than treating the plaza merely as empty space between buildings, the sociologist describes it as a setting in which rules about waiting, watching, and moving past strangers are constantly being negotiated.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It contrasts a minimal description of the plaza with a richer interpretation of its social role.",
+      "B": "It identifies the architect who designed the plaza.",
+      "C": "It explains when the plaza was first built.",
+      "D": "It presents the results of a population survey."
+    },
+    "correct": "A",
+    "explanation": "The introductory phrase rejects the idea of the plaza as mere empty space and replaces it with a more complex social view."
+  },
+  {
+    "id": "RW7-M2-009",
+    "prompt": "After Javier spoke with Nia about Lena’s recommendation, <u>he</u> suggested revising the final paragraph.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "he",
+      "B": "Javier",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “he” with “Javier” removes the ambiguity among the named people."
+  },
+  {
+    "id": "RW7-M2-010",
+    "prompt": "Had the transportation study <u>considered</u> delivery traffic more carefully, the city might have predicted the congestion problem before opening the new terminal.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "considered",
+      "B": "had considered",
+      "C": "considers",
+      "D": "would consider"
+    },
+    "correct": "B",
+    "explanation": "The sentence describes an unreal past condition tied to a past result, so the past perfect is needed."
+  },
+  {
+    "id": "RW7-M2-011",
+    "prompt": "The editor meant to say that the excavation uncovered almost three hundred beads, but the sentence as drafted says that the excavation <u>uncovered three hundred almost beads near the wall.</u>\nWhich choice best revises the text so that “almost” is placed as precisely as possible?",
+    "choices": {
+      "A": "almost uncovered three hundred beads near the wall.",
+      "B": "uncovered almost three hundred beads near the wall.",
+      "C": "uncovered three hundred beads almost near the wall.",
+      "D": "uncovered three hundred beads near the almost wall."
+    },
+    "correct": "B",
+    "explanation": "This placement clearly shows that “almost” modifies “three hundred beads.”"
+  },
+  {
+    "id": "RW7-M2-012",
+    "prompt": "[1] Kelp forests provide shelter and food for many marine species. [2] When sea otter populations decline, sea urchins may increase and graze heavily on kelp. [3] In some regions, restoration efforts therefore include protecting otters as well as replanting kelp. [4] These efforts reflect how strongly the ecosystem depends on interactions among species.\nWhich choice best describes the most logical placement for the following sentence?\n“Managing only the kelp itself may not be enough to restore the habitat.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence follows the explanation of otters and urchins and leads naturally to the restoration strategy in sentence 3."
+  },
+  {
+    "id": "RW7-M2-013",
+    "prompt": "A researcher compared the average number of minutes four groups spent discussing a case study.\nGroup A: 18\nGroup B: 14\nGroup C: 21\nGroup D: 16\nA student claims that Group C spent more time discussing the case study, on average, than Group A.\nWhich choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is unsupported because Group B spent less time than Group A.",
+      "B": "The claim is supported because Group C’s average is greater than Group A’s.",
+      "C": "The claim is unsupported because Group D is closer to Group A than Group C is.",
+      "D": "The claim is supported because Group C spent the most time of any group."
+    },
+    "correct": "B",
+    "explanation": "Group C averages 21 minutes, while Group A averages 18 minutes."
+  },
+  {
+    "id": "RW7-M2-014",
+    "prompt": "In a discussion of policy language, a professor says that a term may seem <u>neutral</u> while still carrying assumptions about what kinds of outcomes are considered normal or desirable.\nAs used in the text, what does “neutral” most nearly mean?",
+    "choices": {
+      "A": "balanced",
+      "B": "dull",
+      "C": "temporary",
+      "D": "technical"
+    },
+    "correct": "A",
+    "explanation": "In context, “neutral” means seemingly balanced or unbiased, even if hidden assumptions remain."
+  },
+  {
+    "id": "RW7-M2-015",
+    "prompt": "In a novel, the narrator describes a half-finished portrait in an artist’s studio: “The hands were precise, the jacket nearly complete, but the face remained only a blur of charcoal marks. It was as if the painter had decided that the sitter’s posture could be known before the sitter’s thoughts could.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The narrator sees the unfinished portrait as suggesting that outward form is easier to capture than inner character.",
+      "B": "The narrator believes the portrait should be destroyed.",
+      "C": "The sitter refused to return to the studio.",
+      "D": "The painter cared only about clothing and furniture."
+    },
+    "correct": "A",
+    "explanation": "The passage contrasts the nearly finished posture and clothing with the still-unformed face."
+  },
+  {
+    "id": "RW7-M2-016",
+    "prompt": "A study found that students who listened to a short explanation of a math problem and then drew their own diagram solved similar problems more accurately later than students who only reviewed completed diagrams. The researchers note, however, that the study did not test whether drawing diagrams helped on problems that were much more complex than the original example.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Drawing one’s own diagram may improve later performance on similar problems even if its value for much harder problems remains uncertain.",
+      "B": "Completed diagrams are always less useful than student-generated ones.",
+      "C": "Listening to explanations has no effect on math learning.",
+      "D": "The study proved that drawing is the best strategy for every kind of problem."
+    },
+    "correct": "A",
+    "explanation": "The study found better results on similar problems but did not test much more complex ones."
+  },
+  {
+    "id": "RW7-M2-017",
+    "prompt": "A historian argues that an early conservation campaign gained influence partly because its pamphlets adopted the visual conventions of scientific field reports, including labeled diagrams and measurement tables. To support this claim, the historian notes that even opponents described the pamphlets as looking “methodical” and “hard to dismiss.”\nWhy does the author most likely include the example of opponents describing the pamphlets as “methodical”?",
+    "choices": {
+      "A": "To show that the pamphlets’ scientific appearance affected how readers judged their credibility",
+      "B": "To prove that the pamphlets were written by scientists working in the field",
+      "C": "To argue that diagrams matter more than written arguments",
+      "D": "To suggest that opponents later joined the conservation campaign"
+    },
+    "correct": "A",
+    "explanation": "Even opponents described the pamphlets as “methodical,” supporting the claim about visual authority."
+  },
+  {
+    "id": "RW7-M2-018",
+    "prompt": "A student is writing about aquifer recharge basins and has taken these notes:\n• Aquifer recharge basins are shallow areas where water can soak into the ground.\n• In some regions, they are used to capture stormwater or excess surface water.\n• Recharged groundwater can later help support water supplies.\n• The basins require land and work only where the local geology allows water to infiltrate effectively.\nThe student wants to explain a potential benefit of aquifer recharge basins while acknowledging an important limitation. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Aquifer recharge basins can help store water underground for later use, but they require suitable land and geology in order to work effectively.",
+      "B": "All shallow basins are useful for water storage.",
+      "C": "Stormwater should never be allowed to soak into the ground.",
+      "D": "Aquifer recharge basins eliminate the need for any other water-supply planning."
+    },
+    "correct": "A",
+    "explanation": "This choice states both the benefit and the limitation from the notes."
+  },
+  {
+    "id": "RW7-M2-019",
+    "prompt": "The committee agreed that the translation needed revision. ______, members disagreed about whether the new version should preserve the original syntax closely or prioritize idiomatic English.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "For example,",
+      "C": "Likewise,",
+      "D": "Nevertheless,"
+    },
+    "correct": "D",
+    "explanation": "The second sentence contrasts agreement on the need for revision with disagreement about the translation approach."
+  },
+  {
+    "id": "RW7-M2-020",
+    "prompt": "The course requires students to identify assumptions, assess evidence, and <u>the comparison of competing explanations.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the comparison of competing explanations.",
+      "B": "compare competing explanations.",
+      "C": "comparing competing explanations.",
+      "D": "to comparing competing explanations."
+    },
+    "correct": "B",
+    "explanation": "“Compare” matches the parallel verbs “identify” and “assess.”"
+  },
+  {
+    "id": "RW7-M2-021",
+    "prompt": "The essay “Archive of Rain” by <u>poet Marisol Vega</u> appears first in the collection.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "poet, Marisol Vega,",
+      "C": "poet Marisol, Vega",
+      "D": "poet, Marisol Vega"
+    },
+    "correct": "A",
+    "explanation": "No commas are needed because “poet Marisol Vega” is an essential identifying phrase."
+  },
+  {
+    "id": "RW7-M2-022",
+    "prompt": "The arrangement of benches, pathways, and trees <u>creates</u> a series of smaller gathering areas within the park.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "create",
+      "B": "creates",
+      "C": "have created",
+      "D": "creating"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “arrangement” takes the singular verb “creates.”"
+  },
+  {
+    "id": "RW7-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The workshop improved the team’s process.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The workshop improved the team’s process.",
+      "B": "The workshop changed several things for the team.",
+      "C": "The workshop introduced a shared planning template, reduced duplicated tasks, and helped team members identify problems earlier in each project.",
+      "D": "The workshop was beneficial and effective."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces vague language with specific changes to the team’s process."
+  },
+  {
+    "id": "RW7-M2-024",
+    "prompt": "[1] In coastal dunes, wind moves sand continually from one place to another. [2] Grasses and shrubs can trap some of that moving sand, helping dunes build and stabilize over time. [3] Different plants vary in how well they tolerate burial, salt spray, and shifting ground. [4] Because of that variation, restoration projects often select different plant mixes for different dune conditions.\nWhich choice best describes the most logical placement for the following sentence?\n“No single species is equally suited to every part of a dune system.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence follows the discussion of species differences and leads into the restoration choice described in sentence 4."
+  },
+  {
+    "id": "RW7-M2-025",
+    "prompt": "The report originally described the internship program as “beneficial,” but that wording failed to show that the clearest gains appeared among participants who worked with mentors weekly, while students with only occasional meetings showed much smaller changes. The editor suggests replacing “beneficial” with <u>most beneficial for participants who met with mentors regularly</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the statement more precise by specifying which participants benefited most.",
+      "B": "It makes the statement less formal by using casual language.",
+      "C": "It changes the meaning by suggesting that the program harmed some participants.",
+      "D": "It introduces a personal judgment that the original avoided."
+    },
+    "correct": "A",
+    "explanation": "The revision identifies the weekly-mentored participants as the group with the clearest gains."
+  },
+  {
+    "id": "RW7-M2-026",
+    "prompt": "In an experiment, researchers found that beetles reached a food source more directly when a faint air current moved consistently across the test arena than when the air was still. The researchers suggest that the current may have provided a directional cue.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "A faint air current may affect how directly beetles travel toward food.",
+      "B": "Beetles refuse to move when air is still.",
+      "C": "Food sources always create their own air currents.",
+      "D": "The researchers proved that beetles prefer windy environments."
+    },
+    "correct": "A",
+    "explanation": "The beetles moved more directly when the air current was present, suggesting it provided directional information."
+  },
+  {
+    "id": "RW7-M2-027",
+    "prompt": "An essay on indexes concludes by noting that an index does more than help readers locate pages. By deciding which concepts receive entries, which terms are grouped together, and which cross-references are supplied, an index quietly shapes how a book can be navigated and understood.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It reframes the index as a tool that influences interpretation as well as navigation.",
+      "B": "It narrows the discussion to the history of printing page numbers.",
+      "C": "It argues that indexes should be removed from most books.",
+      "D": "It repeats the earlier claim without adding any new idea."
+    },
+    "correct": "A",
+    "explanation": "The final sentence explains that an index shapes how concepts are grouped and understood, not just how pages are found."
+  }
+]

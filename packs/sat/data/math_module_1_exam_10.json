@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH10-M1-001",
+    "prompt": "The sum of 3 consecutive odd integers is 57. What is the middle integer?",
+    "choices": {
+      "A": "17",
+      "B": "19",
+      "C": "21",
+      "D": "23"
+    },
+    "correct": "B",
+    "explanation": "Let the integers be n − 2, n, and n + 2. Their sum is 3n = 57, so n = 19."
+  },
+  {
+    "id": "MATH10-M1-002",
+    "prompt": "The variable y varies inversely with x². If y = 18 when x = 2, what is the value of y when x = 3 ?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "Since y varies inversely with x², y = k/x². Using 18 = k/4 gives k = 72. Then y = 72/9 = 8."
+  },
+  {
+    "id": "MATH10-M1-003",
+    "prompt": "Which expression is equivalent to 4x(x − 3) − 7(x − 3) ?",
+    "choices": {
+      "A": "4x² − 19",
+      "B": "(x − 3)(4x − 7)",
+      "C": "(x + 3)(4x − 7)",
+      "D": "4x(x − 10)"
+    },
+    "correct": "B",
+    "explanation": "Factor out the common binomial x − 3."
+  },
+  {
+    "id": "MATH10-M1-004",
+    "prompt": "The table shows values of a linear function.\nx y\n−1 10\n1 4\n3 −2\nWhat is the value of y when x = 5 ?",
+    "choices": {
+      "A": "−8",
+      "B": "−6",
+      "C": "0",
+      "D": "2"
+    },
+    "correct": "A",
+    "explanation": "The slope is (4 − 10)/(1 − (−1)) = −6/2 = −3. Using the pattern, when x increases by 2, y decreases by 6. So at x = 5, y = −8."
+  },
+  {
+    "id": "MATH10-M1-005",
+    "prompt": "The table shows a data set.\nValue 2 5 7 9\nFrequency 2 1 4 2\nWhat is the median of the data set?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "There are 9 values total, so the median is the 5th value in order. The 5th value is 7."
+  },
+  {
+    "id": "MATH10-M1-006",
+    "prompt": "A right triangle has hypotenuse 13 and one leg 5. What is the area of the triangle?",
+    "choices": {
+      "A": "24",
+      "B": "30",
+      "C": "32.5",
+      "D": "60"
+    },
+    "correct": "B",
+    "explanation": "The missing leg is √(13² − 5²) = √144 = 12. The area is (1/2)(5)(12) = 30."
+  },
+  {
+    "id": "MATH10-M1-007",
+    "prompt": "If h(x) = ax + 2 and h(4) = 18, what is the value of a ?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Substitute x = 4 into h(x): 4a + 2 = 18. Then 4a = 16, so a = 4."
+  },
+  {
+    "id": "MATH10-M1-008",
+    "prompt": "A printer produces 144 pages in 18 minutes at a constant rate. At this rate, how many pages will it produce in 40 minutes?",
+    "choices": {
+      "A": "280",
+      "B": "300",
+      "C": "320",
+      "D": "360"
+    },
+    "correct": "C",
+    "explanation": "The rate is 144/18 = 8 pages per minute. In 40 minutes, the printer produces 8 · 40 = 320 pages."
+  },
+  {
+    "id": "MATH10-M1-009",
+    "prompt": "A circle has area 64π. What is the diameter of the circle?",
+    "choices": {
+      "A": "8",
+      "B": "12",
+      "C": "16",
+      "D": "32"
+    },
+    "correct": "C",
+    "explanation": "From πr² = 64π, r² = 64 and r = 8. The diameter is 16."
+  },
+  {
+    "id": "MATH10-M1-010",
+    "prompt": "Which equation represents the line with slope 1/2 that passes through the point (3, −2) ?",
+    "choices": {
+      "A": "y = (1/2)x − 7/2",
+      "B": "y = (1/2)x − 1/2",
+      "C": "y = 2x − 7",
+      "D": "y = 2x + 4"
+    },
+    "correct": "A",
+    "explanation": "Use point-slope form: y + 2 = (1/2)(x − 3). Simplifying gives y = (1/2)x − 7/2."
+  },
+  {
+    "id": "MATH10-M1-011",
+    "prompt": "A fair coin is flipped twice. What is the probability of getting exactly one head?",
+    "choices": {
+      "A": "1/4",
+      "B": "1/2",
+      "C": "3/4",
+      "D": "1"
+    },
+    "correct": "B",
+    "explanation": "The outcomes are HH, HT, TH, TT. Exactly one head occurs in HT and TH, so 2 out of 4 outcomes work."
+  },
+  {
+    "id": "MATH10-M1-012",
+    "prompt": "A right rectangular prism has a square base with side length 4 and height 9. What is the volume of the prism?",
+    "choices": {
+      "A": "36",
+      "B": "72",
+      "C": "144",
+      "D": "324"
+    },
+    "correct": "C",
+    "explanation": "Volume = length × width × height = 4 × 4 × 9 = 144."
+  },
+  {
+    "id": "MATH10-M1-013",
+    "prompt": "The endpoints of a diameter of a circle are (2, −5) and (8, 1). What are the coordinates of the center of the circle?",
+    "choices": {
+      "A": "(3, −2)",
+      "B": "(4, −3)",
+      "C": "(5, −2)",
+      "D": "(5, 2)"
+    },
+    "correct": "C",
+    "explanation": "The center is the midpoint of the diameter: ((2 + 8)/2, (−5 + 1)/2) = (5, −2)."
+  },
+  {
+    "id": "MATH10-M1-014",
+    "prompt": "What is the value of 125^(2/3) ?",
+    "choices": {
+      "A": "15",
+      "B": "20",
+      "C": "25",
+      "D": "125"
+    },
+    "correct": "C",
+    "explanation": "125^(2/3) = (∛125)² = 5² = 25."
+  },
+  {
+    "id": "MATH10-M1-015",
+    "prompt": "Two similar triangles have corresponding side lengths 6 and 15. If the perimeter of the smaller triangle is 24, what is the perimeter of the larger triangle?",
+    "choices": {
+      "A": "48",
+      "B": "54",
+      "C": "60",
+      "D": "72"
+    },
+    "correct": "C",
+    "explanation": "The scale factor is 15/6 = 5/2. Perimeter scales by the same factor, so 24 · (5/2) = 60."
+  },
+  {
+    "id": "MATH10-M1-016",
+    "prompt": "What is the solution to the system below?\nx + y = 12\n2x − y = 3",
+    "choices": {
+      "A": "(4, 8)",
+      "B": "(5, 7)",
+      "C": "(6, 6)",
+      "D": "(7, 5)"
+    },
+    "correct": "B",
+    "explanation": "Add the equations to eliminate y: 3x = 15, so x = 5. Then y = 12 − 5 = 7."
+  },
+  {
+    "id": "MATH10-M1-017",
+    "prompt": "If f(x) = 3x − 2 and g(x) = x² + 1, what is the value of g(f(2)) ?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "17",
+      "D": "19"
+    },
+    "correct": "C",
+    "explanation": "First find f(2) = 3(2) − 2 = 4. Then g(4) = 4² + 1 = 17."
+  },
+  {
+    "id": "MATH10-M1-018",
+    "prompt": "In a class of 30 students, 18 take the bus to school, 12 bring lunch from home, and 7 do both. If one student is selected at random, what is the probability that the student takes the bus and brings lunch from home?",
+    "choices": {
+      "A": "7/30",
+      "B": "7/18",
+      "C": "7/12",
+      "D": "11/30"
+    },
+    "correct": "A",
+    "explanation": "The probability of selecting a student who does both is 7 out of 30."
+  },
+  {
+    "id": "MATH10-M1-019",
+    "prompt": "Which equation could represent a quadratic function with zeros 2 and −5 ?",
+    "choices": {
+      "A": "y = x² + 3x − 10",
+      "B": "y = x² − 3x − 10",
+      "C": "y = x² + 7x + 10",
+      "D": "y = x² − 7x + 10"
+    },
+    "correct": "A",
+    "explanation": "A quadratic with zeros 2 and −5 can be written as y = (x − 2)(x + 5) = x² + 3x − 10."
+  },
+  {
+    "id": "MATH10-M1-020",
+    "prompt": "A square has perimeter 36. What is the length of the diagonal of the square?",
+    "choices": {
+      "A": "9",
+      "B": "9√2",
+      "C": "18",
+      "D": "18√2"
+    },
+    "correct": "B",
+    "explanation": "A perimeter of 36 means each side is 9. The diagonal of a square is side · √2, so the diagonal is 9√2."
+  },
+  {
+    "id": "MATH10-M1-021",
+    "prompt": "The sum of the interior angles of a polygon is 1,260°. How many sides does the polygon have?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "correct": "B",
+    "explanation": "The sum of the interior angles of an n-gon is 180(n − 2). So 180(n − 2) = 1,260 gives n − 2 = 7, so n = 9."
+  },
+  {
+    "id": "MATH10-M1-022",
+    "prompt": "The table shows values of a function.\nx y\n0 8\n1 12\n2 18\n3 27\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = 8(3/2)ˣ",
+      "B": "y = 8(2/3)ˣ",
+      "C": "y = 3 · 2ˣ",
+      "D": "y = 12(3/2)ˣ"
+    },
+    "correct": "A",
+    "explanation": "Each output is multiplied by 3/2 to get the next, and when x = 0 the value is 8.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

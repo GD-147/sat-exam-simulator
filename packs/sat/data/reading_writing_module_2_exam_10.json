@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW10-M2-001",
+    "prompt": "A reviewer describes the connection between the two events as “tenuous,” noting that the argument depends on a single ambiguous diary entry and two uncertain dates.\nAs used in the text, what does “tenuous” most nearly mean?",
+    "choices": {
+      "A": "complicated",
+      "B": "weak",
+      "C": "temporary",
+      "D": "surprising"
+    },
+    "correct": "B",
+    "explanation": "“Tenuous” means weak or not strongly supported."
+  },
+  {
+    "id": "RW10-M2-002",
+    "prompt": "A scholar argues that prefaces to collected speeches do more than introduce the texts that follow. By selecting an order, highlighting recurring themes, and framing earlier remarks in light of later ones, a preface can shape how readers understand a speaker’s whole public career. In that sense, the preface becomes part of the argument, not merely a threshold to it.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Prefaces to collected speeches can influence how readers interpret a speaker’s career, not just introduce the speeches.",
+      "B": "The order of speeches in a collection has no effect on readers.",
+      "C": "Later speeches are always more important than earlier ones.",
+      "D": "Prefaces should avoid discussing themes that appear in the speeches."
+    },
+    "correct": "A",
+    "explanation": "The passage says prefaces shape the order, themes, and framing of a speaker’s career."
+  },
+  {
+    "id": "RW10-M2-003",
+    "prompt": "Urban historians sometimes use school enrollment lists to estimate neighborhood growth. However, such lists may omit children in private schools, children who attend irregularly, or children not enrolled at all. As a result, enrollment records can understate the size of a community and distort its age profile.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Enrollment lists may provide an incomplete picture of neighborhood population.",
+      "B": "Private schools always keep less accurate records than public schools do.",
+      "C": "Age profiles cannot be estimated from any historical records.",
+      "D": "Children who attend irregularly were usually counted twice."
+    },
+    "correct": "A",
+    "explanation": "The records omit some children, so they can understate community size and distort age distribution."
+  },
+  {
+    "id": "RW10-M2-004",
+    "prompt": "A literary critic notes that an essay repeatedly describes borders as seams, stitches, and hems. The critic argues that this language presents borders as things people make and remake rather than as fixed natural facts.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a repeated metaphor that the second sentence interprets.",
+      "B": "It summarizes the essay’s historical examples in order.",
+      "C": "It rejects the claim made in the second sentence.",
+      "D": "It explains how clothing is manufactured."
+    },
+    "correct": "A",
+    "explanation": "The first sentence identifies the imagery of seams and stitches, and the second explains its significance."
+  },
+  {
+    "id": "RW10-M2-005",
+    "prompt": "A student is writing about sodium-ion batteries and has taken these notes:\n• Sodium-ion batteries rely on sodium, an element that is more abundant than lithium.\n• They may be less expensive to produce than some lithium-ion batteries.\n• However, many sodium-ion batteries currently have lower energy density.\n• Researchers are exploring where these batteries may be most useful.\nThe student wants to emphasize both a potential advantage of sodium-ion batteries and a current limitation. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Sodium-ion batteries may cost less to produce because they use abundant materials, but their lower energy density remains a limitation.",
+      "B": "Lithium-ion batteries are never cost-effective.",
+      "C": "Sodium-ion batteries already outperform all other battery types.",
+      "D": "Abundant materials always produce more powerful batteries."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the possible cost advantage and the stated limitation."
+  },
+  {
+    "id": "RW10-M2-006",
+    "prompt": "The archaeologist expected pollen samples from the site to confirm that the valley remained heavily forested throughout the period. ______, the upper layers showed a sharp rise in grass pollen, suggesting a major change in land use.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For instance,",
+      "B": "Instead,",
+      "C": "Likewise,",
+      "D": "Therefore,"
+    },
+    "correct": "B",
+    "explanation": "The pollen evidence did not confirm the expectation of continuous forest cover; it suggested a shift toward grass."
+  },
+  {
+    "id": "RW10-M2-007",
+    "prompt": "The ordinance<u>, revised after months of negotiation,</u> finally passed the council by one vote.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "—revised after months of negotiation—",
+      "C": "; revised after months of negotiation;",
+      "D": ": revised after months of negotiation,"
+    },
+    "correct": "A",
+    "explanation": "The phrase “revised after months of negotiation” is a nonessential interrupter correctly set off with commas."
+  },
+  {
+    "id": "RW10-M2-008",
+    "prompt": "Although often described as empty desert, the plateau also directed travel, marked jurisdiction, and limited where armies could move safely.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It contrasts a simplified view of the plateau with a broader explanation of its historical role.",
+      "B": "It identifies the first explorer to cross the plateau.",
+      "C": "It explains how desert plants survive without rain.",
+      "D": "It presents the results of a military census."
+    },
+    "correct": "A",
+    "explanation": "The introductory phrase rejects the idea of the plateau as merely empty desert and replaces it with a more complex function."
+  },
+  {
+    "id": "RW10-M2-009",
+    "prompt": "After Javier spoke with Nia about Lena’s recommendation, <u>he</u> suggested revising the final paragraph.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "he",
+      "B": "Javier",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “he” with “Javier” removes the ambiguity among the named people."
+  },
+  {
+    "id": "RW10-M2-010",
+    "prompt": "Had the budget estimate included seasonal workers, the projected payroll total <u>would be</u> much higher.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "would be",
+      "B": "would have been",
+      "C": "is",
+      "D": "was"
+    },
+    "correct": "A",
+    "explanation": "The sentence expresses an unreal past condition with a present result, so “would be” is correct."
+  },
+  {
+    "id": "RW10-M2-011",
+    "prompt": "The editor intended to say that the policy affected only warehouse rents, not office leases, but the sentence as drafted says that the policy affected warehouse rents only.\nWhich choice most effectively revises the sentence so that it conveys the intended meaning?",
+    "choices": {
+      "A": "The policy affected warehouse rents only.",
+      "B": "The policy affected only warehouse rents, not office leases.",
+      "C": "Only the policy affected warehouse rents, not office leases.",
+      "D": "The policy affected warehouse rents, not office leases only."
+    },
+    "correct": "B",
+    "explanation": "This revision makes clear that only warehouse rents, and not office leases, were affected."
+  },
+  {
+    "id": "RW10-M2-012",
+    "prompt": "[1] Mangrove roots slow water and trap sediment along tropical coasts. [2] Juvenile fish often shelter among the roots. [3] When shorelines are hardened with seawalls, that structure can disappear. [4] Some restoration projects now add root-like barriers or plant mangroves to rebuild habitat.\nWhich choice best describes the most logical placement for the following sentence?\n“Protecting the shoreline may therefore require restoring shelter as well as trees.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence follows the loss of structure described in sentence 3 and leads naturally to the restoration response in sentence 4."
+  },
+  {
+    "id": "RW10-M2-013",
+    "prompt": "A researcher tracked the average number of minutes four groups spent discussing a case study.\nGroup A: 26\nGroup B: 23\nGroup C: 19\nGroup D: 21\nA student claims that Group C spent the least time discussing the case study, on average. Which choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is supported because Group C’s average is lower than those of the other groups.",
+      "B": "The claim is unsupported because Group B’s average is also above twenty minutes.",
+      "C": "The claim is unsupported because Group D discussed the case for nearly as long as Group B.",
+      "D": "The claim is supported because Group C’s average is greater than Group D’s."
+    },
+    "correct": "A",
+    "explanation": "Group C’s 19 minutes is lower than Group A’s 26, Group B’s 23, and Group D’s 21."
+  },
+  {
+    "id": "RW10-M2-014",
+    "prompt": "In a discussion of bridge design, an engineer says that the cable system is <u>integral</u> to the structure, meaning that the bridge cannot function as intended without it.\nAs used in the text, what does “integral” most nearly mean?",
+    "choices": {
+      "A": "decorative",
+      "B": "essential",
+      "C": "flexible",
+      "D": "temporary"
+    },
+    "correct": "B",
+    "explanation": "In context, “integral” means essential to the bridge’s function."
+  },
+  {
+    "id": "RW10-M2-015",
+    "prompt": "In a novel, the narrator says, “My uncle still sharpened the skates each November, though the river had not frozen solid in years. He set them by the door as if weather might yet remember its part.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The uncle continues an old ritual that preserves hope despite changed conditions.",
+      "B": "The narrator plans to sell the skates before winter.",
+      "C": "The river usually freezes earlier than expected.",
+      "D": "The uncle sharpens skates mainly because he enjoys tools."
+    },
+    "correct": "A",
+    "explanation": "Sharpening the skates each year suggests a hopeful attachment to past winters despite the river no longer freezing reliably."
+  },
+  {
+    "id": "RW10-M2-016",
+    "prompt": "A study found that students who wrote two questions before reading a history chapter later recalled the chapter’s main argument more accurately than students who began reading immediately. The researchers note, however, that the study did not test whether writing questions improved memory for small factual details.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Writing preliminary questions may improve memory for a chapter’s main argument even if its effect on small details is uncertain.",
+      "B": "Students should never begin reading without first writing questions.",
+      "C": "Factual detail is always less important than main argument.",
+      "D": "The study proved that question writing is the best strategy for every history text."
+    },
+    "correct": "A",
+    "explanation": "The study found better recall of the main argument but did not test small factual details."
+  },
+  {
+    "id": "RW10-M2-017",
+    "prompt": "A design historian argues that architectural pattern books shaped storefront construction because builders treated them as practical guides rather than mere inspiration. To support this claim, the historian notes that builders’ notebooks often repeat exact measurements copied from the books.\nWhy does the author most likely include the example of builders’ notebooks repeating measurements?",
+    "choices": {
+      "A": "To show that the pattern books were used directly in building practice",
+      "B": "To prove that the builders wrote the pattern books themselves",
+      "C": "To argue that storefronts were identical in every town",
+      "D": "To suggest that notebooks were more influential than buildings"
+    },
+    "correct": "A",
+    "explanation": "Builders’ notebooks copying exact measurements indicates the books were practical construction tools."
+  },
+  {
+    "id": "RW10-M2-018",
+    "prompt": "A student is writing about geothermal greenhouse heating and has taken these notes:\n• Some greenhouses circulate warm water from shallow geothermal sources.\n• This can reduce fuel use for heating in cool climates.\n• The systems can support year-round growing in some regions.\n• They require suitable local geology and can involve substantial drilling costs.\nThe student wants to explain a potential benefit of geothermal greenhouse heating while acknowledging a practical limitation. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Geothermal greenhouse heating can reduce fuel use and support year-round growing, but it depends on suitable geology and can require costly drilling.",
+      "B": "Cool climates are always best for greenhouse production.",
+      "C": "Warm water makes drilling unnecessary in most places.",
+      "D": "Greenhouses no longer need any other infrastructure once geothermal heating is installed."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the benefit and the practical limitation described in the notes."
+  },
+  {
+    "id": "RW10-M2-019",
+    "prompt": "The panel agreed that the translation needed revision. ______, members disagreed about whether the new version should preserve the original syntax closely or prioritize idiomatic English.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Nevertheless,",
+      "C": "Similarly,",
+      "D": "For example,"
+    },
+    "correct": "B",
+    "explanation": "The second sentence contrasts agreement about the need for revision with disagreement about how to translate."
+  },
+  {
+    "id": "RW10-M2-020",
+    "prompt": "The course requires students to compare versions, annotate evidence, and <u>the revision of weak claims.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the revision of weak claims.",
+      "B": "revising weak claims.",
+      "C": "revise weak claims.",
+      "D": "to revising weak claims."
+    },
+    "correct": "C",
+    "explanation": "“Revise” matches the parallel verbs “compare” and “annotate.”"
+  },
+  {
+    "id": "RW10-M2-021",
+    "prompt": "The essay “Stone Weather” by <u>novelist Carla Mendes</u> opens the volume.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "novelist, Carla Mendes,",
+      "C": "novelist Carla, Mendes",
+      "D": "novelist, Carla Mendes"
+    },
+    "correct": "A",
+    "explanation": "No commas are needed because “novelist Carla Mendes” is an essential identifying phrase."
+  },
+  {
+    "id": "RW10-M2-022",
+    "prompt": "The number of apprentices in the program <u>have</u> doubled since 2020.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "are"
+    },
+    "correct": "B",
+    "explanation": "The subject “number” is singular, so the singular verb “has” is correct."
+  },
+  {
+    "id": "RW10-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The redesign improved the archive’s website.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The redesign improved the archive’s website.",
+      "B": "The redesign changed the archive’s website in several ways.",
+      "C": "The redesign added a searchable catalog, reduced image-loading time, and made it easier for users to request materials online.",
+      "D": "The redesign had many useful effects."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces a vague statement with specific improvements."
+  },
+  {
+    "id": "RW10-M2-024",
+    "prompt": "[1] Seagrass meadows slow water and trap sediment in shallow coastal areas. [2] Different meadows respond differently to boating scars, storms, and murky water. [3] Some recover quickly when conditions improve, while others continue shrinking for years. [4] For that reason, restoration plans often vary among coastlines.\nWhich choice best describes the most logical placement for the following sentence?\n“Managers cannot assume that one recovery timeline fits every meadow.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence follows the description of uneven recovery and leads into the conclusion about varied restoration plans."
+  },
+  {
+    "id": "RW10-M2-025",
+    "prompt": "The report originally described the library shuttle as “popular,” but that wording failed to show that ridership rose most sharply among students commuting from outer neighborhoods, while use by students living on campus changed very little. The editor suggests replacing “popular” with <u>most popular with commuters from outer neighborhoods</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the statement more precise by specifying who used the shuttle most.",
+      "B": "It makes the statement less formal by using slang.",
+      "C": "It changes the meaning by suggesting that on-campus students stopped riding the shuttle entirely.",
+      "D": "It introduces an emotional judgment that the original did not contain."
+    },
+    "correct": "A",
+    "explanation": "The revision identifies commuters from outer neighborhoods as the primary users."
+  },
+  {
+    "id": "RW10-M2-026",
+    "prompt": "In an experiment, shore crabs found a shallow pool more quickly when the arena floor contained a narrow damp strip leading toward it than when the floor dried evenly across the surface. The researchers suggest that the moisture gradient acted as a cue.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Moisture differences may help shore crabs orient themselves toward water.",
+      "B": "Shore crabs can detect only dry surfaces, not wet ones.",
+      "C": "The damp strip made the pool unnecessary for the crabs.",
+      "D": "The researchers proved that all crabs prefer straight paths."
+    },
+    "correct": "A",
+    "explanation": "The crabs found the pool more quickly when a damp strip led toward it, suggesting the gradient served as a cue."
+  },
+  {
+    "id": "RW10-M2-027",
+    "prompt": "An essay on marginal notes ends by observing that heavily annotated books reveal where readers paused, questioned, or argued with a text. For that reason, some instructors keep annotated teaching copies from different years to compare how students’ responses change over time.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It applies the earlier idea to explain a specific teaching practice.",
+      "B": "It narrows the discussion to the history of textbook printing.",
+      "C": "It argues that clean copies of books are never useful in classrooms.",
+      "D": "It repeats the earlier claim without extending it."
+    },
+    "correct": "A",
+    "explanation": "The final sentence uses the point about annotations to explain why some instructors keep marked copies from different years."
+  }
+]

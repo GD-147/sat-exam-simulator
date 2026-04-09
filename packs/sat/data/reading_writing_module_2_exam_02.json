@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW2-M2-001",
+    "prompt": "In a discussion of architecture, a critic remarks that the new library’s design is “restrained rather than timid,” suggesting that its simplicity reflects confidence rather than caution.\nAs used in the text, what does “restrained” most nearly mean?",
+    "choices": {
+      "A": "delayed",
+      "B": "controlled",
+      "C": "hidden",
+      "D": "unfinished"
+    },
+    "correct": "B",
+    "explanation": "In context, “restrained” means controlled and deliberate, not hesitant."
+  },
+  {
+    "id": "RW2-M2-002",
+    "prompt": "A scholar argues that scientific illustrations from the eighteenth century were often valued not only for their accuracy but also for their persuasive power. By arranging specimens neatly, isolating them from distracting backgrounds, and emphasizing certain features, illustrators could guide viewers toward particular interpretations of the natural world.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Eighteenth-century scientific illustrations were designed solely to entertain viewers.",
+      "B": "Scientific illustrations could shape interpretation as well as record observation.",
+      "C": "Illustrators usually avoided emphasizing any feature of a specimen.",
+      "D": "Accuracy and persuasion are never compatible in scientific work."
+    },
+    "correct": "B",
+    "explanation": "The text says illustrators guided viewers toward particular interpretations while also aiming for accuracy."
+  },
+  {
+    "id": "RW2-M2-003",
+    "prompt": "An economist studying informal markets notes that street vendors often adjust prices throughout the day in response to weather, foot traffic, and the perishability of their goods. Because these decisions are made quickly and rarely recorded in detail, they can be difficult for researchers to model precisely.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Street vendors never use consistent pricing strategies.",
+      "B": "Researchers may struggle to model informal markets because key decisions are rapid and not well documented.",
+      "C": "Weather affects only formal markets, not informal ones.",
+      "D": "Perishable goods are easier to model than durable goods."
+    },
+    "correct": "B",
+    "explanation": "The text explains that pricing decisions change quickly and are rarely recorded in detail."
+  },
+  {
+    "id": "RW2-M2-004",
+    "prompt": "Poet and critic Amara Cole writes that the speaker in the poem “keeps returning to images of doors and thresholds.” Cole then suggests that these images matter because they frame the poem’s central tension between departure and attachment.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It provides an example that the second sentence interprets.",
+      "B": "It contradicts the claim made in the second sentence.",
+      "C": "It explains when the poem was first published.",
+      "D": "It describes the poet’s use of rhyme and meter."
+    },
+    "correct": "A",
+    "explanation": "The first sentence identifies recurring images, and the second explains why those images matter."
+  },
+  {
+    "id": "RW2-M2-005",
+    "prompt": "A student is writing about algae-based fuels and has taken these notes:\n• Some algae grow quickly and can produce oils that are converted into fuel.\n• Algae can be cultivated in tanks or ponds rather than on cropland used for food.\n• Producing algae-based fuels at large scale remains expensive.\n• Researchers are exploring methods to lower costs and increase output.\nThe student wants to emphasize both the promise and the challenge of algae-based fuels. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Algae-based fuels are impossible to produce on a large scale.",
+      "B": "Algae can grow in tanks or ponds and produce oils for fuel, but large-scale production remains costly, so researchers are working to improve it.",
+      "C": "Fuel can be made from many sources, including algae.",
+      "D": "Researchers have already solved all cost problems associated with algae-based fuels."
+    },
+    "correct": "B",
+    "explanation": "This choice includes both the potential benefit and the continuing challenge from the notes."
+  },
+  {
+    "id": "RW2-M2-006",
+    "prompt": "The historian expected the letters to clarify the mayor’s position. ______, the documents revealed how uncertain the mayor remained even late in the negotiations.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In addition,",
+      "B": "Instead,",
+      "C": "For instance,",
+      "D": "Likewise,"
+    },
+    "correct": "B",
+    "explanation": "The documents did not provide the expected clarity; they revealed uncertainty instead."
+  },
+  {
+    "id": "RW2-M2-007",
+    "prompt": "The proposal seemed practical at first glance: <u>its long-term costs, however, were far greater than the committee had anticipated.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "its long-term costs however were far greater than the committee had anticipated.",
+      "C": "its long-term costs however, were far greater than the committee had anticipated.",
+      "D": "its long-term costs; however were far greater than the committee had anticipated."
+    },
+    "correct": "A",
+    "explanation": "The colon correctly introduces the explanation, and “however” is properly set off with commas."
+  },
+  {
+    "id": "RW2-M2-008",
+    "prompt": "To account for differences among the samples, the chemist compared each result with a standard reference value.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It explains why the chemist took the action described in the main clause.",
+      "B": "It identifies the location where the comparison occurred.",
+      "C": "It introduces a competing interpretation of the results.",
+      "D": "It states a consequence of using a standard reference value."
+    },
+    "correct": "A",
+    "explanation": "The introductory phrase gives the purpose for comparing each result with a reference value."
+  },
+  {
+    "id": "RW2-M2-009",
+    "prompt": "After Mia spoke with Jordan about the article draft, <u>she</u> suggested removing the final paragraph.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "she",
+      "B": "Mia",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “she” with “Mia” removes the ambiguity about who made the suggestion."
+  },
+  {
+    "id": "RW2-M2-010",
+    "prompt": "If the survey data <u>were</u> collected more carefully, the researchers might have reached a firmer conclusion.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "were",
+      "B": "was",
+      "C": "are",
+      "D": "have been"
+    },
+    "correct": "A",
+    "explanation": "The sentence states a hypothetical condition contrary to fact, so the subjunctive “were” is correct."
+  },
+  {
+    "id": "RW2-M2-011",
+    "prompt": "The reviewer intended to praise the essay for its clarity, but the draft <u>almost recommends every paragraph equally strongly.</u>\nWhich choice best revises the text so that “almost” is placed as precisely as possible?",
+    "choices": {
+      "A": "almost recommends every paragraph equally strongly.",
+      "B": "recommends almost every paragraph equally strongly.",
+      "C": "recommends every paragraph almost equally strongly.",
+      "D": "recommends every paragraph equally almost strongly."
+    },
+    "correct": "B",
+    "explanation": "Placing “almost” before “every paragraph” makes clear that the draft praises nearly all paragraphs."
+  },
+  {
+    "id": "RW2-M2-012",
+    "prompt": "[1] In many forests, fallen logs slowly decompose and return nutrients to the soil. [2] These logs also retain moisture and provide shelter for insects, fungi, and small animals. [3] Because they can support such a wide range of organisms, ecologists sometimes describe them as “nurse logs.” [4] Their ecological value, then, extends beyond the wood itself.\nWhich choice best describes the most logical placement for the following sentence?\n“They can even serve as sites where new seedlings take root.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 1",
+      "C": "After sentence 2",
+      "D": "After sentence 3"
+    },
+    "correct": "C",
+    "explanation": "The sentence adds another ecological function of fallen logs before the term “nurse logs” is introduced."
+  },
+  {
+    "id": "RW2-M2-013",
+    "prompt": "A museum tracked attendance at a weekend exhibit.\nSaturday morning: 145 visitors\nSaturday afternoon: 212 visitors\nSunday morning: 168 visitors\nSunday afternoon: 196 visitors\nA curator claims that attendance was always higher in the afternoon than in the morning.\nWhich choice best evaluates the curator’s claim?",
+    "choices": {
+      "A": "The claim is supported because both afternoon counts are higher than the morning counts on the same days.",
+      "B": "The claim is unsupported because Sunday morning attendance exceeded Saturday afternoon attendance.",
+      "C": "The claim is unsupported because Saturday morning attendance was lower than Sunday morning attendance.",
+      "D": "The claim is supported because the highest attendance occurred on Saturday afternoon."
+    },
+    "correct": "A",
+    "explanation": "On both Saturday and Sunday, afternoon attendance exceeds morning attendance."
+  },
+  {
+    "id": "RW2-M2-014",
+    "prompt": "In a discussion of legal writing, a professor notes that a concise brief can still be <u>substantial</u>, containing careful reasoning even when it omits unnecessary detail.\nAs used in the text, what does “substantial” most nearly mean?",
+    "choices": {
+      "A": "lengthy",
+      "B": "expensive",
+      "C": "meaningful",
+      "D": "temporary"
+    },
+    "correct": "C",
+    "explanation": "In context, “substantial” means significant or meaningful in content, not merely long."
+  },
+  {
+    "id": "RW2-M2-015",
+    "prompt": "In a novel, the narrator says, “My brother claimed he hated the town’s yearly parade, yet he never missed it. He stood on the curb each summer with his arms crossed, arriving earlier than anyone else.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The brother genuinely ignores the parade each year.",
+      "B": "The narrator suggests that the brother’s behavior contradicts his stated dislike of the parade.",
+      "C": "The narrator envies the people marching in the parade.",
+      "D": "The brother attends the parade only because he is required to."
+    },
+    "correct": "B",
+    "explanation": "Although he claims to hate the parade, he arrives early every year."
+  },
+  {
+    "id": "RW2-M2-016",
+    "prompt": "A study found that readers were more likely to remember a passage’s overall argument when they paused briefly after each section to summarize it. The researchers caution, however, that the study did not determine whether summarizing improved memory for small details within each section.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Summarizing may help readers retain a text’s main argument even if its effect on memory for details is uncertain.",
+      "B": "Readers remember details better than main arguments when they summarize.",
+      "C": "Pausing to summarize always improves every kind of reading comprehension.",
+      "D": "The study showed that summarizing has no measurable benefit."
+    },
+    "correct": "A",
+    "explanation": "The study found a benefit for remembering the overall argument but did not assess detail memory."
+  },
+  {
+    "id": "RW2-M2-017",
+    "prompt": "A historian argues that a series of workers’ petitions changed public debate not because officials immediately granted the workers’ demands but because the petitions made poor labor conditions harder to ignore. To illustrate this point, the historian notes that newspapers began quoting passages from the petitions in editorials about factory reform.\nWhy does the author most likely include the example of newspapers quoting the petitions?",
+    "choices": {
+      "A": "To show that the petitions influenced public discussion even before policy changed",
+      "B": "To prove that newspapers wrote the petitions themselves",
+      "C": "To argue that factory reform was completed quickly",
+      "D": "To suggest that officials never read the petitions"
+    },
+    "correct": "A",
+    "explanation": "The newspaper quotations demonstrate broader public attention to the workers’ concerns."
+  },
+  {
+    "id": "RW2-M2-018",
+    "prompt": "A student is writing about a method for storing excess renewable energy and has taken these notes:\n• Pumped-storage hydropower moves water to a higher reservoir when surplus electricity is available.\n• Later, the water is released downhill through turbines to generate electricity.\n• The method can help balance supply and demand on electrical grids.\n• Suitable geography is required for such systems.\nThe student wants to explain how the method works while acknowledging one limitation. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Pumped-storage hydropower uses moving water to store energy by lifting it to a higher reservoir and later releasing it through turbines, though the method depends on having suitable geography.",
+      "B": "Renewable energy can be stored in many ways, and some involve water.",
+      "C": "Pumped-storage hydropower is used only in places with flat terrain.",
+      "D": "Electrical grids no longer need balancing where pumped-storage hydropower exists."
+    },
+    "correct": "A",
+    "explanation": "This choice explains the method and includes the key limitation from the notes."
+  },
+  {
+    "id": "RW2-M2-019",
+    "prompt": "The novelist accepted that the manuscript still needed revision. ______, she disagreed with her editor about whether the ending should be shortened or expanded.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Nevertheless,",
+      "C": "For example,",
+      "D": "Similarly,"
+    },
+    "correct": "B",
+    "explanation": "The sentence shows contrast: the novelist agreed on the need for revision but still disagreed about the ending."
+  },
+  {
+    "id": "RW2-M2-020",
+    "prompt": "The program is designed not only to expand access to archival materials but also <u>to train students to analyze them critically and responsible.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "to train students to analyze them critically and responsible.",
+      "B": "to train students to analyze them critically and responsibly.",
+      "C": "training students to analyze them critically and responsibly.",
+      "D": "train students to analyze them critically and responsibly."
+    },
+    "correct": "B",
+    "explanation": "This choice preserves parallel structure after “not only” and uses the correct adverb “responsibly.”"
+  },
+  {
+    "id": "RW2-M2-021",
+    "prompt": "The city’s revised zoning policy will, <u>according to several planners,</u> encourage more mixed-use development near transit stations.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a nonessential interrupter that is correctly set off with commas.",
+      "B": "It is a restrictive phrase that should not be set off with commas.",
+      "C": "It creates a comma splice.",
+      "D": "It should be changed to a complete clause."
+    },
+    "correct": "A",
+    "explanation": "The phrase adds extra information about the source of the claim and is properly punctuated."
+  },
+  {
+    "id": "RW2-M2-022",
+    "prompt": "A sequence of lectures on sound, perception, and design <u>examines</u> how people interpret the acoustics of public spaces.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "examines",
+      "B": "examine",
+      "C": "have examined",
+      "D": "examining"
+    },
+    "correct": "A",
+    "explanation": "The singular subject “A sequence” takes the singular verb “examines.”"
+  },
+  {
+    "id": "RW2-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The policy had a big effect on transportation.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The policy had a big effect on transportation.",
+      "B": "The policy had an effect on many things.",
+      "C": "Within three years, the policy increased bus ridership, reduced downtown traffic, and expanded the city’s network of protected bike lanes.",
+      "D": "The policy was large and important."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces vague wording with specific, measurable effects."
+  },
+  {
+    "id": "RW2-M2-024",
+    "prompt": "[1] Bioluminescence appears in a wide range of marine organisms, from plankton to deep-sea fish. [2] In some species, light may help attract mates or prey. [3] In others, it may confuse predators or allow individuals to communicate. [4] Because the trait serves several functions, researchers study it from many different angles.\nWhich choice best describes the most logical placement for the following sentence?\n“Any single explanation for its evolution is therefore unlikely to apply in every case.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence logically follows the list of different functions and leads into the broader conclusion in sentence 4."
+  },
+  {
+    "id": "RW2-M2-025",
+    "prompt": "The report originally described the archive as “accessible,” but that wording obscured the fact that many of its materials were available only by appointment and only to trained researchers. The editor suggests replacing “accessible” with <u>available under limited conditions</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the description more precise by clarifying the limits of access.",
+      "B": "It makes the description less formal and less accurate.",
+      "C": "It changes the meaning by suggesting that the archive is permanently closed.",
+      "D": "It introduces a personal opinion that the original did not contain."
+    },
+    "correct": "A",
+    "explanation": "The revision replaces vague praise with a specific description of restricted availability."
+  },
+  {
+    "id": "RW2-M2-026",
+    "prompt": "In an experiment, engineers found that a thin coating reduced friction even when applied unevenly across a metal surface. The engineers suggest that the coating may spread or interact with the surface during motion in ways that are not obvious before testing begins.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "The coating may still function effectively even when its initial application is irregular.",
+      "B": "Uneven coatings always perform better than even coatings.",
+      "C": "The engineers proved that friction can be eliminated entirely.",
+      "D": "The coating changes color during motion."
+    },
+    "correct": "A",
+    "explanation": "The text says the coating reduced friction even when applied unevenly."
+  },
+  {
+    "id": "RW2-M2-027",
+    "prompt": "An essay on oral history ends by observing that recorded interviews do more than preserve information about the past. They also capture pauses, emphases, and turns of phrase that reveal how people understood their own experiences.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It narrows the discussion to technical problems in recording equipment.",
+      "B": "It explains why oral histories can preserve dimensions of experience that written summaries may miss.",
+      "C": "It argues that written records are never useful to historians.",
+      "D": "It repeats the earlier claim without adding new meaning."
+    },
+    "correct": "B",
+    "explanation": "The final sentence identifies spoken qualities such as pauses and emphasis that recordings preserve."
+  }
+]

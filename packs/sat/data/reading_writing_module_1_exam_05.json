@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW5-M1-001",
+    "prompt": "Reviewing the architect’s proposal, a columnist writes that the entrance is “modest but welcoming,” relying on natural light and simple materials rather than dramatic decoration.\nAs used in the text, what does “modest” most nearly mean?",
+    "choices": {
+      "A": "temporary",
+      "B": "unassuming",
+      "C": "expensive",
+      "D": "narrow"
+    },
+    "correct": "B",
+    "explanation": "In context, “modest” means simple and not showy."
+  },
+  {
+    "id": "RW5-M1-002",
+    "prompt": "Some cities have replaced sections of ordinary pavement with permeable materials that allow water to pass through small openings. During storms, these surfaces can reduce runoff by letting water soak into the ground instead of flowing quickly into drains. For that reason, planners sometimes use permeable pavement to help manage heavy rainfall in dense urban areas.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Permeable pavement can help cities manage stormwater by allowing water to soak into the ground.",
+      "B": "Ordinary pavement is more durable than permeable pavement in every environment.",
+      "C": "Urban drains are designed mainly to supply water to buildings.",
+      "D": "Heavy rainfall is the only problem faced by dense urban areas."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that permeable surfaces reduce runoff during storms."
+  },
+  {
+    "id": "RW5-M1-003",
+    "prompt": "Before weather satellites existed, forecasters in many regions depended on observers who sent temperature, wind, and pressure readings by telegraph. As telegraph networks expanded, forecasters could compare conditions across wider areas and track storms more effectively.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Weather forecasting became less important after telegraph networks expanded.",
+      "B": "The growth of telegraph networks helped forecasters gather information over greater distances.",
+      "C": "Early weather observers usually worked without recording wind or pressure.",
+      "D": "Satellites replaced telegraphs before most storms could be tracked."
+    },
+    "correct": "B",
+    "explanation": "The text links broader telegraph networks to comparing conditions across wider areas."
+  },
+  {
+    "id": "RW5-M1-004",
+    "prompt": "An archaeologist notes that the painted chamber lies deep inside a cave and can be reached only by passing through a narrow tunnel. She then suggests that the effort required to enter the chamber may have made it a special site for ritual activity.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It provides a detail that supports the interpretation offered in the second sentence.",
+      "B": "It introduces a disagreement that the second sentence resolves.",
+      "C": "It explains why the cave paintings were easy for visitors to find.",
+      "D": "It argues that the chamber was used for storage rather than ritual."
+    },
+    "correct": "A",
+    "explanation": "The chamber’s difficult access supports the idea that it was a special ritual site."
+  },
+  {
+    "id": "RW5-M1-005",
+    "prompt": "A student is writing about seed libraries and has taken these notes:\n• Some communities operate seed libraries.\n• Gardeners can borrow seeds, grow plants, and later return seeds collected from those plants.\n• Seed libraries may help people try new varieties of vegetables and flowers.\n• They can also encourage local sharing of gardening knowledge.\nThe student wants to emphasize how seed libraries support both gardening and community exchange. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Some communities operate seed libraries for local gardeners.",
+      "B": "Seed libraries allow gardeners to borrow and later return seeds, helping people try new plant varieties while also encouraging the sharing of gardening knowledge.",
+      "C": "Vegetable and flower seeds can be stored in many ways.",
+      "D": "Gardeners often prefer growing familiar plant varieties."
+    },
+    "correct": "B",
+    "explanation": "This choice includes both the gardening benefit and the community-sharing aspect from the notes."
+  },
+  {
+    "id": "RW5-M1-006",
+    "prompt": "The museum installed new humidity controls in the manuscript room. ______, several fragile documents that had once been displayed only rarely can now be shown more often.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "As a result,",
+      "C": "Meanwhile,",
+      "D": "Nevertheless,"
+    },
+    "correct": "B",
+    "explanation": "The second sentence describes a consequence of installing the humidity controls."
+  },
+  {
+    "id": "RW5-M1-007",
+    "prompt": "The lecture covered three subjects<u>—early trade routes, the growth of port cities, and the spread of nautical technology.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ": early trade routes, the growth of port cities, and the spread of nautical technology.",
+      "C": "; early trade routes, the growth of port cities, and the spread of nautical technology.",
+      "D": ", early trade routes, the growth of port cities, and the spread of nautical technology."
+    },
+    "correct": "A",
+    "explanation": "The dash correctly introduces a list that explains the three subjects."
+  },
+  {
+    "id": "RW5-M1-008",
+    "prompt": "The article was informative, <u>it failed to explain how the survey participants had been selected.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "it failed to explain how the survey participants had been selected.",
+      "B": "but it failed to explain how the survey participants had been selected.",
+      "C": "failing to explain how the survey participants had been selected.",
+      "D": "and it failed to explain how the survey participants had been selected."
+    },
+    "correct": "B",
+    "explanation": "“But” correctly joins the clauses and shows contrast."
+  },
+  {
+    "id": "RW5-M1-009",
+    "prompt": "The agreement between Priya and <u>I</u> was reached only after several long meetings.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "I",
+      "B": "me",
+      "C": "mine",
+      "D": "myself"
+    },
+    "correct": "B",
+    "explanation": "The pronoun is the object of the preposition “between,” so “me” is correct."
+  },
+  {
+    "id": "RW5-M1-010",
+    "prompt": "Since the conservation program began in 2021, volunteers <u>remove</u> invasive plants from more than twenty miles of riverbank.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "remove",
+      "B": "removed",
+      "C": "have removed",
+      "D": "will remove"
+    },
+    "correct": "C",
+    "explanation": "“Since 2021” calls for the present perfect to describe an action continuing from the past to the present."
+  },
+  {
+    "id": "RW5-M1-011",
+    "prompt": "To prepare for the storm, <u>the boats were tied more securely by the marina staff.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the boats were tied more securely by the marina staff.",
+      "B": "the marina staff tied the boats more securely.",
+      "C": "the storm caused the boats to be tied more securely.",
+      "D": "the marina staff’s boats were tied more securely."
+    },
+    "correct": "B",
+    "explanation": "The revision correctly places the doer of the action after the introductory phrase."
+  },
+  {
+    "id": "RW5-M1-012",
+    "prompt": "[1] Some universities maintain campus gardens where students can grow vegetables and herbs. [2] These gardens may be used in biology and environmental-science courses. [3] They can also provide produce for campus kitchens or local food banks. [4] As a result, campus gardens often serve both educational and practical purposes.\nWhich choice best describes the most logical placement for the following sentence?\n“They can therefore connect classroom learning with everyday community needs.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The new sentence refers to both classroom use and community benefits before the summary in sentence 4."
+  },
+  {
+    "id": "RW5-M1-013",
+    "prompt": "A student tracked the average number of books checked out per visitor on four days.\nMonday: 1.8\nTuesday: 2.1\nWednesday: 1.6\nThursday: 2.4\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Wednesday had a higher average than Tuesday.",
+      "B": "Thursday had the highest average number of books checked out per visitor.",
+      "C": "Monday and Thursday had the same average.",
+      "D": "The average number of books checked out increased every day."
+    },
+    "correct": "B",
+    "explanation": "Thursday’s average, 2.4, is higher than the averages on the other days."
+  },
+  {
+    "id": "RW5-M1-014",
+    "prompt": "The reviewer praised the scientist’s writing for being especially <u>clear</u>, noting that even difficult concepts were explained in direct, accessible language.\nAs used in the text, what does “clear” most nearly mean?",
+    "choices": {
+      "A": "transparent",
+      "B": "understandable",
+      "C": "colorless",
+      "D": "empty"
+    },
+    "correct": "B",
+    "explanation": "In context, “clear” means easy to understand."
+  },
+  {
+    "id": "RW5-M1-015",
+    "prompt": "In a novel, the narrator describes an old bakery at the corner of the street: “Its windows were cloudy with flour, and its sign leaned slightly to one side, but every morning the smell of warm bread reached the block before the sunrise did.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The narrator finds the bakery unpleasant because it looks worn.",
+      "B": "The bakery is presented as weathered but deeply cherished.",
+      "C": "The bakery opens too early for most customers.",
+      "D": "The narrator wants the bakery to change its appearance."
+    },
+    "correct": "B",
+    "explanation": "Although the bakery looks worn, the warm bread and affectionate description suggest strong fondness."
+  },
+  {
+    "id": "RW5-M1-016",
+    "prompt": "In a study, researchers found that houseplants rotated a small amount each day bent more evenly toward overhead light than houseplants left in one fixed position. The researchers suggest that gradual rotation may expose more of each plant to the available light.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Daily rotation may affect how evenly houseplants grow toward light.",
+      "B": "Houseplants grow only when they are rotated by hand.",
+      "C": "Overhead light prevents plants from bending toward it.",
+      "D": "Fixed-position plants always receive more light than rotated plants."
+    },
+    "correct": "A",
+    "explanation": "The study found that rotated plants bent more evenly toward overhead light."
+  },
+  {
+    "id": "RW5-M1-017",
+    "prompt": "A historian writes, “By printing prices alongside descriptions of goods, the catalog invited readers not just to admire the products but to imagine purchasing them.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To provide one historian’s explanation of how the catalog influenced readers",
+      "B": "To prove that all readers bought the goods in the catalog",
+      "C": "To show that catalogs were written only for wealthy shoppers",
+      "D": "To describe how the goods were manufactured"
+    },
+    "correct": "A",
+    "explanation": "The quotation explains how prices encouraged readers to imagine buying the goods."
+  },
+  {
+    "id": "RW5-M1-018",
+    "prompt": "A student is writing about river cleanup efforts and has taken these notes:\n• Volunteers in some cities remove trash from riverbanks.\n• Cleanup events can improve public spaces along the water.\n• Organizers may also collect data on the kinds of trash found.\n• That information can help communities identify recurring pollution problems.\nWhich choice most effectively uses relevant information from the notes to make a general claim about river cleanup efforts?",
+    "choices": {
+      "A": "River cleanup efforts can improve waterfront areas while also providing information that helps communities understand ongoing pollution problems.",
+      "B": "Most riverbanks contain the same kinds of trash.",
+      "C": "Cleanup events should focus only on collecting data.",
+      "D": "Public spaces along rivers rarely need maintenance."
+    },
+    "correct": "A",
+    "explanation": "This choice accurately combines both cleanup and data collection into a general claim."
+  },
+  {
+    "id": "RW5-M1-019",
+    "prompt": "The first paragraph of the article introduces the inventor’s early experiments. ______, the second paragraph explains how those experiments led to a patent application.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Similarly,",
+      "B": "Next,",
+      "C": "Instead,",
+      "D": "Nevertheless,"
+    },
+    "correct": "B",
+    "explanation": "The passage moves in sequence from the first paragraph to the second."
+  },
+  {
+    "id": "RW5-M1-020",
+    "prompt": "The position required Ana to schedule interviews, update records, and <u>preparing weekly reports.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "preparing weekly reports.",
+      "B": "prepared weekly reports.",
+      "C": "prepare weekly reports.",
+      "D": "to preparing weekly reports."
+    },
+    "correct": "C",
+    "explanation": "“Prepare” matches the parallel verbs “schedule” and “update.”"
+  },
+  {
+    "id": "RW5-M1-021",
+    "prompt": "The article by <u>journalist Omar Reyes</u> examines how local newspapers adapted to digital publishing.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "journalist, Omar Reyes,",
+      "C": "journalist Omar, Reyes",
+      "D": "journalist, Omar Reyes"
+    },
+    "correct": "A",
+    "explanation": "No commas are needed because “journalist Omar Reyes” is an essential identifying phrase."
+  },
+  {
+    "id": "RW5-M1-022",
+    "prompt": "Every one of the maps in the exhibit <u>show</u> a different version of the coastline.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "show",
+      "B": "shows",
+      "C": "have shown",
+      "D": "showing"
+    },
+    "correct": "B",
+    "explanation": "The subject “Every one” is singular, so the singular verb “shows” is correct."
+  },
+  {
+    "id": "RW5-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“Unlike the revised proposal, voters thought the original plan was easier to understand.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because it illogically compares the revised proposal with voters.",
+      "B": "The sentence should be revised because it repeats the same idea twice.",
+      "C": "The sentence should be revised because it uses too many commas.",
+      "D": "The sentence should be revised because it should be written in the future tense."
+    },
+    "correct": "A",
+    "explanation": "The phrase after “Unlike” should be parallel to “the original plan,” not to “voters.”"
+  },
+  {
+    "id": "RW5-M1-024",
+    "prompt": "[1] Some neighborhoods have added small shaded seating areas near bus stops. [2] These shelters can make waiting more comfortable in sun or light rain. [3] In some cases, the areas also include route information and lighting. [4] Residents have responded positively to such improvements in public transit spaces.\nWhich choice best describes the most logical placement for the following sentence?\n“Together, these features can make public transportation feel more convenient and welcoming.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The new sentence sums up the comfort, information, and lighting features before the concluding response in sentence 4."
+  },
+  {
+    "id": "RW5-M1-025",
+    "prompt": "To make the instructions more concise, the editor replaced “in order to” with <u>to</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It changes the meaning by making the action seem optional.",
+      "B": "It makes the sentence shorter without changing its meaning.",
+      "C": "It makes the sentence less formal and less grammatical.",
+      "D": "It introduces a shift in verb tense."
+    },
+    "correct": "B",
+    "explanation": "“To” is a shorter equivalent of “in order to.”"
+  },
+  {
+    "id": "RW5-M1-026",
+    "prompt": "In an experiment, students who studied vocabulary words by grouping them into related categories remembered more of the words a week later than students who reviewed the words in random order.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Random review is always ineffective for vocabulary study.",
+      "B": "Grouping vocabulary words by category may help students remember them later.",
+      "C": "The students in the experiment studied for exactly the same amount of time.",
+      "D": "Vocabulary study is useful only when done in groups."
+    },
+    "correct": "B",
+    "explanation": "Students who grouped the words remembered more of them a week later."
+  },
+  {
+    "id": "RW5-M1-027",
+    "prompt": "An article on electric buses explains that they are often quieter than diesel buses and can reduce emissions where they operate. The article then notes that many transit agencies are now testing them on city routes with frequent stops.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It provides an example of how the earlier advantages are affecting current decisions.",
+      "B": "It argues that diesel buses should be banned immediately.",
+      "C": "It shifts the discussion away from transportation to energy production.",
+      "D": "It denies that electric buses are quieter than diesel buses."
+    },
+    "correct": "A",
+    "explanation": "The final sentence shows transit agencies responding to the buses’ quieter operation and lower emissions.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]
