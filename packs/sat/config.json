@@ -24,7 +24,7 @@
     },
     {
       "id": "reading-writing-module-2",
-      "label": "Reading and Writing — Module 2 (Adaptive)",
+      "label": "Reading and Writing — Module 2 (Harder)",
       "timeMin": 32,
       "examQuestions": 27,
       "type": "mcq",
@@ -46,7 +46,7 @@
     },
     {
       "id": "math-module-2",
-      "label": "Math — Module 2 (Adaptive)",
+      "label": "Math — Module 2 (Harder)",
       "timeMin": 35,
       "examQuestions": 22,
       "type": "mcq",
