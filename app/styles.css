@@ -1,0 +1,263 @@
+:root {
+  --bg: #0b0f1a;
+  --card: #111a2e;
+  --text: #e8ecf7;
+  --muted: #aeb8d6;
+  --accent: #2f7dff;
+  --danger: #ff5a6a;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.card {
+  width: min(520px, 92vw);
+  margin: 8vh auto;
+  padding: 28px;
+  background: var(--card);
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(0,0,0,.35);
+  text-align: center;
+}
+
+.logo { width: 110px; height: 110px; object-fit: contain; margin-bottom: 10px; }
+.title { margin: 8px 0 4px; font-size: 26px; }
+.subtitle { margin: 0 0 18px; color: var(--muted); }
+
+.label { display:block; text-align:left; margin: 10px 0 6px; color: var(--muted); font-size: 14px; }
+.input {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(0,0,0,.25);
+  color: var(--text);
+  outline: none;
+}
+
+.btn {
+  width: 100%;
+  margin-top: 12px;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 0;
+  background: var(--accent);
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.msg { margin-top: 12px; color: var(--danger); min-height: 20px; }
+
+.topbar {
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  padding: 14px 18px;
+  background: rgba(17,26,46,.9);
+  border-bottom: 1px solid rgba(255,255,255,.08);
+  position: sticky;
+  top: 0;
+}
+
+.brandbar { display:flex; gap: 10px; align-items:center; }
+.logo-small { width: 40px; height: 40px; object-fit: contain; }
+.brandname { font-weight: 800; }
+.brandnote { font-size: 12px; color: var(--muted); }
+
+.nav { display:flex; gap: 14px; }
+.navlink {
+  color: var(--text);
+  text-decoration: none;
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,.10);
+}
+.navlink:hover { border-color: rgba(255,255,255,.25); }
+
+.container { width: min(980px, 92vw); margin: 20px auto; }
+.page { padding: 16px; background: rgba(255,255,255,.03); border-radius: 14px; }
+.hidden { display:none; }
+
+.panel {
+  margin-top: 10px;
+  padding: 14px;
+  border-radius: 14px;
+  background: rgba(255,255,255,.03);
+  border: 1px solid rgba(255,255,255,.08);
+}
+
+.select {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(0,0,0,.25);
+  color: var(--text);
+  outline: none;
+}
+
+.row { display:flex; gap: 10px; }
+.btn-secondary {
+  background: transparent;
+  border: 1px solid rgba(255,255,255,.18);
+}
+.btn-secondary:hover { border-color: rgba(255,255,255,.35); }
+
+.helper { color: var(--muted); font-size: 14px; margin: 10px 0 0; }
+.timer{
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,.18);
+  color: var(--text);
+  font-weight: 800;
+}
+
+.progress { color: var(--muted); font-size: 14px; margin-bottom: 10px; }
+.prompt { white-space: pre-wrap; font-size: 16px; line-height: 1.4; margin-bottom: 12px; }
+
+.choices { display:flex; flex-direction:column; gap:10px; }
+.choice {
+  display:flex;
+  gap:10px;
+  align-items:flex-start;
+  padding: 10px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.10);
+  background: rgba(0,0,0,.18);
+  cursor: pointer;
+}
+.choice input { margin-top: 3px; }
+.choiceText { white-space: pre-wrap; }
+
+.review { margin-top: 14px; display:flex; flex-direction:column; gap:12px; }
+.reviewBlock{
+  display:flex;
+  gap:12px;
+  padding: 12px;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,.08);
+  background: rgba(255,255,255,.03);
+}
+.qnum{
+  width: 54px;
+  height: 34px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border-radius: 10px;
+  font-weight: 900;
+}
+.qnum-ok{ background: rgba(47, 255, 144, .18); border: 1px solid rgba(47, 255, 144, .35); }
+.qnum-bad{ background: rgba(255, 90, 106, .18); border: 1px solid rgba(255, 90, 106, .35); }
+
+.reviewPrompt{ white-space: pre-wrap; margin-bottom: 8px; }
+.reviewAns{ color: var(--muted); margin-bottom: 6px; }
+.reviewExp{ white-space: pre-wrap; }
+/* Printable Practice Exams */
+.pdfList {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.pdfBtn {
+  display: block;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(0,0,0,.18);
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.pdfBtn:hover {
+  border-color: rgba(255,255,255,.30);
+}
+/* Writing (Essay) */
+.essayBox{
+  width: 100%;
+  min-height: 240px;
+  resize: vertical;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(0,0,0,.25);
+  color: var(--text);
+  outline: none;
+  line-height: 1.5;
+}
+
+.essayFooter{
+  margin-top: 12px;
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.rubricGrid{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.rubricItem{
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.10);
+  background: rgba(0,0,0,.18);
+}
+
+.rubricLabel{
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+/* Theme: Light */
+body.theme-light{
+  --bg: #f5f7fb;
+  --card: #ffffff;
+  --text: #101828;
+  --muted: #475467;
+  --accent: #2f7dff;
+  --danger: #d92d20;
+}
+
+/* Light-theme overrides for readability */
+body.theme-light .topbar{
+  background: rgba(255,255,255,.90);
+  border-bottom: 1px solid rgba(16,24,40,.10);
+}
+
+body.theme-light .page{
+  background: rgba(16,24,40,.04);
+}
+
+body.theme-light .panel{
+  background: rgba(16,24,40,.04);
+  border: 1px solid rgba(16,24,40,.10);
+}
+
+body.theme-light .navlink{
+  border: 1px solid rgba(16,24,40,.12);
+}
+
+body.theme-light .btn-secondary{
+  border: 1px solid rgba(16,24,40,.18);
+}
+
+body.theme-light .choice,
+body.theme-light .pdfBtn,
+body.theme-light .reviewBlock,
+body.theme-light .rubricItem{
+  background: rgba(16,24,40,.03);
+  border: 1px solid rgba(16,24,40,.10);
+}

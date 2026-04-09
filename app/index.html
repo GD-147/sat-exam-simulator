@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Access Portal</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="card">
+    <img id="logo" class="logo" alt="Logo" />
+    <h1 id="brand" class="title"></h1>
+    <p class="subtitle">Enter your access code to continue.</p>
+
+    <label class="label" for="pw">Access Code</label>
+    <input id="pw" class="input" type="password" placeholder="Enter code" autocomplete="off" />
+    <button id="btn" class="btn">Enter</button>
+
+    <p id="msg" class="msg"></p>
+  </main>
+
+  <script src="common.js?v=2"></script>
+  <script>
+    (async function () {
+      const examId = getExamFromUrl();
+      const msg = document.getElementById("msg");
+      const pw = document.getElementById("pw");
+      const btn = document.getElementById("btn");
+
+      try {
+        const cfg = await loadConfig(examId);
+        applyTheme(cfg.theme || "dark");
+
+        document.getElementById("brand").textContent = cfg.brandName;
+        document.getElementById("logo").src = cfg.logoPath;
+
+        if (isAccessGranted(examId)) {
+          goToApp(examId);
+          return;
+        }
+
+        function attempt() {
+          msg.textContent = "";
+          if (pw.value.trim() === cfg.accessPassword) {
+            grantAccess(examId);
+            goToApp(examId);
+          } else {
+            msg.textContent = "Incorrect code. Please try again.";
+          }
+        }
+
+        btn.addEventListener("click", attempt);
+        pw.addEventListener("keydown", (e) => {
+          if (e.key === "Enter") attempt();
+        });
+
+      } catch (e) {
+        msg.textContent = "Config load error. Check your folder paths.";
+        console.error(e);
+      }
+    })();
+  </script>
+</body>
+</html>

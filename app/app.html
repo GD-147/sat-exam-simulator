@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Exam Portal</title>
+  <link rel="stylesheet" href="styles.css?v=2" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brandbar">
+      <img id="logo" class="logo-small" alt="Logo" />
+      <div>
+        <div id="brand" class="brandname"></div>
+        <div class="brandnote">Member Access</div>
+      </div>
+    </div>
+
+    <nav class="nav">
+      <a class="navlink" href="#" data-page="home">Home</a>
+      <a class="navlink" href="#" data-page="sim">Exam Simulator</a>
+      <a class="navlink" href="#" data-page="pdf">Printable Practice Exams</a>
+      <a class="navlink" href="#" id="logoutLink">Log out</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section id="page-home" class="page">
+      <h2>Welcome</h2>
+      <p>Choose “Exam Simulator” to start a timed exam or practice set, or “Printable Practice Exams” to download PDFs.</p>
+    </section>
+
+<section id="page-sim" class="page hidden">
+  <h2>Exam Simulator</h2>
+
+  <div class="panel">
+    <label class="label" for="sectionSelect">Choose a section</label>
+    <select id="sectionSelect" class="select"></select>
+
+    <button id="startSim" class="btn" style="margin-top:12px;">Start</button>
+    <p class="helper">You’ll choose Exam Mode or Practice Mode on the next screen.</p>
+  </div>
+
+  <div id="modePanel" class="panel hidden" style="margin-top:16px;">
+    <h3 style="margin:0 0 10px;">Select a mode</h3>
+
+    <div class="row">
+      <button id="examModeBtn" class="btn btn-secondary">Exam Mode</button>
+      <button id="practiceModeBtn" class="btn btn-secondary">Practice Mode</button>
+    </div>
+
+    <p class="helper" style="margin-top:10px;">
+      Exam Mode runs a full timed section. Practice Mode runs 10 questions per session.
+    </p>
+  </div>
+</section>
+
+
+    <section id="page-pdf" class="page hidden">
+  <h2>Printable Practice Exams</h2>
+  <p class="helper">Download PDFs for paper-based practice (and answer keys).</p>
+
+  <div id="pdfList" class="pdfList"></div>
+</section>
+  </main>
+
+  <script src="common.js?v=2"></script>
+<script>
+  (async function () {
+    const examId = getExamFromUrl();
+
+    // Controllo accesso
+    if (!isAccessGranted(examId)) {
+      goToWelcome(examId);
+      return;
+    }
+
+    // Carica config per branding
+    const cfg = await loadConfig(examId);
+    applyTheme(cfg.theme || "dark");
+    document.getElementById("brand").textContent = cfg.brandName;
+    document.getElementById("logo").src = cfg.logoPath;
+
+    // Cambio pagine
+    const pages = {
+      home: document.getElementById("page-home"),
+      sim: document.getElementById("page-sim"),
+      pdf: document.getElementById("page-pdf"),
+    };
+
+    function show(pageKey) {
+      Object.values(pages).forEach(p => p.classList.add("hidden"));
+      pages[pageKey].classList.remove("hidden");
+    }
+
+    document.querySelectorAll(".navlink").forEach(link => {
+      link.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(link.dataset.page);
+      });
+    });
+    const logoutLink = document.getElementById("logoutLink");
+logoutLink.addEventListener("click", (e) => {
+  e.preventDefault();
+  revokeAccess(examId);
+  goToWelcome(examId);
+});
+// ====== Printable PDFs ======
+const pdfList = document.getElementById("pdfList");
+
+function renderPDFs() {
+  if (!pdfList) return;
+
+  const items = cfg.printables || [];
+  pdfList.innerHTML = "";
+
+  if (!items.length) {
+    pdfList.textContent = "No PDFs available yet.";
+    return;
+  }
+
+  items.forEach(item => {
+    const a = document.createElement("a");
+    a.className = "pdfBtn";
+    a.textContent = item.label;
+
+    // link al PDF dentro packs/<exam>/pdf/
+    a.href = `../packs/${examId}/pdf/${item.file}`;
+    a.target = "_blank";
+    a.rel = "noopener";
+
+    pdfList.appendChild(a);
+  });
+}
+
+renderPDFs();
+    // ====== Exam Simulator UI ======
+    const sectionSelect = document.getElementById("sectionSelect");
+    const startSim = document.getElementById("startSim");
+    const modePanel = document.getElementById("modePanel");
+    const examModeBtn = document.getElementById("examModeBtn");
+    const practiceModeBtn = document.getElementById("practiceModeBtn");
+
+    // Popola dropdown con le sezioni dal config
+    cfg.sections.forEach(s => {
+      const opt = document.createElement("option");
+      opt.value = s.id;
+      opt.textContent = s.label;
+      sectionSelect.appendChild(opt);
+    });
+
+    let selectedSection = sectionSelect.value;
+
+    sectionSelect.addEventListener("change", () => {
+      selectedSection = sectionSelect.value;
+      modePanel.classList.add("hidden");
+    });
+
+    startSim.addEventListener("click", () => {
+      selectedSection = sectionSelect.value;
+      modePanel.classList.remove("hidden");
+    });
+
+    function goRunner(mode) {
+      window.location.href =
+        `runner.html?exam=${encodeURIComponent(examId)}&section=${encodeURIComponent(selectedSection)}&mode=${encodeURIComponent(mode)}`;
+    }
+
+    examModeBtn.addEventListener("click", () => goRunner("exam"));
+    practiceModeBtn.addEventListener("click", () => goRunner("practice"));
+  })();
+</script>
+
+</body>
+</html>

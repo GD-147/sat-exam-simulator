@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Simulator</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brandbar">
+      <img id="logo" class="logo-small" alt="Logo" />
+      <div>
+        <div id="brand" class="brandname"></div>
+        <div class="brandnote">Exam Simulator</div>
+      </div>
+    </div>
+
+    <nav class="nav">
+      <span id="timer" class="timer hidden"></span>
+      <a class="navlink" href="#" id="backLink">Back</a>
+    </nav>
+  </header>
+
+  <main class="container">
+
+    <!-- RUNNER -->
+    <section id="runnerPanel" class="page">
+      <h2 id="title">Loading…</h2>
+      <p id="desc" class="helper"></p>
+      <p id="metaLine" class="helper"></p>
+
+
+      <div class="panel" style="margin-top:14px;">
+        <div id="progress" class="progress"></div>
+        <div id="prompt" class="prompt"></div>
+
+        <div id="choices" class="choices"></div>
+
+        <div class="row" style="margin-top:14px;">
+          <button id="prevBtn" class="btn btn-secondary">Previous</button>
+          <button id="nextBtn" class="btn btn-secondary">Next</button>
+          <button id="finishBtn" class="btn">Finish</button>
+        </div>
+      </div>
+    </section>
+<!-- ESSAY -->
+<section id="essayPanel" class="page hidden">
+  <h2 id="essayTitle">Writing — Loading…</h2>
+  <p id="essayDesc" class="helper"></p>
+  <p id="essayMeta" class="helper"></p>
+
+  <div class="panel" style="margin-top:14px;">
+    <div id="essayPrompt" class="prompt"></div>
+
+    <label class="label" for="essayText" style="margin-top:12px;">Your Response</label>
+    <textarea id="essayText" class="essayBox" placeholder="Start writing here..."></textarea>
+
+    <div class="essayFooter">
+      <div class="helper"><span id="wordCount">0</span> words</div>
+      <div class="row">
+        <button id="essaySaveBtn" class="btn btn-secondary">Save</button>
+        <button id="essayFinishBtn" class="btn">Finish</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ESSAY RESULTS -->
+<section id="essayResultsPanel" class="page hidden">
+  <h2>Writing Results</h2>
+  <p id="essayTimeLine" class="helper"></p>
+  <p id="essayWordLine" class="helper"></p>
+
+  <div class="panel" style="margin-top:14px;">
+    <h3 style="margin:0 0 10px;">Self-Check Rubric (quick)</h3>
+
+    <div class="rubricGrid">
+      <div class="rubricItem">
+        <div class="rubricLabel">Thesis & Position</div>
+        <select id="rThesis" class="select">
+          <option value="1">1 — limited</option>
+<option value="2">2 — developing</option>
+<option value="3">3 — adequate</option>
+<option value="4">4 — solid</option>
+<option value="5">5 — strong</option>
+<option value="6">6 — excellent</option>
+        </select>
+      </div>
+
+      <div class="rubricItem">
+        <div class="rubricLabel">Development & Evidence</div>
+        <select id="rEvidence" class="select">
+          <option value="1">1 — limited</option>
+<option value="2">2 — developing</option>
+<option value="3">3 — adequate</option>
+<option value="4">4 — solid</option>
+<option value="5">5 — strong</option>
+<option value="6">6 — excellent</option>
+        </select>
+      </div>
+
+      <div class="rubricItem">
+        <div class="rubricLabel">Organization & Coherence</div>
+        <select id="rOrg" class="select">
+          <option value="1">1 — limited</option>
+<option value="2">2 — developing</option>
+<option value="3">3 — adequate</option>
+<option value="4">4 — solid</option>
+<option value="5">5 — strong</option>
+<option value="6">6 — excellent</option>
+        </select>
+      </div>
+
+      <div class="rubricItem">
+        <div class="rubricLabel">Language & Mechanics</div>
+        <select id="rLang" class="select">
+          <option value="1">1 — limited</option>
+<option value="2">2 — developing</option>
+<option value="3">3 — adequate</option>
+<option value="4">4 — solid</option>
+<option value="5">5 — strong</option>
+<option value="6">6 — excellent</option>
+        </select>
+      </div>
+    </div>
+
+    <p class="helper" style="margin-top:10px;">
+      Tip: aim for 4+ in each area by using a clear thesis, two specific examples, a counterpoint, and clean transitions.
+    </p>
+
+    <button id="essayHomeBtn" class="btn" style="margin-top:12px;">Back to Home</button>
+  </div>
+</section>
+    <!-- RESULTS -->
+    <section id="resultsPanel" class="page hidden">
+      <h2>Results</h2>
+      <p id="scoreLine" class="helper"></p>
+      <p id="timeLine" class="helper"></p>
+
+      <div id="review" class="review"></div>
+
+      <button id="homeBtn" class="btn" style="margin-top:14px;">Back to Home</button>
+    </section>
+
+  </main>
+
+  <script src="common.js?v=2"></script>
+  <script src="runner.js?v=4"></script>
+</body>
+</html>
+

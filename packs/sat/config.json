@@ -1,0 +1,52 @@
+{
+  "examId": "sat",
+  "brandName": "SAT Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/sat/assets/logo.png",
+  "accessPassword": "SAT2026",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "reading-writing-module-1",
+      "label": "Reading and Writing — Module 1",
+      "timeMin": 32,
+      "examQuestions": 27,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": []
+    },
+    {
+      "id": "reading-writing-module-2",
+      "label": "Reading and Writing — Module 2 (Adaptive)",
+      "timeMin": 32,
+      "examQuestions": 27,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": []
+    },
+    {
+      "id": "math-module-1",
+      "label": "Math — Module 1",
+      "timeMin": 35,
+      "examQuestions": 22,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": []
+    },
+    {
+      "id": "math-module-2",
+      "label": "Math — Module 2 (Adaptive)",
+      "timeMin": 35,
+      "examQuestions": 22,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": []
+    }
+  ],
+  "printables": []
+}
