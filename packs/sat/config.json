@@ -18,7 +18,9 @@
       "examQuestions": 27,
       "type": "mcq",
       "choices": 4,
-      "examFiles": []
+      "examFiles": [
+  "reading_writing_module_1_exam_01.json"
+]
     },
     {
       "id": "reading-writing-module-2",
@@ -27,7 +29,9 @@
       "examQuestions": 27,
       "type": "mcq",
       "choices": 4,
-      "examFiles": []
+      "examFiles": [
+  "reading_writing_module_2_exam_01.json"
+]
     },
     {
       "id": "math-module-1",
@@ -36,7 +40,9 @@
       "examQuestions": 22,
       "type": "mcq",
       "choices": 4,
-      "examFiles": []
+      "examFiles": [
+  "math_module_1_exam_01.json"
+]
     },
     {
       "id": "math-module-2",
@@ -45,7 +51,9 @@
       "examQuestions": 22,
       "type": "mcq",
       "choices": 4,
-      "examFiles": []
+      "examFiles": [
+  "math_module_2_exam_01.json"
+]
     }
   ],
   "printables": []

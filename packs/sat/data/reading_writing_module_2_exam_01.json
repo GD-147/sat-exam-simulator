@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW1-M2-001",
+    "prompt": "In an essay about political debate, a historian writes: “Although the senator’s remarks appeared conciliatory, they were carefully designed to temper—not erase—public outrage.”\nAs used in the text, what does “temper” most nearly mean?",
+    "choices": {
+      "A": "display",
+      "B": "moderate",
+      "C": "provoke",
+      "D": "conceal"
+    },
+    "correct": "B",
+    "explanation": "In context, “temper” means to lessen or moderate outrage, not to erase it."
+  },
+  {
+    "id": "RW1-M2-002",
+    "prompt": "A literary scholar argues that a translator’s goal is not to reproduce every feature of a poem mechanically but to recreate, in another language, the experience of reading it. The scholar notes that a translation may abandon an original rhyme scheme to preserve a poem’s tone, pace, or emotional force.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Effective translation may require sacrificing formal features in order to preserve a poem’s broader effect.",
+      "B": "Translators should always preserve a poem’s rhyme scheme at any cost.",
+      "C": "Poems cannot be translated successfully from one language into another.",
+      "D": "Readers care more about rhyme than about tone or pacing."
+    },
+    "correct": "A",
+    "explanation": "The text says a translator may give up rhyme to preserve tone, pace, or emotional force."
+  },
+  {
+    "id": "RW1-M2-003",
+    "prompt": "To predict how quickly a glacier might retreat, researchers built a computer model using current temperature trends and ice-thickness measurements. The researchers note, however, that the model does not yet account for sudden shifts in ocean currents, which can sharply alter melting rates near the glacier’s edge.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "The model is useless because it includes too many variables.",
+      "B": "The model’s predictions may be limited because one important factor is not yet included.",
+      "C": "Ocean currents never affect glaciers far from the equator.",
+      "D": "Ice thickness is less important than temperature in every model of glacier retreat."
+    },
+    "correct": "B",
+    "explanation": "The text explicitly notes that sudden ocean-current shifts are not yet accounted for."
+  },
+  {
+    "id": "RW1-M2-004",
+    "prompt": "Some economists once assumed that consumers would always choose the cheapest available product. More recent research suggests otherwise: buyers often favor goods associated with convenience, trust, or habit, even when those goods cost more.\nWhich choice best describes the function of the second sentence in the text?",
+    "choices": {
+      "A": "It provides an example that reinforces the assumption presented in the first sentence.",
+      "B": "It introduces a finding that complicates the assumption presented in the first sentence.",
+      "C": "It explains how economists collect data from consumers.",
+      "D": "It argues that all expensive products are more convenient."
+    },
+    "correct": "B",
+    "explanation": "The second sentence challenges the earlier assumption that consumers always choose the cheapest option."
+  },
+  {
+    "id": "RW1-M2-005",
+    "prompt": "A student is writing about an early electric taxi service and has taken these notes:\n• In 1897, the Electric Carriage and Wagon Company operated electric taxis in New York City.\n• The taxis were quiet and did not produce exhaust at the point of use.\n• They required frequent battery charging.\n• The service struggled to expand because charging infrastructure was limited.\nThe student wants to emphasize both an advantage and a limitation of the taxis. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "In 1897, New York City had taxis.",
+      "B": "Electric taxis were quiet and produced no exhaust at the point of use, but their need for frequent charging limited the company’s ability to expand the service.",
+      "C": "The Electric Carriage and Wagon Company only cared about quiet vehicles.",
+      "D": "Frequent charging made the taxis more popular with drivers and passengers."
+    },
+    "correct": "B",
+    "explanation": "This choice accurately includes both the benefit and the limitation from the notes."
+  },
+  {
+    "id": "RW1-M2-006",
+    "prompt": "The artist intended the installation to feel temporary, almost fragile. ______, visitors were surprised by how strongly its carefully arranged paper elements shaped their movement through the room.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Even so,",
+      "B": "For instance,",
+      "C": "Likewise,",
+      "D": "Therefore,"
+    },
+    "correct": "A",
+    "explanation": "The transition signals contrast between the intended fragility of the installation and its unexpectedly strong effect."
+  },
+  {
+    "id": "RW1-M2-007",
+    "prompt": "The editor appreciated the essay’s central claim: <u>its supporting examples, however, remained too vague to be persuasive.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "its supporting examples however remained too vague to be persuasive.",
+      "C": "its supporting examples, however remained too vague to be persuasive.",
+      "D": "its supporting examples; however remained too vague to be persuasive."
+    },
+    "correct": "A",
+    "explanation": "The colon correctly introduces an explanation of what the editor appreciated, and “however” is correctly set off by commas."
+  },
+  {
+    "id": "RW1-M2-008",
+    "prompt": "The biologist reviewed the field notes carefully, <u>hoping to identify a pattern in the birds’ migration route.</u>\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It creates a comma splice and should be separated into a new sentence.",
+      "B": "It is a correctly placed participial phrase that modifies “The biologist.”",
+      "C": "It should be changed to a finite verb to avoid a fragment.",
+      "D": "It incorrectly modifies “field notes.”"
+    },
+    "correct": "B",
+    "explanation": "The phrase “hoping to identify...” correctly describes the biologist’s purpose in reviewing the notes."
+  },
+  {
+    "id": "RW1-M2-009",
+    "prompt": "When Jordan met with Alex after the lab presentation, <u>he</u> said the final graph should be simplified.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "he",
+      "B": "Jordan",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “he” with “Jordan” removes the ambiguity about who made the comment."
+  },
+  {
+    "id": "RW1-M2-010",
+    "prompt": "If the proposal <u>was</u> adopted last year, the committee would already have funds to begin the restoration.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "was",
+      "B": "has been",
+      "C": "had been",
+      "D": "would be"
+    },
+    "correct": "C",
+    "explanation": "The sentence describes a contrary-to-fact past condition, so the past perfect “had been” is needed."
+  },
+  {
+    "id": "RW1-M2-011",
+    "prompt": "The scientist intended only to describe the specimen’s outer shell, but the draft <u>only mentions its color and not its texture.</u>\nWhich choice best revises the text so that “only” is placed as precisely as possible?",
+    "choices": {
+      "A": "only mentions its color and not its texture.",
+      "B": "mentions only its color and not its texture.",
+      "C": "mentions its color only and not its texture.",
+      "D": "only its color mentions and not its texture."
+    },
+    "correct": "B",
+    "explanation": "Placing “only” before “its color” makes clear that color, not texture, is the sole thing mentioned."
+  },
+  {
+    "id": "RW1-M2-012",
+    "prompt": "[1] Although many people associate archives with paper documents, some archivists now preserve software, websites, and video games. [2] These materials can become inaccessible when hardware or file formats become obsolete. [3] As a result, digital preservation sometimes involves emulation, a process that recreates older computing environments. [4] Even then, archivists must decide which versions of a digital work best represent its historical significance.\nWhich choice best describes the most logical placement for the following sentence?\n“The task is therefore not merely to store files but also to preserve how those files can be experienced.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence logically follows the description of obsolescence and leads into the explanation of emulation."
+  },
+  {
+    "id": "RW1-M2-013",
+    "prompt": "A researcher recorded the percentage of seeds that sprouted under three light conditions.\nDirect light: 62%\nFiltered light: 78%\nVery low light: 31%\nA student claims that the seeds sprouted best when they received some light but not the most intense light.\nWhich choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is supported because filtered light produced the highest sprouting percentage.",
+      "B": "The claim is unsupported because direct light and filtered light produced the same result.",
+      "C": "The claim is unsupported because very low light produced the highest sprouting percentage.",
+      "D": "The claim is supported because direct light produced the lowest sprouting percentage."
+    },
+    "correct": "A",
+    "explanation": "Filtered light had 78%, higher than both direct light and very low light, supporting the student’s claim."
+  },
+  {
+    "id": "RW1-M2-014",
+    "prompt": "A critic praises the sculptor’s “plastic imagination,” explaining that the artist could take a familiar human pose and reshape it into something surprising without losing its sense of balance.\nAs used in the text, what does “plastic” most nearly mean?",
+    "choices": {
+      "A": "artificial",
+      "B": "adaptable",
+      "C": "glossy",
+      "D": "fragile"
+    },
+    "correct": "B",
+    "explanation": "In context, “plastic” refers to the sculptor’s ability to reshape a familiar pose flexibly and creatively."
+  },
+  {
+    "id": "RW1-M2-015",
+    "prompt": "In a novel, the narrator recalls, “At the time, I took my aunt’s silence for indifference. Years later, I understood that she had been listening more carefully than anyone else in the room.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The narrator still believes the aunt was indifferent.",
+      "B": "The narrator realizes that an earlier judgment was mistaken.",
+      "C": "The aunt was too distracted to respond during the conversation.",
+      "D": "The narrator cannot remember what happened in the room."
+    },
+    "correct": "B",
+    "explanation": "The narrator first misread the aunt’s silence, then later reinterprets it."
+  },
+  {
+    "id": "RW1-M2-016",
+    "prompt": "A study found that when grocery stores placed less expensive store-brand items at eye level, sales of those items rose. However, the researchers note that the study measured short-term purchasing behavior and did not determine whether customers’ long-term preferences had changed.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Eye-level placement may influence immediate purchasing decisions even if deeper consumer preferences remain unchanged.",
+      "B": "Customers always prefer the least expensive item when it is visible.",
+      "C": "Store-brand items are inherently better than name-brand items.",
+      "D": "Long-term preferences are impossible to measure in any retail study."
+    },
+    "correct": "A",
+    "explanation": "The study found short-term sales effects but did not show long-term preference changes."
+  },
+  {
+    "id": "RW1-M2-017",
+    "prompt": "A historian argues that many early city maps were less concerned with precise scale than with civic identity. To support this claim, the historian points out that some maps enlarged important public buildings while compressing less symbolic areas.\nWhy does the author most likely include the example of enlarged public buildings?",
+    "choices": {
+      "A": "To demonstrate how mapmakers visually emphasized what a city valued",
+      "B": "To show that early city maps were scientifically precise",
+      "C": "To argue that public buildings were physically larger than all other structures",
+      "D": "To suggest that mapmakers lacked basic drafting tools"
+    },
+    "correct": "A",
+    "explanation": "Enlarging public buildings supports the claim that the maps highlighted civic identity rather than precise scale."
+  },
+  {
+    "id": "RW1-M2-018",
+    "prompt": "A student is writing about how architecture can respond to climate and has taken these notes:\n• Traditional windcatchers were used in parts of the Middle East and North Africa.\n• Windcatchers direct outside air into buildings.\n• This can improve indoor comfort in hot conditions.\n• Such designs may reduce reliance on mechanical cooling systems.\nThe student wants to explain how a traditional design feature can influence building temperature. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Windcatchers are old architectural features found in many places.",
+      "B": "In some hot regions, windcatchers direct outside air into buildings, improving indoor comfort and potentially reducing the need for mechanical cooling.",
+      "C": "Mechanical cooling systems are always unnecessary in hot climates.",
+      "D": "Traditional architecture and modern architecture cannot be combined."
+    },
+    "correct": "B",
+    "explanation": "This choice accurately explains the climate-related function of windcatchers using the notes."
+  },
+  {
+    "id": "RW1-M2-019",
+    "prompt": "The committee agreed that the original survey was too narrow. ______, members differed on whether the revised version should add more open-ended questions or simply broaden the multiple-choice options.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Nevertheless,",
+      "C": "For example,",
+      "D": "Similarly,"
+    },
+    "correct": "B",
+    "explanation": "The transition shows that although members agreed on one point, they still disagreed about how to revise the survey."
+  },
+  {
+    "id": "RW1-M2-020",
+    "prompt": "The new apprenticeship program aims not only to teach technical skills but also <u>to cultivate confidence, collaboration, and to solve problems independently.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "to cultivate confidence, collaboration, and to solve problems independently.",
+      "B": "cultivating confidence, collaboration, and independent problem solving.",
+      "C": "to cultivate confidence, collaboration, and independent problem solving.",
+      "D": "cultivate confidence, collaboration, and to solve problems independently."
+    },
+    "correct": "C",
+    "explanation": "This choice maintains parallel structure after “aims not only to teach.”"
+  },
+  {
+    "id": "RW1-M2-021",
+    "prompt": "The reef fish that biologists observed near the restored coral beds were, <u>to the team’s surprise,</u> more numerous than those observed near nearby damaged reefs.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a nonessential interrupter that is correctly set off with commas.",
+      "B": "It is a restrictive phrase that should not be set off with commas.",
+      "C": "It causes a dangling modifier.",
+      "D": "It should be moved to the beginning of the sentence to avoid a fragment."
+    },
+    "correct": "A",
+    "explanation": "“to the team’s surprise” is parenthetical and properly enclosed in commas."
+  },
+  {
+    "id": "RW1-M2-022",
+    "prompt": "A series of essays on migration and memory <u>explore</u> how personal stories can challenge official historical narratives.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "explore",
+      "B": "explores",
+      "C": "is exploring",
+      "D": "have exploreds"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “A series” takes the singular verb “explores.”"
+  },
+  {
+    "id": "RW1-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The invention quickly changed everything about communication.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The invention quickly changed everything about communication.",
+      "B": "The invention quickly changed communication in many ways.",
+      "C": "Within a decade, the invention reduced the cost of sending long-distance messages and increased the speed at which news could spread.",
+      "D": "The invention was important, interesting, and effective."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces vague wording with specific, precise effects."
+  },
+  {
+    "id": "RW1-M2-024",
+    "prompt": "[1] Some marine species survive in tide pools, where water levels and temperatures can change quickly. [2] These environments can be stressful because organisms may face drying, heating, and sudden shifts in salinity. [3] Certain species avoid these stresses by sheltering in shaded crevices or by sealing moisture inside their shells. [4] Studying such adaptations helps researchers understand how organisms respond to variable environments.\nWhich choice best describes the most logical placement for the following sentence?\n“Tide pools therefore offer scientists a natural setting in which to observe survival strategies.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence follows the examples of adaptations and naturally leads to the broader research significance in sentence 4."
+  },
+  {
+    "id": "RW1-M2-025",
+    "prompt": "The policy was described in the report as “broadly effective,” but the phrase obscured the fact that it worked well in large cities and poorly in small rural districts. The editor suggests replacing “broadly effective” with <u>effective in some settings but not others</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the report sound less formal while also making the claim more precise.",
+      "B": "It makes the report more vague by removing a concise phrase.",
+      "C": "It changes the meaning by suggesting the policy failed everywhere.",
+      "D": "It introduces an unsupported emotional judgment."
+    },
+    "correct": "A",
+    "explanation": "The new wording is slightly less compressed but more exact about where the policy did and did not work."
+  },
+  {
+    "id": "RW1-M2-026",
+    "prompt": "In an experiment, botanists found that a certain vine grew more slowly when planted alone than when planted near a rough wooden support, even if the vine had not yet touched the support. The botanists suggest that the plant may respond to subtle environmental cues before direct contact occurs.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "The vine may detect features of its surroundings before physically reaching them.",
+      "B": "The vine can grow only when another plant is nearby.",
+      "C": "Rough wood is the only surface that affects vine growth.",
+      "D": "Direct contact is necessary before the vine changes its behavior."
+    },
+    "correct": "A",
+    "explanation": "The vine changed growth even before contact, supporting the idea that it responds to subtle cues."
+  },
+  {
+    "id": "RW1-M2-027",
+    "prompt": "An essay on public monuments concludes by noting that debates over which monuments to preserve are not simply disputes about stone and metal. Rather, they are arguments about which histories communities choose to emphasize in shared spaces.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It narrows the essay’s focus to the materials used in monuments.",
+      "B": "It restates the opening sentence without adding new meaning.",
+      "C": "It reframes the debate as a question about public memory and values.",
+      "D": "It argues that all monuments should be removed immediately."
+    },
+    "correct": "C",
+    "explanation": "The final sentence broadens the issue from physical monuments to the histories communities choose to emphasize."
+  }
+]

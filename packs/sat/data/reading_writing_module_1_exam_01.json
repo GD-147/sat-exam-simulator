@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW1-M1-001",
+    "prompt": "In a review of a new photography exhibit, a critic writes: “The most arresting image in the collection shows a crowded train platform at dawn, rendered in such sharp detail that viewers may feel they are standing on it.”\nAs used in the text, what does “arresting” most nearly mean?",
+    "choices": {
+      "A": "delayed",
+      "B": "striking",
+      "C": "official",
+      "D": "restrained"
+    },
+    "correct": "B",
+    "explanation": "In context, “arresting” means attention-grabbing or visually striking, not delayed or official."
+  },
+  {
+    "id": "RW1-M1-002",
+    "prompt": "To reduce dangerous summer temperatures, some cities have expanded their tree-planting programs. Trees cool surrounding areas by casting shade and releasing water vapor through their leaves. Researchers note that neighborhoods with more tree cover often experience lower surface temperatures than nearby neighborhoods with fewer trees.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Cities should replace all paved areas with parks.",
+      "B": "Tree-planting programs can help lower temperatures in urban neighborhoods.",
+      "C": "Researchers disagree about whether shade affects temperature.",
+      "D": "Water vapor from leaves makes summer air feel drier."
+    },
+    "correct": "B",
+    "explanation": "The text explains that trees provide shade and release water vapor, which helps cool city areas."
+  },
+  {
+    "id": "RW1-M1-003",
+    "prompt": "Historian Elena Cruz notes that in the late nineteenth century, many postal offices hired women as clerks because the work required careful record keeping and regular interaction with customers. Cruz also points out that these jobs often paid less than comparable positions held by men.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Postal offices hired women only when male workers were unavailable.",
+      "B": "Women clerks were valued for specific skills but were not paid equally.",
+      "C": "Customers preferred speaking with women rather than men.",
+      "D": "Record keeping became less important in postal offices over time."
+    },
+    "correct": "B",
+    "explanation": "The text says women were hired for work requiring care and customer interaction, yet they were paid less than men in similar jobs."
+  },
+  {
+    "id": "RW1-M1-004",
+    "prompt": "A museum brochure states: “The bronze bowl was likely used in ceremonies. Its rim is decorated with repeating wave patterns, a design commonly associated with rivers in the region.”\nWhich choice best describes the function of the second sentence in the text?",
+    "choices": {
+      "A": "It presents evidence supporting the claim made in the first sentence.",
+      "B": "It offers a contrasting view of the bowl’s purpose.",
+      "C": "It explains why the bowl was difficult to preserve.",
+      "D": "It argues that the bowl should not be displayed publicly."
+    },
+    "correct": "A",
+    "explanation": "The second sentence describes the bowl’s river-associated design, which supports the idea that it was used in ceremonies."
+  },
+  {
+    "id": "RW1-M1-005",
+    "prompt": "While researching a planet orbiting a distant star, a student has taken these notes:\n• The planet is called Kepler-186f.\n• It orbits within the habitable zone of its star.\n• Its star is cooler and smaller than the Sun.\n• Scientists do not know whether liquid water exists on the planet’s surface.\nThe student wants to emphasize that Kepler-186f may have conditions suitable for life but is still not fully understood. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Kepler-186f is a planet that scientists have studied for many years.",
+      "B": "Kepler-186f orbits a star that is cooler and smaller than the Sun.",
+      "C": "Because Kepler-186f lies in its star’s habitable zone, it may have life-friendly conditions, though scientists still do not know whether liquid water exists there.",
+      "D": "Scientists agree that Kepler-186f has liquid water on its surface."
+    },
+    "correct": "C",
+    "explanation": "This choice includes both the possible life-supporting condition and the remaining uncertainty from the notes."
+  },
+  {
+    "id": "RW1-M1-006",
+    "prompt": "The novelist published three books in quick succession. ______, none of them sold particularly well until years later, when critics began praising the originality of her early style.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "However,",
+      "C": "Similarly,",
+      "D": "Therefore,"
+    },
+    "correct": "B",
+    "explanation": "The second clause contrasts with the fact that the novelist published several books; despite that, they did not sell well at first."
+  },
+  {
+    "id": "RW1-M1-007",
+    "prompt": "Many desert plants appear dry and brittle; <u>they are, however, highly adapted to storing water.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "they are however highly adapted to storing water.",
+      "C": "they are however, highly adapted to storing water.",
+      "D": "they are; however highly adapted to storing water."
+    },
+    "correct": "A",
+    "explanation": "A semicolon correctly joins two independent clauses, and “however” is correctly set off by commas."
+  },
+  {
+    "id": "RW1-M1-008",
+    "prompt": "The documentary was filmed over four years, <u>it includes interviews with scientists, fishers, and city planners.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "it includes interviews with scientists, fishers, and city planners.",
+      "B": "and includes interviews with scientists, fishers, and city planners.",
+      "C": "including interviews with scientists, fishers, and city planners.",
+      "D": "it having included interviews with scientists, fishers, and city planners."
+    },
+    "correct": "B",
+    "explanation": "The conjunction “and” correctly links the two parts of the sentence without creating a comma splice."
+  },
+  {
+    "id": "RW1-M1-009",
+    "prompt": "When the committee finally released its report, the researchers praised <u>their</u> clarity and careful use of evidence.\nWhich choice best maintains the intended meaning of the sentence?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "its",
+      "C": "them",
+      "D": "our"
+    },
+    "correct": "B",
+    "explanation": "The singular noun “report” requires the singular pronoun “its.”"
+  },
+  {
+    "id": "RW1-M1-010",
+    "prompt": "By the time the orchestra began rehearsing with the guest conductor, the musicians <u>practice</u> the most difficult passages for weeks.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "practice",
+      "B": "practiced",
+      "C": "had practiced",
+      "D": "will practice"
+    },
+    "correct": "C",
+    "explanation": "“By the time” and the later past action “began” require the past perfect for the earlier action."
+  },
+  {
+    "id": "RW1-M1-011",
+    "prompt": "Walking through the greenhouse, <u>the orchids seemed brighter to Maya</u> in the afternoon light.\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the orchids seemed brighter to Maya",
+      "B": "Maya thought the orchids seemed brighter",
+      "C": "the afternoon light made the orchids brighter",
+      "D": "brighter orchids appeared to Maya"
+    },
+    "correct": "B",
+    "explanation": "The revision correctly places Maya as the one walking through the greenhouse."
+  },
+  {
+    "id": "RW1-M1-012",
+    "prompt": "[1] In 1903, Maggie Lena Walker became the first Black woman in the United States to charter and lead a bank. [2] She founded the St. Luke Penny Savings Bank in Richmond, Virginia. [3] The bank offered financial services to Black customers who were often excluded from other institutions. [4] Walker also encouraged economic self-reliance through her speeches and journalism.\nWhich choice best describes the most logical placement for the following sentence?\n“Her leadership extended beyond banking alone.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence works best after the banking detail and before broader examples of Walker’s impact."
+  },
+  {
+    "id": "RW1-M1-013",
+    "prompt": "A student collected the following data about the average number of library visits per student each month.\nGrade 6: 2.1\nGrade 7: 2.4\nGrade 8: 3.0\nGrade 9: 2.8\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Grade 8 students visited the library more often, on average, than Grade 7 students did.",
+      "B": "Grade 9 students visited the library half as often, on average, as Grade 6 students did.",
+      "C": "Grade 6 students had the highest average number of library visits.",
+      "D": "The average number of library visits increased steadily from Grade 6 through Grade 9."
+    },
+    "correct": "A",
+    "explanation": "Grade 8 has 3.0 visits versus Grade 7’s 2.4, so that comparison is supported."
+  },
+  {
+    "id": "RW1-M1-014",
+    "prompt": "During the workshop, the conductor reminded the violinists not merely to follow the beat but to channel the energy of the piece into every phrase.\nAs used in the text, what does “channel” most nearly mean?",
+    "choices": {
+      "A": "direct",
+      "B": "divide",
+      "C": "conceal",
+      "D": "measure"
+    },
+    "correct": "A",
+    "explanation": "In context, “channel” means to direct energy into the music."
+  },
+  {
+    "id": "RW1-M1-015",
+    "prompt": "In a short story, a narrator describes the family’s old rowboat: “Paint flaked from its sides, and one oarlock squeaked with every turn. Yet each summer, when my father pulled it into the river, it moved as steadily as ever, as if age had taught it patience.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The narrator is embarrassed by the family’s old boat.",
+      "B": "The boat is unreliable and should be replaced.",
+      "C": "Despite signs of age, the boat is portrayed as dependable.",
+      "D": "The father repairs the boat every summer."
+    },
+    "correct": "C",
+    "explanation": "The description emphasizes wear but also steady performance, suggesting reliability."
+  },
+  {
+    "id": "RW1-M1-016",
+    "prompt": "In one study, participants were asked to solve puzzles either in a quiet room or in a room with occasional brief interruptions. The group in the interrupted room later generated more unusual solutions, though the researchers cautioned that too many interruptions can reduce concentration.\nWhich choice best states the relationship described in the text?",
+    "choices": {
+      "A": "Any kind of interruption always improves performance.",
+      "B": "Brief interruptions may sometimes encourage originality, but excessive interruptions can be harmful.",
+      "C": "Quiet rooms prevent participants from finishing puzzles.",
+      "D": "The researchers found no meaningful difference between the groups."
+    },
+    "correct": "B",
+    "explanation": "The text says unusual solutions increased with occasional interruptions but warns that too many reduce concentration."
+  },
+  {
+    "id": "RW1-M1-017",
+    "prompt": "Art historian Priya Natarajan writes, “The mural’s figures do not face the viewer directly; instead, they seem turned toward one another, creating the impression that we are witnessing a conversation already in progress.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To show how one scholar interprets the mural’s composition",
+      "B": "To prove that the mural was painted by several artists",
+      "C": "To argue that viewers should avoid visiting the mural in person",
+      "D": "To describe the materials used to create the mural"
+    },
+    "correct": "A",
+    "explanation": "The quotation presents Natarajan’s view of how the figures’ arrangement affects viewers."
+  },
+  {
+    "id": "RW1-M1-018",
+    "prompt": "A student is writing about efforts to preserve endangered languages and has taken these notes:\n• Some communities create audio archives of fluent speakers.\n• Schools may offer classes in heritage languages.\n• Digital dictionaries can help learners practice vocabulary.\n• Preservation efforts can support cultural continuity across generations.\nWhich choice most effectively uses relevant information from the notes to make a general claim about language preservation?",
+    "choices": {
+      "A": "Language preservation often combines educational and technological tools to help maintain cultural continuity.",
+      "B": "Audio archives are always more useful than school classes.",
+      "C": "Every endangered language can be preserved with a digital dictionary.",
+      "D": "Heritage-language classes focus only on grammar drills."
+    },
+    "correct": "A",
+    "explanation": "This choice accurately synthesizes the notes into a general claim."
+  },
+  {
+    "id": "RW1-M1-019",
+    "prompt": "The researcher expected the new method to simplify the analysis. ______, after several trials, she realized that it introduced an extra step.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "In fact,",
+      "B": "Likewise,",
+      "C": "Instead,",
+      "D": "Consequently,"
+    },
+    "correct": "C",
+    "explanation": "The transition signals that the method did not simplify the analysis as expected but did the opposite."
+  },
+  {
+    "id": "RW1-M1-020",
+    "prompt": "The internship gave Lena opportunities to draft reports, analyze survey data, and <u>presentations for the staff.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "presentations for the staff.",
+      "B": "presenting to the staff.",
+      "C": "deliver presentations to the staff.",
+      "D": "to have presented to the staff."
+    },
+    "correct": "C",
+    "explanation": "This choice creates a parallel series with “draft reports, analyze survey data, and deliver presentations.”"
+  },
+  {
+    "id": "RW1-M1-021",
+    "prompt": "The village, <u>which sits at the edge of a broad marsh,</u> attracts bird-watchers every spring.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It should be deleted because it repeats information given elsewhere in the sentence.",
+      "B": "It is a nonessential clause that is correctly set off with commas.",
+      "C": "It is a restrictive clause and should not be set off with commas.",
+      "D": "It creates a sentence fragment."
+    },
+    "correct": "B",
+    "explanation": "The clause adds extra information about the village and is correctly punctuated as nonessential."
+  },
+  {
+    "id": "RW1-M1-022",
+    "prompt": "A collection of early maps <u>reveal</u> how differently cartographers once represented the same coastline.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "reveal",
+      "B": "have reveal",
+      "C": "reveals",
+      "D": "revealing"
+    },
+    "correct": "C",
+    "explanation": "The singular subject “A collection” takes the singular verb “reveals.”"
+  },
+  {
+    "id": "RW1-M1-023",
+    "prompt": "A student is revising the following sentence from an essay:\n“Because the festival began as a neighborhood event in 1982, it now includes food stalls, music performances, and public art installations.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because it confuses a historical detail with a current description in a way that weakens the logical connection.",
+      "B": "The sentence should be revised because it contains too many adjectives.",
+      "C": "The sentence should be revised because it does not mention the weather during the festival.",
+      "D": "The sentence should be revised because it uses a semicolon incorrectly."
+    },
+    "correct": "A",
+    "explanation": "The word “Because” sets up a cause-and-effect relationship that the sentence does not logically support."
+  },
+  {
+    "id": "RW1-M1-024",
+    "prompt": "[1] Beekeepers sometimes move hives to farms during pollination season. [2] This practice helps crops such as almonds and blueberries produce fruit. [3] Farmers benefit from increased pollination. [4] Beekeepers, meanwhile, may receive payment for temporarily placing hives on the farms.\nWhich choice best describes the most logical placement for the following sentence?\n“The arrangement can therefore benefit both farmers and beekeepers.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "D",
+    "explanation": "The added sentence summarizes the benefits to both groups described in sentences 3 and 4."
+  },
+  {
+    "id": "RW1-M1-025",
+    "prompt": "To make the directions easier to follow, the editor replaced the phrase “in the event that” with <u>if</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the sentence more formal and less concise.",
+      "B": "It makes the sentence more concise without changing its meaning.",
+      "C": "It changes the meaning of the sentence by adding uncertainty.",
+      "D": "It makes the sentence less grammatically correct."
+    },
+    "correct": "B",
+    "explanation": "Replacing “in the event that” with “if” preserves meaning while shortening the phrase."
+  },
+  {
+    "id": "RW1-M1-026",
+    "prompt": "A study of coastal birds found that chicks raised near busy walking paths were more likely to hide when humans approached than chicks raised in quieter nesting areas. The researchers suggest that repeated exposure to people may influence how the birds respond to potential threats.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Coastal birds near walking paths may develop different defensive behaviors from birds in quieter areas.",
+      "B": "Chicks raised near walking paths are always safer than other chicks.",
+      "C": "Human activity has no effect on the behavior of nesting birds.",
+      "D": "The researchers proved that walking paths should be removed from all beaches."
+    },
+    "correct": "A",
+    "explanation": "The text says chicks near paths were more likely to hide, suggesting different responses shaped by exposure."
+  },
+  {
+    "id": "RW1-M1-027",
+    "prompt": "A science article notes that octopuses can solve simple puzzles, open containers, and even collect coconut shells for later use as shelter. The article then adds, “Such behaviors have led some researchers to investigate whether octopuses plan ahead in ways once thought unusual among invertebrates.”\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It dismisses the examples given earlier as unreliable.",
+      "B": "It explains why the article focuses only on octopuses and not other animals.",
+      "C": "It shows how the examples have prompted further scientific questions.",
+      "D": "It argues that octopuses should be kept as pets."
+    },
+    "correct": "C",
+    "explanation": "The final sentence explains why the earlier examples matter: they lead researchers to investigate planning behavior.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]
