@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH13-M2-001",
+    "prompt": "What is the larger solution to the equation 2/(x + 1) + 3/(x − 2) = 1 ?",
+    "choices": {
+      "A": "3 − √10",
+      "B": "3 + √10",
+      "C": "6 − √10",
+      "D": "6 + √10"
+    },
+    "correct": "B",
+    "explanation": "Multiply both sides by (x + 1)(x − 2): 2(x − 2) + 3(x + 1) = (x + 1)(x − 2). This gives x² − 6x − 1 = 0, so x = 3 ± √10. The larger solution is 3 + √10."
+  },
+  {
+    "id": "MATH13-M2-002",
+    "prompt": "For what value of k does the line y = −x + k intersect the parabola y = x² − 2x + 5 at exactly one point?",
+    "choices": {
+      "A": "15/4",
+      "B": "17/4",
+      "C": "19/4",
+      "D": "21/4"
+    },
+    "correct": "C",
+    "explanation": "Set the equations equal: x² − 2x + 5 = −x + k. This gives x² − x + (5 − k) = 0. For exactly one point of intersection, the discriminant is 0: 1 − 4(5 − k) = 0. So 4k − 19 = 0, and k = 19/4."
+  },
+  {
+    "id": "MATH13-M2-003",
+    "prompt": "A function is modeled by f(x) = abˣ, where a and b are positive constants. If f(2) = 20 and f(5) = 160, what is the value of a ?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "8",
+      "D": "10"
+    },
+    "correct": "B",
+    "explanation": "Divide the two function values: 160/20 = b³ = 8, so b = 2. Then 20 = a(2²) = 4a, so a = 5."
+  },
+  {
+    "id": "MATH13-M2-004",
+    "prompt": "The monic cubic polynomial p(x) = x³ + ax² + bx − 40 has factors x − 2 and x + 4. What is the value of a ?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "The product of the roots is 40 because the polynomial is monic with constant term −40. Since the known roots are 2 and −4, the third root r satisfies 2(−4)r = 40, so r = −5. The sum of the roots is 2 + (−4) + (−5) = −7, and for a monic cubic that equals −a, so a = 7."
+  },
+  {
+    "id": "MATH13-M2-005",
+    "prompt": "A rectangular prism has dimensions 4, 9, and h. If its total surface area is 202, what is the value of h ?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "B",
+    "explanation": "Total surface area is 2(lw + lh + wh). So 2(4·9 + 4h + 9h) = 202. This simplifies to 72 + 26h = 202, so h = 5."
+  },
+  {
+    "id": "MATH13-M2-006",
+    "prompt": "A data set of 12 values has a mean of 16. One value of 18 is corrected to 30. What is the new mean of the data set?",
+    "choices": {
+      "A": "16.5",
+      "B": "17",
+      "C": "17.5",
+      "D": "18"
+    },
+    "correct": "B",
+    "explanation": "The original total is 12 · 16 = 192. Correcting 18 to 30 increases the total by 12, giving 204. The new mean is 204/12 = 17."
+  },
+  {
+    "id": "MATH13-M2-007",
+    "prompt": "How many real solutions does the equation |x − 2| = x² − 4x + 3 have?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "C",
+    "explanation": "For x ≥ 2, solve x − 2 = x² − 4x + 3, which gives x² − 5x + 5 = 0. This has two real roots, but only one is at least 2. For x < 2, solve 2 − x = x² − 4x + 3, which gives x² − 3x + 1 = 0. This has two real roots, but only one is less than 2. So there are 2 real solutions total."
+  },
+  {
+    "id": "MATH13-M2-008",
+    "prompt": "If f(x) = (2x − 1)/3, what is the value of f⁻¹(5) ?",
+    "choices": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    },
+    "correct": "B",
+    "explanation": "To find f⁻¹(5), solve (2x − 1)/3 = 5. Then 2x − 1 = 15, so 2x = 16 and x = 8."
+  },
+  {
+    "id": "MATH13-M2-009",
+    "prompt": "The table summarizes survey results.\n             Rides the bus   Does not ride the bus\nGrade 11 13 7\nGrade 12 9 11\nIf one student who rides the bus is selected at random, what is the probability that the student is in Grade 12?",
+    "choices": {
+      "A": "9/20",
+      "B": "9/22",
+      "C": "11/22",
+      "D": "13/22"
+    },
+    "correct": "B",
+    "explanation": "Among bus riders, there are 13 + 9 = 22 students total. Of those, 9 are in Grade 12."
+  },
+  {
+    "id": "MATH13-M2-010",
+    "prompt": "If x + y = 11 and xy = 24, what is the value of x² + y² ?",
+    "choices": {
+      "A": "61",
+      "B": "67",
+      "C": "73",
+      "D": "79"
+    },
+    "correct": "C",
+    "explanation": "Use x² + y² = (x + y)² − 2xy. So x² + y² = 11² − 2(24) = 121 − 48 = 73."
+  },
+  {
+    "id": "MATH13-M2-011",
+    "prompt": "How many liters of 70% acid solution must be mixed with 20% acid solution to make 15 liters of 40% acid solution?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "Let x be the liters of 70% solution. Then 15 − x liters are 20% solution. Solve 0.70x + 0.20(15 − x) = 0.40(15). This gives 0.50x = 3, so x = 6."
+  },
+  {
+    "id": "MATH13-M2-012",
+    "prompt": "What is the value of x in the equation 27^(x − 1) = 9^(x + 1) ?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "Rewrite with base 3: 27^(x − 1) = 3^(3x − 3) and 9^(x + 1) = 3^(2x + 2). Set exponents equal: 3x − 3 = 2x + 2, so x = 5."
+  },
+  {
+    "id": "MATH13-M2-013",
+    "prompt": "In a right triangle, sec θ = 13/5, and the side adjacent to angle θ has length 15. What is the perimeter of the triangle?",
+    "choices": {
+      "A": "78",
+      "B": "84",
+      "C": "90",
+      "D": "96"
+    },
+    "correct": "C",
+    "explanation": "Since sec θ = 13/5, the ratio hypotenuse:adjacent is 13:5. If the adjacent side is 15, the scale factor is 3, so the hypotenuse is 39 and the opposite side is 36. The perimeter is 15 + 36 + 39 = 90."
+  },
+  {
+    "id": "MATH13-M2-014",
+    "prompt": "In a survey, 55% of the people originally surveyed preferred cats. Then 18 more people who preferred dogs were added to the survey, and 44% of the people surveyed preferred cats. How many people were in the original survey?",
+    "choices": {
+      "A": "60",
+      "B": "66",
+      "C": "72",
+      "D": "75"
+    },
+    "correct": "C",
+    "explanation": "Let n be the original number surveyed. Then 0.55n = 0.44(n + 18). Solving gives 0.11n = 7.92, so n = 72."
+  },
+  {
+    "id": "MATH13-M2-015",
+    "prompt": "For x ≠ 4 and x ≠ −5, which expression is equivalent to (x² − 16)/(x² + x − 20) ?",
+    "choices": {
+      "A": "(x + 4)/(x + 5)",
+      "B": "(x − 4)/(x + 5)",
+      "C": "(x + 4)/(x − 5)",
+      "D": "(x − 4)/(x − 5)"
+    },
+    "correct": "A",
+    "explanation": "Factor numerator and denominator: x² − 16 = (x − 4)(x + 4) and x² + x − 20 = (x + 5)(x − 4). Cancel x − 4."
+  },
+  {
+    "id": "MATH13-M2-016",
+    "prompt": "What is the area of the triangle with vertices (2, 1), (8, 1), and (5, 5) ?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "correct": "B",
+    "explanation": "The base from (2, 1) to (8, 1) has length 6, and the height to (5, 5) is 4. So the area is (1/2)(6)(4) = 12."
+  },
+  {
+    "id": "MATH13-M2-017",
+    "prompt": "The system below has two solutions.\nx² + y² = 29\ny = x + 1\nWhat is the larger x-coordinate of a solution?",
+    "choices": {
+      "A": "(−1 + √57)/2",
+      "B": "(1 + √57)/2",
+      "C": "(−1 − √57)/2",
+      "D": "(1 − √57)/2"
+    },
+    "correct": "A",
+    "explanation": "Substitute y = x + 1 into x² + y² = 29: x² + (x + 1)² = 29. This gives 2x² + 2x − 28 = 0, or x² + x − 14 = 0. Using the quadratic formula gives x = (−1 ± √57)/2. The larger solution is (−1 + √57)/2."
+  },
+  {
+    "id": "MATH13-M2-018",
+    "prompt": "Each value in a data set is multiplied by 4 and then decreased by 3. If the interquartile range of the original data set is 5, what is the interquartile range of the new data set?",
+    "choices": {
+      "A": "17",
+      "B": "20",
+      "C": "23",
+      "D": "25"
+    },
+    "correct": "B",
+    "explanation": "Multiplying every value by 4 multiplies the IQR by 4, and subtracting 3 does not change the IQR. So the new IQR is 4 · 5 = 20."
+  },
+  {
+    "id": "MATH13-M2-019",
+    "prompt": "Two similar cylinders have radii in the ratio 2:3. If the volume of the smaller cylinder is 40, what is the volume of the larger cylinder?",
+    "choices": {
+      "A": "90",
+      "B": "120",
+      "C": "135",
+      "D": "150"
+    },
+    "correct": "C",
+    "explanation": "Similar solids scale volume by the cube of the linear scale factor. The scale factor is 3/2, so the larger volume is 40 · (3/2)³ = 40 · 27/8 = 135."
+  },
+  {
+    "id": "MATH13-M2-020",
+    "prompt": "The length of a rectangle is 4 more than its width. If the area of the rectangle is 96, what is the perimeter of the rectangle?",
+    "choices": {
+      "A": "32",
+      "B": "36",
+      "C": "40",
+      "D": "44"
+    },
+    "correct": "C",
+    "explanation": "Let the width be w and the length be w + 4. Then w(w + 4) = 96, so w² + 4w − 96 = 0. This factors as (w − 8)(w + 12) = 0, so w = 8 and the length is 12. The perimeter is 2(8 + 12) = 40."
+  },
+  {
+    "id": "MATH13-M2-021",
+    "prompt": "The quadratic equation x² + kx + 20 = 0 has two negative integer solutions that differ by 1. What is the value of k ?",
+    "choices": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "The two negative integer roots that differ by 1 and have product 20 are −4 and −5. Their sum is −9, and for x² + kx + 20 = 0, the sum of the roots is −k. So k = 9."
+  },
+  {
+    "id": "MATH13-M2-022",
+    "prompt": "What is the value of x in the equation √(x + 1) = 5 − x ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "Square both sides: x + 1 = (5 − x)² = x² − 10x + 25. Rearranging gives x² − 11x + 24 = 0, which factors as (x − 3)(x − 8) = 0. Since 5 − x must be nonnegative, only x = 3 works."
+  }
+]

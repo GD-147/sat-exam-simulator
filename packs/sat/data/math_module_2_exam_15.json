@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH15-M2-001",
+    "prompt": "What is the larger solution to the equation 4/(x − 1) = x/(x + 3) ?",
+    "choices": {
+      "A": "(5 − √73)/2",
+      "B": "(5 + √73)/2",
+      "C": "(−5 + √73)/2",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Cross-multiply: 4(x + 3) = x(x − 1). This gives x² − 5x − 12 = 0. Using the quadratic formula, x = (5 ± √73)/2, so the larger solution is (5 + √73)/2."
+  },
+  {
+    "id": "MATH15-M2-002",
+    "prompt": "For what value of k does the line y = −3x + k intersect the parabola y = x² − 2x + 8 at exactly one point?",
+    "choices": {
+      "A": "27/4",
+      "B": "29/4",
+      "C": "31/4",
+      "D": "33/4"
+    },
+    "correct": "C",
+    "explanation": "Set the equations equal: x² − 2x + 8 = −3x + k. Then x² + x + (8 − k) = 0. For exactly one point of intersection, the discriminant is 0: 1 − 4(8 − k) = 0. So 4k = 31, and k = 31/4."
+  },
+  {
+    "id": "MATH15-M2-003",
+    "prompt": "A function is modeled by f(x) = abˣ, where a and b are positive constants. If f(1) = 14 and f(4) = 112, what is the value of a ?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "Since f(x) = abˣ, divide the two values: 112/14 = b³ = 8, so b = 2. Then 14 = a(2), so a = 7."
+  },
+  {
+    "id": "MATH15-M2-004",
+    "prompt": "The monic cubic polynomial q(x) = x³ + ax² + bx + 18 has factors x − 1 and x + 3. What is the value of q(2) ?",
+    "choices": {
+      "A": "−24",
+      "B": "−20",
+      "C": "−16",
+      "D": "20"
+    },
+    "correct": "B",
+    "explanation": "The constant term 18 means the product of the roots is −18. Since the roots include 1 and −3, the third root is 6. So q(2) = (2 − 1)(2 + 3)(2 − 6) = 1 · 5 · (−4) = −20."
+  },
+  {
+    "id": "MATH15-M2-005",
+    "prompt": "A sphere has volume (500π)/3. What is the surface area of the sphere?",
+    "choices": {
+      "A": "75π",
+      "B": "100π",
+      "C": "125π",
+      "D": "(500π)/3"
+    },
+    "correct": "B",
+    "explanation": "From (4/3)πr³ = (500π)/3, it follows that 4r³ = 500, so r³ = 125 and r = 5. Surface area is 4πr² = 4π(25) = 100π."
+  },
+  {
+    "id": "MATH15-M2-006",
+    "prompt": "A data set of 8 values has a mean of 21. One value of 17 is corrected to 29. What is the new mean of the data set?",
+    "choices": {
+      "A": "21.5",
+      "B": "22",
+      "C": "22.5",
+      "D": "23"
+    },
+    "correct": "C",
+    "explanation": "The original total is 8 · 21 = 168. Replacing 17 with 29 increases the total by 12, giving 180. The new mean is 180/8 = 22.5."
+  },
+  {
+    "id": "MATH15-M2-007",
+    "prompt": "How many real solutions does the equation |x − 4| = x² − 6x + 5 have?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "C",
+    "explanation": "For x ≥ 4, solve x − 4 = x² − 6x + 5, which gives x² − 7x + 9 = 0. Only one of those solutions is at least 4. For x < 4, solve 4 − x = x² − 6x + 5, which gives x² − 5x + 1 = 0. Only one of those solutions is less than 4. So there are 2 real solutions total."
+  },
+  {
+    "id": "MATH15-M2-008",
+    "prompt": "If g(x) = (4x − 3)/5, what is the value of g⁻¹(9) ?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "correct": "C",
+    "explanation": "Solve (4x − 3)/5 = 9. Then 4x − 3 = 45, so 4x = 48 and x = 12."
+  },
+  {
+    "id": "MATH15-M2-009",
+    "prompt": "The table summarizes survey results.\n               Uses a locker   Does not use a locker\nAthlete 11 9\nNon-athlete 7 13\nIf one student who uses a locker is selected at random, what is the probability that the student is an athlete?",
+    "choices": {
+      "A": "7/20",
+      "B": "11/18",
+      "C": "11/20",
+      "D": "13/18"
+    },
+    "correct": "B",
+    "explanation": "Among students who use a locker, there are 11 + 7 = 18 total. Of those, 11 are athletes."
+  },
+  {
+    "id": "MATH15-M2-010",
+    "prompt": "If x + y = 9 and x² + y² = 41, what is the value of xy ?",
+    "choices": {
+      "A": "18",
+      "B": "20",
+      "C": "22",
+      "D": "24"
+    },
+    "correct": "B",
+    "explanation": "Use (x + y)² = x² + 2xy + y². Then 9² = 41 + 2xy, so 81 = 41 + 2xy. Thus 2xy = 40 and xy = 20."
+  },
+  {
+    "id": "MATH15-M2-011",
+    "prompt": "How many liters of 55% saline solution must be mixed with 25% saline solution to make 18 liters of 35% saline solution?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "Let x be the liters of 55% solution. Then 18 − x liters are 25% solution. Solve 0.55x + 0.25(18 − x) = 0.35(18). This simplifies to 0.30x = 1.8, so x = 6."
+  },
+  {
+    "id": "MATH15-M2-012",
+    "prompt": "What is the value of x in the equation 8^(x + 1) = 4^(2x − 1) ?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "Rewrite with base 2: 8^(x + 1) = 2^(3x + 3) and 4^(2x − 1) = 2^(4x − 2). Set exponents equal: 3x + 3 = 4x − 2, so x = 5."
+  },
+  {
+    "id": "MATH15-M2-013",
+    "prompt": "In a right triangle, cos θ = 5/13, and the hypotenuse has length 39. What is the perimeter of the triangle?",
+    "choices": {
+      "A": "78",
+      "B": "84",
+      "C": "90",
+      "D": "96"
+    },
+    "correct": "C",
+    "explanation": "Since cos θ = 5/13 and the hypotenuse is 39, the scale factor is 3. So the adjacent side is 15 and the opposite side is 36. The perimeter is 15 + 36 + 39 = 90."
+  },
+  {
+    "id": "MATH15-M2-014",
+    "prompt": "In a survey, 60% of the people originally surveyed preferred chess. Then 24 more people who did not prefer chess were added to the survey, and 45% of the people surveyed preferred chess. How many people were in the original survey?",
+    "choices": {
+      "A": "60",
+      "B": "72",
+      "C": "80",
+      "D": "96"
+    },
+    "correct": "B",
+    "explanation": "Let n be the original number surveyed. Then 0.60n = 0.45(n + 24). Solving gives 0.15n = 10.8, so n = 72."
+  },
+  {
+    "id": "MATH15-M2-015",
+    "prompt": "For x ≠ 5 and x ≠ 1, which expression is equivalent to (x² − 9x + 20)/(x² − 6x + 5) ?",
+    "choices": {
+      "A": "(x − 4)/(x − 1)",
+      "B": "(x − 5)/(x − 1)",
+      "C": "(x − 4)/(x − 5)",
+      "D": "(x + 4)/(x − 1)"
+    },
+    "correct": "A",
+    "explanation": "Factor numerator and denominator: x² − 9x + 20 = (x − 5)(x − 4) and x² − 6x + 5 = (x − 5)(x − 1). Cancel x − 5."
+  },
+  {
+    "id": "MATH15-M2-016",
+    "prompt": "What is the area of the triangle with vertices (−1, 2), (5, 2), and (2, 8) ?",
+    "choices": {
+      "A": "15",
+      "B": "16",
+      "C": "18",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "The base from (−1, 2) to (5, 2) has length 6, and the height to (2, 8) is 6. So the area is (1/2)(6)(6) = 18."
+  },
+  {
+    "id": "MATH15-M2-017",
+    "prompt": "The system below has two solutions.\nx² + y² = 26\ny = x + 3\nWhat is the larger x-coordinate of a solution?",
+    "choices": {
+      "A": "(−3 + √43)/2",
+      "B": "(3 + √43)/2",
+      "C": "(−3 − √43)/2",
+      "D": "(3 − √43)/2"
+    },
+    "correct": "A",
+    "explanation": "Substitute y = x + 3 into x² + y² = 26: x² + (x + 3)² = 26. This gives 2x² + 6x − 17 = 0. Using the quadratic formula, x = (−3 ± √43)/2. The larger solution is (−3 + √43)/2."
+  },
+  {
+    "id": "MATH15-M2-018",
+    "prompt": "Each value in a data set is multiplied by 2 and then decreased by 5. If the interquartile range of the original data set is 7, what is the interquartile range of the new data set?",
+    "choices": {
+      "A": "9",
+      "B": "12",
+      "C": "14",
+      "D": "19"
+    },
+    "correct": "C",
+    "explanation": "Multiplying every data value by 2 multiplies the IQR by 2, and subtracting 5 does not change it. So the new IQR is 2 · 7 = 14."
+  },
+  {
+    "id": "MATH15-M2-019",
+    "prompt": "Two similar pyramids have heights in the ratio 3:4. If the volume of the smaller pyramid is 81, what is the volume of the larger pyramid?",
+    "choices": {
+      "A": "108",
+      "B": "144",
+      "C": "192",
+      "D": "256"
+    },
+    "correct": "C",
+    "explanation": "Similar solids scale volume by the cube of the linear scale factor. The factor is 4/3, so the larger volume is 81 · (4/3)³ = 81 · 64/27 = 192."
+  },
+  {
+    "id": "MATH15-M2-020",
+    "prompt": "What is the value of x in the equation √(x + 12) = x − 2 ?",
+    "choices": {
+      "A": "(5 − √57)/2",
+      "B": "(5 + √57)/2",
+      "C": "(−5 + √57)/2",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "Square both sides: x + 12 = (x − 2)² = x² − 4x + 4. This gives x² − 5x − 8 = 0. The solutions are (5 ± √57)/2, and only the larger one satisfies x ≥ 2."
+  },
+  {
+    "id": "MATH15-M2-021",
+    "prompt": "A circle has radius 10, and the distance from its center to a chord is 6. What is the length of the chord?",
+    "choices": {
+      "A": "8",
+      "B": "12",
+      "C": "16",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "Half the chord, the radius, and the distance from the center to the chord form a right triangle. Half the chord is √(10² − 6²) = √64 = 8, so the full chord length is 16."
+  },
+  {
+    "id": "MATH15-M2-022",
+    "prompt": "The quadratic equation x² + kx + 28 = 0 has two negative integer solutions that differ by 3. What is the value of k ?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "correct": "D",
+    "explanation": "The two negative integers that differ by 3 and multiply to 28 are −4 and −7. Their sum is −11, and for x² + kx + 28 = 0, the sum of the roots is −k. So k = 11."
+  }
+]

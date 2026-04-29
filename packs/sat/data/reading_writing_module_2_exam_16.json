@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW16-M2-001",
+    "prompt": "The historian describes the reform as “piecemeal,” noting that it was enacted through a series of local ordinances rather than through one comprehensive law.\nAs used in the text, what does “piecemeal” most nearly mean?",
+    "choices": {
+      "A": "in separate stages",
+      "B": "fully reversed",
+      "C": "widely celebrated",
+      "D": "based on guesswork"
+    },
+    "correct": "A",
+    "explanation": "“Piecemeal” means happening in separate parts or stages rather than all at once."
+  },
+  {
+    "id": "RW16-M2-002",
+    "prompt": "A scholar argues that indexes in household manuals do more than help readers locate topics. By listing some entries under headings such as “comfort,” “efficiency,” or “hygiene,” editors suggest which domestic concerns belong together and what counts as practical expertise. In that way, the index frames interpretation as well as navigation.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Indexes in household manuals can shape how readers group and interpret topics, not just help them locate them.",
+      "B": "Household manuals are most useful when their indexes avoid all cross-references.",
+      "C": "Readers usually pay more attention to indexes than to the chapters they describe.",
+      "D": "Editors group topics in indexes only to save printing space."
+    },
+    "correct": "A",
+    "explanation": "The passage argues that index headings influence how readers understand relationships among topics."
+  },
+  {
+    "id": "RW16-M2-003",
+    "prompt": "Agricultural historians sometimes use cider tax rolls to estimate apple harvests. Yet apples pressed at home for household use or fed directly to livestock often generated no tax entry. As a result, the rolls may understate the total apple yield of a district.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Cider tax rolls may provide an incomplete estimate of a district’s apple harvest.",
+      "B": "Apples pressed at home were always taxed more heavily than commercial cider.",
+      "C": "Livestock feed records were usually copied into cider tax rolls.",
+      "D": "Agricultural historians can determine exact household apple use from tax rolls alone."
+    },
+    "correct": "A",
+    "explanation": "Apples used at home or fed to livestock might never appear in taxable records."
+  },
+  {
+    "id": "RW16-M2-004",
+    "prompt": "A critic notes that a history repeatedly describes empire as scaffolding, braces, and rivets. The critic argues that this language presents political power as a structure that must be assembled and constantly maintained.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a repeated metaphor that the second sentence interprets.",
+      "B": "It summarizes the history’s argument in chronological order.",
+      "C": "It rejects the interpretation proposed in the second sentence.",
+      "D": "It explains how iron structures were engineered in the period."
+    },
+    "correct": "A",
+    "explanation": "The first sentence identifies the empire-as-structure imagery, and the second explains what that imagery suggests."
+  },
+  {
+    "id": "RW16-M2-005",
+    "prompt": "A student is writing about capillary mats for greenhouse trays and has taken these notes:\n• Capillary mats deliver water upward into trays from below.\n• This can reduce splashing and keep leaves drier than overhead watering does.\n• However, the mats work best on level benches.\n• Managers must also monitor salt buildup and clean the system regularly.\nThe student wants to emphasize both a potential benefit of capillary mats and a factor that can limit how well they work. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Capillary mats can water greenhouse trays efficiently while reducing leaf wetness, but they require level benches and salt management.",
+      "B": "Greenhouse trays should never be watered from above under any circumstances.",
+      "C": "Salt buildup does not affect how irrigation systems perform.",
+      "D": "Level benches are unnecessary once greenhouse trays have been planted."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the benefit and the practical limitation described in the notes."
+  },
+  {
+    "id": "RW16-M2-006",
+    "prompt": "The historian expected the pension cards to show that workshop employment dropped suddenly after the bridge fire. ______, the cards show a gradual decline spread across almost a decade.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Instead,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "B",
+    "explanation": "The cards did not show a sudden drop; they showed a slower change over many years."
+  },
+  {
+    "id": "RW16-M2-007",
+    "prompt": "The account could not be authentic<u>: it mentions a bell tower that was not completed until seven years later.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; it mentions a bell tower that was not completed until seven years later.",
+      "C": ", it mentions a bell tower that was not completed until seven years later.",
+      "D": "—it mentions a bell tower that was not completed until seven years later."
+    },
+    "correct": "A",
+    "explanation": "A colon correctly introduces the specific detail that makes the account impossible."
+  },
+  {
+    "id": "RW16-M2-008",
+    "prompt": "No mere decoration, the carved cornice also directed where morning light fell, which doorway seemed most ceremonial, and how visitors moved through the hall.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It contrasts a narrow description of the cornice with a broader explanation of its role.",
+      "B": "It identifies the artisan who carved the cornice.",
+      "C": "It explains how the cornice was restored after storm damage.",
+      "D": "It presents the results of a survey of hall visitors."
+    },
+    "correct": "A",
+    "explanation": "The introductory phrase rejects the idea that the cornice is only decorative."
+  },
+  {
+    "id": "RW16-M2-009",
+    "prompt": "After Sora spoke with Mateo about Keisha’s article, <u>she</u> proposed adding a short section on freight insurance.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "she",
+      "B": "Sora",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “she” with “Sora” removes the ambiguity."
+  },
+  {
+    "id": "RW16-M2-010",
+    "prompt": "Had the survey recorded temporary stalls separately from permanent booths, the market totals <u>would be</u> easier to interpret now.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "would be",
+      "B": "would have been",
+      "C": "are",
+      "D": "were"
+    },
+    "correct": "A",
+    "explanation": "The sentence describes an unreal past condition with a present result."
+  },
+  {
+    "id": "RW16-M2-011",
+    "prompt": "The editor intended to say that the archivist numbered almost every sketchbook page by hand.\nWhich choice most effectively conveys the intended meaning?",
+    "choices": {
+      "A": "The archivist almost numbered every sketchbook page by hand.",
+      "B": "The archivist numbered almost every sketchbook page by hand.",
+      "C": "The archivist numbered every almost sketchbook page by hand.",
+      "D": "The archivist numbered every sketchbook page by hand almost."
+    },
+    "correct": "B",
+    "explanation": "“Almost” should modify “every sketchbook page,” not the action of numbering."
+  },
+  {
+    "id": "RW16-M2-012",
+    "prompt": "[1] On restored dunes, crews sometimes spread jute netting across bare sand. [2] The mesh can slow surface wind and catch drifting grains. [3] As sand accumulates, beach grass seedlings may establish more successfully. [4] Once the roots knit the surface together, some sections require little further intervention.\nWhich choice best describes the most logical placement for the following sentence?\n“The netting is meant to stabilize the sand while also supporting new plant growth.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The new sentence follows the description of how the netting affects sand and sets up the explanation of improved seedling establishment."
+  },
+  {
+    "id": "RW16-M2-013",
+    "prompt": "A researcher compared the average number of minutes four groups spent discussing a policy proposal.\nGroup A: 25\nGroup B: 19\nGroup C: 22\nGroup D: 17\nA student claims that Group D spent the least time discussing the proposal, on average. Which choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is supported because Group D’s average is lower than those of the other groups.",
+      "B": "The claim is unsupported because Group B also spent less than twenty minutes.",
+      "C": "The claim is unsupported because Group C spent more time than Group A.",
+      "D": "The claim is supported because Group D spent less time than Group A but more than Group C."
+    },
+    "correct": "A",
+    "explanation": "Group D’s 17 minutes is the lowest value in the table."
+  },
+  {
+    "id": "RW16-M2-014",
+    "prompt": "The reviewer says the report’s treatment of dissent is “cursory,” noting that major objections are summarized in a single short paragraph.\nAs used in the text, what does “cursory” most nearly mean?",
+    "choices": {
+      "A": "patient and detailed",
+      "B": "brief and superficial",
+      "C": "imaginative and bold",
+      "D": "technically precise"
+    },
+    "correct": "B",
+    "explanation": "“Cursory” means quick and not thorough."
+  },
+  {
+    "id": "RW16-M2-015",
+    "prompt": "In a novel, the narrator says, “After the mill closed, my mother still packed my father’s lunch tin every Monday dawn. Empty, it fed no one, but it kept the kitchen waking toward work.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The ritual preserves the feeling of a work life that has already ended.",
+      "B": "The narrator plans to reopen the mill with the old lunch tin.",
+      "C": "The mother packs the tin because the father still leaves for work each Monday.",
+      "D": "The kitchen matters only because it contains the father’s lunch tin."
+    },
+    "correct": "A",
+    "explanation": "Packing the lunch tin keeps the kitchen oriented toward a routine that no longer actually occurs."
+  },
+  {
+    "id": "RW16-M2-016",
+    "prompt": "A study found that music students who grouped instruments by how they make sound later remembered relationships among instrument families more accurately than students who reviewed the same instruments alphabetically. The researchers note, however, that the study did not test whether the grouping activity improved memory for maker names.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Grouping instruments by sound production may help students remember relationships even if its effect on maker names is uncertain.",
+      "B": "Alphabetical order is never useful for studying music history.",
+      "C": "Maker names are always easier to remember than instrument relationships.",
+      "D": "The study proved that grouping is the best strategy for every music lesson."
+    },
+    "correct": "A",
+    "explanation": "The study found improved recall of relationships, but it did not test memory for maker names."
+  },
+  {
+    "id": "RW16-M2-017",
+    "prompt": "A literary historian argues that shipping manifests influenced certain novels. To support this claim, the historian points to a chapter that lists crates, weights, and destinations in a rhythm resembling a manifest rather than a conventional scene description.\nWhy does the author most likely include the example of the chapter listing crates, weights, and destinations?",
+    "choices": {
+      "A": "To illustrate what manifest-like prose looks like in a novel",
+      "B": "To prove that shipping manifests were more widely read than novels",
+      "C": "To argue that lists are always more realistic than scene description",
+      "D": "To suggest that all novels about ports copied shipping documents directly"
+    },
+    "correct": "A",
+    "explanation": "The example demonstrates the claim by showing how a chapter can resemble a shipping manifest."
+  },
+  {
+    "id": "RW16-M2-018",
+    "prompt": "A student is writing about light shelves in classrooms and has taken these notes:\n• Light shelves are horizontal surfaces that reflect daylight deeper into a room.\n• They may reduce the need for electric lighting during part of the day.\n• However, their performance depends on window orientation and sky conditions.\n• The shelves and nearby windows must also be cleaned and coordinated with blinds.\nThe student wants to explain a potential benefit of light shelves while acknowledging a practical limitation. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Light shelves can send daylight deeper into classrooms and reduce some electric lighting use, but they depend on building orientation, sky conditions, and maintenance.",
+      "B": "Building orientation has no effect on how daylight enters classrooms.",
+      "C": "Electric lighting is unnecessary in any classroom with windows.",
+      "D": "Light shelves work best when they are never cleaned or adjusted."
+    },
+    "correct": "A",
+    "explanation": "This choice best combines the benefit of deeper daylight with the practical limitations in the notes."
+  },
+  {
+    "id": "RW16-M2-019",
+    "prompt": "The panel agreed that the exhibit label needed revision. ______, members disagreed about whether the new version should keep technical geological terms or define more of them for general visitors.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Nevertheless,",
+      "C": "Similarly,",
+      "D": "For example,"
+    },
+    "correct": "B",
+    "explanation": "The sentence contrasts agreement that revision is needed with disagreement about how the revision should work."
+  },
+  {
+    "id": "RW16-M2-020",
+    "prompt": "The seminar asks students to compare drafts, question assumptions, and <u>trace how each revision shifts the argument.</u>\nWhich choice best explains why the underlined portion is effective?",
+    "choices": {
+      "A": "It correctly completes a parallel series with the verbs “compare” and “question.”",
+      "B": "It should be changed to “tracing how each revision shifts the argument” to sound more formal.",
+      "C": "It is incorrect because every verb in a series must begin with “to.”",
+      "D": "It should be changed to “the tracing of how each revision shifts the argument” to be grammatical."
+    },
+    "correct": "A",
+    "explanation": "“Trace” matches the grammatical form of the other verbs in the series."
+  },
+  {
+    "id": "RW16-M2-021",
+    "prompt": "The ledger <u>that omits the flood entry</u> is probably incomplete.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a nonessential phrase that should be set off with commas.",
+      "B": "It is a restrictive clause that correctly identifies which ledger is being discussed.",
+      "C": "It creates a comma splice.",
+      "D": "It should be moved to the end of the sentence for clarity."
+    },
+    "correct": "B",
+    "explanation": "The clause specifies the particular ledger rather than adding nonessential information."
+  },
+  {
+    "id": "RW16-M2-022",
+    "prompt": "The sequence of outages and quick repairs <u>has</u> delayed the reopening of the pier.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "are"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “sequence” takes the singular verb “has.”"
+  },
+  {
+    "id": "RW16-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The revised booking form improved the theater.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The revised booking form improved the theater.",
+      "B": "The revised booking form changed the theater in several useful ways.",
+      "C": "The revised booking form reduced double reservations, shortened check-in lines, and made seat changes easier to track.",
+      "D": "The revised booking form made the theater much better overall."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces a vague claim with concrete improvements."
+  },
+  {
+    "id": "RW16-M2-024",
+    "prompt": "[1] On coastal cliffs, shallow ledges may collect windblown soil while nearby rock stays bare. [2] Lichens and small herbs often establish first on those ledges. [3] As roots and litter accumulate, the ledges can support deeper pockets of soil. [4] Ecologists therefore map these cliff faces at fine scales rather than treating them as uniform rock.\nWhich choice best describes the most logical placement for the following sentence?\n“Even a few centimeters of extra surface shelter can thus alter where plant succession begins.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The sentence best follows the description of accumulation and plant establishment before the broader conclusion about mapping."
+  },
+  {
+    "id": "RW16-M2-025",
+    "prompt": "The report originally described the school enrollment help desk as “busy,” but that wording failed to show that it was busiest between 7 and 8 a.m. during enrollment week, when parents were registering children, while late-afternoon traffic was much lighter. The editor suggests replacing “busy” with <u>busiest between 7 and 8 a.m. during enrollment week for parents registering children</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the statement more precise by specifying when the help desk was busiest and whom it served most.",
+      "B": "It makes the statement less formal by using conversational language.",
+      "C": "It changes the meaning by suggesting that the help desk closed in the afternoon.",
+      "D": "It introduces a personal opinion that the original did not contain."
+    },
+    "correct": "A",
+    "explanation": "The revision identifies both the peak time and the main user group."
+  },
+  {
+    "id": "RW16-M2-026",
+    "prompt": "In an experiment, participants reconstructing a broken tile frieze made fewer placement errors when the reference image included faint diagonal guides across repeating motifs than when it showed the motif without guides. The researchers suggest that the guides helped participants keep track of position.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Diagonal guides may help people reconstruct repeating tile patterns more accurately.",
+      "B": "Repeating patterns cannot be copied correctly without written instructions.",
+      "C": "The guided version was easier only because it used fewer colors.",
+      "D": "The experiment proved that guides improve every kind of visual task."
+    },
+    "correct": "A",
+    "explanation": "Participants made fewer placement errors when the reference image included diagonal guides."
+  },
+  {
+    "id": "RW16-M2-027",
+    "prompt": "An essay on marked newspaper proof sheets ends by noting that inked corrections, recast headlines, and shifted column breaks reveal how editors reshaped stories before publication. For that reason, some press archives preserve proof sheets alongside the newspapers that were ultimately printed.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It applies the earlier idea to explain a preservation practice.",
+      "B": "It narrows the discussion to the chemistry of printing ink.",
+      "C": "It argues that proof sheets are always more valuable than printed newspapers.",
+      "D": "It repeats the earlier claim without extending it."
+    },
+    "correct": "A",
+    "explanation": "The final sentence explains why archives preserve proof sheets in light of what those marked pages reveal."
+  }
+]

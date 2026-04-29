@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH16-M1-001",
+    "prompt": "What is the value of x in the equation (x − 3)/4 + (x + 5)/2 = 7 ?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "Multiply both sides by 4: x − 3 + 2(x + 5) = 28. Simplify to 3x + 7 = 28, so x = 7."
+  },
+  {
+    "id": "MATH16-M1-002",
+    "prompt": "If d = rt + s, which expression gives t in terms of d, r, and s ?",
+    "choices": {
+      "A": "(d + s)/r",
+      "B": "(d − s)/r",
+      "C": "r/(d − s)",
+      "D": "d − rs"
+    },
+    "correct": "B",
+    "explanation": "Subtract s from both sides to get d − s = rt. Then divide by r to get t = (d − s)/r."
+  },
+  {
+    "id": "MATH16-M1-003",
+    "prompt": "The variable y varies directly with x and z. If y = 30 when x = 2 and z = 5, what is the value of y when x = 4 and z = 3 ?",
+    "choices": {
+      "A": "24",
+      "B": "30",
+      "C": "36",
+      "D": "48"
+    },
+    "correct": "C",
+    "explanation": "Since y varies directly with x and z, y = kxz. Use 30 = k(2)(5), so k = 3. Then y = 3(4)(3) = 36."
+  },
+  {
+    "id": "MATH16-M1-004",
+    "prompt": "The table shows values of a linear function.\nx y\n−1 7\n2 1\n5 −5\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = −x + 6",
+      "B": "y = −2x + 5",
+      "C": "y = 2x + 5",
+      "D": "y = −3x + 7"
+    },
+    "correct": "B",
+    "explanation": "The slope is (1 − 7)/(2 − (−1)) = −6/3 = −2. Since the point (2, 1) is on the line, the equation is y = −2x + 5."
+  },
+  {
+    "id": "MATH16-M1-005",
+    "prompt": "A random integer from 1 through 20, inclusive, is selected. What is the probability that the integer is divisible by 3 or divisible by 4 ?",
+    "choices": {
+      "A": "2/5",
+      "B": "1/2",
+      "C": "3/5",
+      "D": "2/3"
+    },
+    "correct": "B",
+    "explanation": "Multiples of 3 from 1 to 20 are 3, 6, 9, 12, 15, 18. Multiples of 4 are 4, 8, 12, 16, 20. There are 10 numbers in the union, so the probability is 10/20 = 1/2."
+  },
+  {
+    "id": "MATH16-M1-006",
+    "prompt": "A trapezoid has bases of length 7 and 11 and an area of 54. What is the height of the trapezoid?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "The area of a trapezoid is (1/2)(b₁ + b₂)h. So 54 = (1/2)(7 + 11)h = 9h, which gives h = 6."
+  },
+  {
+    "id": "MATH16-M1-007",
+    "prompt": "Which expression is equivalent to 3√12 + 2√27 ?",
+    "choices": {
+      "A": "6√3",
+      "B": "9√3",
+      "C": "10√3",
+      "D": "12√3"
+    },
+    "correct": "D",
+    "explanation": "√12 = 2√3, so 3√12 = 6√3. Also √27 = 3√3, so 2√27 = 6√3. Their sum is 12√3."
+  },
+  {
+    "id": "MATH16-M1-008",
+    "prompt": "A population starts at 200 and doubles every 4 hours. Which expression represents the population after t hours?",
+    "choices": {
+      "A": "200(2t/4)",
+      "B": "200(1/2)^(t/4)",
+      "C": "200(2)^(t/4)",
+      "D": "400(2)^(t/4)"
+    },
+    "correct": "C",
+    "explanation": "Doubling every 4 hours means the factor 2 is applied once every 4-hour period, so the model is 200(2)^(t/4)."
+  },
+  {
+    "id": "MATH16-M1-009",
+    "prompt": "At a store, 2 pens and 1 notebook cost $7, and 3 pens and 2 notebooks cost $13. What is the cost, in dollars, of 1 notebook?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "Let p be the pen cost and n be the notebook cost. From 2p + n = 7, n = 7 − 2p. Substitute into 3p + 2n = 13 to get 3p + 2(7 − 2p) = 13, so p = 1 and n = 5."
+  },
+  {
+    "id": "MATH16-M1-010",
+    "prompt": "In a 45°-45°-90° triangle, the hypotenuse has length 18√2. What is the length of each leg?",
+    "choices": {
+      "A": "9",
+      "B": "18",
+      "C": "36",
+      "D": "72"
+    },
+    "correct": "B",
+    "explanation": "In a 45°-45°-90° triangle, the hypotenuse equals leg × √2. So each leg is 18√2 ÷ √2 = 18."
+  },
+  {
+    "id": "MATH16-M1-011",
+    "prompt": "What is the minimum value of the function y = x² + 8x + 3 ?",
+    "choices": {
+      "A": "−16",
+      "B": "−13",
+      "C": "−8",
+      "D": "3"
+    },
+    "correct": "B",
+    "explanation": "Complete the square: x² + 8x + 3 = (x + 4)² − 13. The minimum value is −13."
+  },
+  {
+    "id": "MATH16-M1-012",
+    "prompt": "The function p is defined by\np(x) = x + 4, for x ≤ 1\np(x) = 2x − 1, for x > 1\nWhat is the value of p(1) + p(3) ?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "correct": "C",
+    "explanation": "Since 1 ≤ 1, p(1) = 1 + 4 = 5. Since 3 > 1, p(3) = 2(3) − 1 = 5. Their sum is 10."
+  },
+  {
+    "id": "MATH16-M1-013",
+    "prompt": "The table shows a data set.\nValue 1 5 7\nFrequency 2 3 1\nWhat is the mean of the data set?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "The mean is (1·2 + 5·3 + 7·1)/(2 + 3 + 1) = (2 + 15 + 7)/6 = 24/6 = 4."
+  },
+  {
+    "id": "MATH16-M1-014",
+    "prompt": "Which equation represents the line that passes through the points (0, −4) and (6, 5) ?",
+    "choices": {
+      "A": "y = (3/2)x − 4",
+      "B": "y = (2/3)x − 4",
+      "C": "y = (3/2)x + 4",
+      "D": "y = (2/3)x + 5"
+    },
+    "correct": "A",
+    "explanation": "The slope is (5 − (−4))/(6 − 0) = 9/6 = 3/2. Since the y-intercept is −4, the equation is y = (3/2)x − 4."
+  },
+  {
+    "id": "MATH16-M1-015",
+    "prompt": "A cylinder has diameter 8 and height 7. What is the volume of the cylinder?",
+    "choices": {
+      "A": "56π",
+      "B": "84π",
+      "C": "112π",
+      "D": "224π"
+    },
+    "correct": "C",
+    "explanation": "The radius is 4 because the diameter is 8. Volume = πr²h = π(4²)(7) = 112π."
+  },
+  {
+    "id": "MATH16-M1-016",
+    "prompt": "If g(x) = |x + 1|, what is the value of g(−6) + g(4) ?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "correct": "C",
+    "explanation": "g(−6) = |−6 + 1| = 5 and g(4) = |4 + 1| = 5. Their sum is 10."
+  },
+  {
+    "id": "MATH16-M1-017",
+    "prompt": "A town’s population increased from 1,200 to 1,500. What was the percent increase?",
+    "choices": {
+      "A": "20%",
+      "B": "25%",
+      "C": "30%",
+      "D": "35%"
+    },
+    "correct": "B",
+    "explanation": "The increase is 1,500 − 1,200 = 300. The percent increase is 300/1,200 = 0.25 = 25%."
+  },
+  {
+    "id": "MATH16-M1-018",
+    "prompt": "Two similar triangles have corresponding side lengths 6 and 9. If the area of the smaller triangle is 16, what is the area of the larger triangle?",
+    "choices": {
+      "A": "24",
+      "B": "30",
+      "C": "36",
+      "D": "40.5"
+    },
+    "correct": "C",
+    "explanation": "The scale factor from smaller to larger is 9/6 = 3/2. Area scales by the square of the scale factor, so the larger area is 16(3/2)² = 16(9/4) = 36."
+  },
+  {
+    "id": "MATH16-M1-019",
+    "prompt": "The point (2, −3) is reflected across the y-axis and then translated 4 units up. What are the coordinates of the final image?",
+    "choices": {
+      "A": "(−2, 1)",
+      "B": "(−2, −7)",
+      "C": "(2, 1)",
+      "D": "(2, −7)"
+    },
+    "correct": "A",
+    "explanation": "Reflecting (2, −3) across the y-axis gives (−2, −3). Translating up 4 units gives (−2, 1)."
+  },
+  {
+    "id": "MATH16-M1-020",
+    "prompt": "If x + 2 is a factor of x² + kx + 8, what is the value of k ?",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "If x + 2 is a factor, then substituting x = −2 gives 0. So (−2)² + k(−2) + 8 = 0, which simplifies to 12 − 2k = 0, so k = 6."
+  },
+  {
+    "id": "MATH16-M1-021",
+    "prompt": "A circle has circumference 10π. What is the area of the circle?",
+    "choices": {
+      "A": "10π",
+      "B": "20π",
+      "C": "25π",
+      "D": "50π"
+    },
+    "correct": "C",
+    "explanation": "Circumference 10π means 2πr = 10π, so r = 5. Area = πr² = 25π."
+  },
+  {
+    "id": "MATH16-M1-022",
+    "prompt": "The table shows values of a function.\nx y\n0 3\n1 0\n2 −1\n3 0\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = (x − 2)² − 1",
+      "B": "y = x² − 1",
+      "C": "y = (x − 1)²",
+      "D": "y = x² − 2x + 3"
+    },
+    "correct": "A",
+    "explanation": "Substituting x = 0, 1, 2, and 3 gives 3, 0, −1, and 0, which matches the table.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

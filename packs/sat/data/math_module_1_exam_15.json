@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH15-M1-001",
+    "prompt": "What is the value of x in the equation (x − 3)/4 + (x + 5)/2 = 7 ?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "Multiply both sides by 4: x − 3 + 2(x + 5) = 28. Then x − 3 + 2x + 10 = 28, so 3x + 7 = 28 and x = 7."
+  },
+  {
+    "id": "MATH15-M1-002",
+    "prompt": "If d = rt + s, which expression gives t in terms of d, r, and s ?",
+    "choices": {
+      "A": "(d + s)/r",
+      "B": "(d − s)/r",
+      "C": "r/(d − s)",
+      "D": "d − rs"
+    },
+    "correct": "B",
+    "explanation": "Subtract s from both sides to get d − s = rt. Then divide by r."
+  },
+  {
+    "id": "MATH15-M1-003",
+    "prompt": "For positive m and positive n, which expression is equivalent to √(72m⁴n²) ?",
+    "choices": {
+      "A": "6m²n√2",
+      "B": "6mn√2",
+      "C": "12m²n",
+      "D": "72m²n²"
+    },
+    "correct": "A",
+    "explanation": "√72 = 6√2, √(m⁴) = m², and √(n²) = n for positive m and n."
+  },
+  {
+    "id": "MATH15-M1-004",
+    "prompt": "The table shows values of a linear function.\nx y\n−2 13\n1 7\n4 1\nWhat is the x-coordinate of the x-intercept of the graph of the function?",
+    "choices": {
+      "A": "7/2",
+      "B": "4",
+      "C": "9/2",
+      "D": "5"
+    },
+    "correct": "C",
+    "explanation": "The slope is (7 − 13)/(1 − (−2)) = −6/3 = −2. Using point-slope form gives y = −2x + 9. Setting y = 0 gives x = 9/2."
+  },
+  {
+    "id": "MATH15-M1-005",
+    "prompt": "A spinner has 8 equal sections numbered 1 through 8. The spinner is spun once, and a fair coin is flipped once. What is the probability of landing on a number greater than 5 and flipping heads?",
+    "choices": {
+      "A": "1/16",
+      "B": "3/16",
+      "C": "1/4",
+      "D": "3/8"
+    },
+    "correct": "B",
+    "explanation": "Numbers greater than 5 are 6, 7, and 8, so the probability is 3/8. Multiply by the probability of heads, 1/2, to get 3/16."
+  },
+  {
+    "id": "MATH15-M1-006",
+    "prompt": "A rhombus has diagonals of length 16 and 30. What is the perimeter of the rhombus?",
+    "choices": {
+      "A": "60",
+      "B": "64",
+      "C": "68",
+      "D": "72"
+    },
+    "correct": "C",
+    "explanation": "The diagonals bisect each other, so half-lengths are 8 and 15. A side of the rhombus is √(8² + 15²) = 17, so the perimeter is 4(17) = 68."
+  },
+  {
+    "id": "MATH15-M1-007",
+    "prompt": "The function h is defined by\nh(x) = 3 − x, for x < 2\nh(x) = x² − 4, for x ≥ 2\nWhat is the value of h(−1) + h(3) ?",
+    "choices": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "Since −1 < 2, h(−1) = 3 − (−1) = 4. Since 3 ≥ 2, h(3) = 3² − 4 = 5. Their sum is 9."
+  },
+  {
+    "id": "MATH15-M1-008",
+    "prompt": "An item with original price p is discounted by 30% and then increased by 20%. Which expression represents the final price?",
+    "choices": {
+      "A": "0.74p",
+      "B": "0.84p",
+      "C": "0.90p",
+      "D": "1.04p"
+    },
+    "correct": "B",
+    "explanation": "A 30% discount multiplies the price by 0.70, and then a 20% increase multiplies by 1.20. The product is 0.70 · 1.20 = 0.84."
+  },
+  {
+    "id": "MATH15-M1-009",
+    "prompt": "If x + 3 is a factor of 2x² + cx − 15, what is the value of c ?",
+    "choices": {
+      "A": "−1",
+      "B": "1",
+      "C": "3",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "If x + 3 is a factor, then x = −3 makes the expression 0. So 2(−3)² + c(−3) − 15 = 0, which gives 18 − 3c − 15 = 0, so c = 1."
+  },
+  {
+    "id": "MATH15-M1-010",
+    "prompt": "Each value in a data set is increased by 5. Which statement must be true?",
+    "choices": {
+      "A": "The mean and the range each increase by 5.",
+      "B": "The mean increases by 5, and the range stays the same.",
+      "C": "The mean stays the same, and the range increases by 5.",
+      "D": "The mean and the range stay the same."
+    },
+    "correct": "B",
+    "explanation": "Adding the same constant to every value increases the mean by that constant, but the spread between the largest and smallest values stays the same."
+  },
+  {
+    "id": "MATH15-M1-011",
+    "prompt": "A rectangular poster is reduced so that each side length is 1/4 of its original length. If the area of the original poster is 1,600 square inches, what is the area of the reduced poster?",
+    "choices": {
+      "A": "100",
+      "B": "200",
+      "C": "400",
+      "D": "800"
+    },
+    "correct": "A",
+    "explanation": "If each side length is multiplied by 1/4, then area is multiplied by (1/4)² = 1/16. So the new area is 1,600 ÷ 16 = 100."
+  },
+  {
+    "id": "MATH15-M1-012",
+    "prompt": "Which inequality is equivalent to 7 − 2(3x + 1) > 4 − x ?",
+    "choices": {
+      "A": "x < 1/5",
+      "B": "x > 1/5",
+      "C": "x < −1/5",
+      "D": "x > −1/5"
+    },
+    "correct": "A",
+    "explanation": "Simplify: 7 − 6x − 2 > 4 − x, so 5 − 6x > 4 − x. Then 1 > 5x, so x < 1/5."
+  },
+  {
+    "id": "MATH15-M1-013",
+    "prompt": "If f(x) = 2x + 1 and g(x) = x² − 3, what is the value of g(f(2)) ?",
+    "choices": {
+      "A": "18",
+      "B": "22",
+      "C": "25",
+      "D": "27"
+    },
+    "correct": "B",
+    "explanation": "First find f(2) = 2(2) + 1 = 5. Then g(5) = 5² − 3 = 22."
+  },
+  {
+    "id": "MATH15-M1-014",
+    "prompt": "The table shows values of a function.\nx y\n0 81\n2 27\n4 9\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = 81(1/3)^(x/2)",
+      "B": "y = 81(1/3)^x",
+      "C": "y = 27(1/3)^(x/2)",
+      "D": "y = 9 · 3ˣ"
+    },
+    "correct": "A",
+    "explanation": "The output is multiplied by 1/3 each time x increases by 2, and when x = 0 the value is 81."
+  },
+  {
+    "id": "MATH15-M1-015",
+    "prompt": "The endpoints of a diameter of a circle are (−1, 2) and (7, 8). What is the radius of the circle?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "8",
+      "D": "10"
+    },
+    "correct": "B",
+    "explanation": "The diameter length is √[(7 − (−1))² + (8 − 2)²] = √(8² + 6²) = 10. The radius is half the diameter, so it is 5."
+  },
+  {
+    "id": "MATH15-M1-016",
+    "prompt": "A right rectangular pyramid has a base that is 10 units by 6 units and a height of 9 units. What is the volume of the pyramid?",
+    "choices": {
+      "A": "90",
+      "B": "120",
+      "C": "180",
+      "D": "540"
+    },
+    "correct": "C",
+    "explanation": "Volume of a rectangular pyramid is (1/3)(base area)(height). The base area is 10 · 6 = 60, so the volume is (1/3)(60)(9) = 180."
+  },
+  {
+    "id": "MATH15-M1-017",
+    "prompt": "Which equation represents the line that passes through the point (2, −3) and is perpendicular to the line 2x + 3y = 6 ?",
+    "choices": {
+      "A": "y = (3/2)x − 6",
+      "B": "y = (3/2)x + 6",
+      "C": "y = −(3/2)x",
+      "D": "y = −(2/3)x − 5"
+    },
+    "correct": "A",
+    "explanation": "Rewrite 2x + 3y = 6 as y = −(2/3)x + 2, so the slope is −2/3. A perpendicular line has slope 3/2. Using the point (2, −3): −3 = (3/2)(2) + b, so b = −6."
+  },
+  {
+    "id": "MATH15-M1-018",
+    "prompt": "The ratio of girls to boys in a class is 7:9. If there are 48 students in the class, how many of the students are girls?",
+    "choices": {
+      "A": "18",
+      "B": "20",
+      "C": "21",
+      "D": "27"
+    },
+    "correct": "C",
+    "explanation": "The total ratio parts are 7 + 9 = 16. Each part is 48/16 = 3, so the number of girls is 7 · 3 = 21."
+  },
+  {
+    "id": "MATH15-M1-019",
+    "prompt": "What is the product of the solutions to the equation 3x² − 5x − 2 = 0 ?",
+    "choices": {
+      "A": "−5/3",
+      "B": "−2/3",
+      "C": "2/3",
+      "D": "5/2"
+    },
+    "correct": "B",
+    "explanation": "For ax² + bx + c = 0, the product of the solutions is c/a. Here c = −2 and a = 3, so the product is −2/3."
+  },
+  {
+    "id": "MATH15-M1-020",
+    "prompt": "A circle has radius 10 and a central angle of 36°. What is the area of the sector determined by the angle?",
+    "choices": {
+      "A": "5π",
+      "B": "10π",
+      "C": "20π",
+      "D": "36π"
+    },
+    "correct": "B",
+    "explanation": "The sector is 36/360 = 1/10 of the full circle. The area of the full circle is π(10²) = 100π, so the sector area is 10π."
+  },
+  {
+    "id": "MATH15-M1-021",
+    "prompt": "A linear model predicts y = 2.2x + 5 for a data set. One point in the data set is (10, 24). What is the residual for this point?",
+    "choices": {
+      "A": "−5",
+      "B": "−3",
+      "C": "3",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "When x = 10, the model predicts y = 2.2(10) + 5 = 27. The residual is actual − predicted = 24 − 27 = −3."
+  },
+  {
+    "id": "MATH15-M1-022",
+    "prompt": "The table shows values of a function.\nx y\n0 1\n1 3\n2 7\n3 13\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = x² + x + 1",
+      "B": "y = x² + 2x + 1",
+      "C": "y = 2x² + 1",
+      "D": "y = x² + 3"
+    },
+    "correct": "A",
+    "explanation": "Substituting x = 0, 1, 2, and 3 gives y-values 1, 3, 7, and 13, which match the table.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

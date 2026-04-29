@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW14-M2-001",
+    "prompt": "A legal scholar writes that the council’s power was <u>circumscribed</u> by a charter requiring approval from several other bodies before any tax could be raised.\nAs used in the text, what does “circumscribed” most nearly mean?",
+    "choices": {
+      "A": "delayed",
+      "B": "expanded",
+      "C": "limited",
+      "D": "concealed"
+    },
+    "correct": "C",
+    "explanation": "“Circumscribed” means restricted or limited by external rules."
+  },
+  {
+    "id": "RW14-M2-002",
+    "prompt": "A cartographic scholar argues that inset maps in atlases do more than provide extra detail. By enlarging ports, border zones, or capital districts while leaving other regions at small scale, inset maps teach readers which spaces deserve close attention. In that way, an atlas can express hierarchy as well as geography.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Inset maps in atlases can suggest which places are most important, not just add detail.",
+      "B": "Atlases should avoid showing border zones because they create bias.",
+      "C": "Readers ignore inset maps unless they are brightly colored.",
+      "D": "Geography and hierarchy can never be presented in the same visual form."
+    },
+    "correct": "A",
+    "explanation": "The passage says inset maps teach readers which spaces deserve close attention."
+  },
+  {
+    "id": "RW14-M2-003",
+    "prompt": "Architectural historians sometimes use stone-delivery ledgers to estimate building activity. Yet such ledgers record only newly purchased blocks; reused stone from demolished structures or material taken from older walls often leaves no paper trail. As a result, the ledgers may understate how much stone actually entered a project.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Stone-delivery ledgers may provide an incomplete picture of construction materials used in a project.",
+      "B": "Demolished structures were never reused in later construction.",
+      "C": "Newly purchased stone was usually less important than reused stone.",
+      "D": "Architectural historians can determine reuse practices directly from delivery ledgers."
+    },
+    "correct": "A",
+    "explanation": "The text explains that reused stone often leaves no record."
+  },
+  {
+    "id": "RW14-M2-004",
+    "prompt": "A critic notes that a memoir repeatedly describes family stories as loans, debts, and returns. The critic argues that this language frames memory as an obligation passed between generations rather than as private property.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a repeated metaphor that the second sentence interprets.",
+      "B": "It summarizes the memoir’s family tree in chronological order.",
+      "C": "It rejects the interpretation presented in the second sentence.",
+      "D": "It explains how loans were recorded in the family’s business accounts."
+    },
+    "correct": "A",
+    "explanation": "The first sentence names the debt-and-return imagery, and the second explains what it suggests about memory."
+  },
+  {
+    "id": "RW14-M2-005",
+    "prompt": "A student is writing about aerogel insulation panels and has taken these notes:\n• Aerogel-based panels have very low thermal conductivity.\n• Thin panels can provide strong insulation where wall thickness is limited.\n• Aerogel panels are often expensive.\n• Some are fragile and can be difficult to retrofit into older buildings.\nThe student wants to emphasize both a potential advantage of aerogel insulation and a challenge that can limit its use. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Aerogel insulation can provide strong thermal performance in thin panels, but its cost and fragility can make it harder to use widely.",
+      "B": "Older buildings should never be retrofitted with new insulation.",
+      "C": "Thin panels always insulate better than thick ones.",
+      "D": "Thermal conductivity is unrelated to energy efficiency."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the advantage and the main limitations in the notes."
+  },
+  {
+    "id": "RW14-M2-006",
+    "prompt": "The editor expected the marginal notes in the manuscript to belong to a single reader. ______, differences in ink color, spelling habits, and page references suggested at least three separate hands.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Instead,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "B",
+    "explanation": "The evidence did not support a single reader; it pointed to multiple hands instead."
+  },
+  {
+    "id": "RW14-M2-007",
+    "prompt": "The committee relied on one clue<u>: the witness listed a street number that did not exist until the block was renumbered in 1911.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; the witness listed a street number that did not exist until the block was renumbered in 1911.",
+      "C": ", the witness listed a street number that did not exist until the block was renumbered in 1911.",
+      "D": "—the witness listed a street number that did not exist until the block was renumbered in 1911."
+    },
+    "correct": "A",
+    "explanation": "A colon correctly introduces the specific clue after a complete clause."
+  },
+  {
+    "id": "RW14-M2-008",
+    "prompt": "Although copied as a maintenance manual, the notebook also taught apprentices which repairs counted as skilled work and which did not.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It contrasts a narrow classification of the notebook with a broader account of its role.",
+      "B": "It identifies the date on which the notebook was copied.",
+      "C": "It explains how the repairs were physically performed.",
+      "D": "It presents the findings of an experiment about apprenticeship."
+    },
+    "correct": "A",
+    "explanation": "The phrase “Although copied as a maintenance manual” contrasts with the notebook’s added training function."
+  },
+  {
+    "id": "RW14-M2-009",
+    "prompt": "After Laila spoke with Marcus about Tori’s draft, <u>she</u> suggested cutting the introduction.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "she",
+      "B": "Laila",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “she” with “Laila” removes the ambiguity."
+  },
+  {
+    "id": "RW14-M2-010",
+    "prompt": "If the survey <u>had distinguished</u> rented fields from owned ones, the land-use totals would be easier to interpret now.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "had distinguished",
+      "B": "distinguished",
+      "C": "has distinguished",
+      "D": "would distinguish"
+    },
+    "correct": "A",
+    "explanation": "The sentence describes an unreal past condition with a present result."
+  },
+  {
+    "id": "RW14-M2-011",
+    "prompt": "The editor intended to say that only field researchers carried maps during the first survey.\nWhich choice most effectively conveys the intended meaning?",
+    "choices": {
+      "A": "Only field researchers carried maps during the first survey.",
+      "B": "Field researchers only carried maps during the first survey.",
+      "C": "Field researchers carried only maps during the first survey.",
+      "D": "Field researchers carried maps during the first survey only."
+    },
+    "correct": "A",
+    "explanation": "This version makes clear that “only” applies to the people carrying the maps."
+  },
+  {
+    "id": "RW14-M2-012",
+    "prompt": "[1] In cave streams, water often slows where it meets piles of fallen rock. [2] Fine sediment can settle there, creating patches of softer streambed. [3] Small invertebrates and fish eggs may collect in these sheltered pockets. [4] Restoration projects sometimes place rock clusters in simplified channels to recreate such habitat.\nWhich choice best describes the most logical placement for the following sentence?\n“A modest obstacle can therefore change both flow and where organisms gather.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The sentence summarizes the effects on water flow and organism distribution before the restoration response in sentence 4."
+  },
+  {
+    "id": "RW14-M2-013",
+    "prompt": "A researcher compared the average number of minutes four groups spent discussing a case study.\nGroup A: 18\nGroup B: 24\nGroup C: 21\nGroup D: 16\nA student claims that Group D spent the least time discussing the case study, on average. Which choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is unsupported because Group A also spent less than twenty minutes.",
+      "B": "The claim is supported because Group D’s average is lower than those of the other groups.",
+      "C": "The claim is unsupported because Group C spent more time than Group B.",
+      "D": "The claim is supported because Group D spent less time than Group A but more than Group C."
+    },
+    "correct": "B",
+    "explanation": "Group D’s 16 minutes is less than Group A’s 18, Group B’s 24, and Group C’s 21."
+  },
+  {
+    "id": "RW14-M2-014",
+    "prompt": "A critic describes the sequel as <u>derivative</u>, arguing that it borrows too many plot turns and images from earlier adventure novels.\nAs used in the text, what does “derivative” most nearly mean?",
+    "choices": {
+      "A": "original",
+      "B": "unoriginal",
+      "C": "confusing",
+      "D": "lengthy"
+    },
+    "correct": "B",
+    "explanation": "“Derivative” means lacking originality because it borrows from earlier works."
+  },
+  {
+    "id": "RW14-M2-015",
+    "prompt": "In a novel, the narrator says, “My brother kept folding the old map along the same worn creases long after we no longer needed directions. By then it was less a guide than proof that we had once been lost together.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The map has become a shared memory rather than a practical tool.",
+      "B": "The narrator wants to replace the old map with a digital one.",
+      "C": "The brother is embarrassed that they once got lost.",
+      "D": "The narrator thinks the map should be preserved because it is valuable."
+    },
+    "correct": "A",
+    "explanation": "The narrator says the map no longer serves as directions but as proof of a shared experience."
+  },
+  {
+    "id": "RW14-M2-016",
+    "prompt": "A study found that students who wrote a short title for each graph in a science lesson later recalled overall trends more accurately than students who only reread the captions. The researchers caution, however, that the study did not test whether this strategy improved memory for exact numerical values.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Writing titles may help students remember broad patterns even if its effect on specific numbers is uncertain.",
+      "B": "Rereading captions is never useful for science learning.",
+      "C": "Exact numerical values are always less important than overall trends.",
+      "D": "The study proved that student-generated titles are the best strategy for every graphing task."
+    },
+    "correct": "A",
+    "explanation": "The study found better memory for trends but did not test exact values."
+  },
+  {
+    "id": "RW14-M2-017",
+    "prompt": "A music historian argues that printed chorus sheets helped standardize protest songs because marchers copied their refrains into locally produced handbills. To support this claim, the historian notes that pamphlets from distant towns preserve identical line breaks and repeated choruses even when the surrounding text differs.\nWhy does the author most likely include the example of pamphlets from distant towns preserving identical line breaks?",
+    "choices": {
+      "A": "To show that the printed sheets influenced how local materials reproduced the songs",
+      "B": "To prove that all protest songs were written in the same town",
+      "C": "To argue that chorus sheets were more important than live performance",
+      "D": "To suggest that line breaks prevented changes to political ideas"
+    },
+    "correct": "A",
+    "explanation": "Identical line breaks across distant pamphlets suggest local texts copied the printed chorus sheets."
+  },
+  {
+    "id": "RW14-M2-018",
+    "prompt": "A student is writing about flowering strips planted between crop rows and has taken these notes:\n• Flowering strips can provide nectar for pollinators and predatory insects.\n• These insects may help with pollination and suppression of crop pests.\n• Some farmers use the strips to support biodiversity in fields.\n• The strips require land that might otherwise grow crops and may need maintenance.\nThe student wants to explain a potential benefit of flowering strips while acknowledging a practical tradeoff. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Flowering strips can support pollinators and beneficial insects, but they take land and care that farmers might otherwise devote to crops.",
+      "B": "Crop fields should never include plants other than the main crop.",
+      "C": "Pollinators are unrelated to agricultural productivity.",
+      "D": "Biodiversity is useful only in wild ecosystems, not in fields."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the ecological benefit and the practical tradeoff."
+  },
+  {
+    "id": "RW14-M2-019",
+    "prompt": "The board agreed that the exhibition’s labels needed revision. ______, members disagreed about whether the new wording should be more technical or more conversational.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Nevertheless,",
+      "C": "Similarly,",
+      "D": "For example,"
+    },
+    "correct": "B",
+    "explanation": "The second sentence contrasts agreement about the labels needing revision with disagreement about the new wording."
+  },
+  {
+    "id": "RW14-M2-020",
+    "prompt": "The seminar expects students to classify sources, weigh context, and <u>revising hypotheses as new evidence appears.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "revising hypotheses as new evidence appears.",
+      "B": "revise hypotheses as new evidence appears.",
+      "C": "revised hypotheses as new evidence appears.",
+      "D": "to revising hypotheses as new evidence appears."
+    },
+    "correct": "B",
+    "explanation": "“Revise” matches the parallel verbs “classify” and “weigh.”"
+  },
+  {
+    "id": "RW14-M2-021",
+    "prompt": "The account <u>that omits the winter crossing</u> is likely incomplete.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a nonessential phrase that should be set off with commas.",
+      "B": "It is a restrictive clause that correctly identifies which account is being discussed.",
+      "C": "It creates a comma splice.",
+      "D": "It should be moved to the end of the sentence for clarity."
+    },
+    "correct": "B",
+    "explanation": "The clause specifies the particular account under discussion."
+  },
+  {
+    "id": "RW14-M2-022",
+    "prompt": "The sequence of delays and cancellations <u>have</u> forced the company to revise its delivery promises.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "are"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “sequence” takes the singular verb “has.”"
+  },
+  {
+    "id": "RW14-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The new storage policy helped the museum.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The new storage policy helped the museum.",
+      "B": "The new storage policy had several positive effects on the museum.",
+      "C": "The new storage policy reduced handling of fragile maps, freed shelf space, and shortened retrieval times for visiting researchers.",
+      "D": "The new storage policy made the museum better in many ways."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces a vague claim with specific effects."
+  },
+  {
+    "id": "RW14-M2-024",
+    "prompt": "[1] In alpine meadows, snow can melt weeks earlier on wind-scoured ridges than in sheltered hollows. [2] Flowers on early-clearing ground may bloom before pollinators are abundant. [3] Nearby low spots can remain snow covered at the same time. [4] Ecologists therefore track flowering across microhabitats rather than treating the meadow as uniform.\nWhich choice best describes the most logical placement for the following sentence?\n“A single meadow may thus contain several seasonal calendars at once.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The sentence follows the discussion of early and late snowmelt and leads naturally to the conclusion about different microhabitats."
+  },
+  {
+    "id": "RW14-M2-025",
+    "prompt": "The report originally described the weekend reading room as “well used,” but that wording failed to show that attendance was highest among exam-takers during evening hours, while midday use remained modest. The editor suggests replacing “well used” with <u>most used by exam-takers in the evening</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the statement more precise by specifying who used the room most and when.",
+      "B": "It makes the statement less formal by replacing it with casual wording.",
+      "C": "It changes the meaning by suggesting that the room was closed at midday.",
+      "D": "It introduces a personal opinion that the original avoided."
+    },
+    "correct": "A",
+    "explanation": "The revision identifies both the primary users and the time of highest use."
+  },
+  {
+    "id": "RW14-M2-026",
+    "prompt": "In an experiment, participants typing long strings of numbers made fewer errors when the digits were grouped visually into four-character blocks than when the same digits appeared as uninterrupted sequences. The researchers suggest that visual grouping reduced memory load.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Visual grouping may help people enter long strings of numbers more accurately.",
+      "B": "Uninterrupted sequences are easier to memorize than grouped ones.",
+      "C": "The study proved that four-character groups are ideal for every reading task.",
+      "D": "Participants typed more quickly only because the grouped numbers were shorter."
+    },
+    "correct": "A",
+    "explanation": "Grouping the digits into blocks reduced typing errors."
+  },
+  {
+    "id": "RW14-M2-027",
+    "prompt": "An essay on architects’ tracing-paper overlays ends by noting that stacked translucent sheets preserve rejected doorways, shifted walls, and alternate window placements. For that reason, some archives preserve the overlays alongside the final drawings rather than discarding them as clutter.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It applies the earlier idea to explain an archival practice.",
+      "B": "It narrows the discussion to the chemical composition of tracing paper.",
+      "C": "It argues that final drawings are less useful than overlays in every case.",
+      "D": "It repeats the earlier claim without extending it."
+    },
+    "correct": "A",
+    "explanation": "The final sentence explains why archives preserve overlays in light of what those sheets reveal about abandoned design options."
+  }
+]

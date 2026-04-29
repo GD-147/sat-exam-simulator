@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH11-M2-001",
+    "prompt": "What is the larger solution to the equation 4/(x − 1) = 1 + 1/(x + 2) ?",
+    "choices": {
+      "A": "1 − 2√3",
+      "B": "1 + 2√3",
+      "C": "2 + √3",
+      "D": "11"
+    },
+    "correct": "B",
+    "explanation": "Multiply both sides by (x − 1)(x + 2): 4(x + 2) = (x − 1)(x + 2) + (x − 1). This simplifies to x² − 2x − 11 = 0. Using the quadratic formula gives x = 1 ± 2√3, so the larger solution is 1 + 2√3."
+  },
+  {
+    "id": "MATH11-M2-002",
+    "prompt": "A function is modeled by f(x) = abˣ, where a and b are positive constants. If f(1) = 6 and f(4) = 162, what is the value of b ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "6",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Divide the two function values: 162/6 = b³ = 27, so b = 3."
+  },
+  {
+    "id": "MATH11-M2-003",
+    "prompt": "The monic cubic polynomial p(x) = x³ + ax² + bx + 12 has factors x − 2 and x + 3. What is the value of p(1) ?",
+    "choices": {
+      "A": "0",
+      "B": "4",
+      "C": "8",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "Since the polynomial is monic with constant 12, the product of its roots is −12. With roots 2 and −3, the third root r satisfies 2(−3)r = −12, so r = 2. Therefore p(1) = (1 − 2)(1 + 3)(1 − 2) = 4."
+  },
+  {
+    "id": "MATH11-M2-004",
+    "prompt": "A right square pyramid has base side length 10 and slant height 13. What is the height of the pyramid?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "correct": "C",
+    "explanation": "In the right triangle formed by the pyramid’s height, half the base side, and the slant height, the legs are h and 5, and the hypotenuse is 13. So h² + 5² = 13², which gives h = 12."
+  },
+  {
+    "id": "MATH11-M2-005",
+    "prompt": "A data set of 10 values has a mean of 17. One value of 13 is corrected to 23. What is the new mean of the data set?",
+    "choices": {
+      "A": "17.5",
+      "B": "18",
+      "C": "18.5",
+      "D": "19"
+    },
+    "correct": "B",
+    "explanation": "The original total is 10 · 17 = 170. Changing one value from 13 to 23 increases the total by 10, giving 180. The new mean is 180/10 = 18."
+  },
+  {
+    "id": "MATH11-M2-006",
+    "prompt": "The equation |2x + 1| = x + 10 has two solutions. What is the sum of the solutions?",
+    "choices": {
+      "A": "14/3",
+      "B": "16/3",
+      "C": "18/3",
+      "D": "20/3"
+    },
+    "correct": "B",
+    "explanation": "Solve by cases. If 2x + 1 = x + 10, then x = 9. If −(2x + 1) = x + 10, then −2x − 1 = x + 10, so x = −11/3. Their sum is 9 − 11/3 = 16/3."
+  },
+  {
+    "id": "MATH11-M2-007",
+    "prompt": "The table summarizes test results.\n             Passed   Did not pass\nOnline 14 6\nPaper 9 11\nIf one student who passed is selected at random, what is the probability that the student took the test online?",
+    "choices": {
+      "A": "9/23",
+      "B": "14/23",
+      "C": "14/20",
+      "D": "23/40"
+    },
+    "correct": "B",
+    "explanation": "Of the students who passed, there are 14 + 9 = 23 total. Of those, 14 took the test online."
+  },
+  {
+    "id": "MATH11-M2-008",
+    "prompt": "If x + y = 8 and xy = 7, what is the value of x²y + xy² ?",
+    "choices": {
+      "A": "48",
+      "B": "56",
+      "C": "64",
+      "D": "72"
+    },
+    "correct": "B",
+    "explanation": "Factor the expression: x²y + xy² = xy(x + y). Since xy = 7 and x + y = 8, the value is 7 · 8 = 56."
+  },
+  {
+    "id": "MATH11-M2-009",
+    "prompt": "How many liters of 60% acid solution must be mixed with 25% acid solution to make 14 liters of 40% acid solution?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "Let x be the liters of 60% solution. Then 14 − x liters are 25% solution. Solve 0.60x + 0.25(14 − x) = 0.40(14). This gives 0.35x = 2.1, so x = 6."
+  },
+  {
+    "id": "MATH11-M2-010",
+    "prompt": "Let p(x) = 2x³ + cx − 7. If p(2) = 11, what is the value of p(−1) ?",
+    "choices": {
+      "A": "−12",
+      "B": "−10",
+      "C": "−8",
+      "D": "−6"
+    },
+    "correct": "B",
+    "explanation": "First use p(2) = 11: 2(2³) + 2c − 7 = 11. That is 16 + 2c − 7 = 11, so 2c = 2 and c = 1. Then p(−1) = 2(−1)³ + 1(−1) − 7 = −2 − 1 − 7 = −10."
+  },
+  {
+    "id": "MATH11-M2-011",
+    "prompt": "In a right triangle, cos θ = 24/25, and the side adjacent to angle θ has length 48. What is the perimeter of the triangle?",
+    "choices": {
+      "A": "100",
+      "B": "108",
+      "C": "112",
+      "D": "124"
+    },
+    "correct": "C",
+    "explanation": "Since cos θ = 24/25, the side ratio is adjacent:hypotenuse = 24:25. If the adjacent side is 48, the scale factor is 2, so the hypotenuse is 50. The opposite side is √(50² − 48²) = 14. The perimeter is 48 + 50 + 14 = 112."
+  },
+  {
+    "id": "MATH11-M2-012",
+    "prompt": "In a survey, 45% of the people originally surveyed preferred apples. Then 10 more people who preferred apples were added to the survey, and 50% of the people surveyed preferred apples. How many people were in the original survey?",
+    "choices": {
+      "A": "80",
+      "B": "90",
+      "C": "100",
+      "D": "120"
+    },
+    "correct": "C",
+    "explanation": "Let n be the original number of people. Then 0.45n + 10 = 0.50(n + 10). Solving gives 0.45n + 10 = 0.50n + 5, so 5 = 0.05n and n = 100."
+  },
+  {
+    "id": "MATH11-M2-013",
+    "prompt": "What is the value of x in the equation √(x + 10) − √(x + 1) = 1 ?",
+    "choices": {
+      "A": "12",
+      "B": "14",
+      "C": "15",
+      "D": "16"
+    },
+    "correct": "C",
+    "explanation": "Rewrite the equation as √(x + 10) = 1 + √(x + 1). Squaring gives x + 10 = x + 2 + 2√(x + 1). So 8 = 2√(x + 1), which gives √(x + 1) = 4 and x = 15."
+  },
+  {
+    "id": "MATH11-M2-014",
+    "prompt": "What is the value of x in the equation 25^(x − 1) = 125^(x − 2) ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "C",
+    "explanation": "Rewrite with base 5: 25^(x − 1) = 5^(2x − 2) and 125^(x − 2) = 5^(3x − 6). Set exponents equal: 2x − 2 = 3x − 6, so x = 4."
+  },
+  {
+    "id": "MATH11-M2-015",
+    "prompt": "Two similar spheres have radii in the ratio 1:3. If the volume of the smaller sphere is 20, what is the volume of the larger sphere?",
+    "choices": {
+      "A": "180",
+      "B": "540",
+      "C": "600",
+      "D": "720"
+    },
+    "correct": "B",
+    "explanation": "Similar solids scale volume by the cube of the linear scale factor. The radius ratio is 1:3, so the volume ratio is 1:27. The larger volume is 20 · 27 = 540."
+  },
+  {
+    "id": "MATH11-M2-016",
+    "prompt": "For what value of c does the line y = 2x + c intersect the parabola y = x² − 6x + 5 at exactly one point?",
+    "choices": {
+      "A": "−13",
+      "B": "−11",
+      "C": "−9",
+      "D": "11"
+    },
+    "correct": "B",
+    "explanation": "Set the equations equal: x² − 6x + 5 = 2x + c. This gives x² − 8x + (5 − c) = 0. For exactly one intersection, the discriminant is 0: (−8)² − 4(1)(5 − c) = 0. So 64 − 20 + 4c = 0, giving c = −11."
+  },
+  {
+    "id": "MATH11-M2-017",
+    "prompt": "For x ≠ −4 and x ≠ 5, which expression is equivalent to (x² + 6x + 8)/(x² − x − 20) ?",
+    "choices": {
+      "A": "(x + 2)/(x − 5)",
+      "B": "(x + 4)/(x − 5)",
+      "C": "(x + 2)/(x + 5)",
+      "D": "(x − 2)/(x − 5)"
+    },
+    "correct": "A",
+    "explanation": "Factor numerator and denominator: x² + 6x + 8 = (x + 2)(x + 4) and x² − x − 20 = (x + 4)(x − 5). Cancel x + 4."
+  },
+  {
+    "id": "MATH11-M2-018",
+    "prompt": "The length of a rectangle is 2 more than its width. If the diagonal of the rectangle is 10, what is the perimeter of the rectangle?",
+    "choices": {
+      "A": "24",
+      "B": "26",
+      "C": "28",
+      "D": "30"
+    },
+    "correct": "C",
+    "explanation": "Let the width be w, so the length is w + 2. Using the Pythagorean theorem, w² + (w + 2)² = 100. This simplifies to w² + 2w − 48 = 0, giving w = 6. Then the length is 8, so the perimeter is 2(6 + 8) = 28."
+  },
+  {
+    "id": "MATH11-M2-019",
+    "prompt": "How many real solutions does the system below have?\ny = x² − 4\ny = −x",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "Infinitely many"
+    },
+    "correct": "C",
+    "explanation": "Set x² − 4 = −x, which gives x² + x − 4 = 0. The discriminant is 1 + 16 = 17, which is positive, so there are 2 real solutions."
+  },
+  {
+    "id": "MATH11-M2-020",
+    "prompt": "A rectangular prism has dimensions x, 2x, and 3. If its volume is 54, what is the value of x ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Volume = length · width · height = x · 2x · 3 = 6x². Since the volume is 54, 6x² = 54, so x² = 9 and x = 3."
+  },
+  {
+    "id": "MATH11-M2-021",
+    "prompt": "If g(x) = (2x + 1)/3, what is the value of g⁻¹(7) ?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "correct": "C",
+    "explanation": "To find g⁻¹(7), solve (2x + 1)/3 = 7. Then 2x + 1 = 21, so 2x = 20 and x = 10."
+  },
+  {
+    "id": "MATH11-M2-022",
+    "prompt": "A chord of a circle has length 24, and the distance from the center of the circle to the chord is 5. What is the radius of the circle?",
+    "choices": {
+      "A": "11",
+      "B": "12",
+      "C": "13",
+      "D": "17"
+    },
+    "correct": "C",
+    "explanation": "The perpendicular from the center to the chord bisects the chord, so half the chord is 12. The radius, the half-chord, and the distance 5 form a right triangle. Thus r² = 12² + 5² = 169, so r = 13."
+  }
+]

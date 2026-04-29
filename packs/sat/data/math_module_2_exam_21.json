@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH21-M2-001",
+    "prompt": "What is the larger solution to the equation 1/(x − 3) + 2/(x + 1) = 1 ?",
+    "choices": {
+      "A": "(5 − √17)/2",
+      "B": "(5 + √17)/2",
+      "C": "(−5 + √17)/2",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": "Multiply both sides by (x − 3)(x + 1): (x + 1) + 2(x − 3) = x² − 2x − 3. This simplifies to x² − 5x + 2 = 0. Using the quadratic formula gives x = (5 ± √17)/2, so the larger solution is (5 + √17)/2."
+  },
+  {
+    "id": "MATH21-M2-002",
+    "prompt": "For what value of k does the line y = −2x + k intersect the parabola y = x² + 5x + 1 at exactly one point?",
+    "choices": {
+      "A": "−49/4",
+      "B": "−47/4",
+      "C": "−45/4",
+      "D": "−43/4"
+    },
+    "correct": "C",
+    "explanation": "Set the equations equal: x² + 5x + 1 = −2x + k. Then x² + 7x + (1 − k) = 0. For exactly one point of intersection, the discriminant is 0: 49 − 4(1 − k) = 0. This gives 45 + 4k = 0, so k = −45/4."
+  },
+  {
+    "id": "MATH21-M2-003",
+    "prompt": "A function is modeled by f(x) = abˣ, where a and b are positive constants. If f(3) = 54 and f(5) = 486, what is the value of a ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Since f(5)/f(3) = b², we have 486/54 = 9, so b = 3. Then 54 = a(3³) = 27a, so a = 2."
+  },
+  {
+    "id": "MATH21-M2-004",
+    "prompt": "The monic cubic polynomial q(x) = x³ + ax² + bx + 30 has factors x − 2 and x + 3. What is the value of q(−1) ?",
+    "choices": {
+      "A": "24",
+      "B": "30",
+      "C": "36",
+      "D": "42"
+    },
+    "correct": "C",
+    "explanation": "For a monic cubic with constant term 30, the product of the roots is −30. Since 2 and −3 are roots, the third root is 5. Then q(−1) = (−1 − 2)(−1 + 3)(−1 − 5) = (−3)(2)(−6) = 36."
+  },
+  {
+    "id": "MATH21-M2-005",
+    "prompt": "A sphere has surface area 324π. What is the volume of the sphere?",
+    "choices": {
+      "A": "648π",
+      "B": "864π",
+      "C": "972π",
+      "D": "1,080π"
+    },
+    "correct": "C",
+    "explanation": "Surface area of a sphere is 4πr². From 4πr² = 324π, we get r² = 81 and r = 9. The volume is (4/3)πr³ = (4/3)π(729) = 972π."
+  },
+  {
+    "id": "MATH21-M2-006",
+    "prompt": "A data set of 9 values has a mean of 23. One value of 16 is corrected to 7. What is the new mean of the data set?",
+    "choices": {
+      "A": "20",
+      "B": "21",
+      "C": "22",
+      "D": "23"
+    },
+    "correct": "C",
+    "explanation": "The original total is 9(23) = 207. Replacing 16 with 7 decreases the total by 9, so the new total is 198. Then 198/9 = 22."
+  },
+  {
+    "id": "MATH21-M2-007",
+    "prompt": "How many real solutions does the equation |x + 2| = (x − 1)² have?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "C",
+    "explanation": "For x ≥ −2, solve x + 2 = (x − 1)², giving x² − 3x − 1 = 0. Both roots are real and satisfy x ≥ −2. For x < −2, solve −x − 2 = (x − 1)², giving x² − x + 3 = 0, which has no real roots. So there are 2 real solutions."
+  },
+  {
+    "id": "MATH21-M2-008",
+    "prompt": "If g(x) = (3x + 4)/5, what is the value of g⁻¹(8) ?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "correct": "D",
+    "explanation": "Solve (3x + 4)/5 = 8. Then 3x + 4 = 40, so 3x = 36 and x = 12."
+  },
+  {
+    "id": "MATH21-M2-009",
+    "prompt": "The table summarizes survey results.\n             Volunteers   Does not volunteer\nTeam A 8 12\nTeam B 15 5\nIf one student who volunteers is selected at random, what is the probability that the student is in Team B?",
+    "choices": {
+      "A": "8/20",
+      "B": "8/23",
+      "C": "15/23",
+      "D": "3/4"
+    },
+    "correct": "C",
+    "explanation": "Among volunteers, there are 8 + 15 = 23 students total. Of those, 15 are in Team B."
+  },
+  {
+    "id": "MATH21-M2-010",
+    "prompt": "If x + y = 13 and xy = 36, what is the value of x²y + xy² ?",
+    "choices": {
+      "A": "360",
+      "B": "432",
+      "C": "468",
+      "D": "504"
+    },
+    "correct": "C",
+    "explanation": "Since x²y + xy² = xy(x + y), substitute xy = 36 and x + y = 13. The value is 36(13) = 468."
+  },
+  {
+    "id": "MATH21-M2-011",
+    "prompt": "How many liters of 45% acid solution must be mixed with 15% acid solution to make 10 liters of 27% acid solution?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Let x be the liters of 45% solution. Then 10 − x liters are 15% solution. Solve 0.45x + 0.15(10 − x) = 0.27(10). This gives 0.30x = 1.2, so x = 4."
+  },
+  {
+    "id": "MATH21-M2-012",
+    "prompt": "What is the value of x in the equation 16^(x − 2) = 8^(x + 1) ?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "Rewrite using base 2: 16^(x − 2) = 2^(4x − 8) and 8^(x + 1) = 2^(3x + 3). Set exponents equal: 4x − 8 = 3x + 3, so x = 11."
+  },
+  {
+    "id": "MATH21-M2-013",
+    "prompt": "In a right triangle, sec θ = 25/24, and the side adjacent to angle θ has length 72. What is the perimeter of the triangle?",
+    "choices": {
+      "A": "162",
+      "B": "168",
+      "C": "174",
+      "D": "180"
+    },
+    "correct": "B",
+    "explanation": "Since sec θ = 25/24, the ratio hypotenuse:adjacent is 25:24. If the adjacent side is 72, the scale factor is 3. So the hypotenuse is 75 and the opposite side is √(75² − 72²) = 21. The perimeter is 72 + 75 + 21 = 168."
+  },
+  {
+    "id": "MATH21-M2-014",
+    "prompt": "In a survey, 30% of the people originally surveyed preferred math. Then 12 more people who preferred math were added to the survey, and 40% of the people surveyed preferred math. How many people were in the original survey?",
+    "choices": {
+      "A": "60",
+      "B": "72",
+      "C": "84",
+      "D": "96"
+    },
+    "correct": "B",
+    "explanation": "Let n be the original number of people. Then 0.30n + 12 = 0.40(n + 12). Solving gives 0.30n + 12 = 0.40n + 4.8, so 7.2 = 0.10n and n = 72."
+  },
+  {
+    "id": "MATH21-M2-015",
+    "prompt": "For x ≠ 5 and x ≠ −3, which expression is equivalent to (x² − 4x − 21)/(x² − 2x − 15) ?",
+    "choices": {
+      "A": "(x − 7)/(x − 5)",
+      "B": "(x + 7)/(x − 5)",
+      "C": "(x − 7)/(x + 5)",
+      "D": "(x + 7)/(x + 5)"
+    },
+    "correct": "A",
+    "explanation": "Factor numerator and denominator: x² − 4x − 21 = (x − 7)(x + 3) and x² − 2x − 15 = (x − 5)(x + 3). Cancel x + 3."
+  },
+  {
+    "id": "MATH21-M2-016",
+    "prompt": "What is the area of the triangle with vertices (2, −1), (10, −1), and (6, 4) ?",
+    "choices": {
+      "A": "16",
+      "B": "18",
+      "C": "20",
+      "D": "24"
+    },
+    "correct": "C",
+    "explanation": "The base from (2, −1) to (10, −1) has length 8, and the height to (6, 4) is 5. So the area is (1/2)(8)(5) = 20."
+  },
+  {
+    "id": "MATH21-M2-017",
+    "prompt": "The system below has two solutions.\nx² + y² = 40\ny = x + 4\nWhat is the larger x-coordinate of a solution?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": "Substitute y = x + 4 into x² + y² = 40. This gives x² + (x + 4)² = 40, so 2x² + 8x − 24 = 0. Divide by 2: x² + 4x − 12 = 0. Factoring gives (x + 6)(x − 2) = 0, so the larger x-coordinate is 2."
+  },
+  {
+    "id": "MATH21-M2-018",
+    "prompt": "Each value in a data set is divided by 4 and then decreased by 2. If the interquartile range of the original data set is 12, what is the interquartile range of the new data set?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Dividing each value by 4 divides the interquartile range by 4, and subtracting 2 does not change it. So the new IQR is 12/4 = 3."
+  },
+  {
+    "id": "MATH21-M2-019",
+    "prompt": "Two similar spheres have radii in the ratio 2:5. If the volume of the smaller sphere is 32, what is the volume of the larger sphere?",
+    "choices": {
+      "A": "320",
+      "B": "400",
+      "C": "500",
+      "D": "625"
+    },
+    "correct": "C",
+    "explanation": "Similar solids scale volume by the cube of the linear scale factor. The radius ratio is 2:5, so the scale factor is 5/2. The larger volume is 32(5/2)³ = 32(125/8) = 500."
+  },
+  {
+    "id": "MATH21-M2-020",
+    "prompt": "What is the value of x in the equation √(x + 4) = x − 2 ?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": "Square both sides: x + 4 = (x − 2)² = x² − 4x + 4. This gives x² − 5x = 0, so x = 0 or x = 5. Since x − 2 must be nonnegative, the valid solution is x = 5."
+  },
+  {
+    "id": "MATH21-M2-021",
+    "prompt": "A rectangular prism has dimensions x, x + 3, and 5. If its total surface area is 166, what is the value of x ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "C",
+    "explanation": "Total surface area is 2[x(x + 3) + 5x + 5(x + 3)] = 166. This simplifies to 2(x² + 13x + 15) = 166, so x² + 13x − 68 = 0. Factoring gives (x + 17)(x − 4) = 0, so x = 4."
+  },
+  {
+    "id": "MATH21-M2-022",
+    "prompt": "The quadratic equation x² + kx + 40 = 0 has two negative integer solutions that differ by 3. What is the value of k ?",
+    "choices": {
+      "A": "11",
+      "B": "12",
+      "C": "13",
+      "D": "14"
+    },
+    "correct": "C",
+    "explanation": "The two negative integers that differ by 3 and multiply to 40 are −5 and −8. Their sum is −13. Since the sum of the roots is −k, k = 13."
+  }
+]

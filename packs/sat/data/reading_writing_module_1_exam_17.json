@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW17-M1-001",
+    "prompt": "In a review of a memoir, a critic says the author’s tone is “matter-of-fact”: even surprising events are described without drama or embellishment.\nAs used in the text, what does “matter-of-fact” most nearly mean?",
+    "choices": {
+      "A": "practical and direct",
+      "B": "overly emotional",
+      "C": "deliberately confusing",
+      "D": "richly humorous"
+    },
+    "correct": "A",
+    "explanation": "The passage says events are described without drama or embellishment, so the tone is practical and direct."
+  },
+  {
+    "id": "RW17-M1-002",
+    "prompt": "Some transit agencies install small solar canopies above bike-parking areas at train stations. The canopies shelter bicycles from rain and sun, and the electricity they generate can power lights or charging outlets nearby. Because the structures sit over space that was already in use, they can add both shade and energy generation without requiring a larger footprint.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Solar canopies above bike parking can provide shelter and generate electricity without taking additional space.",
+      "B": "Bike parking areas are useful only when they include charging outlets.",
+      "C": "Train stations should replace all covered platforms with solar canopies.",
+      "D": "Solar canopies are installed mainly to improve the appearance of bicycle racks."
+    },
+    "correct": "A",
+    "explanation": "The text emphasizes both shelter and electricity generation while noting that the canopies fit into existing space."
+  },
+  {
+    "id": "RW17-M1-003",
+    "prompt": "Before dairies adopted bottles with uniform sizes and necks, local shops often had to keep separate racks and sealing tools for each supplier’s containers. Once standard bottle formats spread, shops could reuse the same equipment for deliveries from many dairies.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Standard bottle formats made milk distribution easier for shops to manage.",
+      "B": "Dairies stopped delivering milk once bottles became standardized.",
+      "C": "Local shops preferred to store bottles from only one supplier.",
+      "D": "Bottle racks were unnecessary after standardized bottles were introduced."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that standardized bottles allowed the same racks and tools to be reused across suppliers, making distribution easier."
+  },
+  {
+    "id": "RW17-M1-004",
+    "prompt": "A palynologist points to an unusually thick layer of pine pollen in a lake-sediment core. She then suggests that pine trees were once far more common around the lake than they are today.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It presents physical evidence that the second sentence interprets.",
+      "B": "It introduces a claim that the second sentence rejects.",
+      "C": "It describes a lab method that the second sentence criticizes.",
+      "D": "It compares two lakes that the second sentence later contrasts."
+    },
+    "correct": "A",
+    "explanation": "The thick pollen layer is the evidence, and the second sentence explains what that evidence likely indicates about past vegetation."
+  },
+  {
+    "id": "RW17-M1-005",
+    "prompt": "A student is writing about free sewing kits at community centers and has taken these notes:\n• Some community centers lend small sewing kits with needles, thread, and buttons.\n• Residents can use them for quick clothing repairs without buying a full kit.\n• The kits can save money on minor fixes.\n• They may also help people keep usable clothing in service longer.\nThe student wants to emphasize both cost savings and the practical value of extending the life of clothing. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Some community centers lend small sewing kits with needles, thread, and buttons.",
+      "B": "Residents can use the kits for quick clothing repairs without buying a full set of supplies.",
+      "C": "Free sewing kits can save residents money on small repairs while helping them use clothing longer instead of replacing it immediately.",
+      "D": "Buttons and thread are included in many sewing kits."
+    },
+    "correct": "C",
+    "explanation": "This choice directly combines the notes about saving money and helping clothing stay usable longer."
+  },
+  {
+    "id": "RW17-M1-006",
+    "prompt": "The city added curb extensions at a wide crosswalk outside the elementary school. ______, pedestrians now spend less time crossing the street and are easier for drivers to see.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "As a result,",
+      "B": "For example,",
+      "C": "Similarly,",
+      "D": "Otherwise,"
+    },
+    "correct": "A",
+    "explanation": "The shorter crossing time and increased visibility are results of the curb extensions."
+  },
+  {
+    "id": "RW17-M1-007",
+    "prompt": "The gallery’s smallest landscape, <u>painted on copper around 1705,</u> hangs beside the doorway.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; painted on copper around 1705;",
+      "C": ": painted on copper around 1705:",
+      "D": "—painted on copper around 1705—"
+    },
+    "correct": "A",
+    "explanation": "The phrase is nonessential information and is correctly set off with commas."
+  },
+  {
+    "id": "RW17-M1-008",
+    "prompt": "The profile celebrates the architect’s public buildings, <u>it says almost nothing about the apprentices who drafted many of the plans.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "it says almost nothing about the apprentices who drafted many of the plans.",
+      "B": "and it says almost nothing about the apprentices who drafted many of the plans.",
+      "C": "but it says almost nothing about the apprentices who drafted many of the plans.",
+      "D": "saying almost nothing about the apprentices who drafted many of the plans."
+    },
+    "correct": "C",
+    "explanation": "The sentence needs a conjunction to join two independent clauses, and “but” correctly expresses contrast."
+  },
+  {
+    "id": "RW17-M1-009",
+    "prompt": "The final route was explained only to Nia and <u>I</u> before the hike began.\nAs it is used in the text, which choice completes the sentence so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "I",
+      "B": "me",
+      "C": "my",
+      "D": "myself"
+    },
+    "correct": "B",
+    "explanation": "The pronoun is part of the compound object of the preposition “to,” so “me” is correct."
+  },
+  {
+    "id": "RW17-M1-010",
+    "prompt": "Since 2019, the historical society <u>maintains</u> an online catalog of donated photographs and letters.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "maintains",
+      "B": "maintained",
+      "C": "has maintained",
+      "D": "will maintain"
+    },
+    "correct": "C",
+    "explanation": "“Since 2019” calls for the present perfect tense, “has maintained.”"
+  },
+  {
+    "id": "RW17-M1-011",
+    "prompt": "After comparing the draft brochure with the original notes, <u>the missing museum hours became obvious to Tessa.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the missing museum hours became obvious to Tessa.",
+      "B": "Tessa noticed that the museum hours were missing.",
+      "C": "the brochure made the missing museum hours obvious to Tessa.",
+      "D": "obvious to Tessa, the missing museum hours appeared after the comparison."
+    },
+    "correct": "B",
+    "explanation": "The opening phrase describes an action Tessa performed, so Tessa should be the subject of the main clause."
+  },
+  {
+    "id": "RW17-M1-012",
+    "prompt": "[1] Some public pools now keep small sunscreen dispensers near the entrance gate. [2] Visitors can apply sunscreen before swimming instead of realizing they forgot it only after they reach the water. [3] Because the dispensers are placed where people stop anyway, using them requires little extra effort. [4] In some towns, local health groups pay to refill the dispensers each summer.\nWhich choice best describes the most logical placement for the following sentence?\n“The dispensers can make sun protection easier to remember and easier to use.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The sentence works best after sentence 2, where the convenience of the dispensers has just been described."
+  },
+  {
+    "id": "RW17-M1-013",
+    "prompt": "A teacher recorded the average number of specimen cards four student groups sorted in fifteen minutes.\nGroup A: 22\nGroup B: 26\nGroup C: 20\nGroup D: 24\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Group A sorted more cards, on average, than Group D.",
+      "B": "Group B sorted the most cards, on average.",
+      "C": "Group C and Group D sorted the same average number of cards.",
+      "D": "The average number of cards sorted increased steadily from Group A through Group D."
+    },
+    "correct": "B",
+    "explanation": "Group B’s average of 26 cards is the highest value in the table."
+  },
+  {
+    "id": "RW17-M1-014",
+    "prompt": "The reviewer admires the essay’s “nimble” reasoning, noting how it moves quickly between examples without losing clarity.\nAs used in the text, what does “nimble” most nearly mean?",
+    "choices": {
+      "A": "slow and careful",
+      "B": "quick and agile",
+      "C": "uncertain and cautious",
+      "D": "stiff and formal"
+    },
+    "correct": "B",
+    "explanation": "The passage says the reasoning moves quickly between examples, so “nimble” means quick and agile."
+  },
+  {
+    "id": "RW17-M1-015",
+    "prompt": "In a short story, the narrator says, “My uncle left the fishing net folded in the shed long after he sold the boat. It no longer touched the water, but every knot still seemed to remember mornings before sunrise.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The net serves as a reminder of a former way of life.",
+      "B": "The narrator wants to repair the shed before using the net.",
+      "C": "The uncle plans to buy a larger boat next season.",
+      "D": "The knots in the net make it impossible to unfold."
+    },
+    "correct": "A",
+    "explanation": "The description suggests the net preserves the memory of past routines and identity after the boat is gone."
+  },
+  {
+    "id": "RW17-M1-016",
+    "prompt": "In an experiment, newly planted saplings lost less water from their leaves when a layer of wood chips covered the soil than when the soil surface was left bare. The researchers suggest that the mulch helped the soil stay cooler and moister.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Mulch may help newly planted saplings retain water more effectively.",
+      "B": "Saplings can survive only if wood chips are placed around them.",
+      "C": "Bare soil always causes plant leaves to dry out completely.",
+      "D": "The experiment proved that mulch matters more than sunlight in every garden."
+    },
+    "correct": "A",
+    "explanation": "The passage reports less water loss when wood chips covered the soil, supporting the idea that mulch helped conserve moisture."
+  },
+  {
+    "id": "RW17-M1-017",
+    "prompt": "A cultural critic writes, “The barber shop was where the block rehearsed itself: opinions arrived before the customers who voiced them.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To present one critic’s interpretation of the barber shop as a social center of discussion",
+      "B": "To prove that barber shops opened earlier than other neighborhood businesses",
+      "C": "To explain how appointments were scheduled in barber shops",
+      "D": "To describe the sound of conversations in a specific barber shop"
+    },
+    "correct": "A",
+    "explanation": "The quotation presents the barber shop as a place where neighborhood opinion and discussion circulated."
+  },
+  {
+    "id": "RW17-M1-018",
+    "prompt": "A student is writing about free seedling days at neighborhood parks and has taken these notes:\n• Some parks give away young herb and vegetable seedlings in spring.\n• Visitors can take home a plant even if they have never started seeds indoors.\n• Staff often add short care instructions to each seedling tray.\n• The events can encourage beginners to try gardening.\nWhich choice most effectively uses relevant information from the notes to make a general claim about free seedling days?",
+    "choices": {
+      "A": "Free seedling days can make gardening easier for beginners by giving them a healthy start and basic care advice.",
+      "B": "Most gardeners prefer to start every plant from seed indoors.",
+      "C": "Care instructions are useful only to experienced gardeners.",
+      "D": "Parks should give away only herb seedlings, not vegetable seedlings."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the notes about beginners receiving plants and simple instructions that help them get started."
+  },
+  {
+    "id": "RW17-M1-019",
+    "prompt": "The first section of the article describes handwritten notices once posted outside village bakeries. ______, the second section turns to the printed posters that replaced them after cheaper presses became common.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Later,",
+      "C": "Otherwise,",
+      "D": "For example,"
+    },
+    "correct": "B",
+    "explanation": "The passage moves from an earlier practice to a later development, so “Later,” is correct."
+  },
+  {
+    "id": "RW17-M1-020",
+    "prompt": "The summer assistant was asked to catalog shells, measure specimens, and <u>update the storage log.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "updating the storage log.",
+      "B": "update the storage log.",
+      "C": "updated the storage log.",
+      "D": "to update the storage log."
+    },
+    "correct": "B",
+    "explanation": "The series uses parallel base-form verbs: catalog, measure, and update."
+  },
+  {
+    "id": "RW17-M1-021",
+    "prompt": "The bakers <u>who started before dawn</u> finished shaping the dough by sunrise.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a nonessential clause that should be set off with commas.",
+      "B": "It is a restrictive clause that correctly identifies which bakers finished shaping the dough.",
+      "C": "It creates a comma splice.",
+      "D": "It should be moved to the end of the sentence for clarity."
+    },
+    "correct": "B",
+    "explanation": "The clause identifies a specific set of bakers, so it is restrictive."
+  },
+  {
+    "id": "RW17-M1-022",
+    "prompt": "A bouquet of daisies and poppies <u>sits</u> on the table beside the window.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "sit",
+      "B": "sits",
+      "C": "have sat",
+      "D": "sitting"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “bouquet” requires the singular verb “sits.”"
+  },
+  {
+    "id": "RW17-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“Unlike the revised bus map, riders said the older station signs were difficult to follow.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because it uses too many nouns.",
+      "B": "The sentence should be revised because it illogically compares the revised bus map with riders.",
+      "C": "The sentence should be revised because the verb tense is incorrect.",
+      "D": "The sentence should be revised because station signs should never be criticized."
+    },
+    "correct": "B",
+    "explanation": "The phrase after “Unlike” should be parallel to “the older station signs,” not to “riders.”"
+  },
+  {
+    "id": "RW17-M1-024",
+    "prompt": "[1] Some university quads now include weatherproof whiteboards on movable stands. [2] Student groups use them for quick diagrams, event announcements, or practice problems. [3] Because the boards can be rolled between buildings, they can serve many different classes and clubs. [4] In some places, markers and erasers are stored in locked boxes nearby.\nWhich choice best describes the most logical placement for the following sentence?\n“The boards can turn outdoor space into a flexible place for collaboration.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The sentence best follows the explanation of the boards’ varied uses and mobility before the final detail about supplies."
+  },
+  {
+    "id": "RW17-M1-025",
+    "prompt": "To make the sentence more concise, the editor replaced “for the duration of” with <u>during</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It changes the meaning by making the time span less clear.",
+      "B": "It shortens the sentence without changing its meaning.",
+      "C": "It makes the sentence less grammatical.",
+      "D": "It introduces a more formal tone."
+    },
+    "correct": "B",
+    "explanation": "“During” is a shorter equivalent of “for the duration of,” so the meaning remains the same."
+  },
+  {
+    "id": "RW17-M1-026",
+    "prompt": "In an experiment, hikers classifying trail routes made fewer mistakes when route cards included a small icon showing average slope in addition to mileage than when the cards listed mileage alone.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Adding slope icons may help hikers classify trail routes more accurately.",
+      "B": "Mileage is unnecessary on all trail route cards.",
+      "C": "The hikers had memorized the routes before the experiment.",
+      "D": "Average slope is more important than all other route information in every task."
+    },
+    "correct": "A",
+    "explanation": "The passage reports fewer classification mistakes when slope icons were added to the cards."
+  },
+  {
+    "id": "RW17-M1-027",
+    "prompt": "An article about restored hillside reservoirs explains that basins once used to store emergency water are now often repaired and reopened as public overlooks. The article ends by noting that some schools use the sites during field trips on urban planning and water systems.\nWhich choice best describes the function of the final sentence in the text?",
+    "choices": {
+      "A": "It provides an example of a present-day educational use connected to the restored sites.",
+      "B": "It argues that all schools should teach only urban planning.",
+      "C": "It shifts the discussion away from restoration to classroom testing.",
+      "D": "It denies that restored reservoirs attract visitors."
+    },
+    "correct": "A",
+    "explanation": "The final sentence gives a specific educational use for the restored reservoirs.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH19-M2-001",
+    "prompt": "What is the larger solution to the equation 1/(x − 3) + 2/(x + 1) = 1 ?",
+    "choices": {
+      "A": "(5 − √17)/2",
+      "B": "(5 + √17)/2",
+      "C": "(−5 + √17)/2",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": "Multiply both sides by (x − 3)(x + 1): (x + 1) + 2(x − 3) = x² − 2x − 3. This simplifies to x² − 5x + 2 = 0. Using the quadratic formula gives x = (5 ± √17)/2, so the larger solution is (5 + √17)/2."
+  },
+  {
+    "id": "MATH19-M2-002",
+    "prompt": "For what value of k does the line y = −2x + k intersect the parabola y = x² + 5x + 1 at exactly one point?",
+    "choices": {
+      "A": "−49/4",
+      "B": "−47/4",
+      "C": "−45/4",
+      "D": "−43/4"
+    },
+    "correct": "C",
+    "explanation": "Set the equations equal: x² + 5x + 1 = −2x + k. Then x² + 7x + (1 − k) = 0. For exactly one intersection, the discriminant is 0: 7² − 4(1)(1 − k) = 0. So 49 − 4 + 4k = 0, giving k = −45/4."
+  },
+  {
+    "id": "MATH19-M2-003",
+    "prompt": "A function is modeled by f(x) = abˣ, where a and b are positive constants. If f(2) = 18 and f(5) = 486, what is the value of a ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "6",
+      "D": "9"
+    },
+    "correct": "A",
+    "explanation": "Since f(5)/f(2) = b³, we have 486/18 = 27, so b = 3. Then 18 = a(3²) = 9a, so a = 2."
+  },
+  {
+    "id": "MATH19-M2-004",
+    "prompt": "The monic cubic polynomial q(x) = x³ + ax² + bx + 30 has factors x − 2 and x + 3. What is the value of q(−1) ?",
+    "choices": {
+      "A": "24",
+      "B": "30",
+      "C": "36",
+      "D": "42"
+    },
+    "correct": "C",
+    "explanation": "For a monic cubic with constant term 30, the product of the roots is −30. Since 2 and −3 are roots, the third root is 5. Then q(−1) = (−1 − 2)(−1 + 3)(−1 − 5) = (−3)(2)(−6) = 36."
+  },
+  {
+    "id": "MATH19-M2-005",
+    "prompt": "A sphere has surface area 324π. What is the volume of the sphere?",
+    "choices": {
+      "A": "648π",
+      "B": "864π",
+      "C": "972π",
+      "D": "1,080π"
+    },
+    "correct": "C",
+    "explanation": "From 4πr² = 324π, we get r² = 81 and r = 9. The volume is (4/3)πr³ = (4/3)π(729) = 972π."
+  },
+  {
+    "id": "MATH19-M2-006",
+    "prompt": "A data set of 9 values has a mean of 23. One value of 16 is corrected to 7. What is the new mean of the data set?",
+    "choices": {
+      "A": "20",
+      "B": "21",
+      "C": "22",
+      "D": "23"
+    },
+    "correct": "C",
+    "explanation": "The original total is 9(23) = 207. Replacing 16 with 7 decreases the total by 9, so the new total is 198. The new mean is 198/9 = 22."
+  },
+  {
+    "id": "MATH19-M2-007",
+    "prompt": "How many real solutions does the equation |x + 2| = (x − 1)² have?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "C",
+    "explanation": "For x ≥ −2, solve x + 2 = (x − 1)², giving x² − 3x − 1 = 0. Both roots are real and satisfy x ≥ −2. For x < −2, solve −x − 2 = (x − 1)², giving x² − x + 3 = 0, which has no real roots. So there are 2 real solutions."
+  },
+  {
+    "id": "MATH19-M2-008",
+    "prompt": "If g(x) = (3x + 4)/5, what is the value of g⁻¹(8) ?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "correct": "D",
+    "explanation": "Solve (3x + 4)/5 = 8. Then 3x + 4 = 40, so 3x = 36 and x = 12."
+  },
+  {
+    "id": "MATH19-M2-009",
+    "prompt": "The table summarizes survey results.\n             Volunteers   Does not volunteer\nTeam A 8 12\nTeam B 15 5\nIf one student who volunteers is selected at random, what is the probability that the student is in Team B?",
+    "choices": {
+      "A": "8/20",
+      "B": "8/23",
+      "C": "15/23",
+      "D": "3/4"
+    },
+    "correct": "C",
+    "explanation": "Among volunteers, there are 8 + 15 = 23 students. Of these, 15 are in Team B."
+  },
+  {
+    "id": "MATH19-M2-010",
+    "prompt": "If x + y = 14 and 1/x + 1/y = 7/15, what is the value of xy ?",
+    "choices": {
+      "A": "20",
+      "B": "24",
+      "C": "30",
+      "D": "42"
+    },
+    "correct": "C",
+    "explanation": "Since 1/x + 1/y = (x + y)/xy, we have 14/xy = 7/15. Thus xy = 30."
+  },
+  {
+    "id": "MATH19-M2-011",
+    "prompt": "How many liters of 50% acid solution must be mixed with 20% acid solution to make 16 liters of 35% acid solution?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "Let x be the liters of 50% solution. Then 16 − x liters are 20% solution. Solve 0.50x + 0.20(16 − x) = 0.35(16). This gives 0.30x = 2.4, so x = 8."
+  },
+  {
+    "id": "MATH19-M2-012",
+    "prompt": "What is the value of x in the equation 27^(x + 1) = 81^(x − 1) ?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "Rewrite with base 3: 27^(x + 1) = 3^(3x + 3) and 81^(x − 1) = 3^(4x − 4). Set exponents equal: 3x + 3 = 4x − 4, so x = 7."
+  },
+  {
+    "id": "MATH19-M2-013",
+    "prompt": "In a right triangle, cos θ = 8/17, and the side adjacent to angle θ has length 24. What is the perimeter of the triangle?",
+    "choices": {
+      "A": "96",
+      "B": "108",
+      "C": "120",
+      "D": "126"
+    },
+    "correct": "C",
+    "explanation": "Since cos θ = 8/17 and the adjacent side is 24, the scale factor is 3. So the triangle sides are 24, 45, and 51. The perimeter is 24 + 45 + 51 = 120."
+  },
+  {
+    "id": "MATH19-M2-014",
+    "prompt": "In a survey, 25% of the people originally surveyed preferred robotics. Then 9 more people who preferred robotics were added, and 30% of the people surveyed preferred robotics. How many people were in the original survey?",
+    "choices": {
+      "A": "90",
+      "B": "108",
+      "C": "126",
+      "D": "144"
+    },
+    "correct": "C",
+    "explanation": "Let n be the original number of people. Then 0.25n + 9 = 0.30(n + 9). Solving gives 0.25n + 9 = 0.30n + 2.7, so 6.3 = 0.05n and n = 126."
+  },
+  {
+    "id": "MATH19-M2-015",
+    "prompt": "For x ≠ −5 and x ≠ 3, which expression is equivalent to (x² + 8x + 15)/(x² + 2x − 15) ?",
+    "choices": {
+      "A": "(x + 3)/(x − 3)",
+      "B": "(x − 3)/(x + 3)",
+      "C": "(x + 5)/(x − 3)",
+      "D": "(x + 3)/(x + 5)"
+    },
+    "correct": "A",
+    "explanation": "Factor numerator and denominator: x² + 8x + 15 = (x + 3)(x + 5) and x² + 2x − 15 = (x + 5)(x − 3). Cancel x + 5."
+  },
+  {
+    "id": "MATH19-M2-016",
+    "prompt": "What is the area of the triangle with vertices (0, 0), (8, 0), and (3, 4) ?",
+    "choices": {
+      "A": "14",
+      "B": "16",
+      "C": "18",
+      "D": "20"
+    },
+    "correct": "B",
+    "explanation": "The base from (0, 0) to (8, 0) has length 8, and the height to (3, 4) is 4. So the area is (1/2)(8)(4) = 16."
+  },
+  {
+    "id": "MATH19-M2-017",
+    "prompt": "The system below has two solutions.\nx² + y² = 13\ny = x + 1\nWhat is the larger x-coordinate of a solution?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": "Substitute y = x + 1 into x² + y² = 13: x² + (x + 1)² = 13. This gives 2x² + 2x − 12 = 0, or x² + x − 6 = 0. Factoring gives (x + 3)(x − 2) = 0, so the larger x-coordinate is 2."
+  },
+  {
+    "id": "MATH19-M2-018",
+    "prompt": "Each value in a data set is divided by 3 and then increased by 8. If the interquartile range of the original data set is 6, what is the interquartile range of the new data set?",
+    "choices": {
+      "A": "2",
+      "B": "6",
+      "C": "8",
+      "D": "18"
+    },
+    "correct": "A",
+    "explanation": "Dividing every value by 3 divides the interquartile range by 3, and adding 8 does not change it. So the new IQR is 6/3 = 2."
+  },
+  {
+    "id": "MATH19-M2-019",
+    "prompt": "Two similar cones have radii in the ratio 3:4. If the volume of the smaller cone is 81, what is the volume of the larger cone?",
+    "choices": {
+      "A": "144",
+      "B": "162",
+      "C": "192",
+      "D": "243"
+    },
+    "correct": "C",
+    "explanation": "Similar solids scale volume by the cube of the linear scale factor. The scale factor is 4/3, so the larger volume is 81(4/3)³ = 81(64/27) = 192."
+  },
+  {
+    "id": "MATH19-M2-020",
+    "prompt": "What is the value of x in the equation √(x + 20) = x ?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "Since x = √(x + 20), square both sides to get x² = x + 20. Rearranging gives x² − x − 20 = 0, which factors as (x − 5)(x + 4) = 0. The valid solution is x = 5."
+  },
+  {
+    "id": "MATH19-M2-021",
+    "prompt": "A rectangular prism has dimensions x, x + 1, and 6. If its total surface area is 148, what is the value of x ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "C",
+    "explanation": "Total surface area is 2[x(x + 1) + 6x + 6(x + 1)] = 148. This simplifies to x² + 13x − 68 = 0. Factoring gives (x + 17)(x − 4) = 0, so x = 4."
+  },
+  {
+    "id": "MATH19-M2-022",
+    "prompt": "The quadratic equation x² + kx + 48 = 0 has two negative integer solutions that differ by 2. What is the value of k ?",
+    "choices": {
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": "The negative integers that differ by 2 and multiply to 48 are −6 and −8. Their sum is −14. Since the sum of the roots is −k, k = 14."
+  }
+]

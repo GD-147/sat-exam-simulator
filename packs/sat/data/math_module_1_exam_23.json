@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH23-M1-001",
+    "prompt": "What is the value of x in the equation (3x − 5)/4 + 2 = (x + 9)/2 ?",
+    "choices": {
+      "A": "11",
+      "B": "13",
+      "C": "15",
+      "D": "17"
+    },
+    "correct": "C",
+    "explanation": "Multiply both sides by 4: 3x − 5 + 8 = 2x + 18. This simplifies to x + 3 = 18, so x = 15."
+  },
+  {
+    "id": "MATH23-M1-002",
+    "prompt": "Which inequality is equivalent to −5 < 2x + 1 ≤ 11 ?",
+    "choices": {
+      "A": "x ≤ −3",
+      "B": "−3 < x ≤ 5",
+      "C": "−3 ≤ x < 5",
+      "D": "x > 5"
+    },
+    "correct": "B",
+    "explanation": "Subtract 1 from all parts to get −6 < 2x ≤ 10. Divide by 2 to get −3 < x ≤ 5."
+  },
+  {
+    "id": "MATH23-M1-003",
+    "prompt": "The variable y varies jointly with x and √z. If y = 24 when x = 3 and z = 4, what is the value of y when x = 5 and z = 9 ?",
+    "choices": {
+      "A": "40",
+      "B": "48",
+      "C": "60",
+      "D": "72"
+    },
+    "correct": "C",
+    "explanation": "Since y varies jointly with x and √z, write y = kx√z. Using 24 = k(3)(2) gives k = 4. Then y = 4(5)(3) = 60."
+  },
+  {
+    "id": "MATH23-M1-004",
+    "prompt": "Which expression is equivalent to (x + 3)² − (x − 1)(x + 7) ?",
+    "choices": {
+      "A": "8",
+      "B": "12",
+      "C": "16",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "Expand: (x + 3)² = x² + 6x + 9 and (x − 1)(x + 7) = x² + 6x − 7. Their difference is 16."
+  },
+  {
+    "id": "MATH23-M1-005",
+    "prompt": "The table shows values of a linear function.\nx y\n−1 8\n2 2\n5 −4\nWhat is the value of x when y = −6 ?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "The slope is (2 − 8)/(2 − (−1)) = −6/3 = −2. So the equation is y = −2x + 6. Set y = −6: −6 = −2x + 6, so x = 6."
+  },
+  {
+    "id": "MATH23-M1-006",
+    "prompt": "A bag contains 4 white marbles, 5 black marbles, and 3 red marbles. Two marbles are drawn at random without replacement. What is the probability that the first marble is white and the second marble is black?",
+    "choices": {
+      "A": "1/11",
+      "B": "5/33",
+      "C": "1/6",
+      "D": "4/11"
+    },
+    "correct": "B",
+    "explanation": "The probability is (4/12)(5/11) = 20/132 = 5/33."
+  },
+  {
+    "id": "MATH23-M1-007",
+    "prompt": "A square pyramid has base side length 6 and height 10. What is the volume of the pyramid?",
+    "choices": {
+      "A": "90",
+      "B": "108",
+      "C": "120",
+      "D": "180"
+    },
+    "correct": "C",
+    "explanation": "Volume of a square pyramid is (1/3)(base area)(height). The base area is 6² = 36, so the volume is (1/3)(36)(10) = 120."
+  },
+  {
+    "id": "MATH23-M1-008",
+    "prompt": "The table shows values of a function.\nx y\n0 96\n1 48\n2 24\n3 12\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = 96(1/2)ˣ",
+      "B": "y = 96(2)ˣ",
+      "C": "y = 48(1/2)ˣ",
+      "D": "y = 12(2)ˣ"
+    },
+    "correct": "A",
+    "explanation": "Each time x increases by 1, y is multiplied by 1/2, and y = 96 when x = 0."
+  },
+  {
+    "id": "MATH23-M1-009",
+    "prompt": "What are the coordinates of the center of the circle given by x² + y² − 4x + 10y − 11 = 0 ?",
+    "choices": {
+      "A": "(−2, 5)",
+      "B": "(2, −5)",
+      "C": "(2, 5)",
+      "D": "(−2, −5)"
+    },
+    "correct": "B",
+    "explanation": "Complete the square: x² − 4x + y² + 10y = 11 becomes (x − 2)² + (y + 5)² = 40. The center is (2, −5)."
+  },
+  {
+    "id": "MATH23-M1-010",
+    "prompt": "What is the mean of the data set 3, 5, 9, 11, 12 ?",
+    "choices": {
+      "A": "7",
+      "B": "8",
+      "C": "8.5",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Add the values: 3 + 5 + 9 + 11 + 12 = 40. Then divide by 5 to get 8."
+  },
+  {
+    "id": "MATH23-M1-011",
+    "prompt": "In a 30°-60°-90° triangle, the longer leg has length 9√3. What is the length of the shorter leg?",
+    "choices": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "In a 30°-60°-90° triangle, the longer leg equals the shorter leg times √3. So the shorter leg is 9√3 ÷ √3 = 9."
+  },
+  {
+    "id": "MATH23-M1-012",
+    "prompt": "Which equation represents the line that passes through the point (4, 1) and is perpendicular to the line 2x − 5y = 10 ?",
+    "choices": {
+      "A": "y = −(5/2)x + 11",
+      "B": "y = −(2/5)x + 11",
+      "C": "y = (5/2)x − 9",
+      "D": "y = −(5/2)x − 11"
+    },
+    "correct": "A",
+    "explanation": "Rewrite 2x − 5y = 10 as y = (2/5)x − 2, so the perpendicular slope is −5/2. Using the point (4, 1), 1 = −10 + b, so b = 11."
+  },
+  {
+    "id": "MATH23-M1-013",
+    "prompt": "An item with original price p is decreased by 25% and then increased by 10%. Which expression represents the final price?",
+    "choices": {
+      "A": "0.725p",
+      "B": "0.75p",
+      "C": "0.825p",
+      "D": "0.85p"
+    },
+    "correct": "C",
+    "explanation": "A 25% decrease multiplies by 0.75, and then a 10% increase multiplies by 1.10. The product is 0.75 × 1.10 = 0.825."
+  },
+  {
+    "id": "MATH23-M1-014",
+    "prompt": "Each exterior angle of a regular polygon measures 24°. How many sides does the polygon have?",
+    "choices": {
+      "A": "12",
+      "B": "15",
+      "C": "18",
+      "D": "24"
+    },
+    "correct": "B",
+    "explanation": "The sum of all exterior angles of a polygon is 360°. So the number of sides is 360/24 = 15."
+  },
+  {
+    "id": "MATH23-M1-015",
+    "prompt": "The function f is defined by\nf(x) = 2 − x, for x < 0\nf(x) = x² + 1, for x ≥ 0\nWhat is the value of f(−3) + f(2) ?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "correct": "C",
+    "explanation": "Since −3 < 0, f(−3) = 2 − (−3) = 5. Since 2 ≥ 0, f(2) = 2² + 1 = 5. Their sum is 10."
+  },
+  {
+    "id": "MATH23-M1-016",
+    "prompt": "Which equation could represent a quadratic function with zeros −3 and 4 ?",
+    "choices": {
+      "A": "y = x² − x − 12",
+      "B": "y = x² + x − 12",
+      "C": "y = x² − 7x − 12",
+      "D": "y = x² + 7x − 12"
+    },
+    "correct": "A",
+    "explanation": "A quadratic with zeros −3 and 4 can be written as y = (x + 3)(x − 4) = x² − x − 12."
+  },
+  {
+    "id": "MATH23-M1-017",
+    "prompt": "What is the value of (1/81)^(-3/4) ?",
+    "choices": {
+      "A": "9",
+      "B": "18",
+      "C": "27",
+      "D": "81"
+    },
+    "correct": "C",
+    "explanation": "(1/81)^(-3/4) = 81^(3/4) = (3⁴)^(3/4) = 3³ = 27."
+  },
+  {
+    "id": "MATH23-M1-018",
+    "prompt": "A line of best fit for a scatterplot is y = 1.2x + 4. One point in the data set is (5, 11). What is the residual for this point?",
+    "choices": {
+      "A": "−1",
+      "B": "0",
+      "C": "1",
+      "D": "2"
+    },
+    "correct": "C",
+    "explanation": "The model predicts y = 1.2(5) + 4 = 10. The residual is actual − predicted = 11 − 10 = 1."
+  },
+  {
+    "id": "MATH23-M1-019",
+    "prompt": "Two similar triangles have corresponding side lengths in the ratio 4:7. If the perimeter of the smaller triangle is 36, what is the perimeter of the larger triangle?",
+    "choices": {
+      "A": "54",
+      "B": "60",
+      "C": "63",
+      "D": "72"
+    },
+    "correct": "C",
+    "explanation": "Perimeter scales by the same factor as the side lengths. The scale factor is 7/4, so the larger perimeter is 36(7/4) = 63."
+  },
+  {
+    "id": "MATH23-M1-020",
+    "prompt": "If g(x) = |x − 6|, what is the value of g(2) + g(11) ?",
+    "choices": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "g(2) = |2 − 6| = 4 and g(11) = |11 − 6| = 5. Their sum is 9."
+  },
+  {
+    "id": "MATH23-M1-021",
+    "prompt": "A rectangle has diagonal length 15 and one side length 9. What is the area of the rectangle?",
+    "choices": {
+      "A": "96",
+      "B": "108",
+      "C": "120",
+      "D": "135"
+    },
+    "correct": "B",
+    "explanation": "Use the Pythagorean theorem: the missing side is √(15² − 9²) = √144 = 12. The area is 9 × 12 = 108."
+  },
+  {
+    "id": "MATH23-M1-022",
+    "prompt": "The table shows values of a function.\nx y\n0 5\n1 6\n2 9\n3 14\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = x² + 5",
+      "B": "y = 2x² + 5",
+      "C": "y = x² + 2x + 5",
+      "D": "y = x² − x + 5"
+    },
+    "correct": "A",
+    "explanation": "Substituting x = 0, 1, 2, and 3 gives y-values 5, 6, 9, and 14, which match the table.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

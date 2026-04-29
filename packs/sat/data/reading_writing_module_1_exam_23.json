@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW23-M1-001",
+    "prompt": "In a review of a historian’s essays, a critic says the author’s tone is “plainspoken”: even complicated ideas are expressed in familiar, direct language.\nAs used in the text, what does “plainspoken” most nearly mean?",
+    "choices": {
+      "A": "informal and direct",
+      "B": "vague and hesitant",
+      "C": "highly ornate",
+      "D": "sharply humorous"
+    },
+    "correct": "A",
+    "explanation": "The passage says the ideas are expressed in familiar, direct language, so “plainspoken” means informal and direct."
+  },
+  {
+    "id": "RW23-M1-002",
+    "prompt": "Some towns plant vines along metal shade frames above public benches. In summer, the leaves cool the seating area and create shade, while in winter the bare frames still let sunlight through. The structures can therefore make outdoor seating more comfortable across different seasons.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Leaf-covered shade frames can make public benches more comfortable in different seasons.",
+      "B": "Public benches should always be placed in full sun during winter.",
+      "C": "Metal frames are installed mainly to support public art rather than plants.",
+      "D": "Vines can grow only on benches that receive shade all day."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that the structures provide shade in summer while still allowing sunlight through in winter."
+  },
+  {
+    "id": "RW23-M1-003",
+    "prompt": "Before bookstores adopted standardized shelf labels for new arrivals, workers often had to rewrite display cards by hand whenever prices or titles changed. Once printed label templates became common, staff could update displays more quickly and with fewer errors.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Printed label templates made updating bookstore displays easier and more accurate.",
+      "B": "Bookstores stopped changing prices once printed labels became common.",
+      "C": "Handwritten display cards were preferred because they lasted longer.",
+      "D": "Standardized shelf labels eliminated the need for bookstore workers."
+    },
+    "correct": "A",
+    "explanation": "The text says templates allowed quicker updates and fewer errors."
+  },
+  {
+    "id": "RW23-M1-004",
+    "prompt": "A conservation scientist notices dark soot marks clustered near the tops of several cave walls. She cites those marks as evidence that fires were once lit inside the cave.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It presents physical evidence that the second sentence interprets.",
+      "B": "It introduces a claim that the second sentence rejects.",
+      "C": "It explains why the cave is difficult to enter.",
+      "D": "It compares several caves that the second sentence later contrasts."
+    },
+    "correct": "A",
+    "explanation": "The soot marks are the evidence, and the second sentence explains what they suggest."
+  },
+  {
+    "id": "RW23-M1-005",
+    "prompt": "A student is writing about pan-lending shelves at community kitchens and has taken these notes:\n• Some community kitchens lend muffin tins, loaf pans, and cake pans.\n• Residents can borrow a pan for a holiday or birthday instead of buying one.\n• The pans are returned, cleaned, and reused.\n• The program can help people make specialty foods without storing rarely used equipment.\nThe student wants to emphasize how the program helps residents use specialty pans without needing to keep them at home. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Some community kitchens lend muffin tins, loaf pans, and cake pans.",
+      "B": "Residents can borrow a specialty pan for an occasion instead of buying and storing one they may rarely use.",
+      "C": "The pans are returned, cleaned, and reused.",
+      "D": "Holiday baking often requires a loaf pan or cake pan."
+    },
+    "correct": "B",
+    "explanation": "This choice most directly emphasizes using a pan without having to buy and keep it."
+  },
+  {
+    "id": "RW23-M1-006",
+    "prompt": "The library installed a self-checkout station near the entrance. ______, visitors can now borrow books more quickly during busy afternoon hours.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "As a result,",
+      "C": "Meanwhile,",
+      "D": "Instead,"
+    },
+    "correct": "B",
+    "explanation": "The second sentence describes the effect of installing the self-checkout station."
+  },
+  {
+    "id": "RW23-M1-007",
+    "prompt": "The archive’s oldest atlas, <u>printed in Amsterdam in 1684,</u> is kept in a climate-controlled case.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; printed in Amsterdam in 1684;",
+      "C": ": printed in Amsterdam in 1684:",
+      "D": "—printed in Amsterdam in 1684—"
+    },
+    "correct": "A",
+    "explanation": "The phrase is nonessential and is correctly set off with commas."
+  },
+  {
+    "id": "RW23-M1-008",
+    "prompt": "The article explains how the neighborhood market was financed, <u>it says little about the workers who built the stalls.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "it says little about the workers who built the stalls.",
+      "B": "and it says little about the workers who built the stalls.",
+      "C": "but it says little about the workers who built the stalls.",
+      "D": "saying little about the workers who built the stalls."
+    },
+    "correct": "C",
+    "explanation": "Two independent clauses need a conjunction, and “but” correctly signals contrast."
+  },
+  {
+    "id": "RW23-M1-009",
+    "prompt": "The final rehearsal schedule was shared only with Nora and <u>I</u> before the cast meeting.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "I",
+      "B": "me",
+      "C": "my",
+      "D": "myself"
+    },
+    "correct": "B",
+    "explanation": "The pronoun is part of the compound object of the preposition “with.”"
+  },
+  {
+    "id": "RW23-M1-010",
+    "prompt": "Since 2018, the museum <u>offers</u> free evening tours on the first Friday of each month.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "offers",
+      "B": "offered",
+      "C": "has offered",
+      "D": "will offer"
+    },
+    "correct": "C",
+    "explanation": "“Since 2018” calls for the present perfect tense."
+  },
+  {
+    "id": "RW23-M1-011",
+    "prompt": "After reviewing the flyer line by line, <u>the missing address was obvious to Lena.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the missing address was obvious to Lena.",
+      "B": "Lena noticed that the address was missing.",
+      "C": "the flyer made the missing address obvious to Lena.",
+      "D": "obvious to Lena, the missing address appeared after the review."
+    },
+    "correct": "B",
+    "explanation": "The opening phrase describes Lena’s action, so Lena should be the subject of the main clause."
+  },
+  {
+    "id": "RW23-M1-012",
+    "prompt": "[1] Some bus stops now include shelves of free paperback books. [2] Riders can take a book for the trip or leave one they have finished. [3] Because the shelves are built into places where people already pause, the exchange feels easy and informal. [4] In some neighborhoods, volunteers restock the shelves each week.\nWhich choice best describes the most logical placement for the following sentence?\n“The shelves can turn waiting time into a brief opportunity to read or share.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The sentence best follows the explanation that the exchange feels easy and informal and summarizes the shelves’ benefit."
+  },
+  {
+    "id": "RW23-M1-013",
+    "prompt": "A teacher recorded the average number of sample tags four student groups attached in twelve minutes.\nGroup A: 14\nGroup B: 17\nGroup C: 19\nGroup D: 16\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Group A attached more tags, on average, than Group D.",
+      "B": "Group B attached the most tags, on average.",
+      "C": "Group C attached the most tags, on average.",
+      "D": "The average number of tags attached increased steadily from Group A through Group D."
+    },
+    "correct": "C",
+    "explanation": "Group C’s average of 19 is the highest value in the table."
+  },
+  {
+    "id": "RW23-M1-014",
+    "prompt": "The reviewer calls the guide “candid,” noting that it acknowledges the project’s failures as openly as its successes.\nAs used in the text, what does “candid” most nearly mean?",
+    "choices": {
+      "A": "careful",
+      "B": "frank",
+      "C": "ornate",
+      "D": "uncertain"
+    },
+    "correct": "B",
+    "explanation": "The guide openly acknowledges failures as well as successes, so “candid” means frank."
+  },
+  {
+    "id": "RW23-M1-015",
+    "prompt": "In a short story, the narrator says, “My grandfather kept the brass ticket punch on the shelf above his desk long after the station closed. It marked no stubs now, but every time he dusted it, the room seemed to hear a train arriving.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The ticket punch preserves a connection to a former routine and workplace.",
+      "B": "The narrator plans to reopen the closed station with the old punch.",
+      "C": "The desk is valuable mainly because the punch is stored above it.",
+      "D": "The grandfather keeps the punch because brass tools are easy to repair."
+    },
+    "correct": "A",
+    "explanation": "The punch no longer functions, but it symbolizes and recalls the grandfather’s former work at the station."
+  },
+  {
+    "id": "RW23-M1-016",
+    "prompt": "In an experiment, bean plants grown beside white stone mulch wilted less during hot afternoons than plants grown beside dark bark mulch. The researchers suggest that the lighter mulch reflected more sunlight and kept the soil surface cooler.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "White stone mulch may help reduce heat stress in bean plants by keeping the soil cooler.",
+      "B": "Bean plants can survive only if white mulch is used.",
+      "C": "Dark mulch always causes bean plants to wilt permanently.",
+      "D": "The experiment proved that mulch color matters more than water in every garden."
+    },
+    "correct": "A",
+    "explanation": "The passage links lighter mulch with cooler soil and less wilting."
+  },
+  {
+    "id": "RW23-M1-017",
+    "prompt": "A community historian writes, “The sidewalk chess tables were the block’s unofficial debate club.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To present one historian’s view of the chess tables as a place for conversation as well as play",
+      "B": "To prove that no other games were played on the block",
+      "C": "To explain how the chess tables were constructed",
+      "D": "To describe the exact layout of the sidewalk where the tables stood"
+    },
+    "correct": "A",
+    "explanation": "The quotation highlights the social and conversational role of the chess tables."
+  },
+  {
+    "id": "RW23-M1-018",
+    "prompt": "A student is writing about free sketch kits at sculpture parks and has taken these notes:\n• Some sculpture parks lend sketch kits with pencils and small pads.\n• Visitors can draw while walking through the park.\n• The kits can make art-making easier for people who did not bring supplies.\n• Some kits include prompt cards with simple drawing ideas.\nWhich choice most effectively uses relevant information from the notes to make a general claim about the sketch kits?",
+    "choices": {
+      "A": "Free sketch kits can make outdoor drawing easier to try by providing supplies and simple prompts.",
+      "B": "Visitors can draw while walking through the park.",
+      "C": "Some sculpture parks lend sketch kits with pencils and small pads.",
+      "D": "Prompt cards are useful only for experienced artists."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the notes about materials and prompt cards into a broad claim."
+  },
+  {
+    "id": "RW23-M1-019",
+    "prompt": "The article begins with hand-painted signs once used outside fishing-supply stores. ______, it turns to the printed enamel signs that replaced them after mass production expanded.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Later,",
+      "C": "Otherwise,",
+      "D": "For example,"
+    },
+    "correct": "B",
+    "explanation": "The passage moves from an earlier practice to a later development."
+  },
+  {
+    "id": "RW23-M1-020",
+    "prompt": "The internship asked students to label folders, sort receipts, and <u>record shipment dates.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "recording shipment dates",
+      "B": "record shipment dates",
+      "C": "recorded shipment dates",
+      "D": "to record shipment dates"
+    },
+    "correct": "B",
+    "explanation": "The series requires parallel base-form verbs: label, sort, and record."
+  },
+  {
+    "id": "RW23-M1-021",
+    "prompt": "The editors’ office is on the second floor near the stairwell.\nWhich choice best explains the use of the apostrophe in the underlined word?",
+    "choices": {
+      "A": "It shows that the office belongs to or is associated with more than one editor.",
+      "B": "It marks the plural form of a noun that is not possessive.",
+      "C": "It shows that the second floor belongs to the editors.",
+      "D": "It is used incorrectly because the noun should be singular."
+    },
+    "correct": "A",
+    "explanation": "The apostrophe after the plural noun marks plural possession or association."
+  },
+  {
+    "id": "RW23-M1-022",
+    "prompt": "A basket of peaches and plums <u>sits</u> near the kitchen window.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "sit",
+      "B": "sits",
+      "C": "have sat",
+      "D": "sitting"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “basket” takes the singular verb “sits.”"
+  },
+  {
+    "id": "RW23-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“The revised bus map was better because it was more useful.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because “better” and “more useful” are too vague to explain what improved.",
+      "B": "The sentence should be revised because maps should not be evaluated positively.",
+      "C": "The sentence should be revised because it contains too many adjectives.",
+      "D": "The sentence should be revised because it uses the wrong verb tense."
+    },
+    "correct": "A",
+    "explanation": "The sentence needs specific information about what changed and why it improved."
+  },
+  {
+    "id": "RW23-M1-024",
+    "prompt": "[1] Some apartment lobbies now include shelves for puzzle exchanges. [2] Residents can borrow a puzzle, finish it, and return it later. [3] Because the shelves are near the mailboxes, people often browse them during routines they already follow. [4] In some buildings, residents leave short notes about missing pieces or difficulty level.\nWhich choice best describes the most logical placement for the following sentence?\n“The shelves can turn a quick stop in the lobby into a small exchange of entertainment.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The sentence best follows the description of browsing during daily routines and sums up the shelves’ social value."
+  },
+  {
+    "id": "RW23-M1-025",
+    "prompt": "To make the sentence more concise, the editor replaced “for the purpose of” with <u>to</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It changes the meaning by making the purpose less clear.",
+      "B": "It shortens the sentence without changing its meaning.",
+      "C": "It makes the sentence less grammatical.",
+      "D": "It introduces a more formal tone."
+    },
+    "correct": "B",
+    "explanation": "“To” is a more concise equivalent of “for the purpose of.”"
+  },
+  {
+    "id": "RW23-M1-026",
+    "prompt": "In an experiment, museum visitors identifying carved tools made fewer mistakes when display cards included side-view outlines in addition to front-view photographs than when the cards showed front views alone.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Additional side-view outlines may help visitors identify carved tools more accurately.",
+      "B": "Front-view photographs are unnecessary in all tool displays.",
+      "C": "The visitors had memorized all the tools before the experiment.",
+      "D": "Side views are more important than every other visual feature in all cases."
+    },
+    "correct": "A",
+    "explanation": "The passage reports fewer errors when side-view outlines were added."
+  },
+  {
+    "id": "RW23-M1-027",
+    "prompt": "An article about restored ropewalk buildings explains that structures once used to twist long strands of fiber into rope are now often repaired and opened to visitors. The article ends by noting that some schools use the buildings during field trips on maritime trade and manufacturing.\nWhich choice best describes the function of the final sentence in the text?",
+    "choices": {
+      "A": "It provides an example of a present-day educational use connected to the restored buildings.",
+      "B": "It argues that all schools should study manufacturing through field trips.",
+      "C": "It shifts the discussion away from restoration to unrelated tourism statistics.",
+      "D": "It denies that restored ropewalk buildings are useful to the public."
+    },
+    "correct": "A",
+    "explanation": "The final sentence gives a current educational use for the restored ropewalk buildings.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

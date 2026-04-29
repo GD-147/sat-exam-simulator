@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH16-M2-001",
+    "prompt": "What is the larger solution to the equation 2/(x − 1) + 1/(x + 2) = 1 ?",
+    "choices": {
+      "A": "1 − √5",
+      "B": "1 + √5",
+      "C": "2 + √5",
+      "D": "2 − √5"
+    },
+    "correct": "B",
+    "explanation": "Multiply both sides by (x − 1)(x + 2): 2(x + 2) + (x − 1) = (x − 1)(x + 2). This simplifies to x² − 2x − 4 = 0, so x = 1 ± √5. The larger solution is 1 + √5."
+  },
+  {
+    "id": "MATH16-M2-002",
+    "prompt": "For what value of k does the line y = 2x + k intersect the parabola y = x² + 3x + 1 at exactly one point?",
+    "choices": {
+      "A": "−1/4",
+      "B": "3/4",
+      "C": "5/4",
+      "D": "7/4"
+    },
+    "correct": "B",
+    "explanation": "Set the equations equal: x² + 3x + 1 = 2x + k, so x² + x + (1 − k) = 0. For exactly one intersection, the discriminant must be 0: 1 − 4(1 − k) = 0. This gives 4k − 3 = 0, so k = 3/4."
+  },
+  {
+    "id": "MATH16-M2-003",
+    "prompt": "A function is modeled by f(x) = abˣ, where a and b are positive constants. If f(0) = 7 and f(3) = 189, what is the value of b ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "6",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Since f(0) = a, we get a = 7. Then 189 = 7b³, so b³ = 27 and b = 3."
+  },
+  {
+    "id": "MATH16-M2-004",
+    "prompt": "The monic cubic polynomial p(x) = x³ + ax² + bx + 40 has factors x + 2 and x − 5. What is the value of b ?",
+    "choices": {
+      "A": "−2",
+      "B": "0",
+      "C": "2",
+      "D": "4"
+    },
+    "correct": "C",
+    "explanation": "The constant term 40 means the product of the roots is −40. With roots −2 and 5, the third root r satisfies (−2)(5)r = −40, so r = 4. Then b is the sum of pairwise products: (−2)(5) + (−2)(4) + (5)(4) = −10 − 8 + 20 = 2."
+  },
+  {
+    "id": "MATH16-M2-005",
+    "prompt": "A cylinder has radius 5 and total surface area 170π. What is the height of the cylinder?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "C",
+    "explanation": "Surface area of a cylinder is 2πr² + 2πrh. So 170π = 2π(25) + 2π(5)h = 50π + 10πh. Then 10h = 120, so h = 12."
+  },
+  {
+    "id": "MATH16-M2-006",
+    "prompt": "A data set of 8 values has a mean of 15. Two new values, 18 and 22, are added to the data set. What is the mean of the 10 values in the new data set?",
+    "choices": {
+      "A": "15.4",
+      "B": "15.8",
+      "C": "16",
+      "D": "16.4"
+    },
+    "correct": "C",
+    "explanation": "The original total is 8(15) = 120. Adding 18 and 22 gives a new total of 160. The new mean is 160/10 = 16."
+  },
+  {
+    "id": "MATH16-M2-007",
+    "prompt": "How many real solutions does the equation |x − 2| = x² − 1 have?",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "C",
+    "explanation": "For x ≥ 2, solve x − 2 = x² − 1. This gives x² − x + 1 = 0, which has no real solutions. For x < 2, solve 2 − x = x² − 1. This gives x² + x − 3 = 0, which has two real solutions, both less than 2. So there are 2 real solutions."
+  },
+  {
+    "id": "MATH16-M2-008",
+    "prompt": "If h(x) = (x − 5)/4, what is the value of h⁻¹(7) ?",
+    "choices": {
+      "A": "28",
+      "B": "30",
+      "C": "33",
+      "D": "35"
+    },
+    "correct": "C",
+    "explanation": "To find h⁻¹(7), solve (x − 5)/4 = 7. Then x − 5 = 28, so x = 33."
+  },
+  {
+    "id": "MATH16-M2-009",
+    "prompt": "The table summarizes survey results.\n               Owns a laptop   Does not own a laptop\nStudies art 10 8\nStudies music 6 12\nIf one student who owns a laptop is selected at random, what is the probability that the student studies art?",
+    "choices": {
+      "A": "5/8",
+      "B": "5/9",
+      "C": "10/18",
+      "D": "10/36"
+    },
+    "correct": "A",
+    "explanation": "Among students who own a laptop, there are 10 + 6 = 16 total. Of those, 10 study art, so the probability is 10/16 = 5/8."
+  },
+  {
+    "id": "MATH16-M2-010",
+    "prompt": "If x + y = 10 and xy = 16, what is the value of x³ + y³ ?",
+    "choices": {
+      "A": "420",
+      "B": "480",
+      "C": "520",
+      "D": "560"
+    },
+    "correct": "C",
+    "explanation": "Use x³ + y³ = (x + y)³ − 3xy(x + y). Then x³ + y³ = 10³ − 3(16)(10) = 1,000 − 480 = 520."
+  },
+  {
+    "id": "MATH16-M2-011",
+    "prompt": "How many liters of 65% acid solution must be mixed with 25% acid solution to make 12 liters of 45% acid solution?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "Let x be the liters of 65% solution. Then 12 − x liters are 25% solution. Solve 0.65x + 0.25(12 − x) = 0.45(12). This gives 0.40x = 2.4, so x = 6."
+  },
+  {
+    "id": "MATH16-M2-012",
+    "prompt": "What is the value of x in the equation 4^(x + 2) = 8ˣ ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "C",
+    "explanation": "Rewrite using base 2: 4^(x + 2) = 2^(2x + 4) and 8^x = 2^(3x). Set exponents equal: 2x + 4 = 3x, so x = 4."
+  },
+  {
+    "id": "MATH16-M2-013",
+    "prompt": "In a right triangle, sin θ = 12/13, and the side opposite angle θ has length 24. What is the perimeter of the triangle?",
+    "choices": {
+      "A": "56",
+      "B": "60",
+      "C": "64",
+      "D": "72"
+    },
+    "correct": "B",
+    "explanation": "Since sin θ = 12/13 and the opposite side is 24, the scale factor is 2. So the triangle sides are 24, 10, and 26. The perimeter is 24 + 10 + 26 = 60."
+  },
+  {
+    "id": "MATH16-M2-014",
+    "prompt": "In a survey, 25% of the people originally surveyed preferred robotics. Then 12 more people who did not prefer robotics were added to the survey, and 20% of the people surveyed preferred robotics. How many people were in the original survey?",
+    "choices": {
+      "A": "36",
+      "B": "42",
+      "C": "48",
+      "D": "60"
+    },
+    "correct": "C",
+    "explanation": "Let n be the original number surveyed. Then 0.25n = 0.20(n + 12). Solving gives 0.05n = 2.4, so n = 48."
+  },
+  {
+    "id": "MATH16-M2-015",
+    "prompt": "For x ≠ 2 and x ≠ −3, which expression is equivalent to (x² − x − 12)/(x² + x − 6) ?",
+    "choices": {
+      "A": "(x − 4)/(x − 2)",
+      "B": "(x − 4)/(x + 3)",
+      "C": "(x + 4)/(x − 2)",
+      "D": "(x + 4)/(x + 3)"
+    },
+    "correct": "A",
+    "explanation": "Factor numerator and denominator: x² − x − 12 = (x − 4)(x + 3) and x² + x − 6 = (x + 3)(x − 2). Cancel x + 3."
+  },
+  {
+    "id": "MATH16-M2-016",
+    "prompt": "What is the area of the triangle with vertices (0, 2), (6, 2), and (2, 7) ?",
+    "choices": {
+      "A": "12",
+      "B": "15",
+      "C": "18",
+      "D": "20"
+    },
+    "correct": "B",
+    "explanation": "The base from (0, 2) to (6, 2) has length 6, and the height to (2, 7) is 5. So the area is (1/2)(6)(5) = 15."
+  },
+  {
+    "id": "MATH16-M2-017",
+    "prompt": "The system below has two solutions.\nx² + y² = 20\ny = x + 2\nWhat is the larger x-coordinate of a solution?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "A",
+    "explanation": "Substitute y = x + 2 into x² + y² = 20. This gives x² + (x + 2)² = 20, so 2x² + 4x − 16 = 0, or x² + 2x − 8 = 0. Factoring gives (x + 4)(x − 2) = 0, so the larger x-value is 2."
+  },
+  {
+    "id": "MATH16-M2-018",
+    "prompt": "Each value in a data set is multiplied by 5 and then decreased by 2. If the interquartile range of the original data set is 3, what is the interquartile range of the new data set?",
+    "choices": {
+      "A": "11",
+      "B": "13",
+      "C": "15",
+      "D": "17"
+    },
+    "correct": "C",
+    "explanation": "Multiplying all values by 5 multiplies the interquartile range by 5, and subtracting 2 does not change it. So the new IQR is 5(3) = 15."
+  },
+  {
+    "id": "MATH16-M2-019",
+    "prompt": "Two similar pyramids have heights in the ratio 2:3. If the volume of the smaller pyramid is 64, what is the volume of the larger pyramid?",
+    "choices": {
+      "A": "144",
+      "B": "192",
+      "C": "216",
+      "D": "288"
+    },
+    "correct": "C",
+    "explanation": "Similar solids scale volume by the cube of the linear scale factor. The factor is 3/2, so the larger volume is 64(3/2)³ = 64(27/8) = 216."
+  },
+  {
+    "id": "MATH16-M2-020",
+    "prompt": "What is the value of x in the equation √(x + 5) + √x = 5 ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "D",
+    "explanation": "Let √x = t. Then √(x + 5) = 5 − t. Squaring gives x + 5 = 25 − 10t + x, so 10t = 20 and t = 2. Therefore x = 4."
+  },
+  {
+    "id": "MATH16-M2-021",
+    "prompt": "A rectangular prism has dimensions x, x + 1, and 5. If its total surface area is 94, what is the value of x ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "Surface area is 2[x(x + 1) + 5x + 5(x + 1)] = 94. This simplifies to 2(x² + 11x + 5) = 94, so x² + 11x − 42 = 0. Factoring gives (x + 14)(x − 3) = 0, so x = 3."
+  },
+  {
+    "id": "MATH16-M2-022",
+    "prompt": "The quadratic equation x² + kx + 35 = 0 has two negative integer solutions that differ by 2. What is the value of k ?",
+    "choices": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "correct": "C",
+    "explanation": "The two negative integers that differ by 2 and multiply to 35 are −5 and −7. Their sum is −12. Since the sum of the roots of x² + kx + 35 = 0 is −k, we get k = 12."
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW13-M2-001",
+    "prompt": "A reviewer says that by the final draft, the essay’s satire had become “attenuated,” with its sharpest barbs softened or removed altogether.\nAs used in the text, what does “attenuated” most nearly mean?",
+    "choices": {
+      "A": "weakened",
+      "B": "clarified",
+      "C": "expanded",
+      "D": "repeated"
+    },
+    "correct": "A",
+    "explanation": "“Attenuated” means reduced or weakened in force."
+  },
+  {
+    "id": "RW13-M2-002",
+    "prompt": "A scholar argues that captions in documentary photography books do more than identify people and places. Because captions can specify dates, relationships, and causes—and leave others unstated—they may guide viewers toward particular moral or political readings of the images. In that way, a few lines of text beneath a photograph can shape what the photograph seems to mean.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Captions in documentary photography books can shape how viewers interpret images, not just identify them.",
+      "B": "Documentary photographs require no explanation when their subjects are obvious.",
+      "C": "Viewers pay more attention to captions than to photographs.",
+      "D": "Political readings of photographs are determined only by the images themselves."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that captions can guide viewers toward particular readings of photographs."
+  },
+  {
+    "id": "RW13-M2-003",
+    "prompt": "Economic historians sometimes use guild membership rolls to estimate the size of a skilled workforce. However, such rolls usually omit casual laborers, family members assisting at home, and apprentices not yet formally admitted. As a result, the rolls may understate how many people actually contributed to production.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Guild membership rolls may provide an incomplete picture of labor involved in production.",
+      "B": "Casual laborers were always more numerous than guild members.",
+      "C": "Apprentices were never involved in skilled production.",
+      "D": "Family members were forbidden to assist in workshops."
+    },
+    "correct": "A",
+    "explanation": "The rolls omit casual laborers, family helpers, and some apprentices, so they understate the workforce."
+  },
+  {
+    "id": "RW13-M2-004",
+    "prompt": "A critic notes that a memoir repeatedly describes silence as sediment, residue, and dust. The critic argues that this language presents the past as something that settles gradually into daily life rather than disappearing entirely.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a repeated metaphor that the second sentence interprets.",
+      "B": "It summarizes the memoir’s main events in chronological order.",
+      "C": "It rejects the interpretation offered in the second sentence.",
+      "D": "It explains why the memoir focuses on geology."
+    },
+    "correct": "A",
+    "explanation": "The first sentence identifies the imagery of sediment and residue, and the second explains what that imagery suggests."
+  },
+  {
+    "id": "RW13-M2-005",
+    "prompt": "A student is writing about ice-storage cooling systems and has taken these notes:\n• Some buildings freeze water at night when electricity demand is lower.\n• During the day, the stored ice can help cool the building.\n• This can shift some electricity use away from peak hours.\n• The systems require tanks, controls, and space within or near the building.\nThe student wants to emphasize both a potential benefit of ice-storage cooling and a practical requirement of using it. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Ice-storage cooling can shift some electricity use away from peak hours, but it requires extra equipment and space to store the ice.",
+      "B": "Buildings should make all of their ice at night rather than during the day.",
+      "C": "Peak electricity demand is unrelated to cooling needs.",
+      "D": "Water tanks are useful only in buildings that already have large basements."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the benefit and the practical requirement described in the notes."
+  },
+  {
+    "id": "RW13-M2-006",
+    "prompt": "The historian expected the newly found census notes to confirm that the estate had a single owner throughout the century. ______, corrections in the margins suggest that the property was divided among heirs much earlier than scholars had thought.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "For example,",
+      "C": "Instead,",
+      "D": "Therefore,"
+    },
+    "correct": "C",
+    "explanation": "The evidence did not support single ownership; it suggested earlier division among heirs."
+  },
+  {
+    "id": "RW13-M2-007",
+    "prompt": "The first account seems authoritative<u>; in fact, it was copied from a source written decades later.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": ", in fact, it was copied from a source written decades later.",
+      "C": ": in fact, it was copied from a source written decades later.",
+      "D": "—in fact it was copied from a source written decades later."
+    },
+    "correct": "A",
+    "explanation": "A semicolon correctly joins two independent clauses, and “in fact” is properly set off with a comma."
+  },
+  {
+    "id": "RW13-M2-008",
+    "prompt": "Though often treated as background scenery, the canal embankment also controlled who approached the market from land and who arrived by boat.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It contrasts a limited view of the embankment with a broader explanation of its social role.",
+      "B": "It identifies the engineer who designed the embankment.",
+      "C": "It explains how merchants unloaded their boats.",
+      "D": "It presents the findings of a survey of market visitors."
+    },
+    "correct": "A",
+    "explanation": "The introductory phrase rejects the idea of the embankment as mere scenery and presents a broader function."
+  },
+  {
+    "id": "RW13-M2-009",
+    "prompt": "After Maya spoke with Tomas about Ren’s proposal, <u>she</u> recommended revising the final section.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "she",
+      "B": "Maya",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “she” with “Maya” removes the ambiguity."
+  },
+  {
+    "id": "RW13-M2-010",
+    "prompt": "Had the restoration team sealed the roof sooner, the archive boxes <u>would be</u> drier now.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "would be",
+      "B": "would have been",
+      "C": "are",
+      "D": "were"
+    },
+    "correct": "A",
+    "explanation": "The sentence describes an unreal past condition with a present result, so “would be” is correct."
+  },
+  {
+    "id": "RW13-M2-011",
+    "prompt": "The curator intended to say that the museum displayed almost all the sketches from the voyage.\nWhich choice most effectively revises the sentence so that “almost” is placed as precisely as possible?",
+    "choices": {
+      "A": "The museum almost displayed all the sketches from the voyage.",
+      "B": "The museum displayed almost all the sketches from the voyage.",
+      "C": "The museum displayed all the sketches almost from the voyage.",
+      "D": "The museum displayed all the sketches from the almost voyage."
+    },
+    "correct": "B",
+    "explanation": "“Almost” should modify “all the sketches,” not the act of displaying."
+  },
+  {
+    "id": "RW13-M2-012",
+    "prompt": "[1] In dry grasslands, temporary ponds may fill only after heavy rains. [2] Some shrimp and insect eggs remain dormant in the soil until those ponds appear. [3] If ruts or drainage ditches redirect runoff, the ponds may not form in the same places or for the same length of time. [4] Restoration efforts sometimes focus on reshaping the ground so water lingers again.\nWhich choice best describes the most logical placement for the following sentence?\n“Protecting the species means protecting the brief hydrology they depend on.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The new sentence follows the description of disrupted pond formation and clarifies why restoration must protect water patterns."
+  },
+  {
+    "id": "RW13-M2-013",
+    "prompt": "A researcher compared the average number of minutes four groups spent discussing a legal case.\nGroup A: 27\nGroup B: 22\nGroup C: 19\nGroup D: 24\nA student claims that Group C spent the least time discussing the case, on average. Which choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is supported because Group C’s average is lower than those of the other groups.",
+      "B": "The claim is unsupported because Group B’s average is also above twenty minutes.",
+      "C": "The claim is unsupported because Group D spent more time than Group A.",
+      "D": "The claim is supported because Group C’s average is greater than Group B’s."
+    },
+    "correct": "A",
+    "explanation": "Group C’s 19 minutes is lower than Group A’s 27, Group B’s 22, and Group D’s 24."
+  },
+  {
+    "id": "RW13-M2-014",
+    "prompt": "After the new evidence emerged, the earlier dating no longer seemed <u>tenable</u>.\nAs used in the text, what does “tenable” most nearly mean?",
+    "choices": {
+      "A": "defensible",
+      "B": "temporary",
+      "C": "surprising",
+      "D": "decorative"
+    },
+    "correct": "A",
+    "explanation": "“Tenable” means able to be defended or maintained."
+  },
+  {
+    "id": "RW13-M2-015",
+    "prompt": "In a novel, the narrator says, “My father left the miniature harbors half-built: docks penciled in, sails cut but unrigged. On the shelf they looked less abandoned than delayed, as if the wind might still arrive for them.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The unfinished models suggest suspended possibility rather than failure.",
+      "B": "The narrator plans to sell the model ships before they are completed.",
+      "C": "The father abandoned the hobby because he disliked boats.",
+      "D": "The shelf is too small to hold finished ships."
+    },
+    "correct": "A",
+    "explanation": "The narrator sees the models as delayed, not abandoned."
+  },
+  {
+    "id": "RW13-M2-016",
+    "prompt": "A study found that visitors who explored a virtual museum with faint background scents later recalled the locations of rooms more accurately than visitors who explored the same layout without scent cues. The researchers caution, however, that the study did not test whether the scents improved memory for the historical content displayed in the rooms.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Scent cues may improve spatial memory even if their effect on content learning remains uncertain.",
+      "B": "Historical content is always easier to remember than room layout.",
+      "C": "Virtual museums are effective only when they include scent.",
+      "D": "The study proved that smell is the most important factor in all learning."
+    },
+    "correct": "A",
+    "explanation": "The study found better recall of room locations but did not test knowledge of the displayed content."
+  },
+  {
+    "id": "RW13-M2-017",
+    "prompt": "A historian argues that standardized shipping insurance forms influenced ordinary business writing because merchants copied their phrasing into letters and ledgers. To support this claim, the historian notes that private correspondence begins echoing the forms’ wording even in ports where the official forms themselves rarely survive.\nWhy does the author most likely include the example of private correspondence echoing the forms’ wording?",
+    "choices": {
+      "A": "To show that printed form language shaped everyday commercial writing",
+      "B": "To prove that merchants wrote the official forms themselves",
+      "C": "To argue that ledgers were more important than letters",
+      "D": "To suggest that insurance forms eliminated all variation in writing"
+    },
+    "correct": "A",
+    "explanation": "The repeated wording in private correspondence supports the claim that official forms influenced ordinary writing practices."
+  },
+  {
+    "id": "RW13-M2-018",
+    "prompt": "A student is writing about solar dehydrators for fruit and vegetables and has taken these notes:\n• Solar dehydrators use sunlight and airflow to dry produce.\n• Drying can reduce spoilage after harvest.\n• Dried produce can sometimes be sold later or transported more easily.\n• Drying depends on sunlight, ventilation, and weather conditions.\nThe student wants to explain a potential benefit of solar dehydrators while acknowledging a practical limitation. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Solar dehydrators can reduce post-harvest spoilage and make produce easier to store or transport, but their effectiveness depends on sunlight and weather.",
+      "B": "Sunlight is the only factor that affects how produce dries.",
+      "C": "Dried produce can never be transported more easily than fresh produce.",
+      "D": "Solar dehydrators eliminate the need to harvest crops carefully."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the benefit and the practical limitation from the notes."
+  },
+  {
+    "id": "RW13-M2-019",
+    "prompt": "The committee agreed that the translation needed revision. ______, members disagreed about whether the new version should preserve the original syntax closely or prioritize idiomatic English.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Likewise,",
+      "C": "Nevertheless,",
+      "D": "For example,"
+    },
+    "correct": "C",
+    "explanation": "The second sentence contrasts agreement about the need for revision with disagreement about translation strategy."
+  },
+  {
+    "id": "RW13-M2-020",
+    "prompt": "The course requires students to identify assumptions, assess evidence, and <u>the comparison of competing explanations.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the comparison of competing explanations.",
+      "B": "compare competing explanations.",
+      "C": "comparing competing explanations.",
+      "D": "to comparing competing explanations."
+    },
+    "correct": "B",
+    "explanation": "“Compare” matches the parallel verbs “identify” and “assess.”"
+  },
+  {
+    "id": "RW13-M2-021",
+    "prompt": "The earliest notebook, <u>written on brittle onion-skin paper,</u> records daily prices from a port on the Black Sea.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a restrictive phrase that should not be set off with commas.",
+      "B": "It is a nonessential phrase correctly set off with commas.",
+      "C": "It creates a comma splice.",
+      "D": "It should be moved after “port.”"
+    },
+    "correct": "B",
+    "explanation": "The phrase adds extra information about the notebook’s material and is properly punctuated."
+  },
+  {
+    "id": "RW13-M2-022",
+    "prompt": "The mix of careful observation and speculative argument <u>gives</u> the essay its distinctive tone.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "give",
+      "B": "gives",
+      "C": "have given",
+      "D": "giving"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “mix” takes the singular verb “gives.”"
+  },
+  {
+    "id": "RW13-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The workshop improved the team’s process.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The workshop improved the team’s process.",
+      "B": "The workshop changed several things for the team.",
+      "C": "The workshop introduced a shared planning template, reduced duplicated tasks, and helped team members identify problems earlier in each project.",
+      "D": "The workshop was beneficial and effective."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces vague language with specific process improvements."
+  },
+  {
+    "id": "RW13-M2-024",
+    "prompt": "[1] In coastal dunes, wind moves sand continually from one place to another. [2] Grasses and shrubs can trap some of that moving sand, helping dunes build and stabilize over time. [3] Different plants vary in how well they tolerate burial, salt spray, and shifting ground. [4] Because of that variation, restoration projects often select different plant mixes for different dune conditions.\nWhich choice best describes the most logical placement for the following sentence?\n“No single species is equally suited to every part of a dune system.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence follows the discussion of species differences and leads naturally to the restoration approach in sentence 4."
+  },
+  {
+    "id": "RW13-M2-025",
+    "prompt": "The report originally described the internship program as “beneficial,” but that wording failed to show that the clearest gains appeared among participants who worked with mentors weekly, while students with only occasional meetings showed much smaller changes. The editor suggests replacing “beneficial” with <u>most beneficial for participants who met with mentors regularly</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the statement more precise by specifying which participants benefited most.",
+      "B": "It makes the statement less formal by using casual language.",
+      "C": "It changes the meaning by suggesting that the program harmed some participants.",
+      "D": "It introduces a personal judgment that the original avoided."
+    },
+    "correct": "A",
+    "explanation": "The revision identifies the regularly mentored participants as the group with the clearest gains."
+  },
+  {
+    "id": "RW13-M2-026",
+    "prompt": "In an experiment, researchers found that beetles reached a food source more directly when a faint air current moved consistently across the test arena than when the air was still. The researchers suggest that the current may have provided a directional cue.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "A faint air current may affect how directly beetles travel toward food.",
+      "B": "Beetles refuse to move when air is still.",
+      "C": "Food sources always create their own air currents.",
+      "D": "The researchers proved that beetles prefer windy environments."
+    },
+    "correct": "A",
+    "explanation": "The beetles moved more directly when the current was present, suggesting it provided orientation."
+  },
+  {
+    "id": "RW13-M2-027",
+    "prompt": "An essay on indexes concludes by noting that an index does more than help readers locate pages. By deciding which concepts receive entries, which terms are grouped together, and which cross-references are supplied, an index quietly shapes how a book can be navigated and understood.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It reframes the index as a tool that influences interpretation as well as navigation.",
+      "B": "It narrows the discussion to the history of printing page numbers.",
+      "C": "It argues that indexes should be removed from most books.",
+      "D": "It repeats the earlier claim without adding any new idea."
+    },
+    "correct": "A",
+    "explanation": "The final sentence explains that indexes shape how concepts are grouped and understood, not just located."
+  }
+]

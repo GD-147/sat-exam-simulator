@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW11-M1-001",
+    "prompt": "In a review of an oral-history collection, a critic says that the editor’s introduction is “unadorned,” letting the speakers’ own words carry most of the emotional force.\nAs used in the text, what does “unadorned” most nearly mean?",
+    "choices": {
+      "A": "plain",
+      "B": "exaggerated",
+      "C": "fragmented",
+      "D": "playful"
+    },
+    "correct": "A",
+    "explanation": "“Unadorned” means plain or not decorated with elaborate language."
+  },
+  {
+    "id": "RW11-M1-002",
+    "prompt": "In some dry coastal regions, communities have installed fog nets: tall mesh screens that collect droplets from low clouds. The water gathered by these nets can supplement wells, irrigate young trees, or provide drinking water during dry periods. For that reason, fog harvesting is sometimes used where rainfall is scarce but coastal fog is common.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Fog harvesting can provide an additional water source in places where rain is limited.",
+      "B": "Fog nets work best in regions that receive heavy annual rainfall.",
+      "C": "Communities use fog nets mainly because they are easier to build than wells.",
+      "D": "Young trees require fog rather than groundwater in order to survive."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that fog nets collect water that can supplement wells and irrigation in dry regions."
+  },
+  {
+    "id": "RW11-M1-003",
+    "prompt": "In early movie theaters, musicians often improvised accompaniment while watching the screen. Later, studios began distributing cue sheets that suggested tempos, moods, and musical effects for particular scenes. As a result, audiences in different cities were more likely to hear similar musical interpretations of the same film.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Cue sheets helped make film accompaniment more consistent from theater to theater.",
+      "B": "Improvised accompaniment was always better than planned accompaniment.",
+      "C": "Most early movie theaters screened different versions of the same film.",
+      "D": "Musicians stopped watching the screen once cue sheets became available."
+    },
+    "correct": "A",
+    "explanation": "The cue sheets suggested moods and timings, leading audiences in different cities to hear more similar accompaniments."
+  },
+  {
+    "id": "RW11-M1-004",
+    "prompt": "A botanist notes that the leaves of a low coastal shrub are bent slightly inland and show tiny scars on the seaward side. She then suggests that steady salt-laden winds have shaped the plant’s growth over time.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It presents a visual observation that the second sentence interprets.",
+      "B": "It introduces an objection to the explanation in the second sentence.",
+      "C": "It explains why the shrub cannot survive near the coast.",
+      "D": "It compares the shrub’s leaves with those of inland trees."
+    },
+    "correct": "A",
+    "explanation": "The bent leaves and tiny scars are the evidence used to infer the effect of coastal winds."
+  },
+  {
+    "id": "RW11-M1-005",
+    "prompt": "A student is writing about self-service bicycle repair stands and has taken these notes:\n• Some towns install bicycle repair stands along popular trails.\n• The stands usually include an air pump and basic tools.\n• Cyclists can use them to fix flat tires or adjust brakes.\n• The stands can help riders continue a trip without leaving the trail.\nThe student wants to emphasize how the repair stands make trail use more convenient. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Some towns install bicycle repair stands along popular trails.",
+      "B": "Bicycle repair stands usually include an air pump and basic tools.",
+      "C": "By giving riders a place to fix minor problems such as flat tires or loose brakes, trail-side repair stands can help cyclists continue their trips more easily.",
+      "D": "Cyclists use trails for many different reasons."
+    },
+    "correct": "C",
+    "explanation": "This choice best captures the convenience described in the notes."
+  },
+  {
+    "id": "RW11-M1-006",
+    "prompt": "The volunteer choir had practiced the piece for months. ______, its first performance still sounded tentative in the cathedral’s echoing space.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Even so,",
+      "B": "For example,",
+      "C": "Similarly,",
+      "D": "Therefore,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts the months of practice with the tentative first performance."
+  },
+  {
+    "id": "RW11-M1-007",
+    "prompt": "The panel included speakers from Accra, Ghana; Oaxaca, Mexico; <u>and Jaipur, India.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "and Jaipur India.",
+      "C": "and Jaipur; India.",
+      "D": "and, Jaipur, India."
+    },
+    "correct": "A",
+    "explanation": "In a complex series with internal commas, semicolons correctly separate the items, including the final one."
+  },
+  {
+    "id": "RW11-M1-008",
+    "prompt": "The trial version of the software was free to schools, <u>many teachers stopped using it once the pilot period ended.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "many teachers stopped using it once the pilot period ended.",
+      "B": "and many teachers stopped using it once the pilot period ended.",
+      "C": "but many teachers stopped using it once the pilot period ended.",
+      "D": "many teachers, stopping use once the pilot period ended."
+    },
+    "correct": "C",
+    "explanation": "“But” correctly joins the clauses and shows contrast between the free trial and later abandonment."
+  },
+  {
+    "id": "RW11-M1-009",
+    "prompt": "The ceilings in the renovated theater are higher than <u>the old auditorium.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the old auditorium.",
+      "B": "those of the old auditorium.",
+      "C": "that of the old auditorium.",
+      "D": "the old auditorium’s are."
+    },
+    "correct": "B",
+    "explanation": "The sentence compares the ceilings of the theater with the ceilings of the auditorium, so “those of” is needed."
+  },
+  {
+    "id": "RW11-M1-010",
+    "prompt": "By the time the exhibition opens next month, conservators <u>repair</u> the cracked wooden frame.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "repair",
+      "B": "repaired",
+      "C": "will repair",
+      "D": "will have repaired"
+    },
+    "correct": "D",
+    "explanation": "“By the time” plus a future deadline requires the future perfect to show completion before the opening."
+  },
+  {
+    "id": "RW11-M1-011",
+    "prompt": "After scanning the receipts for missing signatures, <u>several blank lines immediately stood out to Amir.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "several blank lines immediately stood out to Amir.",
+      "B": "Amir immediately noticed several blank signature lines.",
+      "C": "the receipts showed Amir several blank lines immediately.",
+      "D": "several signatures were missing from the receipts for Amir."
+    },
+    "correct": "B",
+    "explanation": "The revision correctly places Amir as the person scanning the receipts."
+  },
+  {
+    "id": "RW11-M1-012",
+    "prompt": "[1] Some city offices lend small watt meters to residents. [2] Households can use the devices to measure how much electricity appliances consume. [3] The results may help people identify devices worth replacing, unplugging, or using less often. [4] In some places, the lending program is paired with rebates for efficient appliances.\nWhich choice best describes the most logical placement for the following sentence?\n“A simple loan program can therefore turn energy data into household decisions.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The sentence summarizes the household decision-making described in sentences 2 and 3 before the rebate detail in sentence 4."
+  },
+  {
+    "id": "RW11-M1-013",
+    "prompt": "A class recorded the average number of minutes four groups spent calibrating lab sensors.\nGroup A: 16\nGroup B: 13\nGroup C: 18\nGroup D: 15\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Group B spent the most time calibrating the sensors, on average.",
+      "B": "Group D spent more time calibrating the sensors, on average, than Group A.",
+      "C": "Group C spent the most time calibrating the sensors, on average.",
+      "D": "The average calibration time decreased steadily from Group A through Group D."
+    },
+    "correct": "C",
+    "explanation": "Group C’s average of 18 minutes is the highest."
+  },
+  {
+    "id": "RW11-M1-014",
+    "prompt": "The reviewer called the committee’s evidence <u>robust</u>, noting that it came from multiple surveys, site visits, and interviews.\nAs used in the text, what does “robust” most nearly mean?",
+    "choices": {
+      "A": "strong",
+      "B": "unusual",
+      "C": "brief",
+      "D": "uncertain"
+    },
+    "correct": "A",
+    "explanation": "In context, “robust” means strong and well supported."
+  },
+  {
+    "id": "RW11-M1-015",
+    "prompt": "In a memoir, a writer recalls that the kitchen clock in her aunt’s bakery had run five minutes slow for years. “No one corrected it,” she writes, “because my aunt said the bread rose better in a room that wasn’t always hurrying.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The aunt values a slower pace over strict punctuality.",
+      "B": "The bakery closes five minutes earlier than its posted hours.",
+      "C": "The writer wants to replace the broken clock.",
+      "D": "The bread in the bakery often takes too long to rise."
+    },
+    "correct": "A",
+    "explanation": "The slow clock is kept intentionally because the aunt associates less hurry with better bread and a better atmosphere."
+  },
+  {
+    "id": "RW11-M1-016",
+    "prompt": "In a study, seeds that were chilled for one week before planting sprouted within a narrower time window than otherwise identical seeds planted immediately. The researchers suggest that the cold period may have helped synchronize germination.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Chilling seeds may help them sprout more uniformly.",
+      "B": "Seeds can germinate only after exposure to freezing temperatures.",
+      "C": "Immediate planting always leads to faster sprouting.",
+      "D": "The study proved that chilled seeds grow taller than unchilled seeds."
+    },
+    "correct": "A",
+    "explanation": "The chilled seeds sprouted within a narrower time window, suggesting more synchronized germination."
+  },
+  {
+    "id": "RW11-M1-017",
+    "prompt": "A cultural historian writes, “The teahouse doorway mattered because it turned the street into an audience; to enter was to be seen as much as to be welcomed.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To present one scholar’s interpretation of how a doorway shaped social interaction",
+      "B": "To prove that every teahouse had the same architecture",
+      "C": "To explain why tea was more popular than coffee in the city",
+      "D": "To describe how large the teahouse doorway was"
+    },
+    "correct": "A",
+    "explanation": "The quotation explains the doorway’s role in making entrance a visible social act."
+  },
+  {
+    "id": "RW11-M1-018",
+    "prompt": "A student is writing about quiet cars on commuter trains and has taken these notes:\n• Some rail systems designate certain train cars as quiet cars.\n• In quiet cars, passengers avoid phone calls and loud conversation.\n• These cars may appeal to riders who want to read, work, or rest.\n• Quiet cars depend largely on voluntary cooperation from passengers.\nWhich choice most effectively uses relevant information from the notes to make a general claim about quiet cars?",
+    "choices": {
+      "A": "Quiet cars can make train travel more appealing to riders who want a calm space to read, work, or rest.",
+      "B": "Quiet cars are useful only on very long train routes.",
+      "C": "Passengers in quiet cars are prohibited from speaking at all.",
+      "D": "Rail systems rely on phone calls to enforce quiet-car rules."
+    },
+    "correct": "A",
+    "explanation": "This choice accurately synthesizes the notes into a general claim."
+  },
+  {
+    "id": "RW11-M1-019",
+    "prompt": "The first edition arranged the poems alphabetically by title. ______, the revised edition groups them by river, mountain, and coast.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "By contrast,",
+      "B": "Consequently,",
+      "C": "For example,",
+      "D": "Likewise,"
+    },
+    "correct": "A",
+    "explanation": "The revised edition is organized in a different way from the first edition, so a contrast transition is needed."
+  },
+  {
+    "id": "RW11-M1-020",
+    "prompt": "The position required Elena to log deliveries, answer customer questions, and <u>drafting short updates for the warehouse manager.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "drafting short updates for the warehouse manager.",
+      "B": "draft short updates for the warehouse manager.",
+      "C": "drafted short updates for the warehouse manager.",
+      "D": "to drafting short updates for the warehouse manager."
+    },
+    "correct": "B",
+    "explanation": "“Draft” matches the parallel verbs “log” and “answer.”"
+  },
+  {
+    "id": "RW11-M1-021",
+    "prompt": "The notebooks <u>that survived the warehouse fire</u> were later digitized and returned to the families who owned them.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a nonessential phrase that should be set off with commas.",
+      "B": "It is a restrictive clause that correctly identifies which notebooks were digitized.",
+      "C": "It creates a comma splice.",
+      "D": "It should be deleted because it repeats information stated elsewhere."
+    },
+    "correct": "B",
+    "explanation": "The clause limits the reference to only the notebooks that survived the fire."
+  },
+  {
+    "id": "RW11-M1-022",
+    "prompt": "A list of repairs for the cabin walls and roof <u>were</u> taped to the door.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "were",
+      "B": "was",
+      "C": "be",
+      "D": "being"
+    },
+    "correct": "B",
+    "explanation": "The subject is “A list,” which is singular."
+  },
+  {
+    "id": "RW11-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“Because the museum expanded in 2018, visitors can now search the collection online.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because it suggests a cause-and-effect relationship that the information does not support.",
+      "B": "The sentence should be revised because it contains too many proper nouns.",
+      "C": "The sentence should be revised because all sentences about museums should be in the past tense.",
+      "D": "The sentence should be revised because it fails to mention the museum’s curator."
+    },
+    "correct": "A",
+    "explanation": "The museum’s expansion in 2018 does not logically explain why visitors can now search the collection online."
+  },
+  {
+    "id": "RW11-M1-024",
+    "prompt": "[1] In some rural counties, buses are equipped with small Wi-Fi routers. [2] Students can connect while traveling long distances to and from school. [3] In the evening, some buses also park near community centers to provide temporary internet access. [4] As a result, the vehicles sometimes serve as both transportation and digital access points.\nWhich choice best describes the most logical placement for the following sentence?\n“Their role can therefore extend beyond carrying passengers.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence summarizes the transportation and internet-access roles before the concluding sentence."
+  },
+  {
+    "id": "RW11-M1-025",
+    "prompt": "To make the sentence more concise, the editor replaced “with the exception of” with <u>except</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It changes the meaning by narrowing the exception too much.",
+      "B": "It shortens the sentence without changing its meaning.",
+      "C": "It makes the sentence less grammatical.",
+      "D": "It makes the sentence much more formal."
+    },
+    "correct": "B",
+    "explanation": "“Except” is a more concise equivalent of “with the exception of.”"
+  },
+  {
+    "id": "RW11-M1-026",
+    "prompt": "In an experiment, volunteers sorting shells into labeled trays made fewer mistakes when each tray also displayed a sample shell than when the trays were marked with words alone.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Sample objects may help people sort items more accurately.",
+      "B": "Written labels are never useful during sorting tasks.",
+      "C": "The volunteers in the experiment had no prior experience with shells.",
+      "D": "Sorting by shape always takes less time than sorting by color."
+    },
+    "correct": "A",
+    "explanation": "The sample shell reduced sorting mistakes compared with words alone."
+  },
+  {
+    "id": "RW11-M1-027",
+    "prompt": "An article about electric ferries explains that their batteries can be recharged at docks between crossings. The article then notes that some ports are upgrading shore-side electrical equipment to supply that charging power more quickly.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It gives an example of infrastructure changes prompted by the technology described earlier.",
+      "B": "It argues that ferries should never stop mid-route for charging.",
+      "C": "It shifts the discussion away from transportation to shipbuilding history.",
+      "D": "It denies that dockside charging is practical."
+    },
+    "correct": "A",
+    "explanation": "The final sentence explains how ports are adapting their electrical systems to support electric ferries.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

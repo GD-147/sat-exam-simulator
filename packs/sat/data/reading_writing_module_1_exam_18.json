@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW18-M1-001",
+    "prompt": "An architecture critic describes the chapel’s interior as “austere,” noting its bare plaster walls, narrow windows, and lack of decorative carving.\nAs used in the text, what does “austere” most nearly mean?",
+    "choices": {
+      "A": "plain",
+      "B": "welcoming",
+      "C": "fragile",
+      "D": "unfinished"
+    },
+    "correct": "A",
+    "explanation": "In context, “austere” means plain and lacking decoration."
+  },
+  {
+    "id": "RW18-M1-002",
+    "prompt": "Some cities have transformed flood-prone vacant lots into “sponge parks” planted with reeds, grasses, and low shrubs. During storms, these parks can absorb runoff and hold water temporarily instead of sending it immediately into overburdened drains. At the same time, they can provide walking paths and seating during dry weather.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Sponge parks can help manage stormwater while also serving as usable public spaces.",
+      "B": "Vacant lots should always be left undeveloped so that water can collect naturally.",
+      "C": "Walking paths are the main reason cities create sponge parks.",
+      "D": "Storm drains become unnecessary when a city adds even a few sponge parks."
+    },
+    "correct": "A",
+    "explanation": "The text emphasizes both flood control and the parks’ recreational use."
+  },
+  {
+    "id": "RW18-M1-003",
+    "prompt": "Before adhesive postage stamps were introduced in many countries, the person receiving a letter often paid the delivery charge. Once stamps became common, senders could prepay postage, which made handling mail simpler for clerks and more predictable for households.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Prepaid postage helped simplify the process of sending and receiving mail.",
+      "B": "Households preferred unpaid letters because they cost less overall.",
+      "C": "Clerks stopped handling letters once stamps were introduced.",
+      "D": "Adhesive stamps were created mainly to decorate envelopes."
+    },
+    "correct": "A",
+    "explanation": "The passage says stamps made mail handling simpler and more predictable."
+  },
+  {
+    "id": "RW18-M1-004",
+    "prompt": "A paleoclimatologist notes that grains of pollen from cold-tolerant alpine plants appear in lakebed sediments far below the elevations where those plants grow today. She suggests that the region was once much cooler than it is now.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It presents evidence that the second sentence interprets.",
+      "B": "It introduces a theory that the second sentence rejects.",
+      "C": "It explains why lake sediments are difficult to analyze.",
+      "D": "It compares two different species of alpine plants."
+    },
+    "correct": "A",
+    "explanation": "The alpine pollen in lower-elevation sediments is the evidence used to infer a colder past climate."
+  },
+  {
+    "id": "RW18-M1-005",
+    "prompt": "A student is writing about silent reading clubs and has taken these notes:\n• Some libraries host events where people gather to read quietly in the same room.\n• Participants bring their own books or borrow one on site.\n• There is usually a brief social period before or after the reading time.\n• These events can appeal to people who want companionship without the pressure of formal discussion.\nThe student wants to emphasize why silent reading clubs may appeal to some readers. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Silent reading clubs are usually held in libraries.",
+      "B": "Participants in silent reading clubs often bring their own books.",
+      "C": "Silent reading clubs can appeal to readers who want a low-pressure sense of company without having to join a formal discussion.",
+      "D": "Some reading clubs include a short social period."
+    },
+    "correct": "C",
+    "explanation": "This choice directly combines the companionship and low-pressure features described in the notes."
+  },
+  {
+    "id": "RW18-M1-006",
+    "prompt": "The farmers’ market moved from an open square to a covered pavilion last spring. ______, vendors can now stay open during light rain without packing up early.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "For example,",
+      "C": "As a result,",
+      "D": "Instead,"
+    },
+    "correct": "C",
+    "explanation": "The vendors’ ability to stay open in light rain is the outcome of moving to the covered pavilion."
+  },
+  {
+    "id": "RW18-M1-007",
+    "prompt": "The journal’s final entry<u>, written in fading pencil,</u> is only three lines long.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; written in fading pencil;",
+      "C": ": written in fading pencil:",
+      "D": "—written in fading pencil—"
+    },
+    "correct": "A",
+    "explanation": "“Written in fading pencil” is a nonessential phrase and is correctly set off with commas."
+  },
+  {
+    "id": "RW18-M1-008",
+    "prompt": "The vineyard survived the spring frost, <u>some of the youngest shoots opened several days later than expected.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "some of the youngest shoots opened several days later than expected.",
+      "B": "but some of the youngest shoots opened several days later than expected.",
+      "C": "some of the youngest shoots, opening several days later than expected.",
+      "D": "and, some of the youngest shoots opened several days later than expected."
+    },
+    "correct": "B",
+    "explanation": "“But” correctly joins the clauses and shows contrast."
+  },
+  {
+    "id": "RW18-M1-009",
+    "prompt": "The decision will remain between the director and <u>I</u> until the board meets on Thursday.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "I",
+      "B": "me",
+      "C": "my",
+      "D": "myself"
+    },
+    "correct": "B",
+    "explanation": "The pronoun is part of the compound object of the preposition “between.”"
+  },
+  {
+    "id": "RW18-M1-010",
+    "prompt": "Since last July, the city transit office <u>operates</u> a free weekend shuttle to the waterfront.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "operates",
+      "B": "operated",
+      "C": "has operated",
+      "D": "will operate"
+    },
+    "correct": "C",
+    "explanation": "“Since last July” calls for the present perfect."
+  },
+  {
+    "id": "RW18-M1-011",
+    "prompt": "After waiting in line for nearly an hour, <u>the tickets finally reached Omar.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the tickets finally reached Omar.",
+      "B": "Omar finally got the tickets.",
+      "C": "the line finally produced tickets for Omar.",
+      "D": "the tickets, after waiting in line for nearly an hour, reached Omar."
+    },
+    "correct": "B",
+    "explanation": "The revision correctly makes Omar the one who waited in line."
+  },
+  {
+    "id": "RW18-M1-012",
+    "prompt": "[1] Some parks in rural areas now reduce unnecessary nighttime lighting near trails and parking lots. [2] Lower light levels can make it easier for visitors to see stars on clear nights. [3] The darker conditions may also reduce disruption to nocturnal animals and migrating birds. [4] In some places, local businesses now advertise nearby stargazing tours and late-night astronomy events.\nWhich choice best describes the most logical placement for the following sentence?\n“The policy can therefore serve both environmental and economic goals.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "D",
+    "explanation": "The added sentence summarizes the environmental and tourism-related benefits described in the paragraph."
+  },
+  {
+    "id": "RW18-M1-013",
+    "prompt": "A teacher recorded the average number of books four groups of students shelved in twenty minutes.\nGroup A: 26\nGroup B: 31\nGroup C: 24\nGroup D: 29\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Group A shelved more books, on average, than Group D.",
+      "B": "Group B shelved the most books, on average.",
+      "C": "Group C and Group D shelved the same average number of books.",
+      "D": "The average number of books shelved increased steadily from Group A through Group D."
+    },
+    "correct": "B",
+    "explanation": "Group B’s average of 31 books is the highest."
+  },
+  {
+    "id": "RW18-M1-014",
+    "prompt": "The committee described its request as “modest,” noting that it sought only a small increase in funding rather than a major expansion.\nAs used in the text, what does “modest” most nearly mean?",
+    "choices": {
+      "A": "limited",
+      "B": "uncertain",
+      "C": "outdated",
+      "D": "impressive"
+    },
+    "correct": "A",
+    "explanation": "“Modest” means small or limited in size."
+  },
+  {
+    "id": "RW18-M1-015",
+    "prompt": "In a memoir, a writer describes her mother’s recipe cards: “The edges were curled with steam, and nearly every one carried a penciled note in the margin: less salt next time, bake longer, use winter apples. They read like instructions, but also like proof that dinner had been learned, not merely made.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The writer thinks recipe cards should always be rewritten neatly.",
+      "B": "The cards reflect a process of trial, adjustment, and memory.",
+      "C": "The mother followed every recipe exactly as it was first written.",
+      "D": "The writer no longer remembers how the meals tasted."
+    },
+    "correct": "B",
+    "explanation": "The penciled notes show the recipes being learned and adapted over time."
+  },
+  {
+    "id": "RW18-M1-016",
+    "prompt": "In an experiment, coral larvae settled more often on ceramic tiles coated with a thin layer of crustose algae than on identical uncoated tiles. The researchers suggest that the algae may provide a chemical cue that helps larvae select a surface.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Crustose algae may influence where coral larvae choose to settle.",
+      "B": "Coral larvae can settle only on artificial ceramic tiles.",
+      "C": "The experiment proved that algae are harmful to young coral.",
+      "D": "The coated tiles were chosen because they were rougher than natural reef surfaces."
+    },
+    "correct": "A",
+    "explanation": "The larvae settled more often on algae-coated tiles, suggesting the algae provided a cue."
+  },
+  {
+    "id": "RW18-M1-017",
+    "prompt": "An anthropologist writes, “When bargaining moved inside the municipal market hall, it did not disappear; it simply softened its volume and shortened its gestures.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To present one scholar’s explanation of how a practice changed form rather than vanishing",
+      "B": "To prove that bargaining was outlawed outside municipal markets",
+      "C": "To describe how market halls were built and financed",
+      "D": "To show that public officials disliked indoor commerce"
+    },
+    "correct": "A",
+    "explanation": "The quotation argues that bargaining continued, but in a different style."
+  },
+  {
+    "id": "RW18-M1-018",
+    "prompt": "A student is writing about orchard gleaning programs and has taken these notes:\n• Volunteers sometimes collect fruit left on trees after the main harvest.\n• The fruit may be donated to food banks or community kitchens.\n• Gleaning can reduce food waste in orchards.\n• The events can also introduce local residents to nearby farms.\nThe student wants to emphasize both a waste-reduction benefit and a community benefit of gleaning programs. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Orchard gleaning programs can reduce food waste while also connecting local residents with nearby farms through volunteer harvest events.",
+      "B": "Main harvests often leave some fruit on trees.",
+      "C": "Food banks and community kitchens often accept donated fruit.",
+      "D": "Many volunteers enjoy spending time outdoors during harvest season."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the waste-reduction and community benefits from the notes."
+  },
+  {
+    "id": "RW18-M1-019",
+    "prompt": "The exhibit opens with a room of handcrafted wooden clocks. ______, visitors enter a gallery on atomic clocks and modern timekeeping.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Next,",
+      "C": "Otherwise,",
+      "D": "For instance,"
+    },
+    "correct": "B",
+    "explanation": "The exhibit moves in sequence from one gallery to the next."
+  },
+  {
+    "id": "RW18-M1-020",
+    "prompt": "The internship required Alex to scan forms, answer calls, and <u>scheduling deliveries for the records office.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "scheduling deliveries for the records office.",
+      "B": "schedule deliveries for the records office.",
+      "C": "scheduled deliveries for the records office.",
+      "D": "to scheduling deliveries for the records office."
+    },
+    "correct": "B",
+    "explanation": "“Schedule” matches the parallel verbs “scan” and “answer.”"
+  },
+  {
+    "id": "RW18-M1-021",
+    "prompt": "The carpenters’ tools were stored in a locked chest beside the workshop door.\nWhich choice best explains the use of the apostrophe in the underlined word?",
+    "choices": {
+      "A": "It shows that the tools belong to or are associated with more than one carpenter.",
+      "B": "It marks the plural form of a noun that does not show possession.",
+      "C": "It shows that the workshop door belongs to the tools.",
+      "D": "It is used incorrectly because the noun should be singular."
+    },
+    "correct": "A",
+    "explanation": "The apostrophe after the plural noun “carpenters” marks plural possession."
+  },
+  {
+    "id": "RW18-M1-022",
+    "prompt": "A bouquet of rosemary and lavender <u>hang</u> beside the kitchen window.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "hang",
+      "B": "hangs",
+      "C": "have hung",
+      "D": "hanging"
+    },
+    "correct": "B",
+    "explanation": "The subject “bouquet” is singular, so the singular verb is required."
+  },
+  {
+    "id": "RW18-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“The council reviewed the proposal after the mayor revised it, and this upset several donors.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because the conjunction “and” can never join clauses.",
+      "B": "The sentence should be revised because the pronoun “this” has an unclear antecedent.",
+      "C": "The sentence should be revised because all references to donors should be removed.",
+      "D": "The sentence should be revised because it should use the future tense."
+    },
+    "correct": "B",
+    "explanation": "It is not clear whether “this” refers to the review, the revision, or the sequence of actions."
+  },
+  {
+    "id": "RW18-M1-024",
+    "prompt": "[1] Some schools have installed bee hotels in quiet corners of their gardens. [2] Hollow stems and drilled wood blocks can provide nesting places for certain solitary bees. [3] Science classes may use the structures to observe insect activity over the season. [4] Garden coordinators sometimes add signs explaining why pollinators matter for flowering plants and food crops.\nWhich choice best describes the most logical placement for the following sentence?\n“The project can therefore support both habitat and instruction.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "D",
+    "explanation": "The sentence best summarizes both the habitat and instructional uses described in the paragraph."
+  },
+  {
+    "id": "RW18-M1-025",
+    "prompt": "To make the sentence more concise, the editor replaced “on a daily basis” with <u>daily</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It changes the meaning by making the timing less exact.",
+      "B": "It shortens the sentence without changing its meaning.",
+      "C": "It makes the sentence less grammatical.",
+      "D": "It introduces a more formal tone."
+    },
+    "correct": "B",
+    "explanation": "“Daily” is a more concise equivalent of “on a daily basis.”"
+  },
+  {
+    "id": "RW18-M1-026",
+    "prompt": "In an experiment, participants matching leaves to tree species made fewer mistakes when the reference cards included dark silhouettes of the leaf outlines than when the cards included names only.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Leaf silhouettes may help people identify tree species more accurately.",
+      "B": "Tree species can be identified only by leaf shape, not by name.",
+      "C": "The participants had previously memorized all the species names.",
+      "D": "Dark silhouettes are always more useful than photographs for any science task."
+    },
+    "correct": "A",
+    "explanation": "The silhouettes improved matching accuracy compared with names alone."
+  },
+  {
+    "id": "RW18-M1-027",
+    "prompt": "An article about public bicycle repair pumps explains that these stations allow riders to inflate tires or tighten loose parts without visiting a shop. The article then notes that several universities now include repair pumps in campus cycling plans and maps.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It provides an example of institutions formally adopting the practice described earlier.",
+      "B": "It argues that repair pumps should replace all bike shops on campuses.",
+      "C": "It introduces a topic unrelated to cycling infrastructure.",
+      "D": "It denies that public repair pumps are useful to riders."
+    },
+    "correct": "A",
+    "explanation": "Universities incorporating repair pumps into official plans is an example of broader institutional adoption.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

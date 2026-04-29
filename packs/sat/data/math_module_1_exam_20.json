@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH20-M1-001",
+    "prompt": "What is the value of x in the equation (x − 2)/3 + (x + 8)/2 = 10 ?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Multiply both sides by 6: 2(x − 2) + 3(x + 8) = 60. This gives 5x + 20 = 60, so x = 8."
+  },
+  {
+    "id": "MATH20-M1-002",
+    "prompt": "Which inequality is equivalent to 1 < (2x − 3)/5 ≤ 3 ?",
+    "choices": {
+      "A": "4 < x ≤ 9",
+      "B": "4 ≤ x < 9",
+      "C": "5 < x ≤ 9",
+      "D": "5 ≤ x < 10"
+    },
+    "correct": "A",
+    "explanation": "Multiply all parts by 5 to get 5 < 2x − 3 ≤ 15. Add 3: 8 < 2x ≤ 18. Divide by 2: 4 < x ≤ 9."
+  },
+  {
+    "id": "MATH20-M1-003",
+    "prompt": "Which expression is equivalent to (3x + 2)(x − 5) + 10 ?",
+    "choices": {
+      "A": "3x² − 13x",
+      "B": "3x² − 17x",
+      "C": "x² − 13x",
+      "D": "3x² + 13x"
+    },
+    "correct": "A",
+    "explanation": "Expand: (3x + 2)(x − 5) = 3x² − 15x + 2x − 10. Then add 10 to get 3x² − 13x."
+  },
+  {
+    "id": "MATH20-M1-004",
+    "prompt": "What is the slope of the line through the points (−5, 4) and (1, −8) ?",
+    "choices": {
+      "A": "−3",
+      "B": "−2",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "B",
+    "explanation": "The slope is (−5 − 7)/(2 − (−4)) = −12/6 = −2."
+  },
+  {
+    "id": "MATH20-M1-005",
+    "prompt": "At a museum, 2 student tickets and 3 adult tickets cost $39. Also, 4 student tickets and 1 adult ticket cost $43. What is the cost, in dollars, of 1 adult ticket?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "D",
+    "explanation": "Let s be the student-ticket cost and a be the adult-ticket cost. From 4s + a = 43, a = 43 − 4s. Substitute into 2s + 3a = 39: 2s + 3(43 − 4s) = 39. Then 2s + 129 − 12s = 39, so −10s = −90 and s = 9. Thus a = 43 − 36 = 7."
+  },
+  {
+    "id": "MATH20-M1-006",
+    "prompt": "A spinner has 6 equal sections numbered 1 through 6. The spinner is spun once, and a fair coin is flipped once. What is the probability of landing on a prime number and flipping tails?",
+    "choices": {
+      "A": "1/6",
+      "B": "1/4",
+      "C": "1/3",
+      "D": "1/2"
+    },
+    "correct": "B",
+    "explanation": "The prime numbers from 1 through 6 are 2, 3, and 5, so the probability of landing on a prime number is 3/6 = 1/2. Multiply by the probability of tails, 1/2, to get 1/4."
+  },
+  {
+    "id": "MATH20-M1-007",
+    "prompt": "A square has area 81 square units. What is the perimeter of the square?",
+    "choices": {
+      "A": "18",
+      "B": "27",
+      "C": "36",
+      "D": "81"
+    },
+    "correct": "C",
+    "explanation": "A square with area 81 has side length 9. Its perimeter is 4(9) = 36."
+  },
+  {
+    "id": "MATH20-M1-008",
+    "prompt": "The equation F = 1.8C + 32 relates a temperature in degrees Fahrenheit, F, to the temperature in degrees Celsius, C. What is the value of F when C = 25 ?",
+    "choices": {
+      "A": "57",
+      "B": "67",
+      "C": "77",
+      "D": "87"
+    },
+    "correct": "C",
+    "explanation": "Substitute C = 25 into F = 1.8C + 32: F = 1.8(25) + 32 = 45 + 32 = 77."
+  },
+  {
+    "id": "MATH20-M1-009",
+    "prompt": "Which expression is equivalent to √63 + √28 ?",
+    "choices": {
+      "A": "3√7",
+      "B": "4√7",
+      "C": "5√7",
+      "D": "7√7"
+    },
+    "correct": "C",
+    "explanation": "√63 = 3√7 and √28 = 2√7. Their sum is 5√7."
+  },
+  {
+    "id": "MATH20-M1-010",
+    "prompt": "If f(x) = x² − 2 and g(x) = 3x + 1, what is the value of f(g(2)) ?",
+    "choices": {
+      "A": "45",
+      "B": "47",
+      "C": "49",
+      "D": "51"
+    },
+    "correct": "B",
+    "explanation": "First find g(2) = 3(2) + 1 = 7. Then f(7) = 7² − 2 = 49 − 2 = 47."
+  },
+  {
+    "id": "MATH20-M1-011",
+    "prompt": "If x − 4 is a factor of x² + kx + 20, what is the value of k ?",
+    "choices": {
+      "A": "−11",
+      "B": "−10",
+      "C": "−9",
+      "D": "−8"
+    },
+    "correct": "C",
+    "explanation": "If x − 4 is a factor, then substituting x = 4 gives 0. So 4² + 4k + 20 = 0, which gives 16 + 4k + 20 = 0. Thus 4k = −36 and k = −9."
+  },
+  {
+    "id": "MATH20-M1-012",
+    "prompt": "After a 20% markup, the price of an item is $84. What was the original price of the item?",
+    "choices": {
+      "A": "$60",
+      "B": "$65",
+      "C": "$70",
+      "D": "$75"
+    },
+    "correct": "C",
+    "explanation": "If the original price is p, then after a 20% markup the price is 1.2p. So 1.2p = 84, which gives p = 70."
+  },
+  {
+    "id": "MATH20-M1-013",
+    "prompt": "The table shows a data set.\nValue 2 5 8 10\nFrequency 2 1 3 2\nWhat is the median of the data set?",
+    "choices": {
+      "A": "5",
+      "B": "6.5",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "There are 8 values total, so the median is the average of the 4th and 5th values. In order, the 4th and 5th values are both 8, so the median is 8."
+  },
+  {
+    "id": "MATH20-M1-014",
+    "prompt": "A right triangle has side lengths 7, 24, and 25. What is the sine of the angle opposite the side of length 7?",
+    "choices": {
+      "A": "7/24",
+      "B": "7/25",
+      "C": "24/25",
+      "D": "25/7"
+    },
+    "correct": "B",
+    "explanation": "Sine is opposite/hypotenuse. The side opposite the angle is 7, and the hypotenuse is 25."
+  },
+  {
+    "id": "MATH20-M1-015",
+    "prompt": "A point (−3, 4) is rotated 90° clockwise about the origin. What are the coordinates of the image of the point?",
+    "choices": {
+      "A": "(−4, −3)",
+      "B": "(4, 3)",
+      "C": "(3, 4)",
+      "D": "(4, −3)"
+    },
+    "correct": "B",
+    "explanation": "A 90° clockwise rotation maps (x, y) to (y, −x). So (−3, 4) becomes (4, 3)."
+  },
+  {
+    "id": "MATH20-M1-016",
+    "prompt": "A car travels 150 miles in 2.5 hours at a constant speed. At this rate, how many miles will the car travel in 4 hours?",
+    "choices": {
+      "A": "220",
+      "B": "230",
+      "C": "240",
+      "D": "250"
+    },
+    "correct": "C",
+    "explanation": "The speed is 150/2.5 = 60 miles per hour. In 4 hours, the car travels 60(4) = 240 miles."
+  },
+  {
+    "id": "MATH20-M1-017",
+    "prompt": "What is the sum of the solutions to the equation x² − 8x + 12 = 0 ?",
+    "choices": {
+      "A": "4",
+      "B": "8",
+      "C": "12",
+      "D": "20"
+    },
+    "correct": "B",
+    "explanation": "For x² − 8x + 12 = 0, the sum of the solutions is −(−8)/1 = 8."
+  },
+  {
+    "id": "MATH20-M1-018",
+    "prompt": "Which equation represents the line that passes through the point (2, 7) and is parallel to the line y = −3x + 2 ?",
+    "choices": {
+      "A": "y = −3x + 13",
+      "B": "y = −3x + 9",
+      "C": "y = 3x + 1",
+      "D": "y = 3x + 13"
+    },
+    "correct": "A",
+    "explanation": "Parallel lines have the same slope, so the slope is −3. Using the point (2, 7): 7 = −3(2) + b, so b = 13."
+  },
+  {
+    "id": "MATH20-M1-019",
+    "prompt": "A sphere has radius 5. What is the surface area of the sphere?",
+    "choices": {
+      "A": "25π",
+      "B": "50π",
+      "C": "100π",
+      "D": "125π"
+    },
+    "correct": "C",
+    "explanation": "The surface area of a sphere is 4πr². With r = 5, the surface area is 4π(25) = 100π."
+  },
+  {
+    "id": "MATH20-M1-020",
+    "prompt": "Which ordered pair is a solution to the system of inequalities below?\ny ≥ 2x − 1\ny < x + 4",
+    "choices": {
+      "A": "(2, 3)",
+      "B": "(1, 0)",
+      "C": "(3, 6)",
+      "D": "(4, 7)"
+    },
+    "correct": "A",
+    "explanation": "Test the inequalities. For (2, 3), 3 ≥ 2(2) − 1 = 3 and 3 < 2 + 4 = 6, so it satisfies both inequalities."
+  },
+  {
+    "id": "MATH20-M1-021",
+    "prompt": "A circle has radius 9 and a central angle of 80°. What is the length of the arc determined by the angle?",
+    "choices": {
+      "A": "2π",
+      "B": "3π",
+      "C": "4π",
+      "D": "5π"
+    },
+    "correct": "C",
+    "explanation": "Arc length = (80/360)·2π(9) = (2/9)·18π = 4π."
+  },
+  {
+    "id": "MATH20-M1-022",
+    "prompt": "The table shows values of a function.\nx y\n0 2\n1 2\n2 4\n3 8\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = x² − x + 2",
+      "B": "y = x² + x + 2",
+      "C": "y = x² + 2",
+      "D": "y = x² − 2x + 2"
+    },
+    "correct": "A",
+    "explanation": "Substituting x = 0, 1, 2, and 3 gives y-values 2, 2, 4, and 8, which match the table.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

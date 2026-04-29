@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH22-M1-001",
+    "prompt": "What is the value of x in the equation 3(x − 4) = 2x + 7 ?",
+    "choices": {
+      "A": "15",
+      "B": "17",
+      "C": "19",
+      "D": "21"
+    },
+    "correct": "C",
+    "explanation": "Expand to get 3x − 12 = 2x + 7. Subtract 2x and add 12, giving x = 19."
+  },
+  {
+    "id": "MATH22-M1-002",
+    "prompt": "If 5a − 2b = 18 and b = 4, what is the value of a ?",
+    "choices": {
+      "A": "4",
+      "B": "5.2",
+      "C": "5.6",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Substitute b = 4: 5a − 8 = 18. Then 5a = 26, so a = 26/5 = 5.2."
+  },
+  {
+    "id": "MATH22-M1-003",
+    "prompt": "Which expression is equivalent to 4x² − 25 ?",
+    "choices": {
+      "A": "(2x − 5)²",
+      "B": "(4x − 5)(x + 5)",
+      "C": "(2x + 5)(2x − 5)",
+      "D": "(4x + 25)(x − 1)"
+    },
+    "correct": "C",
+    "explanation": "This is a difference of squares: 4x² − 25 = (2x)² − 5² = (2x + 5)(2x − 5)."
+  },
+  {
+    "id": "MATH22-M1-004",
+    "prompt": "The table shows values of a linear function.\nx y\n1 9\n3 5\n5 1\nWhat is the y-value when x = 8 ?",
+    "choices": {
+      "A": "−3",
+      "B": "−4",
+      "C": "−5",
+      "D": "−6"
+    },
+    "correct": "C",
+    "explanation": "The slope is (5 − 9)/(3 − 1) = −2. Using y = −2x + b and point (1, 9), b = 11. Then y = −2(8) + 11 = −5."
+  },
+  {
+    "id": "MATH22-M1-005",
+    "prompt": "A fair 8-sided spinner is labeled 1 through 8. What is the probability of landing on an even number greater than 4 ?",
+    "choices": {
+      "A": "1/8",
+      "B": "1/4",
+      "C": "3/8",
+      "D": "1/2"
+    },
+    "correct": "B",
+    "explanation": "The favorable outcomes are 6 and 8, so there are 2 favorable outcomes out of 8 total. The probability is 2/8 = 1/4."
+  },
+  {
+    "id": "MATH22-M1-006",
+    "prompt": "A rectangle has length 14 and width 9. What is the area of the rectangle?",
+    "choices": {
+      "A": "23",
+      "B": "46",
+      "C": "108",
+      "D": "126"
+    },
+    "correct": "D",
+    "explanation": "Area = length × width = 14 × 9 = 126."
+  },
+  {
+    "id": "MATH22-M1-007",
+    "prompt": "Which expression is equivalent to √48 + √75 ?",
+    "choices": {
+      "A": "7√3",
+      "B": "8√3",
+      "C": "9√3",
+      "D": "11√3"
+    },
+    "correct": "C",
+    "explanation": "√48 = 4√3 and √75 = 5√3, so the sum is 9√3."
+  },
+  {
+    "id": "MATH22-M1-008",
+    "prompt": "If f(x) = 2x + 3, what is the value of f(6) ?",
+    "choices": {
+      "A": "9",
+      "B": "12",
+      "C": "15",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "Substitute x = 6: f(6) = 2(6) + 3 = 15."
+  },
+  {
+    "id": "MATH22-M1-009",
+    "prompt": "A backpack that originally cost p dollars is discounted by 30%. Which expression represents the sale price?",
+    "choices": {
+      "A": "0.3p",
+      "B": "0.7p",
+      "C": "1.3p",
+      "D": "p − 30"
+    },
+    "correct": "B",
+    "explanation": "A 30% discount leaves 70% of the original price, so the sale price is 0.7p."
+  },
+  {
+    "id": "MATH22-M1-010",
+    "prompt": "What is the solution to the inequality 2x − 5 < 9 ?",
+    "choices": {
+      "A": "x < 2",
+      "B": "x < 7",
+      "C": "x > 2",
+      "D": "x > 7"
+    },
+    "correct": "B",
+    "explanation": "Add 5 to get 2x < 14, then divide by 2 to get x < 7."
+  },
+  {
+    "id": "MATH22-M1-011",
+    "prompt": "A right triangle has side lengths 5, 12, and 13. What is the sine of the angle opposite the side of length 5 ?",
+    "choices": {
+      "A": "5/12",
+      "B": "5/13",
+      "C": "12/13",
+      "D": "12/5"
+    },
+    "correct": "B",
+    "explanation": "Sine = opposite/hypotenuse = 5/13."
+  },
+  {
+    "id": "MATH22-M1-012",
+    "prompt": "If x + 6 is a factor of x² + kx − 27, what is the value of k ?",
+    "choices": {
+      "A": "3/2",
+      "B": "−3/2",
+      "C": "9/2",
+      "D": "−9/2"
+    },
+    "correct": "A",
+    "explanation": "If x + 6 is a factor, substitute x = −6: 36 − 6k − 27 = 0. Then 9 − 6k = 0, so k = 3/2."
+  },
+  {
+    "id": "MATH22-M1-013",
+    "prompt": "The mean of five numbers is 14. What is the sum of the five numbers?",
+    "choices": {
+      "A": "19",
+      "B": "28",
+      "C": "56",
+      "D": "70"
+    },
+    "correct": "D",
+    "explanation": "Sum = mean × number of values = 14 × 5 = 70."
+  },
+  {
+    "id": "MATH22-M1-014",
+    "prompt": "What is the volume of a cylinder with radius 4 and height 7 ?",
+    "choices": {
+      "A": "28π",
+      "B": "56π",
+      "C": "112π",
+      "D": "224π"
+    },
+    "correct": "C",
+    "explanation": "Volume = πr²h = π(4²)(7) = 112π."
+  },
+  {
+    "id": "MATH22-M1-015",
+    "prompt": "The line y = mx + 4 passes through the point (3, 10). What is the value of m ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": "Substitute (3, 10): 10 = 3m + 4. Then 3m = 6, so m = 2."
+  },
+  {
+    "id": "MATH22-M1-016",
+    "prompt": "A regular polygon has 10 sides. What is the measure of each exterior angle?",
+    "choices": {
+      "A": "18°",
+      "B": "24°",
+      "C": "30°",
+      "D": "36°"
+    },
+    "correct": "D",
+    "explanation": "Each exterior angle of a regular polygon is 360°/10 = 36°."
+  },
+  {
+    "id": "MATH22-M1-017",
+    "prompt": "If 3x + y = 11 and x = 2, what is the value of y ?",
+    "choices": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Substitute x = 2: 3(2) + y = 11. Then 6 + y = 11, so y = 5."
+  },
+  {
+    "id": "MATH22-M1-018",
+    "prompt": "What is the distance between the points (2, 1) and (8, 9) in the xy-plane?",
+    "choices": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "correct": "B",
+    "explanation": "Distance = √[(8 − 2)² + (9 − 1)²] = √(36 + 64) = √100 = 10."
+  },
+  {
+    "id": "MATH22-M1-019",
+    "prompt": "If g(x) = |x − 3|, what is the value of g(−2) ?",
+    "choices": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "g(−2) = |−2 − 3| = |−5| = 5."
+  },
+  {
+    "id": "MATH22-M1-020",
+    "prompt": "A store marks an item up by 20% and then discounts the marked price by 25%. If the original price is p, which expression represents the final price?",
+    "choices": {
+      "A": "0.75p",
+      "B": "0.9p",
+      "C": "0.95p",
+      "D": "1.05p"
+    },
+    "correct": "B",
+    "explanation": "Multiply by 1.20, then by 0.75. The product is 0.9."
+  },
+  {
+    "id": "MATH22-M1-021",
+    "prompt": "The point (4, −1) is reflected across the x-axis. What are the coordinates of the image?",
+    "choices": {
+      "A": "(−4, −1)",
+      "B": "(4, 1)",
+      "C": "(−4, 1)",
+      "D": "(1, 4)"
+    },
+    "correct": "B",
+    "explanation": "Reflecting across the x-axis changes the sign of the y-coordinate only."
+  },
+  {
+    "id": "MATH22-M1-022",
+    "prompt": "The table shows values of a function.\nx y\n0 1\n1 4\n2 9\n3 16\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = x² + 1",
+      "B": "y = (x + 1)²",
+      "C": "y = 2x² + 1",
+      "D": "y = x² + x + 1"
+    },
+    "correct": "B",
+    "explanation": "Substituting x = 0, 1, 2, and 3 into (x + 1)² gives 1, 4, 9, and 16.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

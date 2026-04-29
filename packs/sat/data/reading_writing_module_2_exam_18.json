@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW18-M2-001",
+    "prompt": "The historian calls the later testimony “corroborative,” explaining that it supports a claim already suggested by earlier shipping records rather than establishing the case on its own.\nAs used in the text, what does “corroborative” most nearly mean?",
+    "choices": {
+      "A": "disputed",
+      "B": "supportive",
+      "C": "temporary",
+      "D": "decorative"
+    },
+    "correct": "B",
+    "explanation": "“Corroborative” means providing support or confirmation for an existing claim."
+  },
+  {
+    "id": "RW18-M2-002",
+    "prompt": "A scholar argues that finding aids in archives do more than help researchers locate boxes and folders. By naming some groupings as “correspondence,” “working papers,” or “miscellany,” and by placing some materials in series while isolating others, finding aids can shape what appears central, peripheral, coherent, or fragmentary before a user opens a single file. In that sense, archival description can influence interpretation as well as access.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Finding aids in archives can shape interpretation by influencing how materials seem organized and significant.",
+      "B": "Researchers should ignore archival labels and create their own system before using an archive.",
+      "C": "Archive boxes and folders are less important than the documents inside them.",
+      "D": "Archival description matters only when materials have not yet been cataloged."
+    },
+    "correct": "A",
+    "explanation": "The text argues that labels and groupings in finding aids affect how users perceive centrality and coherence."
+  },
+  {
+    "id": "RW18-M2-003",
+    "prompt": "Urban historians sometimes use municipal complaint books to study neighborhood disputes. Yet these books preserve only complaints submitted formally to city offices; many conflicts were likely settled through informal negotiation by families, shopkeepers, or ward leaders without ever appearing in the record. As a result, complaint books may exaggerate the role of formal municipal authority in resolving local tensions.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Complaint books may make official city intervention seem more common than it actually was.",
+      "B": "Families and shopkeepers never tried to settle disputes on their own.",
+      "C": "Municipal offices usually ignored complaints once they were submitted.",
+      "D": "Historians can reconstruct informal negotiations directly from complaint books."
+    },
+    "correct": "A",
+    "explanation": "Informal settlements are missing from the record, so formal authority may appear more central than it was."
+  },
+  {
+    "id": "RW18-M2-004",
+    "prompt": "A critic notes that an essay repeatedly describes citations as doorways, thresholds, and side entrances. The critic argues that this language suggests references do not merely support an argument; they direct readers into adjoining conversations and alternate routes through the subject.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a repeated metaphor that the second sentence interprets.",
+      "B": "It summarizes the essay’s main claims in chronological order.",
+      "C": "It rejects the interpretation proposed in the second sentence.",
+      "D": "It explains how citation styles are standardized."
+    },
+    "correct": "A",
+    "explanation": "The first sentence identifies citation-as-doorway imagery, and the second explains what that imagery suggests."
+  },
+  {
+    "id": "RW18-M2-005",
+    "prompt": "A student is writing about solar chimneys and has taken these notes:\n• A solar chimney is a vertical shaft that warms in sunlight.\n• As air inside the shaft heats up and rises, cooler air may be drawn through the building.\n• In some climates, this can improve natural ventilation and reduce the need for mechanical cooling.\n• Performance depends on building layout, solar exposure, and local temperature conditions.\nThe student wants to emphasize both a potential advantage of solar chimneys and a factor that can limit how well they work. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Solar chimneys can improve natural ventilation and reduce some cooling demand, but their performance depends on building design and climate conditions.",
+      "B": "Mechanical cooling is unnecessary in any building with a vertical shaft.",
+      "C": "Solar chimneys work equally well in all climates and orientations.",
+      "D": "Building layout has no effect on ventilation."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the potential benefit and the limiting factors in the notes."
+  },
+  {
+    "id": "RW18-M2-006",
+    "prompt": "The editor expected the court docket to show that commercial lawsuits declined after the reform. ______, the number of suits remained similar, but many cases shifted into a newly created claims category.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Instead,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "B",
+    "explanation": "The court docket did not show an overall decline; it showed a shift into a different case category."
+  },
+  {
+    "id": "RW18-M2-007",
+    "prompt": "The forgery became obvious only when one detail was noticed<u>: the signature refers to a street address that did not exist until 1909.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; the signature refers to a street address that did not exist until 1909.",
+      "C": ", the signature refers to a street address that did not exist until 1909.",
+      "D": "—the signature refers to a street address that did not exist until 1909."
+    },
+    "correct": "A",
+    "explanation": "A colon correctly introduces the specific revealing fact after a complete clause."
+  },
+  {
+    "id": "RW18-M2-008",
+    "prompt": "Though often described as ornament, the palace colonnade also controlled sightlines, pauses, and rank during court ceremonies.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It contrasts a limited description of the colonnade with a broader explanation of its ceremonial role.",
+      "B": "It identifies the architect who designed the colonnade.",
+      "C": "It explains how the colonnade was constructed from imported stone.",
+      "D": "It presents the findings of a survey of palace visitors."
+    },
+    "correct": "A",
+    "explanation": "The introductory phrase rejects the idea of the colonnade as mere ornament."
+  },
+  {
+    "id": "RW18-M2-009",
+    "prompt": "After Hana spoke with Victor about Lila’s draft, <u>she</u> suggested moving the final section to the beginning.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "she",
+      "B": "Hana",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “she” with “Hana” removes the ambiguity."
+  },
+  {
+    "id": "RW18-M2-010",
+    "prompt": "Had the archive indexed the pamphlets by printer as well as by year, the disputed editions <u>would be</u> easier to trace today.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "would be",
+      "B": "would have been",
+      "C": "are",
+      "D": "were"
+    },
+    "correct": "A",
+    "explanation": "The sentence describes an unreal past condition with a present result."
+  },
+  {
+    "id": "RW18-M2-011",
+    "prompt": "The editor intended to say that the survey recorded almost every surviving kiln in the valley, but the sentence as drafted says that the survey <u>almost recorded every surviving kiln in the valley.</u>\nWhich choice best revises the text so that “almost” is placed as precisely as possible?",
+    "choices": {
+      "A": "almost recorded every surviving kiln in the valley.",
+      "B": "recorded almost every surviving kiln in the valley.",
+      "C": "recorded every surviving kiln almost in the valley.",
+      "D": "recorded every almost surviving kiln in the valley."
+    },
+    "correct": "B",
+    "explanation": "“Almost” should modify “every surviving kiln,” not the act of recording."
+  },
+  {
+    "id": "RW18-M2-012",
+    "prompt": "[1] In shallow bays, crews sometimes anchor bundles of biodegradable mesh to hold transplanted eelgrass shoots in place. [2] During the first season, the mesh can reduce erosion around the young roots. [3] As the plants spread, small fish and crabs may shelter among the shoots. [4] Once the eelgrass meadow is established, the mesh is removed or allowed to break down.\nWhich choice best describes the most logical placement for the following sentence?\n“The temporary support can therefore benefit both plants and animals during early recovery.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence sums up the benefits to both roots and animals before the closing sentence about the mesh."
+  },
+  {
+    "id": "RW18-M2-013",
+    "prompt": "A researcher compared the average number of minutes four groups spent discussing a policy brief.\nGroup A: 25\nGroup B: 19\nGroup C: 22\nGroup D: 17\nA student claims that Group D spent the least time discussing the brief, on average. Which choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is supported because Group D’s average is lower than those of the other groups.",
+      "B": "The claim is unsupported because Group B also spent less than twenty minutes.",
+      "C": "The claim is unsupported because Group C spent more time than Group A.",
+      "D": "The claim is supported because Group D spent less time than Group B but more than Group C."
+    },
+    "correct": "A",
+    "explanation": "Group D’s 17 minutes is the lowest in the table."
+  },
+  {
+    "id": "RW18-M2-014",
+    "prompt": "At first glance, the explanation seems <u>specious</u>, relying on a neat comparison that falls apart when the dates are checked.\nAs used in the text, what does “specious” most nearly mean?",
+    "choices": {
+      "A": "deceptively plausible",
+      "B": "carefully limited",
+      "C": "impossible to disprove",
+      "D": "emotionally charged"
+    },
+    "correct": "A",
+    "explanation": "“Specious” means appearing convincing at first but actually flawed."
+  },
+  {
+    "id": "RW18-M2-015",
+    "prompt": "In a novel, the narrator says, “My aunt kept one place at the table laid even after my cousin moved away. The folded napkin and unused glass did not pretend she would come tonight; they simply refused to let absence become ordinary.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The place setting expresses a resistance to accepting absence as normal.",
+      "B": "The narrator expects the cousin to return home that evening.",
+      "C": "The aunt sets extra places because she enjoys formal meals.",
+      "D": "The narrator thinks the empty place should be removed immediately."
+    },
+    "correct": "A",
+    "explanation": "The unused setting does not expect immediate return; it keeps absence from becoming ordinary."
+  },
+  {
+    "id": "RW18-M2-016",
+    "prompt": "A study found that students who arranged cards showing the parts of a legal argument into a hierarchy later recalled the relationships among claims more accurately than students who reread the same argument in paragraph form. The researchers caution, however, that the study did not test whether the card activity improved memory for exact quotations or case names.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Arranging argument parts into a hierarchy may help students remember relationships even if its effect on exact details is uncertain.",
+      "B": "Paragraph form is never useful for studying legal arguments.",
+      "C": "Case names are always easier to remember than claim relationships.",
+      "D": "The study proved that card sorting is the best strategy for every kind of reading."
+    },
+    "correct": "A",
+    "explanation": "The study found better memory for relationships but did not test quotations or case names."
+  },
+  {
+    "id": "RW18-M2-017",
+    "prompt": "A historian argues that almanac tables influenced farmers’ notebooks because writers copied their month abbreviations, column layouts, and weather phrasing into local records. To support this claim, the historian notes that notebooks from distant counties repeat nearly identical abbreviations even when the observations themselves are different.\nWhy does the author most likely include the example of notebooks repeating nearly identical abbreviations?",
+    "choices": {
+      "A": "To show that printed almanac conventions shaped everyday local recordkeeping",
+      "B": "To prove that all county notebooks were produced by the same printer",
+      "C": "To argue that abbreviations are more useful than complete words in all records",
+      "D": "To suggest that weather observations were identical in distant counties"
+    },
+    "correct": "A",
+    "explanation": "The repeated abbreviations in distant notebooks support the claim that almanac formatting influenced ordinary records."
+  },
+  {
+    "id": "RW18-M2-018",
+    "prompt": "A student is writing about rooftop vertical-axis wind turbines and has taken these notes:\n• Vertical-axis wind turbines can be installed on some buildings.\n• They may generate small amounts of local electricity without requiring open land.\n• In cities, turbulent airflow can reduce efficiency.\n• Building structure and maintenance needs must also be considered.\nThe student wants to explain a potential benefit of rooftop vertical-axis wind turbines while acknowledging a practical limitation. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Rooftop vertical-axis wind turbines can generate local electricity without using open land, but urban airflow and structural demands can limit their practicality.",
+      "B": "Cities always provide ideal conditions for every kind of wind turbine.",
+      "C": "Local electricity generation is unrelated to turbine design.",
+      "D": "Maintenance is unnecessary once a turbine is installed."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the possible benefit and the practical limitations in the notes."
+  },
+  {
+    "id": "RW18-M2-019",
+    "prompt": "The panel agreed that the museum label needed revision. ______, members disagreed about whether the new version should preserve technical terminology or replace it with simpler wording.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Similarly,",
+      "C": "Nevertheless,",
+      "D": "For example,"
+    },
+    "correct": "C",
+    "explanation": "The second sentence contrasts agreement on revising the label with disagreement about how to revise it."
+  },
+  {
+    "id": "RW18-M2-020",
+    "prompt": "The seminar asks students to compare sources, test assumptions, and <u>revising conclusions when new evidence appears.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "revising conclusions when new evidence appears.",
+      "B": "revise conclusions when new evidence appears.",
+      "C": "revised conclusions when new evidence appears.",
+      "D": "to revising conclusions when new evidence appears."
+    },
+    "correct": "B",
+    "explanation": "“Revise” matches the parallel verbs “compare” and “test.”"
+  },
+  {
+    "id": "RW18-M2-021",
+    "prompt": "The copy <u>that lacks the printer’s seal</u> is likely a later reproduction.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a nonessential phrase that should be set off with commas.",
+      "B": "It is a restrictive clause that correctly identifies which copy is being discussed.",
+      "C": "It creates a comma splice.",
+      "D": "It should be moved to the end of the sentence for clarity."
+    },
+    "correct": "B",
+    "explanation": "The clause specifies the particular copy under discussion."
+  },
+  {
+    "id": "RW18-M2-022",
+    "prompt": "The combination of heat, dust, and vibration <u>has</u> damaged the machine’s outer casing over time.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "are"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “combination” takes the singular verb “has.”"
+  },
+  {
+    "id": "RW18-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The revised catalog improved the archive.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The revised catalog improved the archive.",
+      "B": "The revised catalog changed the archive in several ways.",
+      "C": "The revised catalog added subject tags, shortened retrieval time, and reduced duplicate records in the database.",
+      "D": "The revised catalog made the archive better overall."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces a vague claim with specific improvements."
+  },
+  {
+    "id": "RW18-M2-024",
+    "prompt": "[1] On retreating glaciers, gravel near the ice edge may have been exposed only recently. [2] Farther downslope, older surfaces can hold lichens, shrubs, and thin developing soils. [3] These differences create patches with distinct temperature, moisture, and nutrient conditions. [4] Ecologists therefore map colonization across the foreland rather than treating the entire landscape as a single stage of recovery.\nWhich choice best describes the most logical placement for the following sentence?\n“A few hundred meters can therefore represent many years of ecological change.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence follows the description of patch differences and leads into the conclusion about mapping colonization across the foreland."
+  },
+  {
+    "id": "RW18-M2-025",
+    "prompt": "The report originally described the mobile clinic as “widely useful,” but that wording failed to show that attendance was highest among seasonal workers during evening visits, while midday turnout from other residents stayed low. The editor suggests replacing “widely useful” with <u>most useful for seasonal workers during evening visits</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the statement more precise by specifying who benefited most and when.",
+      "B": "It makes the statement less formal by using conversational language.",
+      "C": "It changes the meaning by suggesting that midday visits were canceled.",
+      "D": "It introduces a personal opinion that the original did not contain."
+    },
+    "correct": "A",
+    "explanation": "The revision identifies both the main users and the time period of greatest benefit."
+  },
+  {
+    "id": "RW18-M2-026",
+    "prompt": "In an experiment, participants tracing an unfamiliar symbol made fewer directional mistakes when faint checkpoint dots appeared at major turns than when the outline appeared alone. The researchers suggest that the dots helped participants monitor their position along the path.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Checkpoint dots may help people trace unfamiliar symbols more accurately.",
+      "B": "Participants worked more accurately only because the symbol was shorter.",
+      "C": "Directional mistakes are unrelated to how a path is displayed.",
+      "D": "The experiment proved that dots improve every kind of visual task."
+    },
+    "correct": "A",
+    "explanation": "The dots were associated with fewer directional mistakes, suggesting improved positional monitoring."
+  },
+  {
+    "id": "RW18-M2-027",
+    "prompt": "An essay on annotated cookbooks ends by noting that grease stains, substitutions, and crossed-out measurements reveal how recipes changed in actual kitchens. For that reason, some food historians preserve heavily used household copies alongside pristine published editions.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It applies the earlier idea to explain a preservation practice.",
+      "B": "It narrows the discussion to the chemistry of cooking oils.",
+      "C": "It argues that worn cookbooks are always more valuable than clean editions.",
+      "D": "It repeats the earlier claim without extending it."
+    },
+    "correct": "A",
+    "explanation": "The final sentence explains why food historians preserve worn household copies in light of what those copies reveal."
+  }
+]

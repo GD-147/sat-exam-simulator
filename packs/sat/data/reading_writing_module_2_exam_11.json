@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW11-M2-001",
+    "prompt": "A reviewer calls the reform proposal “incremental,” noting that it adjusts the current system in small ways rather than replacing it outright.\nAs used in the text, what does “incremental” most nearly mean?",
+    "choices": {
+      "A": "costly",
+      "B": "gradual",
+      "C": "controversial",
+      "D": "temporary"
+    },
+    "correct": "B",
+    "explanation": "“Incremental” means occurring in small steps rather than all at once."
+  },
+  {
+    "id": "RW11-M2-002",
+    "prompt": "A literary scholar argues that chapter epigraphs do more than decorate the openings of chapters. Because epigraphs can frame a scene with a prior voice, they may predispose readers to expect irony, continuity, or tension before the chapter itself begins. In that sense, an epigraph can shape interpretation in advance rather than merely accompany it.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Chapter epigraphs can influence interpretation by framing readers’ expectations before a chapter begins.",
+      "B": "Epigraphs are useful only when readers already know their original source.",
+      "C": "Chapter openings should avoid all quotations from earlier texts.",
+      "D": "Readers pay more attention to epigraphs than to chapters."
+    },
+    "correct": "A",
+    "explanation": "The passage says epigraphs predispose readers to expect certain tones or relationships before reading the chapter."
+  },
+  {
+    "id": "RW11-M2-003",
+    "prompt": "Cultural historians sometimes use donor plaques in old theaters to estimate who funded renovations and expansions. Yet such plaques list only contributions large enough to be publicly inscribed; small subscriptions, in-kind labor, and other modest forms of support rarely appear. As a result, donor plaques may overstate the role of elite patrons in sustaining the theater.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Donor plaques may make wealthy supporters seem more central than they actually were.",
+      "B": "Small donors were usually forbidden from attending the theater.",
+      "C": "Historians can determine volunteer labor directly from donor plaques.",
+      "D": "Large donors always controlled the artistic program of a theater."
+    },
+    "correct": "A",
+    "explanation": "Because plaques omit smaller and informal contributions, they can exaggerate the importance of elite patrons."
+  },
+  {
+    "id": "RW11-M2-004",
+    "prompt": "A critic notes that an essay repeatedly describes law as scaffolding, braces, and temporary supports. The critic argues that this imagery presents legal systems as structures people build to hold uncertainty in place, not as timeless monuments.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a repeated metaphor that the second sentence interprets.",
+      "B": "It summarizes the legal cases discussed in the essay.",
+      "C": "It rejects the imagery analyzed in the second sentence.",
+      "D": "It explains how scaffolding is assembled on a building site."
+    },
+    "correct": "A",
+    "explanation": "The first sentence identifies the imagery of scaffolding and braces, and the second explains what that imagery suggests about law."
+  },
+  {
+    "id": "RW11-M2-005",
+    "prompt": "A student is writing about electrochromic windows and has taken these notes:\n• Electrochromic windows can darken electronically to reduce glare and solar heat gain.\n• In some buildings, this can lower cooling demand and improve comfort.\n• These systems require controls, wiring, and specialized glass.\n• The cost can limit how widely the windows are used.\nThe student wants to emphasize both a potential advantage of electrochromic windows and a factor that limits their use. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Electrochromic windows can improve comfort and reduce some cooling demand, but their specialized systems and cost may limit where they are used.",
+      "B": "All windows should be able to darken automatically in every building.",
+      "C": "Specialized glass never affects construction costs.",
+      "D": "Cooling demand is unrelated to glare or solar heat gain."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the benefits and the limiting factors from the notes."
+  },
+  {
+    "id": "RW11-M2-006",
+    "prompt": "The ecologist expected the new measurements to show that salinity in the lagoon had remained stable across decades. ______, the oldest cores revealed several sharp shifts that matched periods of drought.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Instead,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "B",
+    "explanation": "The evidence did not confirm stable salinity; it showed notable shifts instead."
+  },
+  {
+    "id": "RW11-M2-007",
+    "prompt": "The archive contained one especially revealing item<u>: a ledger listing payments to unofficial messengers.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; a ledger listing payments to unofficial messengers.",
+      "C": ", a ledger listing payments to unofficial messengers.",
+      "D": "—a ledger listing payments to unofficial messengers."
+    },
+    "correct": "A",
+    "explanation": "A colon correctly introduces the specific revealing item named after a complete clause."
+  },
+  {
+    "id": "RW11-M2-008",
+    "prompt": "Far from being merely decorative, the carved lintel also marked thresholds of status and access, signaling who could enter the courtyard beyond it.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It contrasts a narrow view of the lintel with a broader interpretation of its social role.",
+      "B": "It identifies the artisan who carved the lintel.",
+      "C": "It explains how the lintel was transported to the site.",
+      "D": "It presents the results of a survey of visitors."
+    },
+    "correct": "A",
+    "explanation": "The phrase “Far from being merely decorative” sets up a contrast with the lintel’s deeper meaning."
+  },
+  {
+    "id": "RW11-M2-009",
+    "prompt": "After Mina discussed Leo’s recommendation with Sofia, <u>she</u> proposed delaying the announcement.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "she",
+      "B": "Mina",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “she” with “Mina” removes the ambiguity among the named people."
+  },
+  {
+    "id": "RW11-M2-010",
+    "prompt": "Had the commission consulted residents earlier, the design <u>would face</u> less opposition today.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "would face",
+      "B": "would have faced",
+      "C": "faced",
+      "D": "will face"
+    },
+    "correct": "A",
+    "explanation": "The sentence describes an unreal past condition with a present result, so “would face” is correct."
+  },
+  {
+    "id": "RW11-M2-011",
+    "prompt": "The editor intended to say that only archive staff handled the original maps during the first week, not visiting researchers.\nWhich choice most effectively revises the sentence to convey the intended meaning?",
+    "choices": {
+      "A": "Only archive staff handled the original maps during the first week, not visiting researchers.",
+      "B": "Archive staff only handled the original maps during the first week, not visiting researchers.",
+      "C": "Archive staff handled only the original maps during the first week, not visiting researchers.",
+      "D": "Archive staff handled the original maps during the first week only, not visiting researchers."
+    },
+    "correct": "A",
+    "explanation": "This placement makes clear that the restriction applies to who handled the maps."
+  },
+  {
+    "id": "RW11-M2-012",
+    "prompt": "[1] In some reservoirs, managers install floating nesting platforms for water birds. [2] The platforms keep nests above changing water levels. [3] They can also reduce access by land predators in places where shoreline habitat is limited. [4] For that reason, managers sometimes use them where natural nesting sites have been lost.\nWhich choice best describes the most logical placement for the following sentence?\n“Artificial habitat can therefore address more than one breeding challenge at once.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence summarizes the benefits in sentences 2 and 3 before the concluding statement about where the platforms are used."
+  },
+  {
+    "id": "RW11-M2-013",
+    "prompt": "A researcher compared the average number of minutes four groups spent discussing a policy memo.\nGroup A: 24\nGroup B: 18\nGroup C: 21\nGroup D: 17\nA student claims that Group D spent the least time discussing the memo, on average. Which choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is supported because Group D’s average is lower than those of the other groups.",
+      "B": "The claim is unsupported because Group B’s average is also below twenty minutes.",
+      "C": "The claim is supported because Group D’s average is greater than Group C’s.",
+      "D": "The claim is unsupported because Group A spent more time than Group B."
+    },
+    "correct": "A",
+    "explanation": "Group D’s 17 minutes is lower than Group A’s 24, Group B’s 18, and Group C’s 21."
+  },
+  {
+    "id": "RW11-M2-014",
+    "prompt": "In a policy discussion, a professor describes the delay as <u>salutary</u>, arguing that it prevented a rushed decision and allowed better evidence to emerge.\nAs used in the text, what does “salutary” most nearly mean?",
+    "choices": {
+      "A": "harmful",
+      "B": "beneficial",
+      "C": "predictable",
+      "D": "symbolic"
+    },
+    "correct": "B",
+    "explanation": "“Salutary” means beneficial or having a good effect."
+  },
+  {
+    "id": "RW11-M2-015",
+    "prompt": "In a novel, the narrator recalls, “My aunt never unpacked the last suitcase after the move. It stayed by the wardrobe for years, not because she planned to leave, but because arriving had never entirely convinced her.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The aunt remains emotionally unsettled even after the move is complete.",
+      "B": "The narrator intends to unpack the suitcase in secret.",
+      "C": "The aunt is preparing for a long trip abroad.",
+      "D": "The move was delayed because the house lacked storage space."
+    },
+    "correct": "A",
+    "explanation": "The packed suitcase symbolizes her incomplete sense of arrival."
+  },
+  {
+    "id": "RW11-M2-016",
+    "prompt": "A study found that students who manipulated a digital 3D model of an artifact later recalled its shape more accurately than students who viewed static images of it. The researchers caution, however, that the study did not test whether the advantage remained after a long delay.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Interacting with a 3D model may improve short-term memory for shape even if long-term effects are uncertain.",
+      "B": "Static images are ineffective for teaching any aspect of material culture.",
+      "C": "Students always remember digital models longer than physical objects.",
+      "D": "The study proved that shape memory and historical understanding are the same skill."
+    },
+    "correct": "A",
+    "explanation": "The study found better recall of shape but did not test whether that advantage lasted."
+  },
+  {
+    "id": "RW11-M2-017",
+    "prompt": "A linguist argues that printed loan forms helped spread standardized spelling because clerks and merchants copied the spellings on those forms into their own records. To support this claim, the linguist notes that variant spellings decline most sharply in the very kinds of ledgers that frequently reproduce form language.\nWhy does the author most likely include the example of ledgers with declining variant spellings?",
+    "choices": {
+      "A": "To show that routine copying from printed forms influenced everyday writing practices",
+      "B": "To prove that merchants invented standardized spelling on their own",
+      "C": "To argue that all ledgers were printed rather than handwritten",
+      "D": "To suggest that form language was more creative than ordinary writing"
+    },
+    "correct": "A",
+    "explanation": "The decline in variant spellings in copied ledgers supports the claim that the forms shaped ordinary written language."
+  },
+  {
+    "id": "RW11-M2-018",
+    "prompt": "A student is writing about subsurface drip irrigation and has taken these notes:\n• Subsurface drip irrigation delivers water below the soil surface near plant roots.\n• It can reduce evaporation compared with surface watering.\n• In dry climates, it may improve water efficiency and crop yields.\n• Installation can be costly, and buried lines may clog if not maintained.\nThe student wants to explain a potential benefit of subsurface drip irrigation while acknowledging a practical limitation. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Subsurface drip irrigation can improve water efficiency by delivering water near roots with less evaporation, but it can be expensive to install and maintain.",
+      "B": "Surface watering is always ineffective in dry climates.",
+      "C": "Buried irrigation lines never require maintenance once installed.",
+      "D": "Crop yields depend only on the amount of sunlight a field receives."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the potential benefit and the practical limitation."
+  },
+  {
+    "id": "RW11-M2-019",
+    "prompt": "The panel agreed that the monument’s inscription had been altered. ______, members disagreed about whether the changes were intentional revisions or later repairs.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Nevertheless,",
+      "C": "Similarly,",
+      "D": "For example,"
+    },
+    "correct": "B",
+    "explanation": "The second sentence contrasts agreement about the damage with disagreement about how to restore the missing lines."
+  },
+  {
+    "id": "RW11-M2-020",
+    "prompt": "The course requires students to compare theories, evaluate evidence, and <u>testing alternative explanations.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "testing alternative explanations.",
+      "B": "test alternative explanations.",
+      "C": "tested alternative explanations.",
+      "D": "to testing alternative explanations."
+    },
+    "correct": "B",
+    "explanation": "“Test” matches the parallel verbs “compare” and “evaluate.”"
+  },
+  {
+    "id": "RW11-M2-021",
+    "prompt": "The oldest copy of the charter, <u>preserved in waxed linen,</u> survives only in fragments.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a restrictive phrase that should not be set off with commas.",
+      "B": "It is a nonessential phrase correctly set off with commas.",
+      "C": "It creates a comma splice.",
+      "D": "It should be moved before “copy.”"
+    },
+    "correct": "B",
+    "explanation": "The phrase adds extra information about the condition of the charter copy."
+  },
+  {
+    "id": "RW11-M2-022",
+    "prompt": "The pace of repairs to the theater and school gym <u>have</u> slowed since the contractor lost two crews.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "are"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “pace” takes the singular verb “has.”"
+  },
+  {
+    "id": "RW11-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The new permit rule changed downtown traffic.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The new permit rule changed downtown traffic.",
+      "B": "The new permit rule affected downtown traffic in several ways.",
+      "C": "The new permit rule shifted delivery trucks to early morning hours, reduced double-parking near the market, and increased bicycle access on side streets.",
+      "D": "The new permit rule had many noticeable effects."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces vague wording with specific changes to downtown traffic."
+  },
+  {
+    "id": "RW11-M2-024",
+    "prompt": "[1] In mountain watersheds, late-summer streamflow often depends on snow that lingered in shaded gullies. [2] South-facing slopes may lose snow weeks before north-facing ones. [3] As a result, neighboring tributaries can deliver water at different times. [4] Water managers monitor these differences when forecasting seasonal supply.\nWhich choice best describes the most logical placement for the following sentence?\n“A watershed’s runoff pattern can therefore vary even over short distances.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence follows the explanation of different tributary timings and leads into the management implication in sentence 4."
+  },
+  {
+    "id": "RW11-M2-025",
+    "prompt": "The report originally described the shared cargo-bike program as “useful,” but that wording failed to show that usage was concentrated among couriers making short deliveries in the historic center, while use in outer districts stayed low. The editor suggests replacing “useful” with <u>most useful for short deliveries in the historic center</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the statement more precise by specifying where the program was most heavily used.",
+      "B": "It makes the statement less formal by using vague conversational language.",
+      "C": "It changes the meaning by implying that the program failed completely outside the city.",
+      "D": "It introduces an unsupported emotional judgment."
+    },
+    "correct": "A",
+    "explanation": "The revision clarifies that the historic center was the main area of use."
+  },
+  {
+    "id": "RW11-M2-026",
+    "prompt": "In an experiment, participants estimating the weight of small parcels were more accurate when they first handled a sample box of known weight than when they made estimates without that reference. The researchers suggest that the sample helped calibrate the participants’ judgments.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "A known reference may help people estimate weight more accurately.",
+      "B": "Participants can estimate weight accurately only when boxes are identical.",
+      "C": "The sample box made the parcels easier to lift.",
+      "D": "The researchers proved that repeated lifting always improves judgment."
+    },
+    "correct": "A",
+    "explanation": "Handling the sample box improved the participants’ estimates, suggesting a calibration effect."
+  },
+  {
+    "id": "RW11-M2-027",
+    "prompt": "An essay on preliminary planting maps ends by noting that pencil revisions reveal where gardeners changed their expectations about light, shade, and growth. For that reason, landscape historians sometimes preserve draft maps alongside finished plans.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It applies the earlier idea to explain a preservation practice.",
+      "B": "It narrows the discussion to the kinds of pencils gardeners preferred.",
+      "C": "It argues that finished plans are less useful than draft maps in every case.",
+      "D": "It repeats the earlier claim without adding anything new."
+    },
+    "correct": "A",
+    "explanation": "The final sentence explains why draft planting maps are preserved in light of what they reveal about changing expectations."
+  }
+]

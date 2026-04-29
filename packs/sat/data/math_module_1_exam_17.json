@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH17-M1-001",
+    "prompt": "The sum of 3 consecutive even integers is 42. What is the smallest of the 3 integers?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "correct": "B",
+    "explanation": "Let the consecutive even integers be n, n + 2, and n + 4. Then n + (n + 2) + (n + 4) = 42, so 3n + 6 = 42 and n = 12."
+  },
+  {
+    "id": "MATH17-M1-002",
+    "prompt": "The variable y varies directly with √x. If y = 12 when x = 9, what is the value of y when x = 16 ?",
+    "choices": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "Since y varies directly with √x, y = k√x. Using 12 = k√9 gives 12 = 3k, so k = 4. Then y = 4√16 = 16."
+  },
+  {
+    "id": "MATH17-M1-003",
+    "prompt": "Which expression is equivalent to 6p(p − 2) − 5(p − 2) ?",
+    "choices": {
+      "A": "(p − 2)(6p − 5)",
+      "B": "(p + 2)(6p − 5)",
+      "C": "6p² − 17",
+      "D": "11p − 7"
+    },
+    "correct": "A",
+    "explanation": "Factor out the common binomial p − 2."
+  },
+  {
+    "id": "MATH17-M1-004",
+    "prompt": "The table shows values of a linear function.\nx y\n−1 10\n2 4\n5 −2\nWhat is the x-coordinate of the x-intercept of the graph of the function?",
+    "choices": {
+      "A": "3",
+      "B": "7/2",
+      "C": "4",
+      "D": "9/2"
+    },
+    "correct": "C",
+    "explanation": "The slope is (4 − 10)/(2 − (−1)) = −6/3 = −2. Using point-slope form gives y = −2x + 8. Setting y = 0 gives x = 4."
+  },
+  {
+    "id": "MATH17-M1-005",
+    "prompt": "A bag contains 6 tiles numbered 1 through 6. One tile is selected at random, and then a fair coin is flipped. What is the probability of selecting a factor of 12 and then flipping heads?",
+    "choices": {
+      "A": "1/3",
+      "B": "5/12",
+      "C": "1/2",
+      "D": "5/6"
+    },
+    "correct": "B",
+    "explanation": "The factors of 12 among the numbers 1 through 6 are 1, 2, 3, 4, and 6, so the probability is 5/6. Multiply by the probability of heads, 1/2, to get 5/12."
+  },
+  {
+    "id": "MATH17-M1-006",
+    "prompt": "A rectangular prism has dimensions 5, 7, and 9. What is the total edge length of the prism?",
+    "choices": {
+      "A": "63",
+      "B": "72",
+      "C": "84",
+      "D": "105"
+    },
+    "correct": "C",
+    "explanation": "A rectangular prism has 4 edges of each dimension. So the total edge length is 4(5 + 7 + 9) = 84."
+  },
+  {
+    "id": "MATH17-M1-007",
+    "prompt": "Which expression is equivalent to √75 + √48 ?",
+    "choices": {
+      "A": "7√3",
+      "B": "8√3",
+      "C": "9√3",
+      "D": "10√3"
+    },
+    "correct": "C",
+    "explanation": "√75 = 5√3 and √48 = 4√3. Their sum is 9√3."
+  },
+  {
+    "id": "MATH17-M1-008",
+    "prompt": "The function f is defined by\nf(x) = 2x − 3, for x ≤ 1\nf(x) = x² + 1, for x > 1\nWhat is the value of f(−2) + f(3) ?",
+    "choices": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "correct": "B",
+    "explanation": "Since −2 ≤ 1, f(−2) = 2(−2) − 3 = −7. Since 3 > 1, f(3) = 3² + 1 = 10. Their sum is 3."
+  },
+  {
+    "id": "MATH17-M1-009",
+    "prompt": "If x + 4 is a factor of x² + kx + 12, what is the value of k ?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "If x + 4 is a factor, then x = −4 makes the polynomial 0. So 16 − 4k + 12 = 0, which gives 28 = 4k and k = 7."
+  },
+  {
+    "id": "MATH17-M1-010",
+    "prompt": "A circle is centered at (2, −3) and passes through the point (−1, 1). Which equation represents this circle?",
+    "choices": {
+      "A": "(x − 2)² + (y + 3)² = 5",
+      "B": "(x − 2)² + (y + 3)² = 25",
+      "C": "(x + 2)² + (y − 3)² = 5",
+      "D": "(x + 2)² + (y − 3)² = 25"
+    },
+    "correct": "B",
+    "explanation": "The radius is the distance from (2, −3) to (−1, 1): √[(−3)² + 4²] = 5. So the equation is (x − 2)² + (y + 3)² = 25."
+  },
+  {
+    "id": "MATH17-M1-011",
+    "prompt": "The table shows a data set.\nValue 4 7 10\nFrequency 3 2 1\nWhat is the mean of the data set?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "6.5",
+      "D": "7"
+    },
+    "correct": "B",
+    "explanation": "The weighted mean is (4·3 + 7·2 + 10·1)/(3 + 2 + 1) = (12 + 14 + 10)/6 = 36/6 = 6."
+  },
+  {
+    "id": "MATH17-M1-012",
+    "prompt": "Which equation represents the line that passes through the point (6, 1) and is perpendicular to the line y = 3x − 4 ?",
+    "choices": {
+      "A": "y = −(1/3)x + 1",
+      "B": "y = −(1/3)x + 3",
+      "C": "y = (1/3)x − 1",
+      "D": "y = (1/3)x + 3"
+    },
+    "correct": "B",
+    "explanation": "A line perpendicular to y = 3x − 4 has slope −1/3. Using the point (6, 1): 1 = −(1/3)(6) + b, so b = 3."
+  },
+  {
+    "id": "MATH17-M1-013",
+    "prompt": "The table shows values of a function.\nx y\n0 2\n1 6\n2 12\n3 20\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = x² + 2x + 2",
+      "B": "y = x² + 3x + 2",
+      "C": "y = 2x² + 2",
+      "D": "y = x² + 4x + 2"
+    },
+    "correct": "B",
+    "explanation": "Substituting x = 0, 1, 2, and 3 gives y-values 2, 6, 12, and 20, which match the table."
+  },
+  {
+    "id": "MATH17-M1-014",
+    "prompt": "A triangular prism has a right-triangular base with side lengths 3, 4, and 5. If the length of the prism is 6, what is the total surface area of the prism?",
+    "choices": {
+      "A": "72",
+      "B": "78",
+      "C": "84",
+      "D": "90"
+    },
+    "correct": "C",
+    "explanation": "The area of the triangular base is (1/2)(3)(4) = 6. The lateral area is the perimeter of the base times the prism length: (3 + 4 + 5)·6 = 72. Total surface area is 72 + 2(6) = 84."
+  },
+  {
+    "id": "MATH17-M1-015",
+    "prompt": "A right triangle has side lengths 5, 12, and 13. What is the cosine of the angle opposite the side of length 12?",
+    "choices": {
+      "A": "5/13",
+      "B": "12/13",
+      "C": "5/12",
+      "D": "12/5"
+    },
+    "correct": "A",
+    "explanation": "For the angle opposite the side of length 12, the adjacent side is 5 and the hypotenuse is 13. So cosine = 5/13."
+  },
+  {
+    "id": "MATH17-M1-016",
+    "prompt": "The ratio of girls to boys in a class is 4:7. If there are 55 students in the class, how many are girls?",
+    "choices": {
+      "A": "18",
+      "B": "20",
+      "C": "22",
+      "D": "35"
+    },
+    "correct": "B",
+    "explanation": "The total ratio parts are 4 + 7 = 11. Since there are 55 students, each part is 55/11 = 5. So the number of girls is 4·5 = 20."
+  },
+  {
+    "id": "MATH17-M1-017",
+    "prompt": "Each value in a data set is multiplied by 2 and then increased by 3. If the mean of the original data set is 6, what is the mean of the new data set?",
+    "choices": {
+      "A": "9",
+      "B": "12",
+      "C": "15",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "Multiply the original mean by 2 and then add 3: 2(6) + 3 = 15."
+  },
+  {
+    "id": "MATH17-M1-018",
+    "prompt": "What is the maximum value of the function y = −(x + 1)² + 7 ?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "The function is in vertex form. Since −(x + 1)² is always at most 0, the maximum value is 7."
+  },
+  {
+    "id": "MATH17-M1-019",
+    "prompt": "At a café, 3 sandwiches and 2 drinks cost $21, and 2 sandwiches and 1 drink cost $13. What is the cost, in dollars, of 1 drink?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "Let s be the sandwich cost and d be the drink cost. From 2s + d = 13, d = 13 − 2s. Substitute into 3s + 2d = 21: 3s + 2(13 − 2s) = 21, so s = 5 and d = 3."
+  },
+  {
+    "id": "MATH17-M1-020",
+    "prompt": "If 2 is a solution to the equation x² + mx − 10 = 0, what is the value of m ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "C",
+    "explanation": "Substitute x = 2 into x² + mx − 10 = 0: 4 + 2m − 10 = 0. So 2m = 6 and m = 3."
+  },
+  {
+    "id": "MATH17-M1-021",
+    "prompt": "A cube has volume 64. What is the total surface area of the cube?",
+    "choices": {
+      "A": "64",
+      "B": "80",
+      "C": "96",
+      "D": "128"
+    },
+    "correct": "C",
+    "explanation": "If the cube’s volume is 64, then its edge length is 4. The surface area is 6(4²) = 96."
+  },
+  {
+    "id": "MATH17-M1-022",
+    "prompt": "The table shows values of a function.\nx y\n0 0\n1 3\n2 8\n3 15\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = x² + x",
+      "B": "y = x² + 2x",
+      "C": "y = 2x²",
+      "D": "y = (x + 1)²"
+    },
+    "correct": "B",
+    "explanation": "Substituting x = 0, 1, 2, and 3 into x² + 2x gives 0, 3, 8, and 15, which match the table.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

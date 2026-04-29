@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW24-M2-001",
+    "prompt": "A historian describes the argument as “circumscribed,” noting that it applies securely only to districts whose tax rolls survive without major gaps.\nAs used in the text, what does “circumscribed” most nearly mean?",
+    "choices": {
+      "A": "limited in scope",
+      "B": "celebrated by scholars",
+      "C": "difficult to summarize",
+      "D": "morally troubling"
+    },
+    "correct": "A",
+    "explanation": "The argument applies only to districts with complete tax rolls, so it is limited in scope."
+  },
+  {
+    "id": "RW24-M2-002",
+    "prompt": "A scholar argues that section titles in documentary histories do more than label topics. When one section is titled “Adjustment,” another “Disruption,” and a third “Recovery,” readers are invited to understand the evidence through a sequence of change before they have fully examined the documents themselves. In that way, section titles guide interpretation as well as organization.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Section titles in documentary histories can influence interpretation, not just organize material.",
+      "B": "Documentary histories are useful only when every section title is neutral.",
+      "C": "Readers usually ignore section titles once they begin reading the documents.",
+      "D": "Every documentary history should use the same sequence of section titles."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that section titles shape how readers interpret evidence before close examination."
+  },
+  {
+    "id": "RW24-M2-003",
+    "prompt": "Economic historians sometimes use insurance inventories to estimate how many workshops operated in a manufacturing district. Yet very small repair shops that shared space with family homes were often omitted from those inventories, especially when their tools were inexpensive. As a result, the inventories may understate the number of workshops that actually existed.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Insurance inventories may provide an incomplete estimate of how many workshops existed in a district.",
+      "B": "Small repair shops were always less productive than large workshops.",
+      "C": "Family homes were listed separately in the same inventories as workshops.",
+      "D": "Historians can determine the exact number of omitted shops from the inventories alone."
+    },
+    "correct": "A",
+    "explanation": "Some small repair shops were omitted, so the inventories may undercount workshops."
+  },
+  {
+    "id": "RW24-M2-004",
+    "prompt": "A critic notes that an essay repeatedly describes citation as scaffolding, braces, and supports. The critic argues that this language presents scholarship as something that holds an argument upright while remaining partly visible around it.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a repeated metaphor that the second sentence interprets.",
+      "B": "It summarizes the essay’s argument in chronological order.",
+      "C": "It rejects the interpretation proposed in the second sentence.",
+      "D": "It explains how construction materials were manufactured in the essay’s time period."
+    },
+    "correct": "A",
+    "explanation": "The first sentence presents the metaphor, and the second explains what it means."
+  },
+  {
+    "id": "RW24-M2-005",
+    "prompt": "A student is writing about operable skylights and has taken these notes:\n• Some buildings use skylights that can be opened to release warm air.\n• Opening the skylights can improve ventilation and reduce heat buildup.\n• However, the system depends on weather conditions and reliable controls.\n• The moving parts and sensors require regular inspection and maintenance.\nThe student wants to emphasize both a potential benefit of operable skylights and a factor that can limit their effectiveness. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Operable skylights can improve ventilation and reduce heat buildup, but they depend on weather, controls, and regular maintenance.",
+      "B": "Operable skylights eliminate the need for any other ventilation system.",
+      "C": "Weather conditions do not affect how well operable skylights work.",
+      "D": "Skylight sensors are unnecessary once the windows have been installed."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the benefit of reduced heat buildup with the limiting factors in the notes."
+  },
+  {
+    "id": "RW24-M2-006",
+    "prompt": "The editor expected the revised route map to reduce missed transfers. ______, many riders continued relying on the older stop names they had memorized.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "Instead,",
+      "C": "Similarly,",
+      "D": "Therefore,"
+    },
+    "correct": "B",
+    "explanation": "The outcome described contrasts with the editor’s expectation."
+  },
+  {
+    "id": "RW24-M2-007",
+    "prompt": "The account cannot date from 1879<u>: it mentions a civic hall that was not opened until 1886.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; it mentions a civic hall that was not opened until 1886",
+      "C": ", it mentions a civic hall that was not opened until 1886",
+      "D": "—it mentions a civic hall that was not opened until 1886"
+    },
+    "correct": "A",
+    "explanation": "The colon correctly introduces the fact that makes the date impossible."
+  },
+  {
+    "id": "RW24-M2-008",
+    "prompt": "Far from being merely decorative, the painted ceiling also directed how visitors moved through the hall, emphasized certain sightlines, and controlled when the room felt most expansive.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It contrasts a limited description of the ceiling with a broader explanation of its effect.",
+      "B": "It identifies the artist who painted the ceiling.",
+      "C": "It explains how the ceiling was repaired after smoke damage.",
+      "D": "It presents the results of a survey of museum visitors."
+    },
+    "correct": "A",
+    "explanation": "The introductory phrase rejects the idea that the ceiling is only decorative and expands its significance."
+  },
+  {
+    "id": "RW24-M2-009",
+    "prompt": "After Nadia spoke with Victor about Elena’s outline, <u>she</u> suggested moving the final case study to the opening section.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "she",
+      "B": "Nadia",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing the ambiguous pronoun with “Nadia” clarifies who made the suggestion."
+  },
+  {
+    "id": "RW24-M2-010",
+    "prompt": "Had the survey distinguished short-term visitors from permanent residents, the occupancy totals <u>would be</u> easier to interpret now.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "would be",
+      "B": "would have been",
+      "C": "are",
+      "D": "were"
+    },
+    "correct": "A",
+    "explanation": "The sentence describes an unreal past condition with a present result."
+  },
+  {
+    "id": "RW24-M2-011",
+    "prompt": "The editor intended to say that nearly every page of the register had been photographed.\nWhich choice most effectively conveys the intended meaning?",
+    "choices": {
+      "A": "The archivist nearly photographed every page of the register.",
+      "B": "The archivist photographed nearly every page of the register.",
+      "C": "The archivist photographed every nearly page of the register.",
+      "D": "The archivist photographed every page nearly of the register."
+    },
+    "correct": "B",
+    "explanation": "“Nearly” should modify “every page,” not the act of photographing."
+  },
+  {
+    "id": "RW24-M2-012",
+    "prompt": "[1] In some marsh restorations, managers place low fences across bare mud. [2] The fences slow wind and trap drifting sediment. [3] As sediment accumulates, grasses can root more easily in the protected area. [4] Over time, the marsh surface may rise enough to better resist erosion.\nWhich choice best describes the most logical placement for the following sentence?\n“The fences are meant to stabilize the site while creating conditions that support new plant growth.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence best follows the explanation of how the fences affect wind and sediment and leads into plant growth."
+  },
+  {
+    "id": "RW24-M2-013",
+    "prompt": "A researcher compared the average number of minutes four groups spent discussing a transit proposal.\nGroup A: 22\nGroup B: 17\nGroup C: 20\nGroup D: 16\nA student claims that Group D spent the least time discussing the proposal, on average. Which choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is unsupported because Group B also spent less than twenty minutes.",
+      "B": "The claim is supported because Group D’s average is lower than those of the other groups.",
+      "C": "The claim is unsupported because Group C spent more time than Group A.",
+      "D": "The claim is supported because Group D spent less time than Group A but more than Group B."
+    },
+    "correct": "B",
+    "explanation": "Group D’s 16 minutes is the lowest value in the table."
+  },
+  {
+    "id": "RW24-M2-014",
+    "prompt": "The reviewer calls the explanation “equivocal,” noting that the evidence supports more than one plausible reading and does not settle the question decisively.\nAs used in the text, what does “equivocal” most nearly mean?",
+    "choices": {
+      "A": "ambiguous",
+      "B": "celebratory",
+      "C": "conclusive",
+      "D": "economical"
+    },
+    "correct": "A",
+    "explanation": "The evidence supports more than one reading, so the explanation is ambiguous."
+  },
+  {
+    "id": "RW24-M2-015",
+    "prompt": "In a novel, the narrator says, “After the telegraph office closed, my grandmother still polished the brass message tube each Saturday. No notes would slide through it now, but it kept the hallway listening for an arrival.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The ritual preserves a sense of communication and purpose after the office has closed.",
+      "B": "The narrator plans to reopen the telegraph office and use the tube again.",
+      "C": "The tube is kept only because brass objects are valuable.",
+      "D": "The hallway matters mainly because it carries sound well."
+    },
+    "correct": "A",
+    "explanation": "The object no longer functions, but the repeated action preserves its former purpose."
+  },
+  {
+    "id": "RW24-M2-016",
+    "prompt": "A study found that botany students who grouped leaf diagrams by vein pattern later remembered which species were structurally related more accurately than students who reviewed the same diagrams alphabetically by species name. The researchers note, however, that the study did not test whether the grouping activity improved memory for habitat range.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Grouping leaf diagrams by vein pattern may help students remember structural relationships even if its effect on habitat-range memory is uncertain.",
+      "B": "Alphabetical order is never useful for studying botany.",
+      "C": "Habitat range is always easier to remember than structural relationships.",
+      "D": "The study proved that grouping diagrams is the best strategy for every science course."
+    },
+    "correct": "A",
+    "explanation": "The study found better memory for structural relationships but did not test habitat-range memory."
+  },
+  {
+    "id": "RW24-M2-017",
+    "prompt": "A literary historian argues that inventory books influenced some realist fiction. To support this claim, the historian points to a passage that describes a storeroom mainly through item counts, shelf locations, and condition notes, making the prose resemble a catalog more than a conventional narrative scene.\nWhy does the author most likely include the example of the passage listing item counts, shelf locations, and condition notes?",
+    "choices": {
+      "A": "To illustrate what inventory-like prose looks like in a realist novel.",
+      "B": "To prove that inventory books were more widely read than realist fiction.",
+      "C": "To argue that lists are always more accurate than narrative description.",
+      "D": "To suggest that all realist fiction copied storage records directly."
+    },
+    "correct": "A",
+    "explanation": "The example demonstrates how the prose resembles an inventory."
+  },
+  {
+    "id": "RW24-M2-018",
+    "prompt": "A student is writing about refrigerated pickup lockers at a campus pantry and has taken these notes:\n• Some campus pantries install refrigerated lockers for grocery pickups.\n• The lockers let students retrieve food outside staffed hours.\n• However, the lockers require electricity, sanitation checks, and temperature monitoring.\n• Their usefulness also depends on location and how many compartments are available.\nThe student wants to explain a potential benefit of the lockers while acknowledging a practical limitation. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Refrigerated pickup lockers can make pantry access more flexible, but they require power, monitoring, and suitable placement.",
+      "B": "Refrigerated lockers make staffed pantry hours unnecessary in every case.",
+      "C": "Locker location has no effect on how useful the system is.",
+      "D": "Temperature monitoring becomes irrelevant once food has been placed in a locker."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the benefit of flexible pickup with the practical limits described in the notes."
+  },
+  {
+    "id": "RW24-M2-019",
+    "prompt": "The committee agreed that the introductory panel needed revision. ______, members disagreed about whether the new wording should keep technical terms or explain more of them for general readers.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Nevertheless,",
+      "C": "Similarly,",
+      "D": "For example,"
+    },
+    "correct": "B",
+    "explanation": "The second sentence contrasts agreement that revision is needed with disagreement about how to revise."
+  },
+  {
+    "id": "RW24-M2-020",
+    "prompt": "The seminar asks students to compare drafts, question assumptions, and <u>track how each revision changes the claim.</u>\nWhich choice best explains why the underlined portion is effective?",
+    "choices": {
+      "A": "It correctly completes a parallel series with the verbs “compare” and “question”.",
+      "B": "It should be changed to “tracking how each revision changes the claim” to sound more formal.",
+      "C": "It is incorrect because every verb in a series must begin with “to”.",
+      "D": "It should be changed to “the tracking of how each revision changes the claim” to be grammatical."
+    },
+    "correct": "A",
+    "explanation": "“Track” matches the base-form verbs in the series."
+  },
+  {
+    "id": "RW24-M2-021",
+    "prompt": "The ledger <u>that omits the winter deliveries</u> is probably incomplete.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a nonessential phrase that should be set off with commas.",
+      "B": "It is a restrictive clause that correctly identifies which ledger is being discussed.",
+      "C": "It creates a comma splice.",
+      "D": "It should be moved to the end of the sentence for clarity."
+    },
+    "correct": "B",
+    "explanation": "The clause identifies a specific ledger instead of adding nonessential information."
+  },
+  {
+    "id": "RW24-M2-022",
+    "prompt": "The combination of wind, salt spray, and constant foot traffic <u>has</u> worn the painted steps almost smooth.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "are"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “combination” takes the singular verb “has.”"
+  },
+  {
+    "id": "RW24-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The new registration form improved the office.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The new registration form improved the office.",
+      "B": "The new registration form changed the office in several ways.",
+      "C": "The new registration form reduced repeated questions, shortened check-in time, and made missing information easier to spot.",
+      "D": "The new registration form made the office much better overall."
+    },
+    "correct": "C",
+    "explanation": "This choice replaces a vague statement with specific improvements."
+  },
+  {
+    "id": "RW24-M2-024",
+    "prompt": "[1] On exposed coastal rock, narrow ledges may collect windblown soil while nearby surfaces remain bare. [2] Mosses often establish first on those ledges. [3] As they thicken, they hold more moisture and fine material, making the ledges more favorable for later plants. [4] Ecologists therefore map such rock faces at very fine scales rather than treating them as uniform.\nWhich choice best describes the most logical placement for the following sentence?\n“Even slight differences in shelter can therefore shape where plant communities begin.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The sentence best follows the explanation of how the ledges become more favorable for plants and leads into the broader ecological conclusion."
+  },
+  {
+    "id": "RW24-M2-025",
+    "prompt": "The report originally described the campus help desk as “busy,” but that wording failed to show that traffic was highest among first-year students during the first week of classes, while use later in the term was much lighter. The editor suggests replacing “busy” with <u>busiest among first-year students during the first week of classes</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the statement more precise by specifying who used the help desk most and when.",
+      "B": "It makes the statement less formal by using conversational language.",
+      "C": "It changes the meaning by suggesting that the help desk closed later in the term.",
+      "D": "It introduces a personal opinion that the original did not contain."
+    },
+    "correct": "A",
+    "explanation": "The revision identifies both the main user group and the busiest period."
+  },
+  {
+    "id": "RW24-M2-026",
+    "prompt": "In an experiment, participants reconstructing a repeating tile border made fewer placement errors when the reference image was divided into labeled squares than when the same border appeared without square labels. The researchers suggest that the labeled squares helped participants keep track of position.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Labeled squares may help people reconstruct a repeating tile border more accurately.",
+      "B": "Tile borders cannot be copied correctly without written instructions.",
+      "C": "The labeled version was easier only because it used fewer colors.",
+      "D": "The experiment proved that labels improve every visual task."
+    },
+    "correct": "A",
+    "explanation": "The passage directly reports fewer placement errors when labeled squares were used."
+  },
+  {
+    "id": "RW24-M2-027",
+    "prompt": "An essay on marked architectural blueprints ends by noting that erased dimensions, penciled substitutions, and shifted doorways reveal how designers revised a building plan over time. For that reason, some archives preserve working blueprints alongside the final printed plans.\nWhich choice best describes the function of the final sentence in the text?",
+    "choices": {
+      "A": "It applies the earlier idea to explain a preservation practice.",
+      "B": "It narrows the discussion to the chemistry of blueprint paper.",
+      "C": "It argues that working blueprints are always more valuable than printed plans.",
+      "D": "It repeats the earlier claim without extending it."
+    },
+    "correct": "A",
+    "explanation": "The final sentence uses the earlier point about what revisions reveal to explain why archives preserve working blueprints."
+  }
+]

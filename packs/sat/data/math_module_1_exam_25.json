@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH25-M1-001",
+    "prompt": "What is the value of x in the equation (2x − 5)/3 + 4 = x ?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Multiply both sides by 3: 2x − 5 + 12 = 3x. Then 2x + 7 = 3x, so x = 7."
+  },
+  {
+    "id": "MATH25-M1-002",
+    "prompt": "If Q = pr/(p + r), which expression gives r in terms of Q and p ?",
+    "choices": {
+      "A": "Qp/(p − Q)",
+      "B": "Qp/(Q − p)",
+      "C": "(p − Q)/(Qp)",
+      "D": "p/(Q + p)"
+    },
+    "correct": "A",
+    "explanation": "Multiply both sides by p + r: Qp + Qr = pr. Rearranging gives Qp = r(p − Q), so r = Qp/(p − Q)."
+  },
+  {
+    "id": "MATH25-M1-003",
+    "prompt": "Which expression is equivalent to 5x² − 20x + 20 ?",
+    "choices": {
+      "A": "5(x − 4)²",
+      "B": "5(x − 2)²",
+      "C": "(5x − 2)²",
+      "D": "5(x² − 4)"
+    },
+    "correct": "B",
+    "explanation": "Factor out 5: 5(x² − 4x + 4). Then recognize x² − 4x + 4 as (x − 2)²."
+  },
+  {
+    "id": "MATH25-M1-004",
+    "prompt": "The table shows values of a linear function.\nx y\n−3 12\n0 6\n3 0\nWhat is the value of x when y = −8 ?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "The slope is (6 − 12)/(0 − (−3)) = −6/3 = −2. So the equation is y = −2x + 6. Set y = −8 to get −8 = −2x + 6, so x = 7."
+  },
+  {
+    "id": "MATH25-M1-005",
+    "prompt": "A bag contains 5 green marbles, 4 yellow marbles, and 3 purple marbles. Two marbles are drawn at random without replacement. What is the probability that the first marble is yellow and the second marble is purple?",
+    "choices": {
+      "A": "1/12",
+      "B": "1/11",
+      "C": "1/9",
+      "D": "1/4"
+    },
+    "correct": "B",
+    "explanation": "The probability is (4/12)(3/11) = 12/132 = 1/11."
+  },
+  {
+    "id": "MATH25-M1-006",
+    "prompt": "Which expression is equivalent to √72 + 2√18 ?",
+    "choices": {
+      "A": "8√2",
+      "B": "10√2",
+      "C": "12√2",
+      "D": "14√2"
+    },
+    "correct": "C",
+    "explanation": "√72 = 6√2 and √18 = 3√2. So √72 + 2√18 = 6√2 + 6√2 = 12√2."
+  },
+  {
+    "id": "MATH25-M1-007",
+    "prompt": "At a café, 2 teas and 3 muffins cost $16, and 1 tea and 2 muffins cost $10. What is the cost, in dollars, of 1 tea?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "A",
+    "explanation": "Let t be the tea cost and m be the muffin cost. From t + 2m = 10, t = 10 − 2m. Substitute into 2t + 3m = 16: 2(10 − 2m) + 3m = 16, so 20 − m = 16. Then m = 4 and t = 2."
+  },
+  {
+    "id": "MATH25-M1-008",
+    "prompt": "The function f is defined by\nf(x) = x + 4, for x < 3\nf(x) = 2x − 1, for x ≥ 3\nWhat is the value of f(1) + f(5) ?",
+    "choices": {
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": "Since 1 < 3, f(1) = 1 + 4 = 5. Since 5 ≥ 3, f(5) = 2(5) − 1 = 9. Their sum is 14."
+  },
+  {
+    "id": "MATH25-M1-009",
+    "prompt": "If x − 3 is a factor of x² + kx − 18, what is the value of k ?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "C",
+    "explanation": "If x − 3 is a factor, substitute x = 3: 3² + 3k − 18 = 0. So 9 + 3k − 18 = 0, which gives 3k = 9 and k = 3."
+  },
+  {
+    "id": "MATH25-M1-010",
+    "prompt": "The data set is 2, 4, 6, 9, 11, 13. What is the median of the data set?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "7.5",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "There are 6 values, so the median is the average of the 3rd and 4th values. Those are 6 and 9, so the median is (6 + 9)/2 = 7.5."
+  },
+  {
+    "id": "MATH25-M1-011",
+    "prompt": "A right triangle has side lengths 9, 12, and 15. What is the cosine of the angle opposite the side of length 12?",
+    "choices": {
+      "A": "3/5",
+      "B": "4/5",
+      "C": "9/12",
+      "D": "12/15"
+    },
+    "correct": "A",
+    "explanation": "For the angle opposite the side of length 12, the adjacent side is 9 and the hypotenuse is 15. So cosine = 9/15 = 3/5."
+  },
+  {
+    "id": "MATH25-M1-012",
+    "prompt": "Which equation represents the line that passes through the point (−1, 4) and is perpendicular to the line y = −2x + 5 ?",
+    "choices": {
+      "A": "y = (1/2)x + 9/2",
+      "B": "y = −(1/2)x + 7/2",
+      "C": "y = 2x + 6",
+      "D": "y = −2x + 2"
+    },
+    "correct": "A",
+    "explanation": "A line perpendicular to y = −2x + 5 has slope 1/2. Using the point (−1, 4): 4 = (1/2)(−1) + b, so b = 9/2."
+  },
+  {
+    "id": "MATH25-M1-013",
+    "prompt": "The table shows values of a function.\nx y\n0 3\n1 6\n2 12\n3 24\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = 3 · 2ˣ",
+      "B": "y = 3 · 3ˣ",
+      "C": "y = 6 · 2ˣ",
+      "D": "y = 2 · 3ˣ"
+    },
+    "correct": "A",
+    "explanation": "Each time x increases by 1, y doubles. Since y = 3 when x = 0, the equation is y = 3 · 2ˣ."
+  },
+  {
+    "id": "MATH25-M1-014",
+    "prompt": "A cone has radius 3 and height 12. What is the volume of the cone?",
+    "choices": {
+      "A": "18π",
+      "B": "24π",
+      "C": "36π",
+      "D": "108π"
+    },
+    "correct": "C",
+    "explanation": "The volume of a cone is (1/3)πr²h. With r = 3 and h = 12, the volume is (1/3)π(9)(12) = 36π."
+  },
+  {
+    "id": "MATH25-M1-015",
+    "prompt": "A town’s population decreased from 1,200 to 960. What was the percent decrease?",
+    "choices": {
+      "A": "15%",
+      "B": "20%",
+      "C": "25%",
+      "D": "30%"
+    },
+    "correct": "B",
+    "explanation": "The decrease is 1,200 − 960 = 240. Then 240/1,200 = 0.20, or 20%."
+  },
+  {
+    "id": "MATH25-M1-016",
+    "prompt": "Each value in a data set is multiplied by 2 and then 1 is subtracted. If the mean of the original data set is 6, what is the mean of the new data set?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "Apply the transformation to the original mean: 2(6) − 1 = 11."
+  },
+  {
+    "id": "MATH25-M1-017",
+    "prompt": "The point (4, −3) is reflected across the y-axis and then translated 2 units up. What are the coordinates of the final image?",
+    "choices": {
+      "A": "(−4, −5)",
+      "B": "(−4, −1)",
+      "C": "(4, −1)",
+      "D": "(4, 5)"
+    },
+    "correct": "B",
+    "explanation": "Reflecting (4, −3) across the y-axis gives (−4, −3). Translating 2 units up gives (−4, −1)."
+  },
+  {
+    "id": "MATH25-M1-018",
+    "prompt": "If g(x) = |x − 5|, what is the value of g(1) + g(8) ?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "g(1) = |1 − 5| = 4 and g(8) = |8 − 5| = 3. Their sum is 7."
+  },
+  {
+    "id": "MATH25-M1-019",
+    "prompt": "A circle has radius 12 and a central angle of 60°. What is the area of the sector determined by the angle?",
+    "choices": {
+      "A": "12π",
+      "B": "18π",
+      "C": "24π",
+      "D": "36π"
+    },
+    "correct": "C",
+    "explanation": "The area of the full circle is π(12²) = 144π. A 60° sector is 60/360 = 1/6 of the circle, so the sector area is 144π/6 = 24π."
+  },
+  {
+    "id": "MATH25-M1-020",
+    "prompt": "Each exterior angle of a regular polygon measures 18°. How many sides does the polygon have?",
+    "choices": {
+      "A": "18",
+      "B": "20",
+      "C": "22",
+      "D": "24"
+    },
+    "correct": "B",
+    "explanation": "The sum of the exterior angles is 360°. So the number of sides is 360/18 = 20."
+  },
+  {
+    "id": "MATH25-M1-021",
+    "prompt": "The midpoint of the segment with endpoints (1, −2) and (x, 8) is (4, 3). What is the value of x ?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "Using the midpoint formula for the x-coordinate, (1 + x)/2 = 4. Then 1 + x = 8, so x = 7."
+  },
+  {
+    "id": "MATH25-M1-022",
+    "prompt": "The table shows values of a function.\nx y\n0 4\n1 6\n2 10\n3 16\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = x² + 4",
+      "B": "y = x² + x + 4",
+      "C": "y = x² + 2x + 4",
+      "D": "y = 2x² + 4"
+    },
+    "correct": "B",
+    "explanation": "Substituting x = 0, 1, 2, and 3 gives 4, 6, 10, and 16, which matches the table.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

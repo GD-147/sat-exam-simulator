@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH21-M1-001",
+    "prompt": "What is the value of x in the equation (x − 2)/3 + (x + 8)/2 = 10 ?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Multiply both sides by 6: 2(x − 2) + 3(x + 8) = 60. This gives 5x + 20 = 60, so x = 8."
+  },
+  {
+    "id": "MATH21-M1-002",
+    "prompt": "If K = (1/2)mv², where m > 0, which expression gives the positive value of v in terms of K and m ?",
+    "choices": {
+      "A": "√(K/m)",
+      "B": "√(2K/m)",
+      "C": "2K/m",
+      "D": "K/(2m)"
+    },
+    "correct": "B",
+    "explanation": "Multiply both sides of K = (1/2)mv² by 2/m to get 2K/m = v². Taking the positive square root gives v = √(2K/m)."
+  },
+  {
+    "id": "MATH21-M1-003",
+    "prompt": "The variable y varies directly with x² and inversely with z. If y = 18 when x = 3 and z = 2, what is the value of y when x = 4 and z = 8 ?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "9",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "Since y varies directly with x² and inversely with z, y = kx²/z. Using 18 = k(9/2) gives k = 4. Then y = 4(16)/8 = 8."
+  },
+  {
+    "id": "MATH21-M1-004",
+    "prompt": "The table shows values of a linear function.\nx y\n−3 11\n0 5\n3 −1\nWhat is the value of y when x = 7 ?",
+    "choices": {
+      "A": "−11",
+      "B": "−9",
+      "C": "−7",
+      "D": "−5"
+    },
+    "correct": "B",
+    "explanation": "The slope is (5 − 11)/(0 − (−3)) = −6/3 = −2. Since y = 5 when x = 0, the equation is y = −2x + 5. Then y = −2(7) + 5 = −9."
+  },
+  {
+    "id": "MATH21-M1-005",
+    "prompt": "A random integer from 1 through 30, inclusive, is selected. What is the probability that the integer is divisible by 4 or divisible by 5 ?",
+    "choices": {
+      "A": "1/3",
+      "B": "2/5",
+      "C": "1/2",
+      "D": "3/5"
+    },
+    "correct": "B",
+    "explanation": "Multiples of 4 from 1 to 30 are 4, 8, 12, 16, 20, 24, 28, and multiples of 5 are 5, 10, 15, 20, 25, 30. There are 7 + 6 − 1 = 12 integers in the union, so the probability is 12/30 = 2/5."
+  },
+  {
+    "id": "MATH21-M1-006",
+    "prompt": "A kite has diagonals of length 12 and 18. What is the area of the kite?",
+    "choices": {
+      "A": "54",
+      "B": "96",
+      "C": "108",
+      "D": "216"
+    },
+    "correct": "C",
+    "explanation": "The area of a kite is (1/2)d₁d₂. So the area is (1/2)(12)(18) = 108."
+  },
+  {
+    "id": "MATH21-M1-007",
+    "prompt": "Which expression is equivalent to 2√27 + √75 ?",
+    "choices": {
+      "A": "9√3",
+      "B": "10√3",
+      "C": "11√3",
+      "D": "13√3"
+    },
+    "correct": "C",
+    "explanation": "√27 = 3√3, so 2√27 = 6√3. Also √75 = 5√3. Their sum is 11√3."
+  },
+  {
+    "id": "MATH21-M1-008",
+    "prompt": "The function f is defined by\nf(x) = x + 5, for x < 2\nf(x) = 3x − 4, for x ≥ 2\nWhat is the value of f(1) + f(4) ?",
+    "choices": {
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": "Since 1 < 2, f(1) = 1 + 5 = 6. Since 4 ≥ 2, f(4) = 3(4) − 4 = 8. Their sum is 14."
+  },
+  {
+    "id": "MATH21-M1-009",
+    "prompt": "If x + 2 is a factor of x² + kx − 24, what is the value of k ?",
+    "choices": {
+      "A": "−12",
+      "B": "−10",
+      "C": "−8",
+      "D": "−6"
+    },
+    "correct": "B",
+    "explanation": "If x + 2 is a factor, substitute x = −2: 4 − 2k − 24 = 0. Then −20 − 2k = 0, so k = −10."
+  },
+  {
+    "id": "MATH21-M1-010",
+    "prompt": "A circle is centered at (−1, 4) and has radius 3. Which equation represents the circle?",
+    "choices": {
+      "A": "(x + 1)² + (y − 4)² = 9",
+      "B": "(x − 1)² + (y + 4)² = 9",
+      "C": "(x + 1)² + (y − 4)² = 3",
+      "D": "(x − 1)² + (y + 4)² = 3"
+    },
+    "correct": "A",
+    "explanation": "A circle with center (−1, 4) and radius 3 has equation (x + 1)² + (y − 4)² = 3²."
+  },
+  {
+    "id": "MATH21-M1-011",
+    "prompt": "The data set is 2, 4, 4, 7, 7, 7, 9, 9. What is the median of the data set?",
+    "choices": {
+      "A": "5.5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "C",
+    "explanation": "There are 8 values total, so the median is the average of the 4th and 5th values. In order, those values are both 7."
+  },
+  {
+    "id": "MATH21-M1-012",
+    "prompt": "Which equation represents the line that passes through the point (4, 3) and is perpendicular to the line 4x + y = 7 ?",
+    "choices": {
+      "A": "y = (1/4)x + 2",
+      "B": "y = (1/4)x − 2",
+      "C": "y = −4x + 19",
+      "D": "y = 4x − 13"
+    },
+    "correct": "A",
+    "explanation": "Rewrite 4x + y = 7 as y = −4x + 7, so the perpendicular slope is 1/4. Using (4, 3): 3 = (1/4)(4) + b, so b = 2."
+  },
+  {
+    "id": "MATH21-M1-013",
+    "prompt": "The table shows values of a function.\nx y\n0 3\n1 7\n2 13\n3 21\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = x² + 2x + 3",
+      "B": "y = x² + 3x + 3",
+      "C": "y = 2x² + 3",
+      "D": "y = x² + 4x + 3"
+    },
+    "correct": "B",
+    "explanation": "Substituting x = 0, 1, 2, and 3 gives 3, 7, 13, and 21, which matches the table."
+  },
+  {
+    "id": "MATH21-M1-014",
+    "prompt": "A triangular prism has a right-triangular base with side lengths 5, 12, and 13. If the length of the prism is 8, what is the total surface area of the prism?",
+    "choices": {
+      "A": "240",
+      "B": "270",
+      "C": "300",
+      "D": "360"
+    },
+    "correct": "C",
+    "explanation": "The base area is (1/2)(5)(12) = 30. The perimeter of the triangular base is 5 + 12 + 13 = 30, so the lateral area is 30(8) = 240. Total surface area is 240 + 2(30) = 300."
+  },
+  {
+    "id": "MATH21-M1-015",
+    "prompt": "A right triangle has side lengths 8, 15, and 17. What is the cosine of the angle opposite the side of length 15?",
+    "choices": {
+      "A": "8/17",
+      "B": "15/17",
+      "C": "8/15",
+      "D": "15/8"
+    },
+    "correct": "A",
+    "explanation": "For the angle opposite the side of length 15, the adjacent side is 8 and the hypotenuse is 17. So cosine = 8/17."
+  },
+  {
+    "id": "MATH21-M1-016",
+    "prompt": "The ratio of girls to boys in a class is 3:8. If there are 77 students in the class, how many are boys?",
+    "choices": {
+      "A": "21",
+      "B": "28",
+      "C": "49",
+      "D": "56"
+    },
+    "correct": "D",
+    "explanation": "The total ratio parts are 3 + 8 = 11. Since there are 77 students, each part is 7. So the number of boys is 8(7) = 56."
+  },
+  {
+    "id": "MATH21-M1-017",
+    "prompt": "Each value in a data set is increased by 7 and then divided by 2. If the mean of the original data set is 11, what is the mean of the new data set?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "14",
+      "D": "18"
+    },
+    "correct": "B",
+    "explanation": "The transformation is x → (x + 7)/2, so the mean changes the same way. The new mean is (11 + 7)/2 = 9."
+  },
+  {
+    "id": "MATH21-M1-018",
+    "prompt": "What is the minimum value of the function y = (x − 5)² − 4 ?",
+    "choices": {
+      "A": "−5",
+      "B": "−4",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "Since (x − 5)² is always at least 0, the minimum value of y is −4."
+  },
+  {
+    "id": "MATH21-M1-019",
+    "prompt": "If 2a + 3b = 21 and a + b = 9, what is the value of a ?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "From a + b = 9, write b = 9 − a. Substitute into 2a + 3b = 21: 2a + 3(9 − a) = 21. Then 27 − a = 21, so a = 6."
+  },
+  {
+    "id": "MATH21-M1-020",
+    "prompt": "If x = −1 is a solution to the equation 3x² + mx + 1 = 0, what is the value of m ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "C",
+    "explanation": "Substitute x = −1 into 3x² + mx + 1 = 0: 3(1) − m + 1 = 0. Then 4 − m = 0, so m = 4."
+  },
+  {
+    "id": "MATH21-M1-021",
+    "prompt": "What is the distance between the points (1, −2) and (7, 6) in the xy-plane?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "Use the distance formula: √[(7 − 1)² + (6 − (−2))²] = √(36 + 64) = √100 = 10."
+  },
+  {
+    "id": "MATH21-M1-022",
+    "prompt": "The table shows values of a function.\nx y\n0 2\n1 1\n2 2\n3 5\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = x² − 2x + 2",
+      "B": "y = x² + x + 2",
+      "C": "y = x² − 1",
+      "D": "y = (x − 2)²"
+    },
+    "correct": "A",
+    "explanation": "Substituting x = 0, 1, 2, and 3 gives 2, 1, 2, and 5, which matches the table.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

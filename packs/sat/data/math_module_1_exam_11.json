@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH11-M1-001",
+    "prompt": "What is the value of x in the equation 4(x − 3) + 2 = 3x + 11 ?",
+    "choices": {
+      "A": "19",
+      "B": "20",
+      "C": "21",
+      "D": "22"
+    },
+    "correct": "C",
+    "explanation": "Expand and simplify: 4x − 12 + 2 = 3x + 11, so 4x − 10 = 3x + 11. Subtract 3x and add 10 to get x = 21."
+  },
+  {
+    "id": "MATH11-M1-002",
+    "prompt": "Which inequality is equivalent to 5 < (x − 1)/3 ≤ 7 ?",
+    "choices": {
+      "A": "15 < x ≤ 21",
+      "B": "16 < x ≤ 22",
+      "C": "16 ≤ x < 22",
+      "D": "17 < x ≤ 23"
+    },
+    "correct": "B",
+    "explanation": "Multiply all parts of the inequality by 3: 15 < x − 1 ≤ 21. Then add 1 to all parts to get 16 < x ≤ 22."
+  },
+  {
+    "id": "MATH11-M1-003",
+    "prompt": "The variable y varies directly with x and inversely with z. If y = 24 when x = 18 and z = 3, what is the value of y when x = 10 and z = 5 ?",
+    "choices": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "Since y varies directly with x and inversely with z, y = kx/z. Using 24 = k(18/3) gives 24 = 6k, so k = 4. Then y = 4(10/5) = 8."
+  },
+  {
+    "id": "MATH11-M1-004",
+    "prompt": "Which expression is equivalent to 9a² − 24a + 16 ?",
+    "choices": {
+      "A": "(3a − 4)²",
+      "B": "(9a − 4)²",
+      "C": "(3a + 4)²",
+      "D": "(a − 4)(9a − 4)"
+    },
+    "correct": "A",
+    "explanation": "9a² − 24a + 16 is a perfect-square trinomial because it matches (3a)² − 2(3a)(4) + 4²."
+  },
+  {
+    "id": "MATH11-M1-005",
+    "prompt": "The table shows values of a linear function.\nx y\n−2 7\n1 1\n4 −5\nWhat is the x-coordinate of the x-intercept of the graph of the function?",
+    "choices": {
+      "A": "1",
+      "B": "3/2",
+      "C": "2",
+      "D": "5/2"
+    },
+    "correct": "B",
+    "explanation": "The slope is (1 − 7)/(1 − (−2)) = −6/3 = −2. Using the point (1, 1), the equation is y = −2x + 3. Set y = 0 to find the x-intercept: 0 = −2x + 3, so x = 3/2."
+  },
+  {
+    "id": "MATH11-M1-006",
+    "prompt": "The table summarizes survey results.\n               Plays chess   Does not play chess\nFreshman 6 14\nSophomore 8 12\nIf one student is selected at random, what is the probability that the student is a sophomore who plays chess?",
+    "choices": {
+      "A": "1/8",
+      "B": "1/5",
+      "C": "2/5",
+      "D": "4/5"
+    },
+    "correct": "B",
+    "explanation": "The total number of students is 6 + 14 + 8 + 12 = 40. The number who are sophomores and play chess is 8, so the probability is 8/40 = 1/5."
+  },
+  {
+    "id": "MATH11-M1-007",
+    "prompt": "A semicircle has diameter 14. What is the perimeter of the semicircle?",
+    "choices": {
+      "A": "7π",
+      "B": "14 + 7π",
+      "C": "14π",
+      "D": "28 + 14π"
+    },
+    "correct": "B",
+    "explanation": "The perimeter of a semicircle is half the circumference plus the diameter. Half the circumference is (1/2)(π · 14) = 7π, and the diameter is 14."
+  },
+  {
+    "id": "MATH11-M1-008",
+    "prompt": "What is the value of (1/16)^(-3/4) ?",
+    "choices": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "(1/16)^(-3/4) = 16^(3/4). Since 16 = 2⁴, this becomes (2⁴)^(3/4) = 2³ = 8."
+  },
+  {
+    "id": "MATH11-M1-009",
+    "prompt": "If p(x) = x² − 5x + k and p(4) = 6, what is the value of k ?",
+    "choices": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "correct": "C",
+    "explanation": "Substitute x = 4 into p(x): 4² − 5(4) + k = 6. Then 16 − 20 + k = 6, so k = 10."
+  },
+  {
+    "id": "MATH11-M1-010",
+    "prompt": "The ratio of the length of a rectangle to its width is 5:2. If the perimeter of the rectangle is 42, what is the length of the rectangle?",
+    "choices": {
+      "A": "12",
+      "B": "14",
+      "C": "15",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "If the length and width are 5n and 2n, then the perimeter is 2(5n + 2n) = 14n. Since the perimeter is 42, n = 3, so the length is 15."
+  },
+  {
+    "id": "MATH11-M1-011",
+    "prompt": "Which equation represents the line that passes through the point (−1, 2) and is parallel to the line 4x − y = 9 ?",
+    "choices": {
+      "A": "y = 4x + 6",
+      "B": "y = 4x − 6",
+      "C": "y = −4x + 6",
+      "D": "y = −4x − 6"
+    },
+    "correct": "A",
+    "explanation": "Rewrite 4x − y = 9 as y = 4x − 9, so the slope is 4. A parallel line through (−1, 2) has equation y = 4x + b. Substitute the point: 2 = 4(−1) + b, so b = 6."
+  },
+  {
+    "id": "MATH11-M1-012",
+    "prompt": "A circle is centered at the origin and passes through the point (−8, 6). What is the area of the circle?",
+    "choices": {
+      "A": "10π",
+      "B": "50π",
+      "C": "64π",
+      "D": "100π"
+    },
+    "correct": "D",
+    "explanation": "The radius is the distance from the origin to (−8, 6): √(64 + 36) = √100 = 10. The area is πr² = 100π."
+  },
+  {
+    "id": "MATH11-M1-013",
+    "prompt": "If g(x) = |2x − 3|, what is the value of g(−2) + g(4) ?",
+    "choices": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "correct": "B",
+    "explanation": "g(−2) = |2(−2) − 3| = |−7| = 7, and g(4) = |8 − 3| = 5. Their sum is 12."
+  },
+  {
+    "id": "MATH11-M1-014",
+    "prompt": "What is the minimum value of the function y = (x + 2)² − 7 ?",
+    "choices": {
+      "A": "−9",
+      "B": "−7",
+      "C": "−2",
+      "D": "7"
+    },
+    "correct": "B",
+    "explanation": "The function is already in vertex form. Since (x + 2)² is always at least 0, the minimum value of y is −7."
+  },
+  {
+    "id": "MATH11-M1-015",
+    "prompt": "A rhombus has diagonals of length 10 and 24. What is the area of the rhombus?",
+    "choices": {
+      "A": "60",
+      "B": "120",
+      "C": "240",
+      "D": "480"
+    },
+    "correct": "B",
+    "explanation": "The area of a rhombus is (1/2)d₁d₂. So the area is (1/2)(10)(24) = 120."
+  },
+  {
+    "id": "MATH11-M1-016",
+    "prompt": "A town’s population decreased from 25,000 to 22,500. What was the percent decrease?",
+    "choices": {
+      "A": "8%",
+      "B": "10%",
+      "C": "12%",
+      "D": "15%"
+    },
+    "correct": "B",
+    "explanation": "The decrease is 25,000 − 22,500 = 2,500. The percent decrease is 2,500/25,000 = 0.10 = 10%."
+  },
+  {
+    "id": "MATH11-M1-017",
+    "prompt": "A right triangle has side lengths 20, 21, and 29. What is the sine of the angle opposite the side of length 20?",
+    "choices": {
+      "A": "20/21",
+      "B": "20/29",
+      "C": "21/29",
+      "D": "29/20"
+    },
+    "correct": "B",
+    "explanation": "Sine is opposite over hypotenuse. For the angle opposite the side of length 20, the hypotenuse is 29, so sin θ = 20/29."
+  },
+  {
+    "id": "MATH11-M1-018",
+    "prompt": "If x + 1 is a factor of 3x² + kx − 4, what is the value of k ?",
+    "choices": {
+      "A": "−3",
+      "B": "−1",
+      "C": "1",
+      "D": "3"
+    },
+    "correct": "B",
+    "explanation": "If x + 1 is a factor, then x = −1 makes the polynomial equal to 0. So 3(−1)² + k(−1) − 4 = 0, which gives 3 − k − 4 = 0, so k = −1."
+  },
+  {
+    "id": "MATH11-M1-019",
+    "prompt": "Each value in a data set is decreased by 3 and then multiplied by 2. If the median of the original data set is 9, what is the median of the new data set?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "12",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": "The transformation applied to every value is y = 2(x − 3). Apply it to the original median 9: 2(9 − 3) = 12."
+  },
+  {
+    "id": "MATH11-M1-020",
+    "prompt": "The table shows values of a function.\nx y\n0 6\n1 18\n2 54\n3 162\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = 6 · 2ˣ",
+      "B": "y = 6 · 3ˣ",
+      "C": "y = 3 · 6ˣ",
+      "D": "y = 6x + 3"
+    },
+    "correct": "B",
+    "explanation": "Each output is multiplied by 3 when x increases by 1, and when x = 0 the value is 6. That matches y = 6 · 3ˣ."
+  },
+  {
+    "id": "MATH11-M1-021",
+    "prompt": "The point (−3, 4) is reflected across the x-axis and then translated 5 units to the right. What are the coordinates of the final image?",
+    "choices": {
+      "A": "(2, −4)",
+      "B": "(2, 4)",
+      "C": "(−8, −4)",
+      "D": "(−8, 4)"
+    },
+    "correct": "A",
+    "explanation": "Reflecting (−3, 4) across the x-axis gives (−3, −4). Translating 5 units right gives (2, −4)."
+  },
+  {
+    "id": "MATH11-M1-022",
+    "prompt": "The table shows values of a function.\nx y\n0 1\n1 4\n2 9\n3 16\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = x² + 1",
+      "B": "y = (x + 1)²",
+      "C": "y = x² + 2x",
+      "D": "y = (x + 2)²"
+    },
+    "correct": "B",
+    "explanation": "When x = 0, 1, 2, 3, the expression (x + 1)² gives 1, 4, 9, 16, matching the table.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

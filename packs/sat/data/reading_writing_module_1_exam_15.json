@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW15-M1-001",
+    "prompt": "In a review of an expedition journal, a critic says that the writer’s tone is “matter-of-fact,” recording blizzards and food shortages in the same calm voice used to note daily mileage.\nAs used in the text, what does “matter-of-fact” most nearly mean?",
+    "choices": {
+      "A": "sentimental",
+      "B": "objective",
+      "C": "playful",
+      "D": "dramatic"
+    },
+    "correct": "B",
+    "explanation": "“Matter-of-fact” means calm, practical, and objective rather than emotional or dramatic."
+  },
+  {
+    "id": "RW15-M1-002",
+    "prompt": "In some restored streams, conservation groups build structures called beaver-dam analogues from wooden posts and woven branches. These structures slow the flow of water, trap sediment, and help reconnect streams to nearby floodplains. Even in places without actual beavers, they can recreate some of the hydrological effects of natural dams.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Beaver-dam analogues are used mainly to keep people away from streams.",
+      "B": "Wooden posts and branches always last longer than natural beaver dams.",
+      "C": "Beaver-dam analogues can mimic some beneficial effects of natural dams in stream restoration.",
+      "D": "Floodplains form only in places where beavers currently live."
+    },
+    "correct": "C",
+    "explanation": "The passage explains that these structures slow water, trap sediment, and help reconnect floodplains."
+  },
+  {
+    "id": "RW15-M1-003",
+    "prompt": "Before portable loudspeakers became dependable, labor organizers often spoke near factory gates at shift changes, when large numbers of workers passed through at once. Historians note that these brief gate speeches allowed news to spread efficiently even when printed materials were scarce.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Organizers chose factory gates and shift changes partly to reach the largest possible audience.",
+      "B": "Printed materials were always more effective than public speeches.",
+      "C": "Most workers preferred to receive political news at home rather than at work.",
+      "D": "Labor organizers avoided speaking in places where many workers gathered."
+    },
+    "correct": "A",
+    "explanation": "The text says speeches were given when large numbers of workers passed through at once."
+  },
+  {
+    "id": "RW15-M1-004",
+    "prompt": "A climate scientist notes thin layers of coarse sand deep within a marsh core far from the present shoreline. She suggests that these layers were likely deposited when storm surges pushed seawater and sediment inland.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It presents physical evidence that the second sentence interprets.",
+      "B": "It introduces an argument that the second sentence rejects.",
+      "C": "It explains why marsh cores are difficult to collect.",
+      "D": "It compares one marsh to another marsh in the same region."
+    },
+    "correct": "A",
+    "explanation": "The coarse sand layers are the evidence used to infer past storm surges."
+  },
+  {
+    "id": "RW15-M1-005",
+    "prompt": "A student is writing about microscope lending kits and has taken these notes:\n• Some public libraries lend kits that include a simple microscope, slides, and a guide.\n• Families can use the kits to examine leaves, fibers, or pond water at home.\n• The kits make hands-on science possible outside school or formal labs.\n• Some libraries pair the kits with weekend workshops.\nThe student wants to emphasize how the kits expand access to hands-on science. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Some public libraries lend microscope kits with slides and a guide.",
+      "B": "Families can use microscope kits to examine pond water or leaves.",
+      "C": "By letting families explore samples at home, microscope lending kits can make hands-on science more accessible outside school or formal labs.",
+      "D": "Some libraries also offer weekend workshops related to the kits."
+    },
+    "correct": "C",
+    "explanation": "This choice best emphasizes how the kits expand access to practical science experiences."
+  },
+  {
+    "id": "RW15-M1-006",
+    "prompt": "The herbarium photographed its fragile cactus specimens at very high resolution. ______, researchers in other countries can now examine tiny spine patterns without handling the originals.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "As a result,",
+      "C": "Likewise,",
+      "D": "Nevertheless,"
+    },
+    "correct": "B",
+    "explanation": "The second sentence states a consequence of photographing the specimens at high resolution."
+  },
+  {
+    "id": "RW15-M1-007",
+    "prompt": "The symposium featured Nari Kim, a linguist; Paulo Mendes, a choreographer; <u>and Esther Cole, a cartographer.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "and Esther Cole a cartographer.",
+      "C": "and Esther Cole; a cartographer.",
+      "D": "and, Esther Cole, a cartographer."
+    },
+    "correct": "A",
+    "explanation": "Semicolons are correct in a complex series whose items already contain commas."
+  },
+  {
+    "id": "RW15-M1-008",
+    "prompt": "The pilot well produced clear water on the first day, <u>however, later tests found high mineral content.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "however, later tests found high mineral content.",
+      "B": "but later tests found high mineral content.",
+      "C": "however later tests, found high mineral content.",
+      "D": "however later tests found, high mineral content."
+    },
+    "correct": "B",
+    "explanation": "“But” correctly joins the two clauses and shows contrast."
+  },
+  {
+    "id": "RW15-M1-009",
+    "prompt": "The archivist, <u>who</u> the mayor had consulted about the restoration project, recommended storing the maps flat.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "who",
+      "B": "whom",
+      "C": "whose",
+      "D": "which"
+    },
+    "correct": "B",
+    "explanation": "The pronoun is the object of “had consulted,” so “whom” is correct."
+  },
+  {
+    "id": "RW15-M1-010",
+    "prompt": "Over the past twelve years, biologists <u>tag</u> thousands of monarch butterflies during autumn migration.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "tag",
+      "B": "tagged",
+      "C": "have tagged",
+      "D": "will tag"
+    },
+    "correct": "C",
+    "explanation": "“Over the past twelve years” calls for the present perfect."
+  },
+  {
+    "id": "RW15-M1-011",
+    "prompt": "After comparing the two translations side by side, <u>the older version seemed less precise to Elena.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the older version seemed less precise to Elena.",
+      "B": "Elena found the older version less precise.",
+      "C": "the two translations made the older version seem less precise to Elena.",
+      "D": "less precise, the older version appeared beside the newer one to Elena."
+    },
+    "correct": "B",
+    "explanation": "The revision correctly places Elena as the one doing the comparison."
+  },
+  {
+    "id": "RW15-M1-012",
+    "prompt": "[1] Several neighborhood museums now host “scan days,” inviting residents to bring photographs and letters from home. [2] Staff members digitize the materials and return the originals immediately. [3] The events can expand a museum’s knowledge of local history without requiring donors to give up family keepsakes. [4] They can also encourage conversations between residents and curators about names, dates, and places.\nWhich choice best describes the most logical placement for the following sentence?\n“In this way, archives can grow through collaboration rather than ownership.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "D",
+    "explanation": "The sentence summarizes the collaborative, non-ownership-based growth described by the entire paragraph."
+  },
+  {
+    "id": "RW15-M1-013",
+    "prompt": "A class recorded the average number of seedlings transplanted by four teams in one hour.\nTeam A: 38\nTeam B: 42\nTeam C: 35\nTeam D: 40\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Team C transplanted more seedlings, on average, than Team A.",
+      "B": "Team B transplanted the most seedlings, on average.",
+      "C": "Team D and Team A transplanted the same average number of seedlings.",
+      "D": "The average number of seedlings transplanted increased steadily from Team A through Team D."
+    },
+    "correct": "B",
+    "explanation": "Team B’s average of 42 is the highest."
+  },
+  {
+    "id": "RW15-M1-014",
+    "prompt": "The reviewer praises the biographer’s “economical” prose, noting that a single sentence often does the work of a paragraph.\nAs used in the text, what does “economical” most nearly mean?",
+    "choices": {
+      "A": "inexpensive",
+      "B": "concise",
+      "C": "uncertain",
+      "D": "ornate"
+    },
+    "correct": "B",
+    "explanation": "“Economical” prose uses few words efficiently."
+  },
+  {
+    "id": "RW15-M1-015",
+    "prompt": "In a novel, the narrator says, “Each Sunday my grandfather lined up silent radios on the workbench and polished their brass dials. He rarely tried to repair them anymore; the shine itself seemed to reassure him that the voices inside had once been real.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Caring for the old radios helps the grandfather preserve a connection to the past.",
+      "B": "The grandfather polishes the radios because he plans to sell them.",
+      "C": "The narrator wants the grandfather to throw the radios away.",
+      "D": "Repairing radios is the grandfather’s main source of income."
+    },
+    "correct": "A",
+    "explanation": "He polishes them not for practical use but to maintain a link to their former life and meaning."
+  },
+  {
+    "id": "RW15-M1-016",
+    "prompt": "Researchers found that moss grew more densely on the north-facing sides of fallen logs than on the south-facing sides in the same forest plot. The researchers suggest that the north-facing sides retained moisture longer during summer.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Moss can grow only on the north-facing sides of logs.",
+      "B": "Moisture retention may influence where moss grows on fallen logs.",
+      "C": "Fallen logs on south-facing slopes never retain moisture.",
+      "D": "The study proved that moss prefers cooler temperatures to all other conditions."
+    },
+    "correct": "B",
+    "explanation": "The text connects denser moss growth with the north-facing sides’ longer moisture retention."
+  },
+  {
+    "id": "RW15-M1-017",
+    "prompt": "An urban planner writes, “A bench placed beside the bakery is never only a bench; it becomes a place to wait for bread, watch the square, and greet neighbors.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To provide one view of how ordinary seating can shape public interaction",
+      "B": "To show that benches are more expensive than other street furniture",
+      "C": "To explain where bakeries should be built in a city",
+      "D": "To describe the dimensions of a particular bench"
+    },
+    "correct": "A",
+    "explanation": "The quotation explains the bench’s social role beyond simple seating."
+  },
+  {
+    "id": "RW15-M1-018",
+    "prompt": "A student is writing about an oral-history map project and has taken these notes:\n• Residents recorded short audio memories connected to specific intersections in the city.\n• Each clip was linked to an online map.\n• Listeners could hear multiple stories tied to the same place.\n• The project allowed local history to be explored geographically.\nWhich choice most effectively uses relevant information from the notes to make a general claim about the project?",
+    "choices": {
+      "A": "The project showed that residents enjoy recording audio clips about intersections.",
+      "B": "By linking audio memories to an online map, the project allowed people to explore local history through place.",
+      "C": "Intersections are the most important locations in any city.",
+      "D": "Online maps are useful only when they include recorded sound."
+    },
+    "correct": "B",
+    "explanation": "This choice best synthesizes the notes into a general claim."
+  },
+  {
+    "id": "RW15-M1-019",
+    "prompt": "The report first describes how the town powered streetlights with gas. ______, it explains how electric lines gradually replaced the older system.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Later,",
+      "B": "Similarly,",
+      "C": "For example,",
+      "D": "Instead,"
+    },
+    "correct": "A",
+    "explanation": "The report moves from the older gas system to the later electric one."
+  },
+  {
+    "id": "RW15-M1-020",
+    "prompt": "The fellowship asks students to collect samples, measure acidity, and <u>recording air temperature.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "recording air temperature.",
+      "B": "record air temperature.",
+      "C": "recorded air temperature.",
+      "D": "to recording air temperature."
+    },
+    "correct": "B",
+    "explanation": "“Record” matches the parallel verbs “collect” and “measure.”"
+  },
+  {
+    "id": "RW15-M1-021",
+    "prompt": "The documentary, <u>filmed over three monsoon seasons,</u> follows farmers adapting to shifting rainfall.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a restrictive clause that should not be set off with commas.",
+      "B": "It is a nonessential phrase correctly set off with commas.",
+      "C": "It creates a comma splice.",
+      "D": "It should be moved after “rainfall” to make the sentence grammatical."
+    },
+    "correct": "B",
+    "explanation": "“Filmed over three monsoon seasons” adds extra information about the documentary."
+  },
+  {
+    "id": "RW15-M1-022",
+    "prompt": "A series of small storms <u>have</u> reshaped the beach since January.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "are"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “series” takes the singular verb “has.”"
+  },
+  {
+    "id": "RW15-M1-023",
+    "prompt": "When the board rejected the curator’s proposal, <u>it</u> surprised several donors who had funded the exhibit planning.\nWhich choice most effectively revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "it",
+      "B": "the board",
+      "C": "the rejection",
+      "D": "they"
+    },
+    "correct": "C",
+    "explanation": "Replacing “it” with “the rejection” removes the ambiguity."
+  },
+  {
+    "id": "RW15-M1-024",
+    "prompt": "[1] Along some estuaries, engineers now build “living shorelines” using oyster shell, marsh plants, and coir logs instead of solid seawalls. [2] These materials can slow waves and trap sediment. [3] Over time, marsh roots may help stabilize the shore. [4] In addition, the restored edge can provide habitat for fish and crabs.\nWhich choice best describes the most logical placement for the following sentence?\n“The goal is not only to block erosion but to work with natural processes.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 1",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The added sentence best follows the introduction of living shorelines and sets up the specific benefits that follow."
+  },
+  {
+    "id": "RW15-M1-025",
+    "prompt": "To make the sentence more concise, the editor replaced “in the event that” with <u>if</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It changes the meaning by making the condition seem less likely.",
+      "B": "It shortens the sentence without changing its meaning.",
+      "C": "It makes the sentence less grammatical.",
+      "D": "It introduces a shift in verb tense."
+    },
+    "correct": "B",
+    "explanation": "“If” is a more concise equivalent of “in the event that.”"
+  },
+  {
+    "id": "RW15-M1-026",
+    "prompt": "In an experiment, participants assembling a small model bridge made fewer placement errors when each instruction card showed a faint outline of the finished bridge beside the steps than when the cards used step text alone.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "A preview of the finished form may help reduce assembly errors.",
+      "B": "Text-only instructions are always ineffective for construction tasks.",
+      "C": "The participants cared more about speed than about accuracy.",
+      "D": "The model bridge was easier to build because it used fewer parts."
+    },
+    "correct": "A",
+    "explanation": "The faint outline of the finished bridge was associated with fewer placement mistakes."
+  },
+  {
+    "id": "RW15-M1-027",
+    "prompt": "An article about old flood markers carved into city walls explains that the markers show how high the river reached in past storms. The article ends by noting that several cities now feature these markers in walking tours and public exhibits about climate risk.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It shows a current public use of the historical features described earlier.",
+      "B": "It argues that walking tours should replace scientific flood studies.",
+      "C": "It shifts the discussion away from rivers to architecture.",
+      "D": "It denies that old flood markers still exist in cities."
+    },
+    "correct": "A",
+    "explanation": "The final sentence explains how old flood markers are now used in tours and exhibits.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

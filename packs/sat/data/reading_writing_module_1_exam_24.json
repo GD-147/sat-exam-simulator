@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW24-M1-001",
+    "prompt": "In a review of a novelist’s style, a critic says the prose is “spare”: descriptions are brief, and only the most essential details are included.\nAs used in the text, what does “spare” most nearly mean?",
+    "choices": {
+      "A": "simple and unadorned",
+      "B": "playful and comic",
+      "C": "uncertain and tentative",
+      "D": "elaborate and decorative"
+    },
+    "correct": "A",
+    "explanation": "The passage says the prose includes only the most essential details, so “spare” means simple and unadorned."
+  },
+  {
+    "id": "RW24-M1-002",
+    "prompt": "Some bus shelters now use perforated metal side panels instead of solid walls. The panels reduce strong gusts while still allowing light and airflow to pass through. As a result, the shelters can feel less enclosed without leaving riders fully exposed to wind.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Perforated shelter panels can balance protection from wind with light and airflow.",
+      "B": "Bus shelters are most effective when all side walls are removed.",
+      "C": "Solid shelter walls are brighter than perforated panels.",
+      "D": "Riders prefer shelters that block all outside air."
+    },
+    "correct": "A",
+    "explanation": "The text emphasizes that the panels reduce gusts while still allowing light and air through."
+  },
+  {
+    "id": "RW24-M1-003",
+    "prompt": "Before many tram systems began numbering their lines, riders often had to rely on destination signs and local knowledge to choose the correct car. Once route numbers were introduced, visitors could follow maps and signs more easily.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Route numbers made tram systems easier for unfamiliar riders to navigate.",
+      "B": "Destination signs disappeared after route numbers were introduced.",
+      "C": "Local riders preferred maps to route numbers.",
+      "D": "Tram systems added route numbers mainly to shorten travel times."
+    },
+    "correct": "A",
+    "explanation": "The passage says visitors could follow maps and signs more easily once route numbers were introduced."
+  },
+  {
+    "id": "RW24-M1-004",
+    "prompt": "A paleontologist notices a dense cluster of broken shell fragments in one thin layer of rock. She cites that cluster as evidence that the area was once covered by shallow seawater.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It presents physical evidence that the second sentence interprets.",
+      "B": "It introduces a claim that the second sentence rejects.",
+      "C": "It explains why the rock layer is difficult to examine.",
+      "D": "It compares two fossil sites that the second sentence later contrasts."
+    },
+    "correct": "A",
+    "explanation": "The shell fragments are physical evidence used to infer a past shallow sea."
+  },
+  {
+    "id": "RW24-M1-005",
+    "prompt": "A student is writing about free rolling carts at art museums and has taken these notes:\n• Some museums let visitors borrow small rolling carts with stools and sketch boards.\n• Visitors can move the carts to a gallery and sit while drawing.\n• Borrowing a cart can be easier than carrying supplies through the museum.\n• The carts are returned at the entrance desk.\nThe student wants to emphasize how the carts make sketching easier for visitors who did not bring equipment. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Some museums let visitors borrow small rolling carts with stools and sketch boards.",
+      "B": "Visitors can move the carts to a gallery and sit while drawing.",
+      "C": "Borrowable sketch carts can make museum drawing easier by giving visitors portable supplies and a place to sit.",
+      "D": "The carts are returned at the entrance desk."
+    },
+    "correct": "C",
+    "explanation": "This choice combines the notes about borrowed supplies and seating into a broad claim."
+  },
+  {
+    "id": "RW24-M1-006",
+    "prompt": "The arena opened a second staircase from the upper seats to the main concourse. ______, fans can leave their section more quickly after the game ends.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "As a result,",
+      "C": "Meanwhile,",
+      "D": "Otherwise,"
+    },
+    "correct": "B",
+    "explanation": "The faster exit is the result of adding a second staircase."
+  },
+  {
+    "id": "RW24-M1-007",
+    "prompt": "The library’s oldest globe, <u>mounted on a walnut stand in 1812,</u> is displayed in the reading room.\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; mounted on a walnut stand in 1812;",
+      "C": ": mounted on a walnut stand in 1812:",
+      "D": "—mounted on a walnut stand in 1812—"
+    },
+    "correct": "A",
+    "explanation": "The phrase is nonessential information and is correctly set off with commas."
+  },
+  {
+    "id": "RW24-M1-008",
+    "prompt": "The profile celebrates the conductor’s interpretations, <u>it mentions only briefly the copyists who prepared each score by hand.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "it mentions only briefly the copyists who prepared each score by hand.",
+      "B": "and it mentions only briefly the copyists who prepared each score by hand.",
+      "C": "but it mentions only briefly the copyists who prepared each score by hand.",
+      "D": "mentioning only briefly the copyists who prepared each score by hand."
+    },
+    "correct": "C",
+    "explanation": "Two independent clauses require a conjunction, and “but” correctly shows contrast."
+  },
+  {
+    "id": "RW24-M1-009",
+    "prompt": "The final instructions were sent only to Priya and <u>I</u> before the event began.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "I",
+      "B": "me",
+      "C": "my",
+      "D": "myself"
+    },
+    "correct": "B",
+    "explanation": "The pronoun is part of the compound object of the preposition “to.”"
+  },
+  {
+    "id": "RW24-M1-010",
+    "prompt": "Since 2020, the neighborhood history center <u>offers</u> free oral-history workshops each spring.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "offers",
+      "B": "offered",
+      "C": "has offered",
+      "D": "will offer"
+    },
+    "correct": "C",
+    "explanation": "“Since 2020” calls for the present perfect tense."
+  },
+  {
+    "id": "RW24-M1-011",
+    "prompt": "After comparing the final poster to the draft, <u>the missing date was obvious to Ren.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the missing date was obvious to Ren.",
+      "B": "Ren noticed that the date was missing.",
+      "C": "the poster made the missing date obvious to Ren.",
+      "D": "obvious to Ren, the missing date appeared after the comparison."
+    },
+    "correct": "B",
+    "explanation": "The introductory phrase describes Ren’s action, so Ren should be the subject of the main clause."
+  },
+  {
+    "id": "RW24-M1-012",
+    "prompt": "[1] Some train stations now keep shelves of free local maps near the exits. [2] Travelers can grab one while deciding how to reach nearby hotels or museums. [3] Because the shelves are placed where riders already pause, taking a map requires little extra effort. [4] In some stations, the maps are updated monthly to reflect construction detours.\nWhich choice best describes the most logical placement for the following sentence?\n“The shelves can turn a brief stop at the station into a quick moment of trip planning.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The new sentence best follows the explanation that taking a map requires little extra effort and summarizes the shelves’ benefit."
+  },
+  {
+    "id": "RW24-M1-013",
+    "prompt": "A teacher recorded the average number of sample cards four student groups sorted in ten minutes.\nGroup A: 16\nGroup B: 20\nGroup C: 18\nGroup D: 15\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Group A sorted more cards, on average, than Group C.",
+      "B": "Group B sorted the most cards, on average.",
+      "C": "Group C and Group D sorted the same average number of cards.",
+      "D": "The average number of cards sorted increased steadily from Group A through Group D."
+    },
+    "correct": "B",
+    "explanation": "Group B’s 20 cards is the highest value in the table."
+  },
+  {
+    "id": "RW24-M1-014",
+    "prompt": "The reviewer calls the explanation “lucid,” noting that it makes a complicated process easy to follow.\nAs used in the text, what does “lucid” most nearly mean?",
+    "choices": {
+      "A": "clear",
+      "B": "forceful",
+      "C": "skeptical",
+      "D": "lengthy"
+    },
+    "correct": "A",
+    "explanation": "The explanation is easy to follow, so “lucid” means clear."
+  },
+  {
+    "id": "RW24-M1-015",
+    "prompt": "In a short story, the narrator says, “My grandmother kept the brass bakery stamp in a drawer by the stove long after the shop closed. It marked no loaves anymore, but when she lifted it, the kitchen seemed to rise before dawn again.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The stamp preserves a connection to the grandmother’s former work and routine.",
+      "B": "The narrator intends to reopen the bakery using the old stamp.",
+      "C": "The drawer is the safest place to keep heavy metal tools.",
+      "D": "The grandmother keeps the stamp because it is worth a great deal of money."
+    },
+    "correct": "A",
+    "explanation": "The stamp no longer marks loaves, but it still symbolizes the grandmother’s old work."
+  },
+  {
+    "id": "RW24-M1-016",
+    "prompt": "In an experiment, young tomato plants grown beside reflective mulch produced fewer bent stems than plants grown beside dark mulch. The researchers suggest that the reflective surface increased light on the shaded sides of the plants.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Reflective mulch may help tomato plants grow straighter by increasing side light.",
+      "B": "Tomato plants can grow properly only with reflective mulch.",
+      "C": "Dark mulch always prevents tomatoes from receiving enough light.",
+      "D": "The experiment proved that mulch matters more than watering in every garden."
+    },
+    "correct": "A",
+    "explanation": "The passage connects straighter growth with more light reaching shaded sides."
+  },
+  {
+    "id": "RW24-M1-017",
+    "prompt": "A journalist writes, “The barber shop was the block’s running editorial page.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To present one journalist’s view of the barber shop as a place where people exchanged opinions and commentary",
+      "B": "To prove that newspapers were sold only in barber shops",
+      "C": "To explain how barber shops were designed to reduce noise",
+      "D": "To describe the writing style of a particular editorial page"
+    },
+    "correct": "A",
+    "explanation": "The quotation frames the barber shop as a site of conversation and community commentary."
+  },
+  {
+    "id": "RW24-M1-018",
+    "prompt": "A student is writing about free seed packets at neighborhood libraries and has taken these notes:\n• Some libraries offer seed packets in spring.\n• Visitors can take a packet home and try growing herbs or flowers.\n• The packets can make gardening easier to try for beginners.\n• Small instruction cards explain when to plant the seeds.\nThe student wants to make a general claim about how the seed packets help new gardeners. Which choice most effectively uses relevant information from the notes?",
+    "choices": {
+      "A": "Free seed packets can make gardening easier for beginners by providing seeds and simple planting guidance.",
+      "B": "Visitors can take a packet home and try growing herbs or flowers.",
+      "C": "Some libraries offer seed packets in spring.",
+      "D": "Instruction cards are useful only for experienced gardeners."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the notes about access to seeds and planting instructions."
+  },
+  {
+    "id": "RW24-M1-019",
+    "prompt": "The article begins with handwritten labels once tied to saplings at tree nurseries. ______, it turns to the printed plastic tags that later replaced them.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Similarly,",
+      "B": "Later,",
+      "C": "Otherwise,",
+      "D": "For example,"
+    },
+    "correct": "B",
+    "explanation": "The passage moves from an earlier practice to a later replacement."
+  },
+  {
+    "id": "RW24-M1-020",
+    "prompt": "The internship asked Sam to sort receipts, file invoices, and <u>update shipment logs.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "updating shipment logs",
+      "B": "update shipment logs",
+      "C": "updated shipment logs",
+      "D": "to update shipment logs"
+    },
+    "correct": "B",
+    "explanation": "The sentence requires parallel base-form verbs: sort, file, and update."
+  },
+  {
+    "id": "RW24-M1-021",
+    "prompt": "The musicians’ practice room is on the third floor.\nWhich choice best explains the use of the apostrophe in the underlined word?",
+    "choices": {
+      "A": "It shows that the room belongs to or is associated with more than one musician.",
+      "B": "It marks the plural form of a noun that is not possessive.",
+      "C": "It shows that the third floor belongs to the musicians.",
+      "D": "It is used incorrectly because the noun should be singular."
+    },
+    "correct": "A",
+    "explanation": "The apostrophe after the plural noun marks plural possession or association."
+  },
+  {
+    "id": "RW24-M1-022",
+    "prompt": "A basket of plums and apricots <u>sits</u> near the open window.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "sit",
+      "B": "sits",
+      "C": "have sat",
+      "D": "sitting"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “basket” takes the singular verb “sits.”"
+  },
+  {
+    "id": "RW24-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“When the committee postponed the opening, this disappointed many visitors.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because the pronoun “this” has an unclear antecedent.",
+      "B": "The sentence should be revised because committees should not postpone openings.",
+      "C": "The sentence should be revised because the verb should be in the future tense.",
+      "D": "The sentence should be revised because visitors should not be mentioned in formal writing."
+    },
+    "correct": "A",
+    "explanation": "It is unclear what “this” refers to in the sentence."
+  },
+  {
+    "id": "RW24-M1-024",
+    "prompt": "[1] Some apartment buildings now keep small shelves for magazine swaps in the lobby. [2] Residents can leave a magazine they have finished and take another one home. [3] Because the shelves are near the mailboxes, people often browse them during routines they already follow. [4] In some buildings, residents place sticky notes on issues they especially recommend.\nWhich choice best describes the most logical placement for the following sentence?\n“The shelves can turn a quick stop in the lobby into a small exchange of reading material.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The sentence best follows the description of browsing during everyday routines and summarizes the shelves’ function."
+  },
+  {
+    "id": "RW24-M1-025",
+    "prompt": "To make the sentence more concise, the editor replaced “on a monthly basis” with <u>monthly</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It changes the meaning by making the timing less exact.",
+      "B": "It shortens the sentence without changing its meaning.",
+      "C": "It makes the sentence less grammatical.",
+      "D": "It introduces a more formal tone."
+    },
+    "correct": "B",
+    "explanation": "“Monthly” is simply a more concise equivalent of “on a monthly basis.”"
+  },
+  {
+    "id": "RW24-M1-026",
+    "prompt": "In an experiment, museum visitors identifying carved wooden tools made fewer mistakes when display cards included side-view silhouettes in addition to front-view photographs than when the cards included front views alone.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Additional side-view silhouettes may help visitors identify carved wooden tools more accurately.",
+      "B": "Front-view photographs are unnecessary in all tool displays.",
+      "C": "The visitors had memorized all the tools before the experiment.",
+      "D": "Side views are more important than every other visual feature in all cases."
+    },
+    "correct": "A",
+    "explanation": "The passage directly reports fewer errors when side-view silhouettes were added."
+  },
+  {
+    "id": "RW24-M1-027",
+    "prompt": "An article about restored market weighing houses explains that buildings once used to weigh goods entering the city are now often repaired and opened to visitors. The article ends by noting that some schools use the buildings during field trips on trade, taxes, and city growth.\nWhich choice best describes the function of the final sentence in the text?",
+    "choices": {
+      "A": "It provides an example of a present-day educational use connected to the restored buildings.",
+      "B": "It argues that all schools should study taxes through field trips.",
+      "C": "It shifts the discussion away from restoration to unrelated tourism data.",
+      "D": "It denies that restored weighing houses have any public value."
+    },
+    "correct": "A",
+    "explanation": "The final sentence gives a current school use for the restored weighing houses.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

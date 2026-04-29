@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW14-M1-001",
+    "prompt": "In a review of a collection of workshop diaries, a critic says that the author’s comments are “laconic,” often reducing a full day’s difficulties to a sentence or two.\nAs used in the text, what does “laconic” most nearly mean?",
+    "choices": {
+      "A": "emotional",
+      "B": "brief",
+      "C": "uncertain",
+      "D": "repetitive"
+    },
+    "correct": "B",
+    "explanation": "“Laconic” means using very few words."
+  },
+  {
+    "id": "RW14-M1-002",
+    "prompt": "Some cities have turned vacant lots into “pocket prairies” planted with native grasses and wildflowers. These small habitats can absorb rainwater, support insects and birds, and require less mowing than conventional lawns. For these reasons, pocket prairies are increasingly valued as both ecological and practical features of urban land use.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Pocket prairies are mainly created to eliminate all maintenance costs in cities.",
+      "B": "Native wildflowers are the only plants suitable for vacant urban lots.",
+      "C": "Pocket prairies can provide environmental benefits while also reducing some maintenance demands.",
+      "D": "Most cities prefer lawns because they absorb more rainwater than prairies do."
+    },
+    "correct": "C",
+    "explanation": "The passage highlights rain absorption, habitat support, and reduced mowing."
+  },
+  {
+    "id": "RW14-M1-003",
+    "prompt": "Before inexpensive barbed wire became widely available, ranchers often relied on rivers, ravines, and riders on horseback to manage grazing boundaries across open land. Once wire fencing could be purchased cheaply, large areas could be enclosed more quickly and with fewer workers.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Ranchers preferred natural boundaries even after barbed wire became cheap.",
+      "B": "The availability of inexpensive wire changed how ranchers controlled land and livestock.",
+      "C": "Rivers and ravines disappeared from most grazing regions after wire fencing was introduced.",
+      "D": "Barbed wire required more labor to install than older methods of controlling land."
+    },
+    "correct": "B",
+    "explanation": "The text says cheap barbed wire allowed large areas to be enclosed more quickly and with fewer workers."
+  },
+  {
+    "id": "RW14-M1-004",
+    "prompt": "A geologist notes a pale mineral ring running along the inside wall of a cave several meters above the present stream. She suggests that the ring marks an earlier water level when the cave stream flowed much higher than it does now.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It presents physical evidence that the second sentence interprets.",
+      "B": "It introduces an alternative theory that the second sentence rejects.",
+      "C": "It explains why the cave stream no longer flows at all.",
+      "D": "It compares one cave to another cave in the same region."
+    },
+    "correct": "A",
+    "explanation": "The mineral ring is the evidence used to infer an earlier, higher water level."
+  },
+  {
+    "id": "RW14-M1-005",
+    "prompt": "A student is writing about free life-jacket loan stations and has taken these notes:\n• Some lakes and rivers now have life-jacket loan stations.\n• Visitors can borrow jackets and return them after paddling, fishing, or boating.\n• Loan stations may improve safety for families who do not own life jackets.\n• The stations can also make water activities more accessible.\nThe student wants to emphasize both the safety benefit and the access benefit of life-jacket loan stations. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Life-jacket loan stations are found at some lakes and rivers.",
+      "B": "Visitors can borrow life jackets and return them after using the water.",
+      "C": "By lending life jackets to visitors who may not own them, loan stations can improve safety while also making water activities easier to access.",
+      "D": "Families often enjoy paddling, fishing, and boating together."
+    },
+    "correct": "C",
+    "explanation": "This choice captures both the safety and access benefits in the notes."
+  },
+  {
+    "id": "RW14-M1-006",
+    "prompt": "The museum added a ramp to the side entrance last year. ______, visitors using wheelchairs or strollers can now reach the second-floor galleries more easily.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "Instead,",
+      "C": "As a result,",
+      "D": "Likewise,"
+    },
+    "correct": "C",
+    "explanation": "Easier access is the consequence of adding the ramp."
+  },
+  {
+    "id": "RW14-M1-007",
+    "prompt": "The town’s oldest bridge, <u>built of cedar in 1874,</u> still closes each winter for inspection.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a nonessential phrase correctly set off with commas.",
+      "B": "It is a restrictive clause that should not be set off with commas.",
+      "C": "It creates a comma splice.",
+      "D": "It should be moved to the end of the sentence to avoid ambiguity."
+    },
+    "correct": "A",
+    "explanation": "“Built of cedar in 1874” adds extra information about the bridge."
+  },
+  {
+    "id": "RW14-M1-008",
+    "prompt": "The field guide includes detailed descriptions of summer grasses, <u>it says almost nothing about the same meadows in winter.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "it says almost nothing about the same meadows in winter.",
+      "B": "but it says almost nothing about the same meadows in winter.",
+      "C": "saying almost nothing about the same meadows in winter.",
+      "D": "and, it says almost nothing about the same meadows in winter."
+    },
+    "correct": "B",
+    "explanation": "“But” correctly joins the clauses and shows contrast."
+  },
+  {
+    "id": "RW14-M1-009",
+    "prompt": "The curator gave copies of the floor plan to Daniel and <u>I</u> before the renovation meeting.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "I",
+      "B": "me",
+      "C": "my",
+      "D": "myself"
+    },
+    "correct": "B",
+    "explanation": "The pronoun is part of the compound object of “gave copies to.”"
+  },
+  {
+    "id": "RW14-M1-010",
+    "prompt": "Since opening last fall, the night market <u>hosts</u> live music every Friday and Saturday.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "hosts",
+      "B": "hosted",
+      "C": "has hosted",
+      "D": "will host"
+    },
+    "correct": "C",
+    "explanation": "“Since opening last fall” calls for the present perfect."
+  },
+  {
+    "id": "RW14-M1-011",
+    "prompt": "After sorting the shells by color, <u>the labels seemed out of order to Nina.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the labels seemed out of order to Nina.",
+      "B": "Nina found the labels out of order.",
+      "C": "the shells made the labels seem out of order to Nina.",
+      "D": "the labels were sorting the shells incorrectly for Nina."
+    },
+    "correct": "B",
+    "explanation": "The revision correctly makes Nina the one who sorted the shells."
+  },
+  {
+    "id": "RW14-M1-012",
+    "prompt": "[1] Some towns now program church or civic bell towers to ring automatically. [2] The software can trigger melodies at exact times without requiring someone to pull each rope by hand. [3] Local volunteers may still inspect the mechanisms and choose seasonal patterns. [4] In this way, older instruments can continue sounding regularly even as their operation changes.\nWhich choice best describes the most logical placement for the following sentence?\n“The bells themselves, however, may still be the original cast-metal ones.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "B",
+    "explanation": "The new sentence fits after the description of automation and before the shift to volunteers and pattern choices."
+  },
+  {
+    "id": "RW14-M1-013",
+    "prompt": "A class recorded the average number of minutes four groups spent packing orders.\nGroup A: 17\nGroup B: 14\nGroup C: 19\nGroup D: 16\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Group B packed orders the fastest, on average.",
+      "B": "Group A packed orders more slowly, on average, than Group C.",
+      "C": "Group D packed orders more slowly, on average, than Group C.",
+      "D": "The average packing time increased steadily from Group A through Group D."
+    },
+    "correct": "A",
+    "explanation": "Group B’s 14 minutes is the lowest average time."
+  },
+  {
+    "id": "RW14-M1-014",
+    "prompt": "The reviewer says the report gives only a <u>brisk</u> overview of the archive’s history before turning to the more detailed catalog.\nAs used in the text, what does “brisk” most nearly mean?",
+    "choices": {
+      "A": "rushed but inaccurate",
+      "B": "quick",
+      "C": "emotional",
+      "D": "unusually formal"
+    },
+    "correct": "B",
+    "explanation": "In context, “brisk” means brief or quick."
+  },
+  {
+    "id": "RW14-M1-015",
+    "prompt": "In a short story, a narrator says, “My sister sewed the torn kite long after dark; by morning it flew crooked, but she smiled at it as if patience itself were part of the tail.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The narrator thinks the kite should have been discarded instead of repaired.",
+      "B": "The sister values persistence and care even when the result is imperfect.",
+      "C": "The sister repairs the kite only because she is afraid of the dark.",
+      "D": "The narrator wishes the kite had flown higher than it did."
+    },
+    "correct": "B",
+    "explanation": "She works patiently to repair the kite and appreciates it despite its flaws."
+  },
+  {
+    "id": "RW14-M1-016",
+    "prompt": "In a study, volunteers sorting screws by size made fewer errors when the screws were spread in shallow trays than when the same screws were placed in deep cups. The researchers suggest that better visibility may have helped.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Deep cups are useful only for storing large tools.",
+      "B": "Better visibility may help people sort small objects more accurately.",
+      "C": "The study proved that shallow trays are the fastest option for every task.",
+      "D": "Volunteers sorted the screws by color rather than by size."
+    },
+    "correct": "B",
+    "explanation": "The researchers suggest the shallow trays helped because they made the screws easier to see."
+  },
+  {
+    "id": "RW14-M1-017",
+    "prompt": "A local historian writes, “The footpath did not merely connect two farms; it linked errands, greetings, gossip, and help carried back and forth each day.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To provide one interpretation of the footpath as a social connection rather than just a route",
+      "B": "To prove that farm workers preferred walking to using carts",
+      "C": "To explain how footpaths were paved and maintained",
+      "D": "To describe the distance between the two farms"
+    },
+    "correct": "A",
+    "explanation": "The quotation explains the broader communal role of the footpath."
+  },
+  {
+    "id": "RW14-M1-018",
+    "prompt": "A student is writing about solar charging benches in parks and has taken these notes:\n• Some parks install benches with small solar panels.\n• Visitors can sit and charge phones or other devices there.\n• The benches demonstrate a visible use of renewable energy.\n• They can provide a practical service while also drawing attention to solar technology.\nWhich choice most effectively uses relevant information from the notes to make a general claim about solar charging benches?",
+    "choices": {
+      "A": "Solar charging benches can provide a useful public service while also making renewable energy more visible in everyday spaces.",
+      "B": "Parks should replace all ordinary benches with solar charging benches.",
+      "C": "Devices can be charged only when a bench receives direct sunlight all day.",
+      "D": "Visitors care more about benches than about renewable energy."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the practical and educational roles described in the notes."
+  },
+  {
+    "id": "RW14-M1-019",
+    "prompt": "The design looked elegant on paper. ______, it proved unstable in the wind tunnel.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "However,",
+      "B": "Likewise,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts the model’s elegant appearance with its poor performance."
+  },
+  {
+    "id": "RW14-M1-020",
+    "prompt": "The job required interns to inspect lenses, recharge batteries, and <u>labeling cables after each shoot.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "labeling cables after each shoot.",
+      "B": "label cables after each shoot.",
+      "C": "labeled cables after each shoot.",
+      "D": "to labeling cables after each shoot."
+    },
+    "correct": "B",
+    "explanation": "“Label” matches the parallel verbs “inspect” and “recharge.”"
+  },
+  {
+    "id": "RW14-M1-021",
+    "prompt": "The volunteers <u>who arrived before sunrise</u> loaded the trucks before the parade began.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a nonessential phrase that should be set off with commas.",
+      "B": "It is a restrictive clause that correctly identifies which volunteers loaded the trucks.",
+      "C": "It creates a comma splice.",
+      "D": "It should be moved after “parade” to improve the sentence."
+    },
+    "correct": "B",
+    "explanation": "The clause limits the subject to only the volunteers who arrived before sunrise."
+  },
+  {
+    "id": "RW14-M1-022",
+    "prompt": "After the cost review, the range of proposals <u>have</u> narrowed considerably.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "are"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “range” takes the singular verb “has.”"
+  },
+  {
+    "id": "RW14-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“Walking past the display case, the antique compass caught Olivia’s eye.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because the introductory phrase illogically modifies “the antique compass.”",
+      "B": "The sentence should be revised because “display case” should be plural.",
+      "C": "The sentence should be revised because all references to antiques should use the past perfect tense.",
+      "D": "The sentence should be revised because it lacks enough descriptive detail."
+    },
+    "correct": "A",
+    "explanation": "The compass was not walking past the display case; Olivia was."
+  },
+  {
+    "id": "RW14-M1-024",
+    "prompt": "[1] Some cities place weatherproof pianos in plazas during the summer. [2] Passersby can sit down and play without asking for permission. [3] Crowds often gather to listen, sing, or linger nearby. [4] For a few weeks, an ordinary walkway can begin to feel more like a shared event.\nWhich choice best describes the most logical placement for the following sentence?\n“The instrument can therefore become a meeting point as well as a musical one.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The sentence sums up the listening and gathering effects before the broader conclusion in sentence 4."
+  },
+  {
+    "id": "RW14-M1-025",
+    "prompt": "To make the sentence more concise, the editor replaced “make use of” with <u>use</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It changes the meaning by suggesting less careful action.",
+      "B": "It shortens the sentence without changing its meaning.",
+      "C": "It makes the sentence less grammatical.",
+      "D": "It introduces a less precise verb."
+    },
+    "correct": "B",
+    "explanation": "“Use” is a more concise equivalent of “make use of.”"
+  },
+  {
+    "id": "RW14-M1-026",
+    "prompt": "In a study, visitors using audio narration in a gallery paused longer at small objects than visitors who relied only on wall labels. The researchers suggest that hearing an explanation may encourage more focused attention.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Audio narration may encourage visitors to attend more closely to small objects.",
+      "B": "Wall labels prevent visitors from looking at objects carefully.",
+      "C": "Visitors using audio narration always remember more historical facts.",
+      "D": "Small objects are more important than large objects in every gallery."
+    },
+    "correct": "A",
+    "explanation": "Visitors with narration paused longer at small objects."
+  },
+  {
+    "id": "RW14-M1-027",
+    "prompt": "An article about reed-buffer strips explains that planting reeds along drainage channels can slow runoff and trap sediment before it reaches nearby streams. The article concludes by noting that some counties now offer grants to landowners who restore these vegetated borders.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It provides an example of a policy response to the benefits described earlier.",
+      "B": "It argues that counties should replace streams with drainage channels.",
+      "C": "It shifts the discussion away from water quality to wildlife tourism.",
+      "D": "It denies that vegetated borders can help manage runoff."
+    },
+    "correct": "A",
+    "explanation": "The grants are a concrete policy response to the value of reed-buffer strips.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

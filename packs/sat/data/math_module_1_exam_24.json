@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MATH24-M1-001",
+    "prompt": "What is the greater solution to the equation |3x − 7| = 11 ?",
+    "choices": {
+      "A": "−4/3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "D",
+    "explanation": "Solve |3x − 7| = 11 by cases. Then 3x − 7 = 11 or 3x − 7 = −11. The solutions are x = 6 and x = −4/3, so the greater solution is 6."
+  },
+  {
+    "id": "MATH24-M1-002",
+    "prompt": "If A = (1/2)h(b₁ + b₂), which expression gives b₂ in terms of A, h, and b₁ ?",
+    "choices": {
+      "A": "2A/h + b₁",
+      "B": "2A/h − b₁",
+      "C": "A/(2h) − b₁",
+      "D": "Ah − 2b₁"
+    },
+    "correct": "B",
+    "explanation": "Multiply both sides by 2/h to get 2A/h = b₁ + b₂. Then subtract b₁."
+  },
+  {
+    "id": "MATH24-M1-003",
+    "prompt": "The variable y varies directly with x and inversely with √z. If y = 18 when x = 6 and z = 9, what is the value of y when x = 10 and z = 25 ?",
+    "choices": {
+      "A": "15",
+      "B": "16",
+      "C": "18",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "Since y varies directly with x and inversely with √z, let y = kx/√z. Using 18 = k(6/3), we get k = 9. Then y = 9(10/5) = 18."
+  },
+  {
+    "id": "MATH24-M1-004",
+    "prompt": "The table shows values of a linear function.\nx y\n−2 7\n1 1\n4 −5\nWhat is the value of y when x = 6 ?",
+    "choices": {
+      "A": "−7",
+      "B": "−9",
+      "C": "−11",
+      "D": "−13"
+    },
+    "correct": "B",
+    "explanation": "The slope is (1 − 7)/(4 − 1) = −6/3 = −2. Since the point (1, 1) is on the line, the equation is y = −2x + 3. Then y = −2(6) + 3 = −9."
+  },
+  {
+    "id": "MATH24-M1-005",
+    "prompt": "A bag contains 5 green tiles, 4 yellow tiles, and 3 purple tiles. One tile is selected at random, and then a fair coin is flipped. What is the probability of selecting a yellow tile and then flipping heads?",
+    "choices": {
+      "A": "1/8",
+      "B": "1/6",
+      "C": "1/4",
+      "D": "1/3"
+    },
+    "correct": "B",
+    "explanation": "The probability of selecting a yellow tile is 4/12 = 1/3. Multiply by the probability of heads, 1/2, to get 1/6."
+  },
+  {
+    "id": "MATH24-M1-006",
+    "prompt": "Which expression is equivalent to 3√20 + 2√45 ?",
+    "choices": {
+      "A": "6√5",
+      "B": "9√5",
+      "C": "10√5",
+      "D": "12√5"
+    },
+    "correct": "D",
+    "explanation": "√20 = 2√5, so 3√20 = 6√5. Also √45 = 3√5, so 2√45 = 6√5. Their sum is 12√5."
+  },
+  {
+    "id": "MATH24-M1-007",
+    "prompt": "At a café, 3 muffins and 2 coffees cost $16, and 2 muffins and 1 coffee cost $10. What is the cost, in dollars, of 1 coffee?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "C",
+    "explanation": "Let m be the muffin cost and c be the coffee cost. From 2m + c = 10, c = 10 − 2m. Substitute into 3m + 2c = 16: 3m + 2(10 − 2m) = 16. Then −m = −4, so m = 4 and c = 2."
+  },
+  {
+    "id": "MATH24-M1-008",
+    "prompt": "The function f is defined by\nf(x) = x + 6, for x < 1\nf(x) = 2x − 1, for x ≥ 1\nWhat is the value of f(−2) + f(4) ?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": "Since −2 < 1, f(−2) = −2 + 6 = 4. Since 4 ≥ 1, f(4) = 2(4) − 1 = 7. Their sum is 11."
+  },
+  {
+    "id": "MATH24-M1-009",
+    "prompt": "If x − 3 is a factor of 2x² + kx − 9, what is the value of k ?",
+    "choices": {
+      "A": "−5",
+      "B": "−4",
+      "C": "−3",
+      "D": "−2"
+    },
+    "correct": "C",
+    "explanation": "If x − 3 is a factor, substitute x = 3: 2(3²) + 3k − 9 = 0. Then 18 + 3k − 9 = 0, so 3k = −9 and k = −3."
+  },
+  {
+    "id": "MATH24-M1-010",
+    "prompt": "What are the coordinates of the center of the circle given by x² + y² − 6x + 4y − 12 = 0 ?",
+    "choices": {
+      "A": "(−3, 2)",
+      "B": "(3, −2)",
+      "C": "(−6, 4)",
+      "D": "(6, −4)"
+    },
+    "correct": "B",
+    "explanation": "Complete the square: x² − 6x + y² + 4y = 12 becomes (x − 3)² + (y + 2)² = 25. The center is (3, −2)."
+  },
+  {
+    "id": "MATH24-M1-011",
+    "prompt": "The table shows a data set.\nValue 1 4 8 10\nFrequency 2 3 1 2\nWhat is the median of the data set?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "The ordered data are 1, 1, 4, 4, 4, 8, 10, 10. With 8 values, the median is the average of the 4th and 5th values, both 4."
+  },
+  {
+    "id": "MATH24-M1-012",
+    "prompt": "The line through the points (−2, 5) and (4, −1) crosses the x-axis at which point?",
+    "choices": {
+      "A": "(2, 0)",
+      "B": "(3, 0)",
+      "C": "(4, 0)",
+      "D": "(5, 0)"
+    },
+    "correct": "B",
+    "explanation": "The slope is (−1 − 5)/(4 − (−2)) = −6/6 = −1. The line through (−2, 5) is y = −x + 3. Setting y = 0 gives x = 3."
+  },
+  {
+    "id": "MATH24-M1-013",
+    "prompt": "A town has a population of 800 in Year 0. If the population increases by 5% each year, which expression represents the population t years after Year 0 ?",
+    "choices": {
+      "A": "800(0.95)ᵗ",
+      "B": "800(1.05)ᵗ",
+      "C": "805ᵗ",
+      "D": "800 + 1.05t"
+    },
+    "correct": "B",
+    "explanation": "A 5% increase each year means multiply by 1.05 each year."
+  },
+  {
+    "id": "MATH24-M1-014",
+    "prompt": "An equilateral triangle has height 9√3. What is the perimeter of the triangle?",
+    "choices": {
+      "A": "27",
+      "B": "36",
+      "C": "45",
+      "D": "54"
+    },
+    "correct": "D",
+    "explanation": "For an equilateral triangle, height = s√3/2. So 9√3 = s√3/2, giving s = 18. The perimeter is 3(18) = 54."
+  },
+  {
+    "id": "MATH24-M1-015",
+    "prompt": "A right triangle has side lengths 10, 24, and 26. What is the sine of the angle opposite the side of length 24?",
+    "choices": {
+      "A": "5/13",
+      "B": "10/13",
+      "C": "12/13",
+      "D": "24/25"
+    },
+    "correct": "C",
+    "explanation": "Sine is opposite/hypotenuse. The side opposite the angle is 24, and the hypotenuse is 26, so sine = 24/26 = 12/13."
+  },
+  {
+    "id": "MATH24-M1-016",
+    "prompt": "A line of best fit for a scatterplot is y = 1.5x + 7. One point in the data set is (6, 15). What is the residual for this point?",
+    "choices": {
+      "A": "−1",
+      "B": "0",
+      "C": "1",
+      "D": "2"
+    },
+    "correct": "A",
+    "explanation": "The model predicts y = 1.5(6) + 7 = 16. The residual is actual − predicted = 15 − 16 = −1."
+  },
+  {
+    "id": "MATH24-M1-017",
+    "prompt": "Each value in a data set is increased by 2 and then multiplied by 3. If the mean of the original data set is 4, what is the mean of the new data set?",
+    "choices": {
+      "A": "14",
+      "B": "16",
+      "C": "18",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "The new mean is found by applying the same transformation to the original mean: 3(4 + 2) = 18."
+  },
+  {
+    "id": "MATH24-M1-018",
+    "prompt": "What is the maximum value of the function y = −(x − 2)² + 5 ?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct": "D",
+    "explanation": "Since −(x − 2)² is always at most 0, the maximum value of y is 5."
+  },
+  {
+    "id": "MATH24-M1-019",
+    "prompt": "The point (−4, 3) is reflected across the y-axis and then translated 2 units down. What are the coordinates of the final image?",
+    "choices": {
+      "A": "(4, 5)",
+      "B": "(4, 1)",
+      "C": "(−4, 1)",
+      "D": "(−4, 5)"
+    },
+    "correct": "B",
+    "explanation": "Reflecting (−4, 3) across the y-axis gives (4, 3). Translating 2 units down gives (4, 1)."
+  },
+  {
+    "id": "MATH24-M1-020",
+    "prompt": "Which inequality is equivalent to 3 ≤ 2x + 1 < 11 ?",
+    "choices": {
+      "A": "1 ≤ x < 5",
+      "B": "1 < x ≤ 5",
+      "C": "2 ≤ x < 6",
+      "D": "2 < x ≤ 6"
+    },
+    "correct": "A",
+    "explanation": "Subtract 1 from all parts: 2 ≤ 2x < 10. Divide by 2 to get 1 ≤ x < 5."
+  },
+  {
+    "id": "MATH24-M1-021",
+    "prompt": "For x ≠ −3, which expression is equivalent to (x² + 5x + 6)/(x + 3) ?",
+    "choices": {
+      "A": "x + 2",
+      "B": "x + 3",
+      "C": "x² + 2x",
+      "D": "x² + 5"
+    },
+    "correct": "A",
+    "explanation": "Factor the numerator: x² + 5x + 6 = (x + 2)(x + 3). Then divide by x + 3."
+  },
+  {
+    "id": "MATH24-M1-022",
+    "prompt": "The table shows values of a function.\nx y\n0 3\n1 6\n2 11\n3 18\nWhich equation could represent this function?",
+    "choices": {
+      "A": "y = x² + x + 3",
+      "B": "y = x² + 2x + 3",
+      "C": "y = 2x² + 3",
+      "D": "y = x² + 3x + 3"
+    },
+    "correct": "B",
+    "explanation": "Substituting x = 0, 1, 2, and 3 gives 3, 6, 11, and 18, which matches the table.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW15-M2-001",
+    "prompt": "A biologist favors a “parsimonious” explanation for the birds’ unusual migration route, arguing that a change in seasonal wind patterns accounts for the data without requiring several separate assumptions.\nAs used in the text, what does “parsimonious” most nearly mean?",
+    "choices": {
+      "A": "simple",
+      "B": "doubtful",
+      "C": "temporary",
+      "D": "colorful"
+    },
+    "correct": "A",
+    "explanation": "“Parsimonious” means explaining something with as few assumptions as possible."
+  },
+  {
+    "id": "RW15-M2-002",
+    "prompt": "A scholar argues that subheadings in ethnographies do more than organize reading. By separating practices into titled sections such as “Ritual,” “Exchange,” or “Kinship,” they suggest which categories belong together and which distinctions matter most. In that way, headings can present an interpretation of social life before the evidence is fully read.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Subheadings in ethnographies can shape interpretation by suggesting how social life should be categorized.",
+      "B": "Ethnographies are useful only when they avoid section headings entirely.",
+      "C": "Readers pay less attention to headings than to the evidence in every case.",
+      "D": "Social categories such as “Ritual” and “Exchange” are always artificial."
+    },
+    "correct": "A",
+    "explanation": "The text says headings present an interpretation before the full evidence is read."
+  },
+  {
+    "id": "RW15-M2-003",
+    "prompt": "Agricultural historians sometimes use estate account books to estimate cider production. Yet those books usually record barrels sold, not smaller amounts consumed at home or exchanged informally with neighbors. As a result, the books may understate how much cider was actually produced.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Estate account books may give an incomplete picture of total cider production.",
+      "B": "Informal exchanges were always larger than commercial sales.",
+      "C": "Home consumption was carefully measured in estate account books.",
+      "D": "Historians can determine the exact amount of cider produced from sales records alone."
+    },
+    "correct": "A",
+    "explanation": "The books record sales but omit home consumption and informal exchanges."
+  },
+  {
+    "id": "RW15-M2-004",
+    "prompt": "A critic notes that a novel repeatedly describes rumor as weather: gusts, drafts, pressure changes, and sudden clearings. The critic argues that this language presents rumor as a diffuse force that shapes behavior before anyone verifies it.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a repeated metaphor that the second sentence interprets.",
+      "B": "It summarizes the plot of the novel in chronological order.",
+      "C": "It rejects the explanation proposed in the second sentence.",
+      "D": "It explains why the novel contains many outdoor scenes."
+    },
+    "correct": "A",
+    "explanation": "The first sentence identifies rumor-as-weather imagery, and the second explains its effect."
+  },
+  {
+    "id": "RW15-M2-005",
+    "prompt": "A student is writing about biochar soil amendments and has taken these notes:\n• Biochar is produced by heating plant material in a low-oxygen environment.\n• In some soils, biochar can improve water retention or nutrient holding.\n• Biochar can also lock some carbon into a relatively stable form.\n• Its effects vary by soil type and by how the biochar was produced.\nThe student wants to emphasize both a potential benefit of biochar and a reason results may differ from place to place. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Biochar can improve some soils and store carbon in stable form, but its effects vary with soil conditions and production method.",
+      "B": "Plant material should always be heated before being added to soil.",
+      "C": "All soils respond identically to carbon-rich amendments.",
+      "D": "Water retention is unrelated to soil type."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the potential benefit and the reason results differ."
+  },
+  {
+    "id": "RW15-M2-006",
+    "prompt": "The historian expected the freight manifests to confirm that the harbor’s grain trade collapsed after the railway opened. ______, the manifests show that grain exports remained steady while imported machinery increased sharply.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Instead,",
+      "C": "For example,",
+      "D": "Therefore,"
+    },
+    "correct": "B",
+    "explanation": "The manifests did not confirm collapse; they showed steady grain exports and rising machinery imports."
+  },
+  {
+    "id": "RW15-M2-007",
+    "prompt": "The report rested on one overlooked fact<u>: the road described in the diary was not built until 1888.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; the road described in the diary was not built until 1888.",
+      "C": ", the road described in the diary was not built until 1888.",
+      "D": "—the road described in the diary was not built until 1888."
+    },
+    "correct": "A",
+    "explanation": "A colon correctly introduces the specific fact after a complete clause."
+  },
+  {
+    "id": "RW15-M2-008",
+    "prompt": "Far from being simply a waiting room, the station concourse also organized who saw whom arriving and departing.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It contrasts a narrow description of the concourse with a broader explanation of its social role.",
+      "B": "It identifies the architect who designed the concourse.",
+      "C": "It explains how trains were scheduled in the station.",
+      "D": "It presents the results of a survey of passengers."
+    },
+    "correct": "A",
+    "explanation": "The introductory phrase reframes the concourse as more than just a waiting area."
+  },
+  {
+    "id": "RW15-M2-009",
+    "prompt": "After Elena spoke with Marcus about Priya’s proposal, <u>she</u> recommended postponing the vote.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "she",
+      "B": "Elena",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “she” with “Elena” removes the ambiguity among the named people."
+  },
+  {
+    "id": "RW15-M2-010",
+    "prompt": "Had the survey separated temporary residents from permanent ones, the population estimates <u>would be</u> more precise today.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "would be",
+      "B": "would have been",
+      "C": "are",
+      "D": "were"
+    },
+    "correct": "A",
+    "explanation": "The sentence describes an unreal past condition with a present result."
+  },
+  {
+    "id": "RW15-M2-011",
+    "prompt": "The editor meant to say that the factory relied mainly on river barges in spring, but the sentence as drafted says that the factory <u>mainly relied on river barges in spring and rail cars in winter.</u>\nWhich choice best revises the text so that “mainly” is placed as precisely as possible?",
+    "choices": {
+      "A": "mainly relied on river barges in spring and rail cars in winter.",
+      "B": "relied mainly on river barges in spring and rail cars in winter.",
+      "C": "relied on river barges mainly in spring and rail cars in winter.",
+      "D": "relied on river barges in spring and rail cars mainly in winter."
+    },
+    "correct": "C",
+    "explanation": "This placement makes clear that “mainly” modifies when the barges were relied on."
+  },
+  {
+    "id": "RW15-M2-012",
+    "prompt": "[1] On rooftops, dark gravel can become much hotter than the air by midday. [2] Light-colored coatings reflect more sunlight and may keep roof surfaces cooler. [3] Cooler roofs can reduce heat transfer into upper floors and slow the aging of some materials. [4] Building managers sometimes test reflective coatings on part of a roof before applying them more widely.\nWhich choice best describes the most logical placement for the following sentence?\n“The benefits are therefore both thermal and practical.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The sentence summarizes the thermal and material benefits before the practical testing step in sentence 4."
+  },
+  {
+    "id": "RW15-M2-013",
+    "prompt": "A researcher compared the average number of minutes four groups spent discussing a planning case.\nGroup A: 21\nGroup B: 17\nGroup C: 24\nGroup D: 19\nA student claims that Group B spent the least time discussing the case, on average. Which choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is unsupported because Group D also spent less than twenty minutes.",
+      "B": "The claim is supported because Group B’s average is lower than those of the other groups.",
+      "C": "The claim is unsupported because Group A spent more time than Group C.",
+      "D": "The claim is supported because Group B spent less time than Group D but more than Group A."
+    },
+    "correct": "B",
+    "explanation": "Group B’s 17 minutes is the smallest value in the table."
+  },
+  {
+    "id": "RW15-M2-014",
+    "prompt": "To many readers, the contract’s fee structure remained <u>opaque</u>.\nAs used in the text, what does “opaque” most nearly mean?",
+    "choices": {
+      "A": "valuable",
+      "B": "difficult to understand",
+      "C": "legally binding",
+      "D": "visually elaborate"
+    },
+    "correct": "B",
+    "explanation": "“Opaque” means unclear or hard to understand in this context."
+  },
+  {
+    "id": "RW15-M2-015",
+    "prompt": "In a novel, the narrator says, “After my mother stopped playing, the piano bench still held her scarf. No one moved it; the room seemed to need one thing that belonged more to pause than to music.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The scarf suggests a lingering sense of presence in the room after the music has ended.",
+      "B": "The narrator plans to learn to play the piano in secret.",
+      "C": "The piano is too broken to be played again.",
+      "D": "The narrator wants to donate the scarf to a museum."
+    },
+    "correct": "A",
+    "explanation": "The scarf symbolizes continued emotional presence even after playing has stopped."
+  },
+  {
+    "id": "RW15-M2-016",
+    "prompt": "A study found that visitors who sketched fossils in a gallery later remembered the arrangement of bones more accurately than visitors who took written notes only. The researchers note, however, that the study did not test whether sketching improved understanding of the species’ evolutionary relationships.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Sketching may help visitors remember spatial arrangement even if its effect on broader understanding is uncertain.",
+      "B": "Written notes are never useful in museums.",
+      "C": "Evolutionary relationships are always easier to remember than arrangement.",
+      "D": "The study proved that sketching is the best strategy for every kind of learning."
+    },
+    "correct": "A",
+    "explanation": "The study found better recall of arrangement but did not test knowledge of evolutionary relationships."
+  },
+  {
+    "id": "RW15-M2-017",
+    "prompt": "A media historian argues that serialized detective fiction gained credibility by borrowing the format of police bulletins. To support this claim, the historian notes that readers often referred to the installments as “reports” rather than “stories.”\nWhy does the author most likely include the example of readers calling the installments “reports”?",
+    "choices": {
+      "A": "To show that the bulletin-like format influenced how readers perceived the fiction",
+      "B": "To prove that police officers wrote the installments themselves",
+      "C": "To argue that stories are always less popular than reports",
+      "D": "To suggest that readers preferred nonfiction to all detective fiction"
+    },
+    "correct": "A",
+    "explanation": "Calling the installments “reports” suggests that readers took the format as a cue to credibility."
+  },
+  {
+    "id": "RW15-M2-018",
+    "prompt": "A student is writing about floating solar arrays and has taken these notes:\n• Floating solar arrays place photovoltaic panels on pontoons in reservoirs or ponds.\n• They generate electricity without using additional land area.\n• In some cases, they may also reduce water evaporation by shading the surface.\n• They require anchoring systems and careful design for water levels and wind.\nThe student wants to explain a potential benefit of floating solar arrays while acknowledging a practical limitation. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Floating solar arrays can generate power without using additional land and may reduce evaporation, but they require specialized anchoring and site design.",
+      "B": "Reservoirs are always better than land for all solar projects.",
+      "C": "Wind and water levels do not affect solar panel installation.",
+      "D": "Electricity generation is unrelated to panel placement."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the benefit and the practical limitation from the notes."
+  },
+  {
+    "id": "RW15-M2-019",
+    "prompt": "The board agreed that the translation needed revision. ______, members disagreed about whether the new version should preserve the original syntax closely or prioritize idiomatic English.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "For example,",
+      "C": "Similarly,",
+      "D": "Nevertheless,"
+    },
+    "correct": "D",
+    "explanation": "The second sentence contrasts agreement about the need for revision with disagreement about how to translate."
+  },
+  {
+    "id": "RW15-M2-020",
+    "prompt": "The seminar expects students to compare sources, test assumptions, and <u>the revision of weak claims.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the revision of weak claims.",
+      "B": "revising weak claims.",
+      "C": "revise weak claims.",
+      "D": "to revising weak claims."
+    },
+    "correct": "C",
+    "explanation": "“Revise” matches the parallel verbs “compare” and “test.”"
+  },
+  {
+    "id": "RW15-M2-021",
+    "prompt": "The account <u>that omits the winter crossing</u> is likely incomplete.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a nonessential phrase that should be set off with commas.",
+      "B": "It is a restrictive clause that correctly identifies which account is being discussed.",
+      "C": "It creates a comma splice.",
+      "D": "It should be moved to the end of the sentence for clarity."
+    },
+    "correct": "B",
+    "explanation": "The clause specifies the particular account under discussion."
+  },
+  {
+    "id": "RW15-M2-022",
+    "prompt": "The sequence of delays and cancellations <u>have</u> forced the company to revise its delivery promises.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "are"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “sequence” takes the singular verb “has.”"
+  },
+  {
+    "id": "RW15-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The new storage policy helped the museum.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The new storage policy helped the museum.",
+      "B": "The new storage policy had several positive effects on the museum.",
+      "C": "The new storage policy reduced handling of fragile maps, freed shelf space, and shortened retrieval times for visiting researchers.",
+      "D": "The new storage policy made the museum better in many ways."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces a vague statement with specific effects."
+  },
+  {
+    "id": "RW15-M2-024",
+    "prompt": "[1] In walled cities, narrow lanes often stayed shaded long after open plazas warmed in the morning. [2] Bakers, metalworkers, and dyers therefore faced different working temperatures depending on where their shops stood. [3] Written ordinances sometimes tried to regulate heat-producing trades only on certain streets. [4] Historians study such rules to understand how climate and labor interacted in dense towns.\nWhich choice best describes the most logical placement for the following sentence?\n“A city’s microclimates could thus shape where particular kinds of work were permitted.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The sentence follows the description of street-specific regulations and leads naturally into the historians’ interpretation."
+  },
+  {
+    "id": "RW15-M2-025",
+    "prompt": "The report originally described the evening ferry as “convenient,” but that wording failed to show that it mainly served hospital staff ending late shifts, while midday ridership remained low. The editor suggests replacing “convenient” with <u>most useful for hospital staff on late shifts</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the statement more precise by identifying who benefited most and when.",
+      "B": "It makes the statement less formal by using vague wording.",
+      "C": "It changes the meaning by implying that the ferry never ran at midday.",
+      "D": "It introduces an emotional judgment that the original did not contain."
+    },
+    "correct": "A",
+    "explanation": "The revision specifies both the users and the time of greatest value."
+  },
+  {
+    "id": "RW15-M2-026",
+    "prompt": "In an experiment, participants tracing a circle with a stylus made fewer deviations when the tablet displayed faint guide dots around the curve than when it showed the curve alone. The researchers suggest that the extra reference points helped users judge position more accurately.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Subtle reference points may improve accuracy in tracing tasks.",
+      "B": "The curve was easier only because it was larger on the screen.",
+      "C": "Guide dots make all drawing tasks equally easy.",
+      "D": "Participants traced the curve faster than they read the instructions."
+    },
+    "correct": "A",
+    "explanation": "The guide dots were associated with fewer tracing deviations."
+  },
+  {
+    "id": "RW15-M2-027",
+    "prompt": "An essay on footpaths ends by noting that informal tracks across grass reveal where people actually choose to walk, not merely where planners expected them to. The essay then argues that campus designers sometimes study such “desire paths” before deciding where to pave permanent walkways.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It applies the earlier idea to explain a contemporary design practice.",
+      "B": "It narrows the discussion to the history of paving materials.",
+      "C": "It argues that permanent walkways should never be built.",
+      "D": "It repeats the earlier claim without extending it."
+    },
+    "correct": "A",
+    "explanation": "The final sentence shows how the idea of desire paths informs present-day campus planning."
+  }
+]

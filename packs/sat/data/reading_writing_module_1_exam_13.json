@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW13-M1-001",
+    "prompt": "In a review of a travel memoir, a critic describes the author’s humor as “wry,” noting that missed trains and wrong turns are treated as occasions for dry amusement rather than frustration.\nAs used in the text, what does “wry” most nearly mean?",
+    "choices": {
+      "A": "formal",
+      "B": "dryly humorous",
+      "C": "overly emotional",
+      "D": "uncertain"
+    },
+    "correct": "B",
+    "explanation": "“Wry” means dry or understatedly humorous."
+  },
+  {
+    "id": "RW13-M1-002",
+    "prompt": "Some orchard owners install nesting boxes for insect-eating bats near rows of fruit trees. Because many bats feed at night on moths and beetles that damage crops, the boxes can support natural pest control. Researchers note that orchards with stable bat populations may rely less on chemical sprays.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Bat boxes can help orchards by encouraging natural control of crop-damaging insects.",
+      "B": "Orchards depend entirely on bats rather than on human labor.",
+      "C": "Chemical sprays are never used in orchards with fruit trees.",
+      "D": "Moths and beetles are active mainly during the day."
+    },
+    "correct": "A",
+    "explanation": "The text explains that bats eat insects harmful to crops, reducing the need for sprays."
+  },
+  {
+    "id": "RW13-M1-003",
+    "prompt": "In early movie theaters, musicians often improvised accompaniment while watching the screen. Later, studios began distributing cue sheets that suggested tempos, moods, and musical effects for particular scenes. As a result, audiences in different cities were more likely to hear similar musical interpretations of the same film.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Cue sheets helped make film accompaniment more consistent from theater to theater.",
+      "B": "Improvised accompaniment was always better than planned accompaniment.",
+      "C": "Most early movie theaters screened different versions of the same film.",
+      "D": "Musicians stopped watching the screen once cue sheets became available."
+    },
+    "correct": "A",
+    "explanation": "The cue sheets guided mood and tempo, making musical interpretation more similar across locations."
+  },
+  {
+    "id": "RW13-M1-004",
+    "prompt": "A botanist notes that the leaves of a low coastal shrub are bent slightly inland and show tiny scars on the seaward side. She then suggests that steady salt-laden winds have shaped the plant’s growth over time.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It presents a visual observation that the second sentence interprets.",
+      "B": "It introduces an objection to the explanation in the second sentence.",
+      "C": "It explains why the shrub cannot survive near the coast.",
+      "D": "It compares the shrub’s leaves with those of inland trees."
+    },
+    "correct": "A",
+    "explanation": "The bent leaves and scars are the evidence used to infer the effect of coastal winds."
+  },
+  {
+    "id": "RW13-M1-005",
+    "prompt": "A student is writing about self-service bicycle repair stands and has taken these notes:\n• Some towns install bicycle repair stands along popular trails.\n• The stands usually include an air pump and basic tools.\n• Cyclists can use them to fix flat tires or adjust brakes.\n• The stands can help riders continue a trip without leaving the trail.\nThe student wants to emphasize how the repair stands make trail use more convenient. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Some towns install bicycle repair stands along popular trails.",
+      "B": "Bicycle repair stands usually include an air pump and basic tools.",
+      "C": "By giving riders a place to fix minor problems such as flat tires or loose brakes, trail-side repair stands can help cyclists continue their trips more easily.",
+      "D": "Cyclists use trails for many different reasons."
+    },
+    "correct": "C",
+    "explanation": "This choice best captures the convenience benefit described in the notes."
+  },
+  {
+    "id": "RW13-M1-006",
+    "prompt": "The volunteer choir had practiced the piece for months. ______, its first performance still sounded tentative in the cathedral’s echoing space.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "Similarly,",
+      "C": "Even so,",
+      "D": "Therefore,"
+    },
+    "correct": "C",
+    "explanation": "The performance sounded tentative despite months of practice, so a contrast transition is needed."
+  },
+  {
+    "id": "RW13-M1-007",
+    "prompt": "The panel included speakers from Accra, Ghana; Oaxaca, Mexico; <u>and Jaipur, India.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "and Jaipur India.",
+      "C": "and Jaipur; India.",
+      "D": "and, Jaipur, India."
+    },
+    "correct": "A",
+    "explanation": "In a complex series with commas inside each item, semicolons correctly separate the items."
+  },
+  {
+    "id": "RW13-M1-008",
+    "prompt": "The trial version of the software was free to schools, <u>many teachers stopped using it once the pilot period ended.</u>\nWhich choice most effectively revises the underlined portion of the text to maintain the grammatical correctness of the sentence?",
+    "choices": {
+      "A": "many teachers stopped using it once the pilot period ended.",
+      "B": "and many teachers stopped using it once the pilot period ended.",
+      "C": "but many teachers stopped using it once the pilot period ended.",
+      "D": "many teachers, stopping use once the pilot period ended."
+    },
+    "correct": "C",
+    "explanation": "“But” correctly joins the clauses and signals contrast."
+  },
+  {
+    "id": "RW13-M1-009",
+    "prompt": "The branches of the cedar are longer than <u>the pine.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "the pine.",
+      "B": "those of the pine.",
+      "C": "that of the pine.",
+      "D": "the pine’s are."
+    },
+    "correct": "B",
+    "explanation": "The sentence compares the cedar’s branches with the pine’s branches, so “those of” is required."
+  },
+  {
+    "id": "RW13-M1-010",
+    "prompt": "By next spring, conservators <u>complete</u> the cleaning of the mosaic floor.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "complete",
+      "B": "completed",
+      "C": "will complete",
+      "D": "will have completed"
+    },
+    "correct": "D",
+    "explanation": "“By next spring” calls for the future perfect to show completion before a future time."
+  },
+  {
+    "id": "RW13-M1-011",
+    "prompt": "After reviewing the grant applications, <u>the funding priorities became much clearer to Maya.</u>\nWhich choice best revises the text to ensure that the modifying phrase is correctly placed?",
+    "choices": {
+      "A": "the funding priorities became much clearer to Maya.",
+      "B": "Maya found the funding priorities much clearer.",
+      "C": "the grant applications made the funding priorities clearer to Maya.",
+      "D": "much clearer funding priorities appeared to Maya."
+    },
+    "correct": "B",
+    "explanation": "The revision correctly places Maya as the person who reviewed the applications."
+  },
+  {
+    "id": "RW13-M1-012",
+    "prompt": "[1] Some city offices lend small watt meters to residents. [2] Households can use the devices to measure how much electricity appliances consume. [3] The results may help people identify devices worth replacing, unplugging, or using less often. [4] In some places, the lending program is paired with rebates for efficient appliances.\nWhich choice best describes the most logical placement for the following sentence?\n“A simple loan program can therefore turn energy data into household decisions.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The new sentence summarizes the informational and decision-making benefits described in sentences 2 and 3."
+  },
+  {
+    "id": "RW13-M1-013",
+    "prompt": "A class recorded the average number of minutes four teams spent assembling display cases.\nTeam A: 15\nTeam B: 18\nTeam C: 14\nTeam D: 16\nWhich choice is best supported by the data?",
+    "choices": {
+      "A": "Team A spent more time assembling the cases, on average, than Team D.",
+      "B": "Team B spent the most time assembling the cases, on average.",
+      "C": "Team C and Team D spent the same average amount of time assembling the cases.",
+      "D": "The average assembly time increased steadily from Team A through Team D."
+    },
+    "correct": "B",
+    "explanation": "Team B’s average of 18 minutes is the highest of the four."
+  },
+  {
+    "id": "RW13-M1-014",
+    "prompt": "The reviewer calls the accountant’s records “meticulous,” noting that they include even the cost of lamp oil and postage.\nAs used in the text, what does “meticulous” most nearly mean?",
+    "choices": {
+      "A": "incomplete",
+      "B": "suspicious",
+      "C": "very thorough",
+      "D": "easy to read"
+    },
+    "correct": "C",
+    "explanation": "“Meticulous” means extremely careful and thorough in detail."
+  },
+  {
+    "id": "RW13-M1-015",
+    "prompt": "In a memoir, a writer recalls her mother’s greenhouse in late winter: “The panes were cloudy, and the latch always stuck, yet she stepped inside as if spring had already agreed to arrive.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The writer believes the greenhouse should be rebuilt from scratch.",
+      "B": "The mother treats the greenhouse as a place of confidence and hope.",
+      "C": "The greenhouse is too damaged to be useful in winter.",
+      "D": "The writer dislikes entering the greenhouse in cold weather."
+    },
+    "correct": "B",
+    "explanation": "She acts as if spring’s arrival is already certain, suggesting optimism."
+  },
+  {
+    "id": "RW13-M1-016",
+    "prompt": "In a study, beginners learning basic knots remembered the steps more accurately when they practiced with thick rope than when they practiced with thin cord. The researchers suggest that the thicker material may have made the hand movements easier to follow.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Thicker practice materials may help beginners learn some hand-based tasks more accurately.",
+      "B": "Thin cord is useful only for advanced sailors.",
+      "C": "The study proved that rope thickness is the most important factor in all skill learning.",
+      "D": "Beginners learned the knots more quickly when they were not allowed to touch the rope."
+    },
+    "correct": "A",
+    "explanation": "Beginners remembered the steps better when using thick rope."
+  },
+  {
+    "id": "RW13-M1-017",
+    "prompt": "A historical linguist writes, “Market women carried phrases quickly across neighborhoods; an expression shouted at one stall in the morning might be repeated across the district by evening.”\nWhy does the author most likely include the quotation in the text?",
+    "choices": {
+      "A": "To explain one scholar’s view of how marketplaces helped spread language quickly",
+      "B": "To prove that all neighborhood slang began in markets",
+      "C": "To describe how market stalls were physically arranged",
+      "D": "To show that only women were allowed to trade in the district"
+    },
+    "correct": "A",
+    "explanation": "The quotation explains how expressions could move rapidly through neighborhoods by way of market exchanges."
+  },
+  {
+    "id": "RW13-M1-018",
+    "prompt": "A student is writing about story walks in public parks and has taken these notes:\n• Some parks install displays with pages from children’s books along walking paths.\n• Families read the pages as they move from one sign to the next.\n• The displays combine literacy activity with time outdoors.\n• The featured book can be changed regularly.\nWhich choice most effectively uses relevant information from the notes to make a general claim about story walks?",
+    "choices": {
+      "A": "Story walks can encourage reading while also getting families to move through outdoor spaces together.",
+      "B": "Public parks should feature only children’s books that are very short.",
+      "C": "Families usually prefer to read only while sitting indoors.",
+      "D": "Changing the featured book is the only purpose of a story walk."
+    },
+    "correct": "A",
+    "explanation": "This choice combines the reading and outdoor-movement benefits described in the notes."
+  },
+  {
+    "id": "RW13-M1-019",
+    "prompt": "The essay begins with hand-drawn weather maps from the 1800s. ______, it turns to satellite images used today.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Likewise,",
+      "B": "Later,",
+      "C": "Otherwise,",
+      "D": "For example,"
+    },
+    "correct": "B",
+    "explanation": "The essay moves from older hand-drawn maps to modern satellite images, so a time-based transition fits."
+  },
+  {
+    "id": "RW13-M1-020",
+    "prompt": "The internship let the students photograph specimens, label folders, and <u>entering data into the lab database.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "entering data into the lab database.",
+      "B": "enter data into the lab database.",
+      "C": "entered data into the lab database.",
+      "D": "to entering data into the lab database."
+    },
+    "correct": "B",
+    "explanation": "“Enter” matches the parallel verbs “photograph” and “label.”"
+  },
+  {
+    "id": "RW13-M1-021",
+    "prompt": "The archive’s newest exhibit, <u>to the delight of local historians,</u> includes maps once thought lost.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a restrictive clause that should not be set off with commas.",
+      "B": "It is a nonessential interrupter that is correctly set off with commas.",
+      "C": "It creates a sentence fragment.",
+      "D": "It should be moved to the end of the sentence to avoid a run-on."
+    },
+    "correct": "B",
+    "explanation": "“To the delight of local historians” adds extra information and is properly punctuated."
+  },
+  {
+    "id": "RW13-M1-022",
+    "prompt": "A crate of lanterns and flags <u>were</u> loaded onto the truck before dawn.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "were",
+      "B": "was",
+      "C": "be",
+      "D": "being"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “A crate” takes the singular verb “was.”"
+  },
+  {
+    "id": "RW13-M1-023",
+    "prompt": "A student wrote the following sentence in a draft:\n“The mayor’s speech was effective because it sounded strong.”\nWhich choice best explains why the sentence should be revised?",
+    "choices": {
+      "A": "The sentence should be revised because “effective” and “strong” are too vague to explain what made the speech persuasive.",
+      "B": "The sentence should be revised because speeches should never be described positively.",
+      "C": "The sentence should be revised because it contains too many adjectives.",
+      "D": "The sentence should be revised because it uses the wrong verb tense."
+    },
+    "correct": "A",
+    "explanation": "The description lacks specific evidence or details about why the speech worked."
+  },
+  {
+    "id": "RW13-M1-024",
+    "prompt": "[1] In some mountain parks, old fire lookout towers have been restored for visitors. [2] The towers offer wide views that help explain how observers once watched for smoke. [3] Some parks also use the towers to display exhibits about local forestry and fire management. [4] As a result, the towers can function as both scenic destinations and historical exhibits.\nWhich choice best describes the most logical placement for the following sentence?\n“Their usefulness now extends beyond the role they originally served.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The new sentence bridges the scenic and exhibit functions before the concluding summary in sentence 4."
+  },
+  {
+    "id": "RW13-M1-025",
+    "prompt": "To make the sentence more concise, the editor replaced “in close proximity to” with <u>near</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It changes the meaning by weakening the description of distance.",
+      "B": "It shortens the sentence without changing its meaning.",
+      "C": "It makes the sentence less grammatical.",
+      "D": "It introduces an overly casual phrase."
+    },
+    "correct": "B",
+    "explanation": "“Near” is a more concise equivalent of “in close proximity to.”"
+  },
+  {
+    "id": "RW13-M1-026",
+    "prompt": "In a simulated store, shoppers found the correct exit faster when aisle signs used color-coded zone names than when the same signs used words alone.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "Color zoning may help people navigate a store more efficiently.",
+      "B": "Shoppers always prefer stores with fewer exits.",
+      "C": "Word-only signs are useless for all navigation tasks.",
+      "D": "The simulation proved that larger stores are easier to leave."
+    },
+    "correct": "A",
+    "explanation": "Shoppers found the exit faster when zones were color coded."
+  },
+  {
+    "id": "RW13-M1-027",
+    "prompt": "An article about free little pantries explains that neighbors can leave or take sealed food and toiletries at any time. The article then notes that some school clubs and scout troops now restock these pantries monthly.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It gives an example of organized community support for the practice described earlier.",
+      "B": "It argues that only students should manage the pantries.",
+      "C": "It changes the topic from neighborhood aid to school budgets.",
+      "D": "It denies that free little pantries are useful."
+    },
+    "correct": "A",
+    "explanation": "The final sentence shows clubs and scout troops helping restock the pantries.\nPART D — MODULE 2 ANSWER KEY + EXPLANATIONS"
+  }
+]

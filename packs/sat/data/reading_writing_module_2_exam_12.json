@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RW12-M2-001",
+    "prompt": "A reviewer writes that the negotiations became “protracted” after each side demanded separate environmental guarantees and independent legal review.\nAs used in the text, what does “protracted” most nearly mean?",
+    "choices": {
+      "A": "prolonged",
+      "B": "secretive",
+      "C": "unrealistic",
+      "D": "orderly"
+    },
+    "correct": "A",
+    "explanation": "“Protracted” means extended or prolonged over a long period."
+  },
+  {
+    "id": "RW12-M2-002",
+    "prompt": "A scholar argues that glossaries in natural history books do more than define unfamiliar words. By deciding which distinctions deserve separate terms and which kinds of organisms are grouped together under shared labels, a glossary can quietly teach readers how to divide the natural world. In that sense, it helps shape taxonomy for novices rather than merely explain it.\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "Glossaries in natural history books can shape how readers categorize nature, not just explain terminology.",
+      "B": "Natural history books are useful only when readers already know technical vocabulary.",
+      "C": "Taxonomy should never be simplified for beginners.",
+      "D": "Glossaries matter less than illustrations in all scientific texts."
+    },
+    "correct": "A",
+    "explanation": "The passage says glossaries help teach distinctions and groupings, shaping taxonomy for beginners."
+  },
+  {
+    "id": "RW12-M2-003",
+    "prompt": "Transit historians sometimes use conductor punch sheets to estimate streetcar ridership. However, those records may omit riders who transferred without an additional fare, children allowed to ride free, or passengers carried during disruptions when routine accounting broke down. As a result, the punch sheets may undercount total travel and misrepresent who was riding.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Conductor punch sheets may provide an incomplete picture of streetcar ridership.",
+      "B": "Streetcars rarely allowed free rides for children.",
+      "C": "Riders who transferred were usually counted twice.",
+      "D": "Historians can determine exact ridership from a single punch sheet."
+    },
+    "correct": "A",
+    "explanation": "The records omit some types of riders and situations, so they can undercount travel and misrepresent riders."
+  },
+  {
+    "id": "RW12-M2-004",
+    "prompt": "A scholar notes that a play refers to prisoners first by jacket color and only later by personal name. The scholar argues that this ordering reduces the prisoners to inventory before it allows them individuality.\nWhich choice best describes the function of the first sentence in the text?",
+    "choices": {
+      "A": "It introduces a textual detail that the second sentence interprets.",
+      "B": "It summarizes the entire plot of the play.",
+      "C": "It disputes the interpretation proposed in the second sentence.",
+      "D": "It explains why the play uses costume changes between scenes."
+    },
+    "correct": "A",
+    "explanation": "The first sentence points out the order in which prisoners are identified, and the second explains its effect."
+  },
+  {
+    "id": "RW12-M2-005",
+    "prompt": "A student is writing about passive radiative cooling coatings and has taken these notes:\n• Some coatings reflect much of the Sun’s energy.\n• They can also emit heat outward, allowing surfaces to cool without electricity.\n• In some climates, this may lower indoor temperatures or cooling demand.\n• Effectiveness depends on roof exposure, weather conditions, and durability.\nThe student wants to emphasize both a potential advantage of passive radiative cooling coatings and a factor that limits their usefulness. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Passive radiative cooling coatings can reduce heat without electricity, but their effectiveness depends on conditions such as roof exposure, weather, and durability.",
+      "B": "All roofs should be coated with reflective materials regardless of climate.",
+      "C": "Cooling demand is unrelated to weather conditions.",
+      "D": "Electricity is never used in temperature control systems."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the potential benefit and the limiting factors described in the notes."
+  },
+  {
+    "id": "RW12-M2-006",
+    "prompt": "The editor expected the marginal notes in the manuscript to belong to a single reader. ______, differences in ink color, spelling habits, and page references suggested at least three separate hands.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "For example,",
+      "B": "Likewise,",
+      "C": "Instead,",
+      "D": "Therefore,"
+    },
+    "correct": "C",
+    "explanation": "The evidence did not support single authorship; it pointed to multiple readers instead."
+  },
+  {
+    "id": "RW12-M2-007",
+    "prompt": "The crucial discrepancy was hidden in plain sight<u>: one copy dates the treaty to a year the kingdom had not yet adopted the new calendar.</u>\nWhich choice best punctuates the underlined portion of the text?",
+    "choices": {
+      "A": "NO CHANGE",
+      "B": "; one copy dates the treaty to a year the kingdom had not yet adopted the new calendar.",
+      "C": ", one copy dates the treaty to a year the kingdom had not yet adopted the new calendar.",
+      "D": "—one copy dates the treaty to a year the kingdom had not yet adopted the new calendar."
+    },
+    "correct": "A",
+    "explanation": "A colon correctly introduces the specific discrepancy after a complete clause."
+  },
+  {
+    "id": "RW12-M2-008",
+    "prompt": "Rather than serving as the city’s edge, the dock functioned as a hinge connecting warehouses, ferries, and customs offices.\nWhich choice best describes the function of the introductory phrase in the text?",
+    "choices": {
+      "A": "It contrasts a familiar description of the dock with a broader interpretation of its role.",
+      "B": "It identifies the engineer who designed the dock.",
+      "C": "It explains how customs officials inspected cargo.",
+      "D": "It presents the results of a survey of port workers."
+    },
+    "correct": "A",
+    "explanation": "The opening phrase rejects the idea of the dock as merely an edge and presents it as a connector."
+  },
+  {
+    "id": "RW12-M2-009",
+    "prompt": "After Naomi spoke with Victor about Elena’s article, <u>she</u> proposed adding a paragraph on regional trade.\nWhich choice best revises the text to avoid ambiguity?",
+    "choices": {
+      "A": "she",
+      "B": "Naomi",
+      "C": "they",
+      "D": "someone"
+    },
+    "correct": "B",
+    "explanation": "Replacing “she” with “Naomi” removes the ambiguity among the named people."
+  },
+  {
+    "id": "RW12-M2-010",
+    "prompt": "Had the commission adopted the new filtration system last year, the reservoir <u>would contain</u> less algae now.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "would contain",
+      "B": "would have contained",
+      "C": "contained",
+      "D": "contains"
+    },
+    "correct": "A",
+    "explanation": "The sentence describes an unreal past condition with a present result, so “would contain” is correct."
+  },
+  {
+    "id": "RW12-M2-011",
+    "prompt": "The editor intended to say that the survey sampled mostly first-year teachers in rural districts, not urban principals.\nWhich choice most effectively conveys the intended meaning?",
+    "choices": {
+      "A": "The survey mostly sampled first-year teachers in rural districts, not urban principals.",
+      "B": "The survey sampled first-year teachers mostly in rural districts, not urban principals.",
+      "C": "The survey sampled first-year teachers in rural districts mostly, not urban principals.",
+      "D": "The survey sampled urban principals, not mostly first-year teachers in rural districts."
+    },
+    "correct": "A",
+    "explanation": "This version places “mostly” so that it clearly modifies the group sampled."
+  },
+  {
+    "id": "RW12-M2-012",
+    "prompt": "[1] Vernal pools fill in spring and often dry by late summer. [2] Because fish usually cannot survive in them year-round, some amphibians breed there with fewer aquatic predators. [3] Roads, ditches, or land leveling can interrupt the shallow water patterns that create these pools. [4] For that reason, restoration efforts often focus on both the basins themselves and the surrounding ground that feeds them.\nWhich choice best describes the most logical placement for the following sentence?\n“Protecting the habitat means preserving seasonal hydrology, not just visible open water.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence explains what follows from disrupted water patterns before the restoration focus in sentence 4."
+  },
+  {
+    "id": "RW12-M2-013",
+    "prompt": "A researcher compared the average number of minutes four groups spent discussing a legal case.\nGroup A: 27\nGroup B: 22\nGroup C: 19\nGroup D: 24\nA student claims that Group C spent the least time discussing the case, on average. Which choice best evaluates the student’s claim?",
+    "choices": {
+      "A": "The claim is supported because Group C’s average is lower than those of the other groups.",
+      "B": "The claim is unsupported because Group B’s average is also above twenty minutes.",
+      "C": "The claim is unsupported because Group D spent more time than Group A.",
+      "D": "The claim is supported because Group C’s average is greater than Group B’s."
+    },
+    "correct": "A",
+    "explanation": "Group C’s 19 minutes is less than Group A’s 27, Group B’s 22, and Group D’s 24."
+  },
+  {
+    "id": "RW12-M2-014",
+    "prompt": "Once the researchers reduced the number of variables in the model, the problem became <u>tractable</u>.\nAs used in the text, what does “tractable” most nearly mean?",
+    "choices": {
+      "A": "measurable",
+      "B": "manageable",
+      "C": "controversial",
+      "D": "hidden"
+    },
+    "correct": "B",
+    "explanation": "“Tractable” means capable of being managed or solved."
+  },
+  {
+    "id": "RW12-M2-015",
+    "prompt": "In a novel, the narrator says, “My father left the miniature harbors half-built: docks penciled in, sails cut but unrigged. On the shelf they looked less abandoned than delayed, as if the wind might still arrive for them.”\nWhich choice best states the main idea of the text?",
+    "choices": {
+      "A": "The unfinished models suggest suspended possibility rather than failure.",
+      "B": "The narrator plans to sell the model ships before they are completed.",
+      "C": "The father abandoned the hobby because he disliked boats.",
+      "D": "The shelf is too small to hold finished ships."
+    },
+    "correct": "A",
+    "explanation": "The narrator describes them as delayed, not abandoned, implying continued possibility."
+  },
+  {
+    "id": "RW12-M2-016",
+    "prompt": "A study found that law students who sorted cases into self-chosen categories before discussion later recalled the relationships among doctrines more accurately than students who simply reread case summaries. The researchers caution, however, that the study did not test whether category sorting improved memory for dates, names, or quotations.\nWhich choice can most reasonably be inferred from the text?",
+    "choices": {
+      "A": "Sorting cases into categories may help students remember conceptual relationships even if its effect on specific details is uncertain.",
+      "B": "Rereading summaries is never useful in legal study.",
+      "C": "Dates and names are always easier to remember than doctrines.",
+      "D": "The study proved that category sorting is the best strategy for every subject."
+    },
+    "correct": "A",
+    "explanation": "The study found better recall of doctrinal relationships but did not test names, dates, or quotations."
+  },
+  {
+    "id": "RW12-M2-017",
+    "prompt": "A historian argues that printed exchange-rate tables helped standardize commercial expectations because merchants copied them into letters and account books. To support this claim, the historian notes that surviving correspondence from several ports repeats the same numerical layout even when the writers disagree about politics.\nWhy does the author most likely include the example of correspondence repeating the same numerical layout?",
+    "choices": {
+      "A": "To show that merchants were directly reusing the format of printed tables in everyday writing",
+      "B": "To prove that all port cities shared identical political beliefs",
+      "C": "To argue that letters were more important than account books",
+      "D": "To suggest that numerical layouts prevented political disagreement"
+    },
+    "correct": "A",
+    "explanation": "The repeated numerical layout in letters supports the claim that the printed tables shaped ordinary commercial writing."
+  },
+  {
+    "id": "RW12-M2-018",
+    "prompt": "A student is writing about anaerobic digesters and has taken these notes:\n• Anaerobic digesters convert manure or food waste into biogas.\n• The process can reduce methane emissions from waste decomposition.\n• The resulting gas can be used for heat or electricity.\n• Digesters require steady feedstock and regular maintenance.\nThe student wants to explain a potential benefit of anaerobic digesters while acknowledging a practical challenge. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": {
+      "A": "Anaerobic digesters can turn organic waste into useful energy while reducing some emissions, but they require steady inputs and ongoing maintenance.",
+      "B": "Food waste can be converted into energy only in very large cities.",
+      "C": "Methane emissions are unrelated to the way waste decomposes.",
+      "D": "Regular maintenance is unnecessary once a digester begins operating."
+    },
+    "correct": "A",
+    "explanation": "This choice includes both the energy/emissions benefit and the practical challenge from the notes."
+  },
+  {
+    "id": "RW12-M2-019",
+    "prompt": "The scholars agreed that the inscription was badly damaged. ______, they disagreed about whether the missing lines should be restored digitally or left unread.\nWhich choice completes the text with the most logical transition?",
+    "choices": {
+      "A": "Consequently,",
+      "B": "Nevertheless,",
+      "C": "Similarly,",
+      "D": "For example,"
+    },
+    "correct": "B",
+    "explanation": "The second sentence contrasts agreement about damage with disagreement about how to respond to it."
+  },
+  {
+    "id": "RW12-M2-020",
+    "prompt": "The course requires students to compare drafts, track revisions, and <u>testing arguments against new evidence.</u>\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "testing arguments against new evidence.",
+      "B": "test arguments against new evidence.",
+      "C": "tested arguments against new evidence.",
+      "D": "to testing arguments against new evidence."
+    },
+    "correct": "B",
+    "explanation": "“Test” matches the parallel verbs “compare” and “track.”"
+  },
+  {
+    "id": "RW12-M2-021",
+    "prompt": "The earliest notebook, <u>written on brittle onion-skin paper,</u> records daily prices from a port on the Black Sea.\nWhich choice best describes the underlined portion of the sentence?",
+    "choices": {
+      "A": "It is a restrictive phrase that should not be set off with commas.",
+      "B": "It is a nonessential phrase correctly set off with commas.",
+      "C": "It creates a comma splice.",
+      "D": "It should be moved after “port.”"
+    },
+    "correct": "B",
+    "explanation": "The phrase adds extra information about the notebook’s material and is properly punctuated."
+  },
+  {
+    "id": "RW12-M2-022",
+    "prompt": "The pattern of cracks and water stains <u>indicate</u> that the ceiling leaked for years before it collapsed.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": {
+      "A": "indicate",
+      "B": "indicates",
+      "C": "have indicated",
+      "D": "indicating"
+    },
+    "correct": "B",
+    "explanation": "The singular subject “pattern” takes the singular verb “indicates.”"
+  },
+  {
+    "id": "RW12-M2-023",
+    "prompt": "A student wants to revise a sentence for precision:\n“The new ferry schedule helped commuters.”\nWhich choice best improves the sentence by making it more precise?",
+    "choices": {
+      "A": "The new ferry schedule helped commuters.",
+      "B": "The new ferry schedule made commuting easier in several ways.",
+      "C": "The new ferry schedule added an earlier morning crossing, reduced transfer delays at the harbor, and allowed more workers to arrive before the shipyard shift began.",
+      "D": "The new ferry schedule had many useful effects for people."
+    },
+    "correct": "C",
+    "explanation": "This revision replaces a vague statement with specific benefits."
+  },
+  {
+    "id": "RW12-M2-024",
+    "prompt": "[1] On steep volcanic islands, fresh rock surfaces weather at different rates depending on exposure and slope. [2] Mosses and lichens may colonize shaded cracks long before shrubs appear. [3] As soil slowly accumulates, different plant communities establish in patches rather than all at once. [4] Ecologists therefore study these slopes as mosaics of succession occurring side by side.\nWhich choice best describes the most logical placement for the following sentence?\n“A single hillside can thus contain several ecological stages at the same time.”",
+    "choices": {
+      "A": "Before sentence 1",
+      "B": "After sentence 2",
+      "C": "After sentence 3",
+      "D": "After sentence 4"
+    },
+    "correct": "C",
+    "explanation": "The added sentence follows the explanation of patchy succession and leads into the idea of side-by-side ecological stages."
+  },
+  {
+    "id": "RW12-M2-025",
+    "prompt": "The report originally described the harbor shuttle as “reliable,” but that wording failed to show that on-time arrivals remained high in summer and dropped sharply during winter storms. The editor suggests replacing “reliable” with <u>most reliable in summer conditions</u>.\nWhich choice best describes the effect of the revision?",
+    "choices": {
+      "A": "It makes the statement more precise by specifying when the shuttle performed best.",
+      "B": "It makes the statement less formal by using conversational language.",
+      "C": "It changes the meaning by suggesting that the shuttle never ran in winter.",
+      "D": "It introduces an emotional judgment that the original avoided."
+    },
+    "correct": "A",
+    "explanation": "The revision identifies summer conditions as the period of strongest reliability."
+  },
+  {
+    "id": "RW12-M2-026",
+    "prompt": "In a driving simulator, participants kept a steadier position within their lane on sharp curves when roadside marker posts were spaced more closely together. The researchers suggest that denser visual markers made the curve easier to judge.\nWhich choice is best supported by the text?",
+    "choices": {
+      "A": "More closely spaced roadside markers may help drivers steer more steadily on curves.",
+      "B": "Drivers can judge curves accurately only on unfamiliar roads.",
+      "C": "The simulator proved that curves are safer than straight roads.",
+      "D": "Wider spacing always improves vehicle control."
+    },
+    "correct": "A",
+    "explanation": "Drivers held a steadier lane position when the markers were closer together."
+  },
+  {
+    "id": "RW12-M2-027",
+    "prompt": "An essay on draft costume sketches ends by noting that designers’ early drawings often preserve options later abandoned: alternate collars, missing buttons, and fabrics that were never used. For that reason, some museums preserve fabric swatches with the sketches rather than displaying only the finished costume.\nWhat is the function of the final sentence in the text?",
+    "choices": {
+      "A": "It applies the earlier idea to explain a curatorial practice.",
+      "B": "It narrows the discussion to the tools used for fabric cutting.",
+      "C": "It argues that finished costumes are less valuable than sketches.",
+      "D": "It repeats the earlier claim without extending it."
+    },
+    "correct": "A",
+    "explanation": "The final sentence explains why museums preserve swatches with sketches in light of what early drawings reveal."
+  }
+]
